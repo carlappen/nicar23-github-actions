@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     # Step 1: Prepare the environment
-    - name: Use local my-action
-      uses: ./.github/actions/my-action
+    - name: Check out this repo
+      uses: actions/checkout@v2
       with:
         fetch-depth: 0
     # Step 2: Get the latest data and store it as a CSV
