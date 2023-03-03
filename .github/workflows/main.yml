@@ -13,6 +13,8 @@ jobs:
     # Step 1: Prepare the environment
     - name: Check out this repo
       uses: actions/checkout@v3
+    - name: Use local my-action
+      uses: ./.github/actions/my-action
       with:
         fetch-depth: 0
     # Step 2: Get the latest data and store it as a CSV
