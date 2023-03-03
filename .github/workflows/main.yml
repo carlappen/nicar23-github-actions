@@ -12,6 +12,7 @@ jobs:
     steps:
     # Step 1: Prepare the environment
     - name: Check out this repo
+    using: "composite"
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
