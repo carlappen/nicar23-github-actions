@@ -347,3 +347,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T10:00:14.586Z,-17.9822,-178.3956,587.269,4.3,mb,48.0,52.0,3.391,0.78,us,us7000jhbg,2023-03-04T10:34:43.040Z,"242 km E of Levuka, Fiji",earthquake,10.97,8.279,0.05,116.0,reviewed,us,us
 2023-03-04T11:16:31.870Z,38.8019981,-122.7679977,1.29,0.71,md,7.0,134.0,0.006618,0.02,nc,nc73855321,2023-03-04T11:18:05.910Z,"3km NNW of The Geysers, CA",earthquake,0.58,0.64,0.13,8.0,automatic,nc,nc
 2023-03-04T10:31:43.174Z,51.7043,-173.7957,56.538,4.2,mb,116.0,173.0,1.456,0.76,us,us7000jhbm,2023-03-04T11:00:02.040Z,"61 km SSE of Atka, Alaska",earthquake,10.35,10.059,0.055,93.0,reviewed,us,us
+2023-03-04T11:29:40.630Z,38.7944984,-122.7590027,2.65,0.26,md,9.0,126.0,0.006143,0.02,nc,nc73855326,2023-03-04T11:31:16.301Z,"2km N of The Geysers, CA",earthquake,0.56,1.28,0.11,8.0,automatic,nc,nc
