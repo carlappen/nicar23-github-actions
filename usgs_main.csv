@@ -418,3 +418,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T20:18:07.203Z,-16.789,-172.8379,46.486,5.2,mb,48.0,77.0,2.156,1.31,us,us7000jhd8,2023-03-04T20:40:31.040Z,"137 km SE of Hihifo, Tonga",earthquake,7.03,7.49,0.1,36.0,reviewed,us,us
 2023-03-04T20:45:03.627Z,57.8939,-156.6738,0.0,3.1,ml,,,,0.87,ak,ak0232wj16pm,2023-03-04T20:48:16.106Z,"54 km SE of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-04T21:04:11.670Z,34.0436667,-118.1715,11.56,1.47,ml,15.0,164.0,0.04323,0.28,ci,ci40420984,2023-03-04T21:07:47.225Z,"1km N of East Los Angeles, CA",earthquake,1.35,1.64,0.161,32.0,automatic,ci,ci
+2023-03-04T21:28:53.167Z,61.3088,-151.1626,57.7,1.8,ml,,,,0.4,ak,ak0232wjj2ys,2023-03-04T21:30:27.515Z,"19 km NNW of Beluga, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-04T21:28:34.501Z,57.4884,-155.7289,28.9,1.8,ml,,,,0.84,ak,ak0232wjj1iy,2023-03-04T21:30:24.870Z,Alaska Peninsula,earthquake,,0.3,,,automatic,ak,ak
