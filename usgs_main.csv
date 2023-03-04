@@ -308,3 +308,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T06:35:48.660Z,19.4424991607666,-155.234329223633,28.3600006103516,3.08,ml,44.0,69.0,,0.140000001,hv,hv73333112,2023-03-04T06:43:37.155Z,"0 km SW of Volcano, Hawaii",earthquake,0.44,0.5,1.69,25.0,automatic,hv,hv
 2023-03-04T06:34:26.790Z,35.9156667,-117.7321667,0.85,1.11,ml,15.0,115.0,0.1101,0.24,ci,ci40420736,2023-03-04T06:37:52.225Z,"16km E of Little Lake, CA",earthquake,0.51,0.79,0.138,10.0,automatic,ci,ci
 2023-03-04T05:21:53.310Z,18.7546,-68.2101,94.0,4.4,md,23.0,158.0,0.2954,0.45,pr,pr2023063002,2023-03-04T06:38:53.664Z,"28 km NE of Punta Cana, Dominican Republic",earthquake,2.98,2.31,0.17,19.0,reviewed,pr,pr
+2023-03-04T06:50:40.355Z,64.4128,-146.7422,13.4,0.9,ml,,,,0.48,ak,ak0232waq9pw,2023-03-04T06:53:39.259Z,"8 km WNW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-04T06:50:14.660Z,19.3409996032715,-155.324996948242,62.0800018310547,2.70000005,md,31.0,141.0,,0.300000012,hv,hv73333117,2023-03-04T06:53:24.420Z,"14 km SW of Volcano, Hawaii",earthquake,2.81,2.44000006,0.980000019,20.0,automatic,hv,hv
+2023-03-04T06:50:10.089Z,36.7099,-116.1848,3.8,0.3,ml,17.0,76.36,0.022,0.1348,nn,nn00856566,2023-03-04T06:50:58.463Z,"48 km WNW of Indian Springs, Nevada",earthquake,,0.3,0.29,9.0,automatic,nn,nn
+2023-03-04T06:42:41.610Z,33.0883333,-116.3826667,11.41,0.88,ml,19.0,106.0,0.1186,0.19,ci,ci40420744,2023-03-04T06:46:13.249Z,"19km S of Borrego Springs, CA",earthquake,0.32,0.65,0.162,11.0,automatic,ci,ci
+2023-03-04T06:41:16.000Z,-29.874,-178.431,151.6,6.9,Mi,38.0,125.9999899200008,,,pt,pt23063002,2023-03-04T06:53:13.703Z,"Kermadec Islands, New Zealand",earthquake,,,,40.0,reviewed,pt,pt
