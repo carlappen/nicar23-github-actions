@@ -329,3 +329,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T07:57:05.660Z,36.2513333,-117.8545,-0.49,2.41,ml,21.0,57.0,0.1335,0.23,ci,ci40420784,2023-03-04T08:03:30.803Z,"14km ESE of Olancha, CA",earthquake,0.43,31.61,0.123,26.0,automatic,ci,ci
 2023-03-04T07:20:02.909Z,6.8851,-73.1219,149.046,4.4,mb,33.0,95.0,0.987,0.86,us,us7000jhah,2023-03-04T07:58:57.040Z,"13 km SW of Piedecuesta, Colombia",earthquake,7.47,9.142,0.112,23.0,reviewed,us,us
 2023-03-04T07:51:58.760Z,19.2145,-66.5561,25.0,3.45,md,13.0,273.0,0.8901,0.45,pr,pr2023063003,2023-03-04T08:48:47.666Z,"83 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,2.0,30.91,0.03,6.0,reviewed,pr,pr
+2023-03-04T09:09:56.630Z,38.8404999,-122.8231659,2.11,1.99,md,37.0,53.0,0.00981,0.03,nc,nc73855301,2023-03-04T09:12:53.493Z,"9km WNW of Cobb, CA",earthquake,0.16,0.27,0.15,37.0,automatic,nc,nc
+2023-03-04T09:07:07.610Z,62.2524,-150.2329,0.0,2.3,ml,,,,0.69,ak,ak0232wc9a5l,2023-03-04T09:09:01.295Z,"7 km S of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-04T09:02:03.260Z,19.2336673736572,-155.386993408203,30.1900005340576,2.14,ml,42.0,146.0,,0.129999995,hv,hv73333167,2023-03-04T09:07:34.840Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.63,0.930000007,3.15,8.0,automatic,hv,hv
+2023-03-04T08:09:04.360Z,19.2018,-66.5618,56.0,3.55,md,14.0,272.0,0.7254,0.24,pr,pr20230630014,2023-03-04T08:59:20.217Z,Puerto Rico region,earthquake,1.59,3.94,0.01,3.0,reviewed,pr,pr
