@@ -408,3 +408,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T19:34:00.880Z,34.0451667,-117.2501667,22.71,0.98,ml,25.0,72.0,0.07299,0.28,ci,ci40420968,2023-03-04T19:37:32.785Z,"1km ESE of Loma Linda, CA",earthquake,0.5,1.16,0.242,18.0,automatic,ci,ci
 2023-03-04T19:18:58.650Z,19.1816666666667,-66.5798333333333,47.83,3.36,md,11.0,293.0,0.7024,0.28,pr,pr71398283,2023-03-04T19:42:09.220Z,"79 km N of Arecibo, Puerto Rico",earthquake,1.85,5.51,0.142383674314408,6.0,reviewed,pr,pr
 2023-03-04T08:04:47.675Z,53.0974,-164.624,30.0,2.3,ml,,,,0.43,ak,ak0232wbnetr,2023-03-04T19:56:21.297Z,"Unimak Island region, Alaska",earthquake,,0.0,,,reviewed,ak,ak
+2023-03-04T20:00:31.020Z,37.5834999,-118.8503342,3.99,1.52,md,12.0,210.0,0.01808,0.02,nc,nc73855446,2023-03-04T20:17:20.682Z,"13km ESE of Mammoth Lakes, CA",earthquake,0.8,0.57,0.14,11.0,automatic,nc,nc
+2023-03-04T18:54:29.487Z,-9.2205,124.0031,44.616,4.5,mb,13.0,99.0,0.592,0.81,us,us7000jhcz,2023-03-04T20:21:43.040Z,Timor region,earthquake,4.56,12.602,0.312,3.0,reviewed,us,us
+2023-03-04T08:37:10.079Z,53.531,-161.6122,10.0,2.2,ml,,,,0.41,ak,ak0232wbua0p,2023-03-04T20:02:11.987Z,south of Alaska,earthquake,,27.3,,,reviewed,ak,ak
