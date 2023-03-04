@@ -296,3 +296,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T05:33:16.480Z,38.5088348,-122.435997,8.9,1.69,md,16.0,73.0,0.0806,0.18,nc,nc73855221,2023-03-04T05:34:52.982Z,"3km ENE of St. Helena, CA",earthquake,0.51,1.33,0.15,12.0,automatic,nc,nc
 2023-03-04T05:26:31.486Z,64.5292,-153.3917,0.0,1.6,ml,,,,0.32,ak,ak0232w9zo6k,2023-03-04T05:28:52.894Z,"89 km NW of Lake Minchumina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-04T05:21:55.000Z,19.023,-67.986,10.0,4.5,Ml,24.0,,,,pt,pt23063001,2023-03-04T05:26:47.624Z,"65 km NE of Punta Cana, Dominican Republic",earthquake,,,,29.0,reviewed,pt,pt
+2023-03-04T05:44:33.680Z,35.6414986,-117.4588318,4.34,1.47,ml,14.0,178.0,0.05495,0.16,ci,ci40420720,2023-03-04T05:46:40.427Z,"15km SSW of Searles Valley, CA",earthquake,0.82,1.07,0.031,2.0,automatic,ci,ci
+2023-03-04T05:38:26.589Z,62.116,-147.3527,21.4,2.0,ml,,,,1.2,ak,ak0232wa28ea,2023-03-04T05:40:29.241Z,"22 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-04T05:27:34.712Z,38.0461,38.2458,1.863,4.2,mb,37.0,80.0,0.757,0.8,us,us7000jh8x,2023-03-04T05:45:32.040Z,"2 km NNE of Çelikhan, Turkey",earthquake,3.63,5.222,0.141,14.0,reviewed,us,us
+2023-03-04T05:21:53.489Z,19.0586,-68.0027,28.305,4.4,mb,53.0,127.0,0.649,0.61,us,us7000jh8v,2023-03-04T05:38:18.257Z,"67 km NE of Punta Cana, Dominican Republic",earthquake,4.87,7.2,0.087,38.0,reviewed,us,us
