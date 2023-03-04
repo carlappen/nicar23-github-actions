@@ -293,3 +293,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T04:10:21.439Z,51.6368,178.7486,74.939,4.0,mb,36.0,166.0,0.338,0.51,us,us7000jh8s,2023-03-04T04:44:10.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.28,5.33,0.106,25.0,reviewed,us,us
 2023-03-04T05:20:22.160Z,35.866,-117.7055,8.43,1.14,ml,14.0,107.0,0.07492,0.17,ci,ci40420704,2023-03-04T05:23:58.777Z,"20km ESE of Little Lake, CA",earthquake,0.44,1.13,0.112,11.0,automatic,ci,ci
 2023-03-04T05:09:13.750Z,38.791832,-122.807663,3.17,1.08,md,17.0,101.0,0.005014,0.02,nc,nc73855216,2023-03-04T05:24:11.466Z,"5km WNW of The Geysers, CA",earthquake,0.32,0.72,0.16,19.0,automatic,nc,nc
+2023-03-04T05:33:16.480Z,38.5088348,-122.435997,8.9,1.69,md,16.0,73.0,0.0806,0.18,nc,nc73855221,2023-03-04T05:34:52.982Z,"3km ENE of St. Helena, CA",earthquake,0.51,1.33,0.15,12.0,automatic,nc,nc
+2023-03-04T05:26:31.486Z,64.5292,-153.3917,0.0,1.6,ml,,,,0.32,ak,ak0232w9zo6k,2023-03-04T05:28:52.894Z,"89 km NW of Lake Minchumina, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-04T05:21:55.000Z,19.023,-67.986,10.0,4.5,Ml,24.0,,,,pt,pt23063001,2023-03-04T05:26:47.624Z,"65 km NE of Punta Cana, Dominican Republic",earthquake,,,,29.0,reviewed,pt,pt
