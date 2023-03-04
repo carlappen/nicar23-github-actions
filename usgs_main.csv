@@ -391,3 +391,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T16:59:24.358Z,57.8361,-156.2626,132.1,1.9,ml,,,,0.14,ak,ak0232wgqhwz,2023-03-04T17:00:52.660Z,Alaska Peninsula,earthquake,,1.1,,,automatic,ak,ak
 2023-03-04T17:30:55.030Z,37.4703331,-121.7756653,6.81,1.36,md,8.0,125.0,0.05111,0.02,nc,nc73855401,2023-03-04T17:41:12.416Z,"12km NNE of Alum Rock, CA",earthquake,0.42,0.77,0.31,2.0,automatic,nc,nc
 2023-03-04T17:48:09.240Z,33.474,-116.4218333,11.23,1.09,ml,31.0,62.0,0.04938,0.2,ci,ci40420936,2023-03-04T17:51:37.945Z,"24km SSW of La Quinta, CA",earthquake,0.3,0.64,0.123,26.0,automatic,ci,ci
+2023-03-04T18:07:59.930Z,38.8171654,-122.8160019,2.67,0.85,md,6.0,130.0,0.007755,0.0,nc,nc73855416,2023-03-04T18:31:11.043Z,"7km NW of The Geysers, CA",earthquake,1.03,0.87,0.2,5.0,automatic,nc,nc
+2023-03-04T18:07:30.100Z,38.2174988,-122.9283371,3.42,1.79,md,17.0,214.0,0.1777,0.34,nc,nc73855411,2023-03-04T18:25:14.136Z,"4km SE of Dillon Beach, CA",earthquake,6.54,13.37,1.12,2.0,automatic,nc,nc
+2023-03-04T18:07:22.329Z,63.0436,-150.4609,93.6,1.7,ml,,,,0.44,ak,ak0232whm7qg,2023-03-04T18:09:12.996Z,"62 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-04T18:01:23.289Z,58.1662,-154.1762,65.5,2.4,ml,,,,0.26,ak,ak0232whkxig,2023-03-04T18:03:38.043Z,"68 km NNE of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-04T17:05:28.855Z,-2.6274,121.9595,38.948,4.6,mb,68.0,41.0,1.772,0.51,us,us7000jhcf,2023-03-04T18:16:17.040Z,"161 km NNW of Kendari, Indonesia",earthquake,6.46,6.379,0.08,55.0,reviewed,us,us
