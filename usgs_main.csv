@@ -373,3 +373,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T14:28:56.058Z,58.1897,-136.8155,12.3,2.8,ml,,,,0.19,ak,ak0232wfd1yd,2023-03-04T14:31:16.497Z,Southeastern Alaska,earthquake,,0.3,,,automatic,ak,ak
 2023-03-04T04:29:52.234Z,31.62658947,-103.9776212,5.527429199,2.0,ml,17.0,49.0,0.01759058215,0.1,tx,tx2023ejqc,2023-03-04T14:40:22.826Z,"36 km WSW of Mentone, Texas",earthquake,0.487889821,0.5982083927,0.2,17.0,reviewed,tx,tx
 2023-03-04T14:47:16.608Z,58.1551,-155.3663,8.0,1.1,ml,,,,0.9,ak,ak0232wfgvvr,2023-03-04T14:50:31.283Z,Alaska Peninsula,earthquake,,0.3,,,automatic,ak,ak
+2023-03-04T15:12:55.599Z,60.4477,-150.9954,35.3,2.2,ml,,,,0.57,ak,ak0232wfv22f,2023-03-04T15:15:03.266Z,"5 km SE of Soldotna, Alaska",earthquake,,12.1,,,automatic,ak,ak
+2023-03-04T15:11:15.000Z,18.0061666666667,-66.8278333333333,13.01,1.85,md,6.0,158.0,0.0579,0.1,pr,pr71398253,2023-03-04T15:24:52.140Z,"1 km NW of Indios, Puerto Rico",earthquake,0.65,0.74,0.0979145863242084,4.0,reviewed,pr,pr
+2023-03-04T08:34:53.973Z,31.67141952,-104.4161376,6.954223633,2.1,ml,14.0,69.0,0.02039668925,0.2,tx,tx2023ejye,2023-03-04T15:14:48.489Z,"56 km S of Whites City, New Mexico",earthquake,0.8940726666,0.8969337776,0.1,17.0,reviewed,tx,tx
+2023-03-03T17:21:37.083Z,31.61660644,-104.0982197,6.234399414,2.1,ml,20.0,56.0,0.03313741285,0.1,tx,tx2023eiub,2023-03-04T14:59:50.468Z,"44 km NW of Toyah, Texas",earthquake,0.576090785,0.5835304812999998,0.2,19.0,reviewed,tx,tx
