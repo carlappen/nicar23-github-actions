@@ -370,3 +370,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T14:18:39.310Z,19.0968341827393,-155.438995361328,27.9099998474121,1.75999999,md,34.0,185.0,,0.170000002,hv,hv73333242,2023-03-04T14:21:52.200Z,"Hawaii region, Hawaii",earthquake,0.67,1.12,0.949999988,11.0,automatic,hv,hv
 2023-03-04T14:13:06.290Z,38.8325005,-122.8106689,1.98,0.79,md,20.0,58.0,0.009104,0.01,nc,nc73855366,2023-03-04T14:26:11.668Z,"8km W of Cobb, CA",earthquake,0.21,0.53,0.24,21.0,automatic,nc,nc
 2023-03-04T14:07:18.680Z,33.4686667,-116.5545,8.85,0.56,ml,24.0,82.0,0.04758,0.13,ci,ci40420888,2023-03-04T14:17:51.888Z,"15km SE of Anza, CA",earthquake,0.24,0.43,0.247,15.0,automatic,ci,ci
+2023-03-04T14:28:56.058Z,58.1897,-136.8155,12.3,2.8,ml,,,,0.19,ak,ak0232wfd1yd,2023-03-04T14:31:16.497Z,Southeastern Alaska,earthquake,,0.3,,,automatic,ak,ak
