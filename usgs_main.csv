@@ -282,3 +282,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T03:31:46.670Z,33.7685,-116.9385,12.0,0.61,ml,19.0,93.0,0.07991,0.18,ci,ci40420688,2023-03-04T03:35:19.238Z,"2km SE of San Jacinto, CA",earthquake,0.42,0.73,0.114,14.0,automatic,ci,ci
 2023-03-04T03:30:45.100Z,58.2951,-155.0113,0.0,1.1,ml,,,,0.34,ak,ak0232w8tovy,2023-03-04T03:31:56.343Z,"87 km NNW of Karluk, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-03-04T03:24:56.043Z,19.0863,-66.6378,35.0,3.3,ml,17.0,198.0,0.615,0.53,us,us7000jh88,2023-03-04T03:30:27.040Z,"68 km N of Arecibo, Puerto Rico",earthquake,4.77,2.012,0.062,34.0,reviewed,us,us
+2023-03-04T03:37:09.740Z,19.1016674041748,-155.151992797852,40.7099990844727,2.30999994,md,41.0,229.0,,0.129999995,hv,hv73333062,2023-03-04T03:42:29.852Z,"Island of Hawaii, Hawaii",earthquake,0.88,1.0,1.12,23.0,automatic,hv,hv
