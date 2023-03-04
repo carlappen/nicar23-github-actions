@@ -386,3 +386,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T12:43:15.412Z,31.66501763,-104.4112343,8.033959961,2.0,ml,16.0,57.0,0.01980899987,0.2,tx,tx2023ekgk,2023-03-04T16:17:18.723Z,"56 km S of Whites City, New Mexico",earthquake,0.9462395544,1.077138906,0.1,21.0,reviewed,tx,tx
 2023-03-04T09:45:31.265Z,36.6948,-116.3002,6.8,-0.1,ml,12.0,118.28,0.037,0.0668,nn,nn00856584,2023-03-04T16:04:40.595Z,"47 km ESE of Beatty, Nevada",earthquake,,1.7,0.19,5.0,reviewed,nn,nn
 2023-03-04T09:12:56.837Z,39.3652,-120.004,4.3,-0.1,ml,5.0,100.79,0.077,0.0497,nn,nn00856586,2023-03-04T16:17:04.117Z,"3 km SSE of Floriston, California",earthquake,,4.9,0.33,3.0,reviewed,nn,nn
+2023-03-04T16:22:43.710Z,18.6715,-65.1575,56.15,3.14,md,19.0,233.0,0.3703,0.28,pr,pr71398278,2023-03-04T16:44:03.345Z,"43 km NNE of Culebra, Puerto Rico",earthquake,1.59,1.76,0.131427445361123,12.0,reviewed,pr,pr
