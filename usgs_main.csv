@@ -407,3 +407,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T19:25:05.346Z,64.1583,-148.5473,4.0,1.4,ml,,,,0.6,ak,ak0232wibgx2,2023-03-04T19:26:42.197Z,"31 km ENE of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-04T19:34:00.880Z,34.0451667,-117.2501667,22.71,0.98,ml,25.0,72.0,0.07299,0.28,ci,ci40420968,2023-03-04T19:37:32.785Z,"1km ESE of Loma Linda, CA",earthquake,0.5,1.16,0.242,18.0,automatic,ci,ci
 2023-03-04T19:18:58.650Z,19.1816666666667,-66.5798333333333,47.83,3.36,md,11.0,293.0,0.7024,0.28,pr,pr71398283,2023-03-04T19:42:09.220Z,"79 km N of Arecibo, Puerto Rico",earthquake,1.85,5.51,0.142383674314408,6.0,reviewed,pr,pr
+2023-03-04T08:04:47.675Z,53.0974,-164.624,30.0,2.3,ml,,,,0.43,ak,ak0232wbnetr,2023-03-04T19:56:21.297Z,"Unimak Island region, Alaska",earthquake,,0.0,,,reviewed,ak,ak
