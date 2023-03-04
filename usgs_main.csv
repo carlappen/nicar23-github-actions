@@ -405,3 +405,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T17:43:23.060Z,-15.6802,-71.1498,156.222,4.4,mb,53.0,138.0,2.483,1.19,us,us7000jhcm,2023-03-04T19:15:22.040Z,"10 km WSW of Huarichancara, Peru",earthquake,9.35,8.024,0.086,45.0,reviewed,us,us
 2023-03-04T16:54:44.760Z,51.8853333333333,-178.16,17.68,1.88,ml,6.0,137.0,,0.15,av,av91782451,2023-03-04T18:57:23.810Z,"105 km W of Adak, Alaska",earthquake,1.2,1.04,0.227298008884649,7.0,reviewed,av,av
 2023-03-04T19:25:05.346Z,64.1583,-148.5473,4.0,1.4,ml,,,,0.6,ak,ak0232wibgx2,2023-03-04T19:26:42.197Z,"31 km ENE of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-04T19:34:00.880Z,34.0451667,-117.2501667,22.71,0.98,ml,25.0,72.0,0.07299,0.28,ci,ci40420968,2023-03-04T19:37:32.785Z,"1km ESE of Loma Linda, CA",earthquake,0.5,1.16,0.242,18.0,automatic,ci,ci
