@@ -278,3 +278,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T03:01:11.000Z,38.8251648,-122.7979965,2.67,0.89,md,21.0,41.0,0.009598,0.01,nc,nc73855191,2023-03-04T03:24:14.742Z,"6km NW of The Geysers, CA",earthquake,0.24,0.44,0.23,21.0,automatic,nc,nc
 2023-03-04T02:58:10.490Z,33.7653333,-116.937,11.74,0.56,ml,14.0,93.0,0.07841,0.19,ci,ci40420680,2023-03-04T03:01:36.423Z,"3km SE of San Jacinto, CA",earthquake,0.47,0.76,0.139,11.0,automatic,ci,ci
 2023-03-03T08:55:13.270Z,51.8628333333333,-177.959,6.3,1.58,ml,4.0,142.0,,0.1,av,av91780856,2023-03-04T03:10:17.080Z,"91 km W of Adak, Alaska",earthquake,0.49,1.1,0.130657712190314,4.0,reviewed,av,av
+2023-03-04T03:38:04.250Z,37.3113327,-121.6801682,6.54,2.12,md,53.0,50.0,0.04259,0.07,nc,nc73855206,2023-03-04T03:39:38.227Z,"14km ENE of Seven Trees, CA",earthquake,0.13,0.29,0.19,48.0,automatic,nc,nc
+2023-03-04T03:31:46.670Z,33.7685,-116.9385,12.0,0.61,ml,19.0,93.0,0.07991,0.18,ci,ci40420688,2023-03-04T03:35:19.238Z,"2km SE of San Jacinto, CA",earthquake,0.42,0.73,0.114,14.0,automatic,ci,ci
+2023-03-04T03:30:45.100Z,58.2951,-155.0113,0.0,1.1,ml,,,,0.34,ak,ak0232w8tovy,2023-03-04T03:31:56.343Z,"87 km NNW of Karluk, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-04T03:24:56.043Z,19.0863,-66.6378,35.0,3.3,ml,17.0,198.0,0.615,0.53,us,us7000jh88,2023-03-04T03:30:27.040Z,"68 km N of Arecibo, Puerto Rico",earthquake,4.77,2.012,0.062,34.0,reviewed,us,us
