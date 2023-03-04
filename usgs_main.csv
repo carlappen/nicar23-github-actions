@@ -422,3 +422,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T21:28:34.501Z,57.4884,-155.7289,28.9,1.8,ml,,,,0.84,ak,ak0232wjj1iy,2023-03-04T21:30:24.870Z,Alaska Peninsula,earthquake,,0.3,,,automatic,ak,ak
 2023-03-04T21:36:27.300Z,33.3008333,-116.5355,8.75,0.8,ml,11.0,121.0,0.1043,0.3,ci,ci40421000,2023-03-04T21:40:15.398Z,"9km ENE of Warner Springs, CA",earthquake,1.18,3.38,0.202,6.0,automatic,ci,ci
 2023-03-04T21:35:18.000Z,33.4966667,-116.7848333,4.17,0.72,ml,25.0,39.0,0.02033,0.18,ci,ci40420992,2023-03-04T21:38:48.903Z,"10km NE of Aguanga, CA",earthquake,0.25,0.48,0.113,17.0,automatic,ci,ci
+2023-03-04T21:50:17.820Z,37.6409988,-118.9120026,5.18,0.77,md,8.0,200.0,0.01251,0.03,nc,nc73855461,2023-03-04T21:51:52.162Z,"6km E of Mammoth Lakes, CA",earthquake,1.4,2.31,0.17,8.0,automatic,nc,nc
+2023-03-04T21:45:32.582Z,64.6068,-148.0265,21.0,1.2,ml,,,,0.4,ak,ak0232wjmoju,2023-03-04T21:46:57.034Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
