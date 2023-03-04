@@ -430,3 +430,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T20:57:44.085Z,13.1179,-89.2929,60.926,4.4,mb,27.0,216.0,0.554,0.68,us,us7000jhde,2023-03-04T22:27:52.040Z,El Salvador,earthquake,6.68,8.264,0.065,68.0,reviewed,us,us
 2023-03-04T23:20:53.273Z,36.38660431,-97.43614197,16.80461121,1.8,ml,20.0,99.70458984,0.06831417978,1.004728801,ok,ok2023elbk,2023-03-04T23:22:20.752Z,"12 km N of Lucien, Oklahoma",earthquake,,3.087096178,,12.0,automatic,ok,ok
 2023-03-04T22:25:58.107Z,-2.8942,139.6217,35.0,4.4,mb,43.0,115.0,12.972,0.87,us,us7000jhdq,2023-03-04T22:59:36.040Z,"117 km WSW of Abepura, Indonesia",earthquake,12.09,1.936,0.089,37.0,reviewed,us,us
+2023-03-04T23:42:56.840Z,38.8356667,-122.8164978,1.88,0.71,md,12.0,63.0,0.01324,0.02,nc,nc73855476,2023-03-04T23:44:31.875Z,"8km W of Cobb, CA",earthquake,0.34,0.97,0.15,12.0,automatic,nc,nc
+2023-03-04T23:35:37.181Z,19.2396,-66.5841,35.0,3.0,ml,16.0,266.0,0.76,0.13,us,us7000jhdw,2023-03-04T23:46:36.040Z,"86 km N of Arecibo, Puerto Rico",earthquake,6.17,2.023,0.066,30.0,reviewed,us,us
