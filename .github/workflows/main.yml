@@ -10,7 +10,7 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-    # Step 1: Prepare the environment
+    # Step 1: Prepare the 
     - name: Check out this repo
       uses: actions/checkout@v2
       with:
