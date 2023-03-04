@@ -289,3 +289,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T03:46:30.369Z,-15.5402,-174.7017,259.847,4.5,mb,22.0,109.0,3.525,0.69,us,us7000jh8j,2023-03-04T04:13:31.040Z,"107 km WNW of Hihifo, Tonga",earthquake,12.22,8.815,0.145,14.0,reviewed,us,us
 2023-03-04T03:24:55.530Z,19.2288,-66.5566,28.0,3.55,md,20.0,251.0,0.7522,0.34,pr,pr2023063001,2023-03-04T04:11:58.315Z,"85 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.41,15.53,0.09,18.0,reviewed,pr,pr
 2023-03-04T03:22:48.800Z,17.9671666666667,-66.837,14.72,2.99,md,19.0,181.0,0.04098,0.18,pr,pr71398158,2023-03-04T04:01:21.170Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.52,0.44,0.028242435215913,6.0,reviewed,pr,pr
+2023-03-04T04:42:30.740Z,38.8330002,-122.7935028,1.32,0.54,md,7.0,101.0,0.01611,0.01,nc,nc73855211,2023-03-04T04:44:07.759Z,"6km WNW of Cobb, CA",earthquake,0.5,1.77,0.29,9.0,automatic,nc,nc
+2023-03-04T04:10:21.439Z,51.6368,178.7486,74.939,4.0,mb,36.0,166.0,0.338,0.51,us,us7000jh8s,2023-03-04T04:44:10.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.28,5.33,0.106,25.0,reviewed,us,us
