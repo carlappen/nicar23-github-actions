@@ -318,3 +318,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T07:03:12.290Z,38.7851677,-122.7333298,0.84,0.65,md,8.0,85.0,0.00328,0.1,nc,nc73855246,2023-03-04T07:21:14.204Z,"2km ENE of The Geysers, CA",earthquake,0.39,0.89,0.38,7.0,automatic,nc,nc
 2023-03-04T06:56:38.360Z,19.2743339538574,-155.405166625977,30.3999996185303,2.11999989,md,39.0,118.0,,0.129999995,hv,hv73333122,2023-03-04T07:01:18.904Z,"11 km NE of Pāhala, Hawaii",earthquake,0.62,0.540000021,0.680000007,17.0,automatic,hv,hv
 2023-03-04T06:41:22.369Z,-29.4748,-178.7874,205.681,6.9,mww,108.0,18.0,0.784,0.92,us,us7000jh99,2023-03-04T07:19:43.722Z,"Kermadec Islands, New Zealand",earthquake,7.48,4.445,0.057,30.0,reviewed,us,us
+2023-03-04T07:26:26.070Z,33.4976667,-116.7596667,7.59,0.82,ml,33.0,61.0,0.03702,0.13,ci,ci40420776,2023-03-04T07:29:54.692Z,"10km SW of Anza, CA",earthquake,0.17,0.6,0.091,23.0,automatic,ci,ci
+2023-03-04T07:14:41.580Z,61.9181,-149.4,100.5,1.7,ml,,,,0.97,ak,ak0232wb3ykf,2023-03-04T07:26:41.405Z,"21 km NNW of Fishhook, Alaska",earthquake,,2.7,,,automatic,ak,ak
+2023-03-03T14:48:44.141Z,24.8196,121.9385,112.002,4.4,mb,52.0,47.0,0.429,0.6,us,us7000jh2m,2023-03-04T07:22:05.040Z,"19 km ENE of Yilan, Taiwan",earthquake,5.29,4.843,0.088,37.0,reviewed,us,us
