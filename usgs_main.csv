@@ -389,3 +389,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T16:22:43.710Z,18.6715,-65.1575,56.15,3.14,md,19.0,233.0,0.3703,0.28,pr,pr71398278,2023-03-04T16:44:03.345Z,"43 km NNE of Culebra, Puerto Rico",earthquake,1.59,1.76,0.131427445361123,12.0,reviewed,pr,pr
 2023-03-04T17:16:17.170Z,40.5826683,-124.0703354,10.73,2.31,md,6.0,191.0,0.1847,0.01,nc,nc73855396,2023-03-04T17:24:10.808Z,"4km NNE of Hydesville, CA",earthquake,1.31,3.15,,1.0,automatic,nc,nc
 2023-03-04T16:59:24.358Z,57.8361,-156.2626,132.1,1.9,ml,,,,0.14,ak,ak0232wgqhwz,2023-03-04T17:00:52.660Z,Alaska Peninsula,earthquake,,1.1,,,automatic,ak,ak
+2023-03-04T17:30:55.030Z,37.4703331,-121.7756653,6.81,1.36,md,8.0,125.0,0.05111,0.02,nc,nc73855401,2023-03-04T17:41:12.416Z,"12km NNE of Alum Rock, CA",earthquake,0.42,0.77,0.31,2.0,automatic,nc,nc
