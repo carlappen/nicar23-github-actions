@@ -482,3 +482,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T05:48:30.448Z,62.1127,-150.2884,21.8,1.2,ml,,,,0.31,ak,ak0232xxnqck,2023-03-05T05:50:39.804Z,"22 km S of Trapper Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-05T05:47:35.291Z,56.9908,-155.9146,20.5,2.0,ml,,,,0.78,ak,ak0232xxnj09,2023-03-05T05:49:26.752Z,"106 km W of Akhiok, Alaska",earthquake,,4.1,,,automatic,ak,ak
 2023-03-04T16:28:43.850Z,48.5285,-123.44783333333334,23.18,1.37,ml,12.0,68.0,0.1211,0.33,uw,uw61900597,2023-03-05T05:45:54.970Z,"7 km N of Six Mile, Canada",earthquake,0.82,1.48,0.0408753927072973,5.0,reviewed,uw,uw
+2023-03-05T06:19:17.250Z,33.65,-116.6606667,12.56,0.72,ml,23.0,72.0,0.05458,0.15,ci,ci40421072,2023-03-05T06:22:53.281Z,"11km N of Anza, CA",earthquake,0.34,0.43,0.142,19.0,automatic,ci,ci
+2023-03-05T06:17:06.154Z,61.3869,-150.1691,26.8,2.3,ml,,,,0.66,ak,ak0232xy2bls,2023-03-05T06:19:19.517Z,"10 km WNW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-05T06:15:01.540Z,38.7948341,-122.7288361,1.82,1.19,md,11.0,98.0,0.02481,0.01,nc,nc73855571,2023-03-05T06:32:11.467Z,"3km S of Cobb, CA",earthquake,0.25,0.97,0.15,10.0,automatic,nc,nc
+2023-03-05T06:01:24.543Z,62.088,-148.6759,35.6,1.7,ml,,,,0.44,ak,ak0232xxz2ue,2023-03-05T06:03:26.391Z,"34 km NNW of Chickaloon, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-05T05:55:39.390Z,38.8196678,-122.7955017,2.39,1.08,md,16.0,57.0,0.01168,0.1,nc,nc73855566,2023-03-05T06:13:12.351Z,"6km NW of The Geysers, CA",earthquake,0.43,0.98,0.17,18.0,automatic,nc,nc
+2023-03-04T22:16:15.420Z,49.349833333333336,-120.48983333333334,-0.51,2.04,ml,8.0,219.0,0.5661,0.34,uw,uw61900622,2023-03-05T06:04:00.000Z,"12 km S of Princeton, Canada",explosion,3.64,31.61,0.2003333829814846,6.0,reviewed,uw,uw
