@@ -539,3 +539,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T13:31:06.127Z,58.3648,-155.1579,13.2,1.1,ml,,,,0.41,ak,ak0232y2bi50,2023-03-05T13:33:07.849Z,Alaska Peninsula,earthquake,,0.7,,,automatic,ak,ak
 2023-03-05T13:42:16.939Z,62.7168,-148.9785,62.7,1.3,ml,,,,0.33,ak,ak0232y2dvul,2023-03-05T13:43:38.159Z,"64 km ENE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-05T13:39:50.480Z,38.8291664,-122.7979965,1.07,1.35,md,24.0,35.0,0.011,0.02,nc,nc73855671,2023-03-05T13:41:25.190Z,"6km W of Cobb, CA",earthquake,0.17,0.37,0.13,25.0,automatic,nc,nc
+2023-03-05T14:16:57.860Z,64.7647,-147.886,24.9,0.9,ml,,,,0.09,ak,ak0232y2ttzu,2023-03-05T14:18:41.440Z,"6 km SW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-05T14:07:05.190Z,38.8465004,-122.8160019,1.46,0.71,md,11.0,63.0,0.009965,0.03,nc,nc73855686,2023-03-05T14:08:39.562Z,"8km WNW of Cobb, CA",earthquake,0.31,0.78,0.09,12.0,automatic,nc,nc
+2023-03-05T14:02:48.020Z,38.8458328,-122.8133316,1.99,0.97,md,20.0,52.0,0.01178,0.06,nc,nc73855681,2023-03-05T14:17:12.300Z,"8km WNW of Cobb, CA",earthquake,0.23,0.52,0.11,21.0,automatic,nc,nc
+2023-03-05T13:56:23.178Z,63.1053,-149.8414,95.9,1.7,ml,,,,0.71,ak,ak0232y2gwct,2023-03-05T13:59:06.417Z,"54 km SW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-03-05T13:48:39.200Z,19.1784992218018,-155.483993530273,35.6699981689453,1.88,md,36.0,150.0,,0.150000006,hv,hv73333832,2023-03-05T13:51:52.790Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.72,1.11000001,1.72000003,7.0,automatic,hv,hv
