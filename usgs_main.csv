@@ -495,3 +495,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T07:02:49.819Z,57.7155,-153.6031,34.4,1.9,ml,,,,0.4,ak,ak0232xyks45,2023-03-05T07:05:00.152Z,"29 km NE of Larsen Bay, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-03-05T06:51:42.082Z,-16.6119,-177.2033,410.355,4.4,mb,27.0,80.0,2.456,0.43,us,us7000jhfm,2023-03-05T07:19:01.040Z,"272 km SSE of Alo, Wallis and Futuna",earthquake,12.02,8.745,0.115,22.0,reviewed,us,us
 2023-03-05T01:18:23.100Z,44.757,-117.31966666666666,6.81,2.16,ml,7.0,84.0,0.09599,0.27,uw,uw61900637,2023-03-05T06:57:14.280Z,"12 km W of Richland, Oregon",earthquake,0.75,0.91,0.1991572473759848,5.0,reviewed,uw,uw
+2023-03-05T07:38:43.750Z,38.7924995,-122.7541656,1.54,1.07,md,10.0,141.0,0.009199,0.02,nc,nc73855581,2023-03-05T07:40:19.934Z,"2km N of The Geysers, CA",earthquake,0.4,0.7,0.17,10.0,automatic,nc,nc
