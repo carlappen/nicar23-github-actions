@@ -544,3 +544,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T14:02:48.020Z,38.8458328,-122.8133316,1.99,0.97,md,20.0,52.0,0.01178,0.06,nc,nc73855681,2023-03-05T14:17:12.300Z,"8km WNW of Cobb, CA",earthquake,0.23,0.52,0.11,21.0,automatic,nc,nc
 2023-03-05T13:56:23.178Z,63.1053,-149.8414,95.9,1.7,ml,,,,0.71,ak,ak0232y2gwct,2023-03-05T13:59:06.417Z,"54 km SW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-05T13:48:39.200Z,19.1784992218018,-155.483993530273,35.6699981689453,1.88,md,36.0,150.0,,0.150000006,hv,hv73333832,2023-03-05T13:51:52.790Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.72,1.11000001,1.72000003,7.0,automatic,hv,hv
+2023-03-05T14:32:51.594Z,61.4036,-150.1235,32.0,1.4,ml,,,,0.52,ak,ak0232y2x8yv,2023-03-05T14:34:40.011Z,"9 km WNW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-05T14:24:39.300Z,33.7641667,-116.933,13.94,0.79,ml,16.0,77.0,0.07727,0.17,ci,ci40421232,2023-03-05T14:28:13.669Z,"3km SE of San Jacinto, CA",earthquake,0.36,0.72,0.149,23.0,automatic,ci,ci
