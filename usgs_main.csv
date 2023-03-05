@@ -459,3 +459,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T03:24:29.230Z,61.8885,-149.3083,3.9,1.7,ml,,,,0.69,ak,ak0232xwbpuz,2023-03-05T03:27:44.313Z,"16 km NNW of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-05T03:49:03.300Z,38.8338318,-122.8130035,2.06,0.65,md,11.0,93.0,0.01067,0.01,nc,nc73855536,2023-03-05T03:50:38.767Z,"8km W of Cobb, CA",earthquake,0.4,1.19,0.46,11.0,automatic,nc,nc
 2023-03-05T03:47:13.486Z,60.228,-141.2835,0.0,2.4,ml,,,,0.79,ak,ak0232xwgm44,2023-03-05T03:49:23.730Z,"115 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-05T04:29:24.608Z,62.5023,-151.1367,3.3,1.7,ml,,,,0.59,ak,ak0232xwy7os,2023-03-05T04:31:14.999Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-03-05T04:23:54.444Z,63.3096,-149.3845,83.5,1.8,ml,,,,0.39,ak,ak0232xwwzp0,2023-03-05T04:25:48.936Z,"23 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-05T04:00:16.500Z,19.1876659393311,-155.384170532227,29.9899997711182,2.18,ml,42.0,166.0,,0.159999996,hv,hv73333567,2023-03-05T04:05:45.200Z,"10 km E of Pāhala, Hawaii",earthquake,0.6,0.899999976,0.19,3.0,automatic,hv,hv
+2023-03-05T03:52:51.170Z,59.6477,-148.4262,0.0,2.5,ml,,,,1.08,ak,ak0232xwhrlp,2023-03-05T03:55:01.451Z,"52 km SSW of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-05T01:51:09.510Z,60.0173333333333,-153.067666666667,0.95,-0.65,ml,4.0,132.0,,0.04,av,av91783171,2023-03-05T04:06:05.530Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.41,1.7,0.0735704893545492,4.0,reviewed,av,av
+2023-03-05T01:46:56.390Z,58.1676666666667,-155.298,2.76,-0.04,ml,8.0,172.0,,0.1,av,av91783166,2023-03-05T04:02:59.360Z,"83 km NW of Karluk, Alaska",earthquake,0.28,0.42,0.292737679144858,8.0,reviewed,av,av
+2023-03-05T00:45:35.250Z,58.1955,-155.2715,2.55,-0.39,ml,8.0,135.0,,0.05,av,av91783081,2023-03-05T03:57:56.030Z,"84 km NW of Karluk, Alaska",earthquake,0.27,0.48,0.168834831871369,8.0,reviewed,av,av
+2023-03-04T22:49:44.760Z,51.4566,-177.5113,23.9,3.4,ml,,,,0.49,ak,ak0232wk8zuo,2023-03-05T04:21:14.243Z,"76 km SW of Adak, Alaska",earthquake,,0.3,,,reviewed,ak,ak
