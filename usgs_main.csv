@@ -478,3 +478,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T06:42:45.810Z,48.408,-122.43683333333334,8.13,1.85,ml,31.0,127.0,0.02108,0.23,uw,uw61900582,2023-03-05T05:34:00.990Z,"4 km ENE of La Conner, Washington",earthquake,0.4,0.46,0.2216030224736112,18.0,reviewed,uw,uw
 2023-03-05T05:43:07.119Z,58.1857,-155.2546,1.1,0.4,ml,,,,0.32,ak,ak0232xxmlyv,2023-03-05T05:44:42.696Z,"83 km NW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-03-05T05:42:47.110Z,38.8131676,-122.8248367,1.84,0.76,md,7.0,89.0,0.005471,0.01,nc,nc73855561,2023-03-05T05:44:24.885Z,"7km NW of The Geysers, CA",earthquake,0.65,1.06,0.25,8.0,automatic,nc,nc
+2023-03-05T05:53:10.691Z,59.309,-152.6048,78.2,2.1,ml,,,,0.27,ak,ak0232xxorel,2023-03-05T05:55:37.915Z,"39 km W of Nanwalek, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-05T05:48:30.448Z,62.1127,-150.2884,21.8,1.2,ml,,,,0.31,ak,ak0232xxnqck,2023-03-05T05:50:39.804Z,"22 km S of Trapper Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-05T05:47:35.291Z,56.9908,-155.9146,20.5,2.0,ml,,,,0.78,ak,ak0232xxnj09,2023-03-05T05:49:26.752Z,"106 km W of Akhiok, Alaska",earthquake,,4.1,,,automatic,ak,ak
+2023-03-04T16:28:43.850Z,48.5285,-123.44783333333334,23.18,1.37,ml,12.0,68.0,0.1211,0.33,uw,uw61900597,2023-03-05T05:45:54.970Z,"7 km N of Six Mile, Canada",earthquake,0.82,1.48,0.0408753927072973,5.0,reviewed,uw,uw
