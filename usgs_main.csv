@@ -565,3 +565,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T17:01:40.898Z,60.6138,-150.4179,45.4,1.8,ml,,,,0.68,ak,ak0232y4ivrd,2023-03-05T17:03:14.811Z,"20 km ENE of Sterling, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-05T17:00:10.330Z,38.788166,-122.8261642,-0.69,0.87,md,5.0,200.0,0.01805,0.05,nc,nc73855731,2023-03-05T17:17:19.418Z,"6km WNW of The Geysers, CA",earthquake,0.8,6.95,0.26,9.0,automatic,nc,nc
 2023-03-05T14:29:49.723Z,25.755,-110.1232,10.0,4.5,mb,24.0,95.0,2.067,1.16,us,us7000jhgu,2023-03-05T17:14:17.040Z,"79 km W of Las Grullas Margen Derecha, Mexico",earthquake,7.62,1.945,0.066,66.0,reviewed,us,us
+2023-03-05T16:49:39.385Z,7.4277,126.2713,10.0,4.6,mb,29.0,123.0,0.773,0.76,us,us7000jhhc,2023-03-05T17:34:47.040Z,"Mindanao, Philippines",earthquake,6.2,1.888,0.11,25.0,reviewed,us,us
+2023-03-05T16:37:28.222Z,5.9279,125.6499,151.604,4.4,mb,29.0,111.0,1.137,0.7,us,us7000jhh9,2023-03-05T17:27:58.040Z,"1 km NE of Caburan, Philippines",earthquake,7.37,7.411,0.112,23.0,reviewed,us,us
