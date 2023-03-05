@@ -467,3 +467,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T01:46:56.390Z,58.1676666666667,-155.298,2.76,-0.04,ml,8.0,172.0,,0.1,av,av91783166,2023-03-05T04:02:59.360Z,"83 km NW of Karluk, Alaska",earthquake,0.28,0.42,0.292737679144858,8.0,reviewed,av,av
 2023-03-05T00:45:35.250Z,58.1955,-155.2715,2.55,-0.39,ml,8.0,135.0,,0.05,av,av91783081,2023-03-05T03:57:56.030Z,"84 km NW of Karluk, Alaska",earthquake,0.27,0.48,0.168834831871369,8.0,reviewed,av,av
 2023-03-04T22:49:44.760Z,51.4566,-177.5113,23.9,3.4,ml,,,,0.49,ak,ak0232wk8zuo,2023-03-05T04:21:14.243Z,"76 km SW of Adak, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-03-05T04:35:16.976Z,60.4005,-152.4305,84.9,1.6,ml,,,,0.32,ak,ak0232xwzhe9,2023-03-05T04:36:45.337Z,"57 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-05T04:34:00.900Z,38.7895012,-122.7613297,1.29,1.32,md,20.0,78.0,0.01118,0.03,nc,nc73855546,2023-03-05T04:35:34.345Z,"1km NNW of The Geysers, CA",earthquake,0.23,0.4,0.18,20.0,automatic,nc,nc
