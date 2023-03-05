@@ -590,3 +590,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T19:25:43.975Z,-16.1554,-73.4448,57.215,5.1,mb,88.0,122.0,3.694,0.71,us,us7000jhhu,2023-03-05T19:43:34.040Z,"19 km ENE of Atico, Peru",earthquake,8.62,6.998,0.03,358.0,reviewed,us,us
 2023-03-05T19:49:29.900Z,38.833168,-122.8176651,1.7,1.35,md,23.0,57.0,0.01142,0.02,nc,nc73855776,2023-03-05T19:51:06.197Z,"8km NW of The Geysers, CA",earthquake,0.2,0.42,0.17,24.0,automatic,nc,nc
 2023-03-05T19:49:06.604Z,61.4605,-150.2059,36.5,1.5,ml,,,,0.75,ak,ak0232y5zyp0,2023-03-05T19:51:14.982Z,"15 km WSW of Big Lake, Alaska",earthquake,,8.2,,,automatic,ak,ak
+2023-03-05T20:20:10.950Z,38.7496681,-122.7258301,1.69,1.28,md,10.0,165.0,0.01193,0.02,nc,nc73855786,2023-03-05T20:21:44.874Z,"4km SE of The Geysers, CA",earthquake,0.31,0.54,0.1,9.0,automatic,nc,nc
+2023-03-05T20:08:54.190Z,38.7796669,-122.7306671,0.0,1.1,md,8.0,168.0,0.005927,0.03,nc,nc73855781,2023-03-05T20:24:09.553Z,"2km E of The Geysers, CA",earthquake,0.37,1.08,0.14,7.0,automatic,nc,nc
