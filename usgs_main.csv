@@ -488,3 +488,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T06:01:24.543Z,62.088,-148.6759,35.6,1.7,ml,,,,0.44,ak,ak0232xxz2ue,2023-03-05T06:03:26.391Z,"34 km NNW of Chickaloon, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-03-05T05:55:39.390Z,38.8196678,-122.7955017,2.39,1.08,md,16.0,57.0,0.01168,0.1,nc,nc73855566,2023-03-05T06:13:12.351Z,"6km NW of The Geysers, CA",earthquake,0.43,0.98,0.17,18.0,automatic,nc,nc
 2023-03-04T22:16:15.420Z,49.349833333333336,-120.48983333333334,-0.51,2.04,ml,8.0,219.0,0.5661,0.34,uw,uw61900622,2023-03-05T06:04:00.000Z,"12 km S of Princeton, Canada",explosion,3.64,31.61,0.2003333829814846,6.0,reviewed,uw,uw
+2023-03-04T23:23:54.030Z,47.7905,-122.85316666666668,22.43,1.42,ml,17.0,73.0,0.04469,0.3,uw,uw61900632,2023-03-05T06:49:06.260Z,"3 km SSE of Quilcene, Washington",earthquake,0.66,0.93,0.2596714083640251,7.0,reviewed,uw,uw
