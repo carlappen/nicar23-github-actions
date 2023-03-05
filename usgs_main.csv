@@ -470,3 +470,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T04:35:16.976Z,60.4005,-152.4305,84.9,1.6,ml,,,,0.32,ak,ak0232xwzhe9,2023-03-05T04:36:45.337Z,"57 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-05T04:34:00.900Z,38.7895012,-122.7613297,1.29,1.32,md,20.0,78.0,0.01118,0.03,nc,nc73855546,2023-03-05T04:35:34.345Z,"1km NNW of The Geysers, CA",earthquake,0.23,0.4,0.18,20.0,automatic,nc,nc
 2023-03-05T04:48:31.290Z,61.1586,-149.6937,33.6,2.0,ml,,,,0.43,ak,ak0232xx2at5,2023-03-05T04:50:18.786Z,"11 km SSW of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-05T05:10:11.780Z,33.4041667,-116.3963333,4.52,2.12,ml,69.0,30.0,0.1214,0.22,ci,ci40421056,2023-03-05T05:21:32.940Z,"17km N of Borrego Springs, CA",earthquake,0.2,0.94,0.174,24.0,automatic,ci,ci
+2023-03-05T05:04:57.280Z,17.9678333333333,-66.338,3.75,2.43,md,10.0,181.0,0.22,0.24,pr,pr71398333,2023-03-05T05:20:01.540Z,"2 km SW of Las Ochenta, Puerto Rico",earthquake,0.65,0.73,0.173285032641991,3.0,reviewed,pr,pr
+2023-03-05T05:03:34.729Z,62.8872,-149.4618,61.4,1.7,ml,,,,0.45,ak,ak0232xxe3gg,2023-03-05T05:05:22.763Z,"58 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
