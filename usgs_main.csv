@@ -476,3 +476,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T05:32:26.095Z,60.9926,-150.738,44.5,1.6,ml,,,,0.09,ak,ak0232xxkak1,2023-03-05T05:33:52.722Z,"8 km NNW of Point Possession, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-03-05T05:23:40.460Z,19.1928329467773,-155.384506225586,31.0,2.00999999,md,36.0,164.0,,0.119999997,hv,hv73333627,2023-03-05T05:26:59.650Z,"Island of Hawaii, Hawaii",earthquake,0.72,0.800000012,1.61000001,10.0,automatic,hv,hv
 2023-03-04T06:42:45.810Z,48.408,-122.43683333333334,8.13,1.85,ml,31.0,127.0,0.02108,0.23,uw,uw61900582,2023-03-05T05:34:00.990Z,"4 km ENE of La Conner, Washington",earthquake,0.4,0.46,0.2216030224736112,18.0,reviewed,uw,uw
+2023-03-05T05:43:07.119Z,58.1857,-155.2546,1.1,0.4,ml,,,,0.32,ak,ak0232xxmlyv,2023-03-05T05:44:42.696Z,"83 km NW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2023-03-05T05:42:47.110Z,38.8131676,-122.8248367,1.84,0.76,md,7.0,89.0,0.005471,0.01,nc,nc73855561,2023-03-05T05:44:24.885Z,"7km NW of The Geysers, CA",earthquake,0.65,1.06,0.25,8.0,automatic,nc,nc
