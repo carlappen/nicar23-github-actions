@@ -562,3 +562,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T16:04:35.630Z,38.0400009,-122.2118301,8.63,2.0,md,36.0,67.0,0.0511,0.13,nc,nc73855721,2023-03-05T16:25:54.593Z,"1km S of Crockett, CA",earthquake,0.24,0.39,0.16,31.0,automatic,nc,nc
 2023-03-05T07:28:05.820Z,37.0504,-116.1306,5.5,0.1,ml,10.0,105.94,0.066,0.1231,nn,nn00856592,2023-03-05T16:09:36.585Z,Nevada,earthquake,,2.7,1.33,6.0,reviewed,nn,nn
 2023-03-05T06:06:15.670Z,37.1276,-116.2722,9.6,-0.1,ml,5.0,158.74,0.023,0.0475,nn,nn00856591,2023-03-05T16:06:30.039Z,"49 km ENE of Beatty, Nevada",earthquake,,2.8,0.41,4.0,reviewed,nn,nn
+2023-03-05T17:01:40.898Z,60.6138,-150.4179,45.4,1.8,ml,,,,0.68,ak,ak0232y4ivrd,2023-03-05T17:03:14.811Z,"20 km ENE of Sterling, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-05T17:00:10.330Z,38.788166,-122.8261642,-0.69,0.87,md,5.0,200.0,0.01805,0.05,nc,nc73855731,2023-03-05T17:17:19.418Z,"6km WNW of The Geysers, CA",earthquake,0.8,6.95,0.26,9.0,automatic,nc,nc
+2023-03-05T14:29:49.723Z,25.755,-110.1232,10.0,4.5,mb,24.0,95.0,2.067,1.16,us,us7000jhgu,2023-03-05T17:14:17.040Z,"79 km W of Las Grullas Margen Derecha, Mexico",earthquake,7.62,1.945,0.066,66.0,reviewed,us,us
