@@ -607,3 +607,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T21:46:17.030Z,38.8424988,-122.8753357,2.26,1.1,md,17.0,122.0,0.005808,0.02,nc,nc73855821,2023-03-05T21:47:51.473Z,"13km NW of The Geysers, CA",earthquake,0.54,0.65,0.14,18.0,automatic,nc,nc
 2023-03-05T20:49:46.684Z,36.8151,36.1812,10.0,4.8,mwr,113.0,69.0,0.775,0.86,us,us7000jhi7,2023-03-05T21:45:32.040Z,"5 km WSW of Dörtyol, Turkey",earthquake,5.15,1.835,0.066,22.0,reviewed,us,us
 2023-03-05T19:18:04.240Z,18.0426666666667,-66.9785,7.08,2.32,md,4.0,191.0,0.09601,0.09,pr,pr71398398,2023-03-05T21:51:43.070Z,"3 km W of Liborio Negron Torres, Puerto Rico",earthquake,1.72,1.35,0.0973393497641875,2.0,reviewed,pr,pr
+2023-03-05T22:22:11.190Z,33.5268333,-116.7245,4.81,0.55,ml,18.0,48.0,0.03992,0.14,ci,ci40421344,2023-03-05T22:25:49.024Z,"6km WSW of Anza, CA",earthquake,0.31,0.6,0.085,17.0,automatic,ci,ci
+2023-03-05T22:16:04.830Z,33.7761667,-116.9411667,13.12,0.92,ml,16.0,105.0,0.08448,0.21,ci,ci40421336,2023-03-05T22:19:40.723Z,"2km ESE of San Jacinto, CA",earthquake,0.45,0.86,0.18,18.0,automatic,ci,ci
+2023-03-05T22:07:14.909Z,-28.1833,-71.7292,10.0,4.0,mwr,19.0,199.0,1.224,0.55,us,us7000jhil,2023-03-05T22:23:44.040Z,"104 km WNW of Vallenar, Chile",earthquake,6.12,1.989,0.073,18.0,reviewed,us,us
+2023-03-05T21:54:48.710Z,33.7718333,-116.9386667,13.94,0.84,ml,22.0,106.0,0.08236,0.26,ci,ci40421328,2023-03-05T21:58:24.096Z,"2km SE of San Jacinto, CA",earthquake,0.52,0.88,0.173,20.0,automatic,ci,ci
