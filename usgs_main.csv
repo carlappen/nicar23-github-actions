@@ -507,3 +507,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T08:36:51.410Z,33.7668333,-116.9461667,15.5,1.02,ml,29.0,53.0,0.04488,0.29,ci,ci40421096,2023-03-05T08:40:23.433Z,"2km SSE of San Jacinto, CA",earthquake,0.44,0.78,0.146,27.0,automatic,ci,ci
 2023-03-05T08:36:09.420Z,38.8413315,-122.8424988,2.31,0.66,md,9.0,138.0,0.006122,0.06,nc,nc73855606,2023-03-05T08:37:44.260Z,"10km NW of The Geysers, CA",earthquake,0.6,0.63,0.28,8.0,automatic,nc,nc
 2023-03-05T08:29:52.129Z,61.1632,-147.1391,0.0,1.5,ml,,,,1.44,ak,ak0232xzc06s,2023-03-05T08:32:02.851Z,"41 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-05T08:43:47.230Z,32.4383333,-115.2348333,2.17,1.95,ml,12.0,96.0,0.06224,0.36,ci,ci40421112,2023-03-05T08:47:29.492Z,"10km NNW of Delta, B.C., MX",earthquake,0.77,1.49,0.259,18.0,automatic,ci,ci
