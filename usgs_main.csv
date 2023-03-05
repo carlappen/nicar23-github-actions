@@ -575,3 +575,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T18:08:43.580Z,33.7678333,-116.9373333,13.05,1.12,ml,30.0,41.0,0.08006,0.23,ci,ci40421288,2023-03-05T18:12:17.353Z,"3km SE of San Jacinto, CA",earthquake,0.33,0.69,0.157,28.0,automatic,ci,ci
 2023-03-05T18:03:45.538Z,31.6567,-104.2976,9.785,2.6,ml,23.0,110.0,0.174,0.42,us,us7000jhhi,2023-03-05T18:15:36.040Z,"58 km S of Whites City, New Mexico",earthquake,1.45,7.479,0.06,58.0,reviewed,us,us
 2023-03-05T17:54:23.190Z,33.9876667,-116.9465,15.24,1.0,ml,16.0,206.0,0.07192,0.26,ci,ci40421280,2023-03-05T17:57:55.104Z,"7km NNE of Beaumont, CA",earthquake,1.33,1.62,0.11,19.0,automatic,ci,ci
+2023-03-05T18:36:50.220Z,39.519165,-122.4670029,4.45,2.82,ml,7.0,170.0,0.297,0.35,nc,nc73855761,2023-03-05T18:39:35.051Z,"9km SE of Stony Gorge Reservoir, CA",earthquake,1.7,28.68,0.451,7.0,automatic,nc,nc
+2023-03-05T18:34:06.187Z,62.1961,-149.3647,32.3,1.7,ml,,,,0.3,ak,ak0232y5bbbe,2023-03-05T18:35:56.894Z,Central Alaska,earthquake,,0.2,,,automatic,ak,ak
