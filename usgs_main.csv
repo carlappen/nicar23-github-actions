@@ -509,3 +509,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T08:29:52.129Z,61.1632,-147.1391,0.0,1.5,ml,,,,1.44,ak,ak0232xzc06s,2023-03-05T08:32:02.851Z,"41 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-05T08:43:47.230Z,32.4383333,-115.2348333,2.17,1.95,ml,12.0,96.0,0.06224,0.36,ci,ci40421112,2023-03-05T08:47:29.492Z,"10km NNW of Delta, B.C., MX",earthquake,0.77,1.49,0.259,18.0,automatic,ci,ci
 2023-03-05T06:25:43.024Z,34.7587,38.0259,10.012,4.0,mb,31.0,157.0,2.498,0.53,us,us7000jhfy,2023-03-05T09:10:25.040Z,"32 km NW of Tadmur, Syria",earthquake,4.29,6.65,0.156,11.0,reviewed,us,us
+2023-03-05T09:33:57.670Z,38.4835014,-122.7600021,6.44,1.86,md,17.0,71.0,0.1073,0.09,nc,nc73855626,2023-03-05T09:35:35.137Z,"3km SSW of Larkfield-Wikiup, CA",earthquake,0.29,0.95,0.14,16.0,automatic,nc,nc
+2023-03-05T09:28:45.210Z,33.7015,-116.7551667,14.39,1.44,ml,49.0,28.0,0.03551,0.19,ci,ci40421120,2023-03-05T09:32:20.151Z,"5km SW of Idyllwild, CA",earthquake,0.2,0.33,0.191,27.0,automatic,ci,ci
