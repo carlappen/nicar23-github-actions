@@ -546,3 +546,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T13:48:39.200Z,19.1784992218018,-155.483993530273,35.6699981689453,1.88,md,36.0,150.0,,0.150000006,hv,hv73333832,2023-03-05T13:51:52.790Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.72,1.11000001,1.72000003,7.0,automatic,hv,hv
 2023-03-05T14:32:51.594Z,61.4036,-150.1235,32.0,1.4,ml,,,,0.52,ak,ak0232y2x8yv,2023-03-05T14:34:40.011Z,"9 km WNW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-05T14:24:39.300Z,33.7641667,-116.933,13.94,0.79,ml,16.0,77.0,0.07727,0.17,ci,ci40421232,2023-03-05T14:28:13.669Z,"3km SE of San Jacinto, CA",earthquake,0.36,0.72,0.149,23.0,automatic,ci,ci
+2023-03-05T14:39:37.983Z,59.1596,-137.5861,0.0,2.5,ml,,,,1.07,ak,ak0232y2ypxi,2023-03-05T14:41:39.856Z,"93 km WSW of Covenant Life, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-05T14:34:01.340Z,59.6666,-153.3473,102.8,2.0,ml,,,,0.38,ak,ak0232y2xkiu,2023-03-05T14:36:07.265Z,"44 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-04T23:45:23.480Z,36.4701666666667,-89.5483333333333,9.19,1.87,md,28.0,55.0,0.0673,0.08,nm,nm60513301,2023-03-05T14:37:54.270Z,"7 km SE of Marston, Missouri",earthquake,0.14,0.41,0.101196718921907,20.0,reviewed,nm,nm
