@@ -581,3 +581,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T18:43:08.240Z,46.31666564941406,-122.2483367919922,14.2399997711182,1.09000003,md,24.0,100.0,0.01758,0.129999995,uw,uw61900667,2023-03-05T18:46:42.620Z,"26 km S of Morton, Washington",earthquake,0.58,0.860000014,0.460000008,3.0,reviewed,uw,uw
 2023-03-05T18:41:45.504Z,59.3877,-152.6889,81.7,1.6,ml,,,,0.72,ak,ak0232y5cwd2,2023-03-05T18:44:19.824Z,Southern Alaska,earthquake,,1.0,,,automatic,ak,ak
 2023-03-05T18:40:10.684Z,61.0044,-152.2766,111.7,1.9,ml,,,,0.67,ak,ak0232y5clyt,2023-03-05T18:42:49.855Z,"62 km W of Tyonek, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-05T19:13:25.140Z,56.8547,-158.208,0.0,2.5,ml,,,,1.16,ak,ak0232y5saci,2023-03-05T19:15:25.484Z,"27 km ESE of Port Heiden, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-05T18:59:48.283Z,61.6551,-149.788,12.6,1.2,ml,,,,0.78,ak,ak0232y5grgs,2023-03-05T19:01:43.492Z,"3 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-05T18:53:01.810Z,38.7910004,-122.7596664,2.33,0.71,md,9.0,113.0,0.009611,0.02,nc,nc73855766,2023-03-05T19:10:14.104Z,"2km N of The Geysers, CA",earthquake,0.64,0.91,0.15,9.0,automatic,nc,nc
+2023-03-05T18:50:01.742Z,63.4271,-150.3679,127.7,1.4,ml,,,,0.29,ak,ak0232y5eqfi,2023-03-05T18:53:00.364Z,"68 km E of Denali National Park, Alaska",earthquake,,2.1,,,automatic,ak,ak
