@@ -611,3 +611,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T22:16:04.830Z,33.7761667,-116.9411667,13.12,0.92,ml,16.0,105.0,0.08448,0.21,ci,ci40421336,2023-03-05T22:19:40.723Z,"2km ESE of San Jacinto, CA",earthquake,0.45,0.86,0.18,18.0,automatic,ci,ci
 2023-03-05T22:07:14.909Z,-28.1833,-71.7292,10.0,4.0,mwr,19.0,199.0,1.224,0.55,us,us7000jhil,2023-03-05T22:23:44.040Z,"104 km WNW of Vallenar, Chile",earthquake,6.12,1.989,0.073,18.0,reviewed,us,us
 2023-03-05T21:54:48.710Z,33.7718333,-116.9386667,13.94,0.84,ml,22.0,106.0,0.08236,0.26,ci,ci40421328,2023-03-05T21:58:24.096Z,"2km SE of San Jacinto, CA",earthquake,0.52,0.88,0.173,20.0,automatic,ci,ci
+2023-03-05T22:30:39.720Z,62.1099,-147.5689,32.0,1.4,ml,,,,0.75,ak,ak0232y7o9gk,2023-03-05T22:32:17.807Z,"28 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
