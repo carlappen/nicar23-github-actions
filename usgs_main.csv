@@ -577,3 +577,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T17:54:23.190Z,33.9876667,-116.9465,15.24,1.0,ml,16.0,206.0,0.07192,0.26,ci,ci40421280,2023-03-05T17:57:55.104Z,"7km NNE of Beaumont, CA",earthquake,1.33,1.62,0.11,19.0,automatic,ci,ci
 2023-03-05T18:36:50.220Z,39.519165,-122.4670029,4.45,2.82,ml,7.0,170.0,0.297,0.35,nc,nc73855761,2023-03-05T18:39:35.051Z,"9km SE of Stony Gorge Reservoir, CA",earthquake,1.7,28.68,0.451,7.0,automatic,nc,nc
 2023-03-05T18:34:06.187Z,62.1961,-149.3647,32.3,1.7,ml,,,,0.3,ak,ak0232y5bbbe,2023-03-05T18:35:56.894Z,Central Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-03-05T18:43:34.047Z,63.8734,-148.8238,108.4,1.6,ml,,,,0.35,ak,ak0232y5daws,2023-03-05T18:45:43.525Z,"7 km ENE of Healy, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-03-05T18:43:08.240Z,46.31666564941406,-122.2483367919922,14.2399997711182,1.09000003,md,24.0,100.0,0.01758,0.129999995,uw,uw61900667,2023-03-05T18:46:42.620Z,"26 km S of Morton, Washington",earthquake,0.58,0.860000014,0.460000008,3.0,reviewed,uw,uw
+2023-03-05T18:41:45.504Z,59.3877,-152.6889,81.7,1.6,ml,,,,0.72,ak,ak0232y5cwd2,2023-03-05T18:44:19.824Z,Southern Alaska,earthquake,,1.0,,,automatic,ak,ak
+2023-03-05T18:40:10.684Z,61.0044,-152.2766,111.7,1.9,ml,,,,0.67,ak,ak0232y5clyt,2023-03-05T18:42:49.855Z,"62 km W of Tyonek, Alaska",earthquake,,1.0,,,automatic,ak,ak
