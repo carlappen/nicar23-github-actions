@@ -603,3 +603,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T20:43:02.863Z,7.4993,126.1868,10.0,5.4,mww,50.0,107.0,0.739,0.89,us,us7000jhi6,2023-03-05T21:16:16.512Z,"Mindanao, Philippines",earthquake,2.77,1.91,0.098,10.0,reviewed,us,us
 2023-03-05T19:35:51.434Z,37.0124,-97.8533,5.0,2.1,mb_lg,27.0,87.0,0.16,0.26,us,us7000jhhv,2023-03-05T21:12:30.040Z,Kansas,earthquake,1.34,1.789,0.18,8.0,reviewed,us,us
 2023-03-05T21:19:59.140Z,18.0705,-64.8176666666667,7.93,3.12,md,6.0,161.0,0.2633,0.28,pr,pr71398393,2023-03-05T21:30:22.910Z,Virgin Islands,earthquake,0.95,2.41,0.145465561562224,6.0,reviewed,pr,pr
+2023-03-05T21:49:25.699Z,57.4444,-154.6239,25.7,1.9,ml,,,,0.8,ak,ak0232y76vdl,2023-03-05T21:51:22.483Z,"17 km SW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-05T21:46:17.030Z,38.8424988,-122.8753357,2.26,1.1,md,17.0,122.0,0.005808,0.02,nc,nc73855821,2023-03-05T21:47:51.473Z,"13km NW of The Geysers, CA",earthquake,0.54,0.65,0.14,18.0,automatic,nc,nc
+2023-03-05T20:49:46.684Z,36.8151,36.1812,10.0,4.8,mwr,113.0,69.0,0.775,0.86,us,us7000jhi7,2023-03-05T21:45:32.040Z,"5 km WSW of Dörtyol, Turkey",earthquake,5.15,1.835,0.066,22.0,reviewed,us,us
+2023-03-05T19:18:04.240Z,18.0426666666667,-66.9785,7.08,2.32,md,4.0,191.0,0.09601,0.09,pr,pr71398398,2023-03-05T21:51:43.070Z,"3 km W of Liborio Negron Torres, Puerto Rico",earthquake,1.72,1.35,0.0973393497641875,2.0,reviewed,pr,pr
