@@ -673,3 +673,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T04:38:43.630Z,32.643,-115.7241667,9.92,1.95,ml,28.0,68.0,0.006583,0.26,ci,ci40421400,2023-03-06T04:42:41.174Z,"15km WNW of Progreso, B.C., MX",earthquake,0.66,0.94,0.164,26.0,automatic,ci,ci
 2023-03-06T04:37:29.020Z,33.485,-116.3875,11.6,0.57,ml,11.0,211.0,0.1387,0.2,ci,ci40421392,2023-03-06T04:41:02.158Z,"21km SSW of La Quinta, CA",earthquake,1.12,1.68,0.133,9.0,automatic,ci,ci
 2023-03-06T04:50:21.470Z,33.765,-116.929,10.69,0.51,ml,10.0,156.0,0.07784,0.18,ci,ci40421408,2023-03-06T04:53:46.223Z,"3km SE of San Jacinto, CA",earthquake,0.71,0.74,0.148,11.0,automatic,ci,ci
+2023-03-06T05:02:30.809Z,60.6963,-146.7104,17.4,1.9,ml,,,,0.6,ak,ak0232zkx7xk,2023-03-06T05:04:14.810Z,"18 km S of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-06T04:55:39.046Z,63.4563,-151.2658,2.0,1.5,ml,,,,0.76,ak,ak0232zkn5ww,2023-03-06T04:57:54.755Z,"24 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
