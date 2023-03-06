@@ -775,3 +775,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T06:45:13.184Z,58.2617,-152.1917,77.5,1.6,ml,,,,1.38,ak,ak0232zlrusy,2023-03-06T16:10:53.832Z,"41 km NNE of Ouzinkie, Alaska",earthquake,,2.9,,,reviewed,ak,ak
 2023-03-06T02:34:10.956Z,31.66358902,-104.418757,5.514575195,2.4,ml,37.0,70.0,0.01352245993,0.3,tx,tx2023endi,2023-03-06T16:15:45.775Z,"56 km S of Whites City, New Mexico",earthquake,0.9192779117,0.7791561685,0.1,19.0,reviewed,tx,tx
 2023-03-06T02:34:10.850Z,31.65667402,-104.4219227,6.028735352,2.4,ml,45.0,58.0,0.008631043735,0.3,tx,tx2023endh,2023-03-06T16:26:32.706Z,"57 km S of Whites City, New Mexico",earthquake,0.8145574639,0.661716998,0.1,18.0,reviewed,tx,tx
+2023-03-06T13:05:43.461Z,37.1822,-117.3506,4.2,0.4,ml,17.0,98.42,0.187,0.1884,nn,nn00856596,2023-03-06T16:54:29.783Z,"59 km S of Goldfield, Nevada",earthquake,,3.2,1.02,7.0,reviewed,nn,nn
