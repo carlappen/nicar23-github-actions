@@ -823,3 +823,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T19:04:33.294Z,-8.0466,120.004,212.731,4.5,mb,45.0,65.0,2.286,0.82,us,us7000jhq1,2023-03-06T22:13:00.040Z,"51 km NNE of Labuan Bajo, Indonesia",earthquake,8.79,8.812,0.104,27.0,reviewed,us,us
 2023-03-06T22:24:48.703Z,42.3331,144.5555,47.631,5.1,mb,94.0,101.0,1.087,0.69,us,us7000jhrf,2023-03-06T22:40:59.040Z,"72 km SSE of Kushiro, Japan",earthquake,7.64,6.659,0.036,256.0,reviewed,us,us
 2023-03-06T20:32:01.090Z,12.1917,-87.9494,43.907,4.5,mb,57.0,128.0,1.26,1.24,us,us7000jhqh,2023-03-06T22:31:51.040Z,"81 km SW of Jiquilillo, Nicaragua",earthquake,6.91,8.117,0.058,89.0,reviewed,us,us
+2023-03-06T22:49:31.232Z,62.8992,-148.8167,17.5,1.7,ml,,,,0.88,ak,ak0232zvbnwj,2023-03-06T22:51:19.519Z,"55 km S of Cantwell, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-03-06T22:45:51.610Z,33.528,-116.7271667,4.85,0.66,ml,22.0,50.0,0.03825,0.09,ci,ci40421576,2023-03-06T22:49:23.170Z,"6km WSW of Anza, CA",earthquake,0.18,0.37,0.089,16.0,automatic,ci,ci
+2023-03-06T22:44:50.670Z,38.529335,-122.6508331,7.41,1.49,md,12.0,139.0,0.06509,0.07,nc,nc73856241,2023-03-06T22:46:28.281Z,"8km SW of Calistoga, CA",earthquake,0.42,0.9,0.2,12.0,automatic,nc,nc
