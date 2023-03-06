@@ -808,3 +808,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T19:10:47.300Z,39.358,-111.832,7.06,1.82,ml,20.0,47.0,0.1489,0.12,uu,uu60532711,2023-03-06T20:13:33.360Z,"14 km N of Fayette, Utah",earthquake,0.24,1.18,0.104,6.0,reviewed,uu,uu
 2023-03-06T12:54:02.980Z,46.19433333333333,-122.201,6.34,0.36,ml,19.0,71.0,0.008906,0.15,uw,uw61900712,2023-03-06T19:54:55.550Z,"36 km NNE of Amboy, Washington",earthquake,0.32,0.41,0.1331443688022246,9.0,reviewed,uw,uw
 2023-03-06T03:58:31.580Z,46.1965,-122.19266666666668,-0.11,0.44,md,8.0,71.0,0.003513,0.06,uw,uw61502458,2023-03-06T20:04:47.860Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.5,0.0540446426992127,3.0,reviewed,uw,uw
+2023-03-06T20:36:15.170Z,32.5995,-116.99,2.74,1.27,ml,16.0,246.0,0.05114,0.16,ci,ci40421568,2023-03-06T20:39:56.341Z,"6km ESE of Chula Vista, CA",quarry blast,1.18,0.42,0.092,10.0,automatic,ci,ci
+2023-03-06T20:30:53.214Z,59.9628,-152.5769,90.8,1.7,ml,,,,0.71,ak,ak0232zu0rs9,2023-03-06T20:33:48.175Z,"46 km WNW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
