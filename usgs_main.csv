@@ -737,3 +737,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T10:45:56.080Z,38.8383331,-122.8078308,2.34,0.7,md,10.0,83.0,0.01366,0.01,nc,nc73856081,2023-03-06T10:47:29.139Z,"8km WNW of Cobb, CA",earthquake,0.39,1.09,0.42,11.0,automatic,nc,nc
 2023-03-06T11:18:29.670Z,38.8503342,-122.8485031,1.05,0.6,md,11.0,115.0,0.01552,0.01,nc,nc73856086,2023-03-06T11:20:05.282Z,"11km WNW of Cobb, CA",earthquake,0.32,0.86,0.33,11.0,automatic,nc,nc
 2023-03-06T11:12:45.550Z,19.4459991455078,-155.23616027832,27.7999992370605,2.41,ml,43.0,70.0,,0.129999995,hv,hv73334482,2023-03-06T11:18:14.410Z,"0 km NNW of Volcano, Hawaii",earthquake,0.54,0.400000006,0.44,4.0,automatic,hv,hv
+2023-03-06T11:26:54.349Z,63.8895,-153.3622,1.0,2.5,ml,,,,0.58,ak,ak0232zon0ka,2023-03-06T11:29:47.382Z,"51 km W of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-06T10:55:55.730Z,18.0153333333333,-66.8391666666667,12.41,2.63,md,6.0,175.0,0.2004,0.13,pr,pr71398553,2023-03-06T11:32:11.990Z,"2 km SSE of Yauco, Puerto Rico",earthquake,0.6,2.81,0.0093642359194294,3.0,reviewed,pr,pr
