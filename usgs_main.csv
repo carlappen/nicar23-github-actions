@@ -811,3 +811,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T20:36:15.170Z,32.5995,-116.99,2.74,1.27,ml,16.0,246.0,0.05114,0.16,ci,ci40421568,2023-03-06T20:39:56.341Z,"6km ESE of Chula Vista, CA",quarry blast,1.18,0.42,0.092,10.0,automatic,ci,ci
 2023-03-06T20:30:53.214Z,59.9628,-152.5769,90.8,1.7,ml,,,,0.71,ak,ak0232zu0rs9,2023-03-06T20:33:48.175Z,"46 km WNW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-06T09:25:35.260Z,37.732,-118.7826667,5.23,1.63,md,17.0,113.0,0.05919,0.06,nc,nc73856051,2023-03-06T20:50:48.473Z,"20km ENE of Mammoth Lakes, CA",earthquake,0.36,0.82,0.222,21.0,reviewed,nc,nc
+2023-03-06T21:00:47.990Z,58.2104,-155.6231,51.1,0.8,ml,,,,0.2,ak,ak0232zufri7,2023-03-06T21:02:18.562Z,Alaska Peninsula,earthquake,,2.5,,,automatic,ak,ak
+2023-03-06T20:59:59.964Z,-20.7817,-178.3,526.424,5.8,mww,92.0,40.0,2.919,1.21,us,us7000jhqt,2023-03-06T21:19:38.911Z,Fiji region,earthquake,10.44,7.005,0.073,18.0,reviewed,us,us
+2023-03-06T20:55:54.819Z,61.7267,-150.4622,43.1,2.7,ml,,,,0.6,ak,ak0232zu63iu,2023-03-06T21:08:01.606Z,"20 km N of Susitna, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2023-03-06T20:22:00.245Z,12.086,-88.0251,43.259,4.7,mb,47.0,123.0,1.36,0.91,us,us7000jhqd,2023-03-06T21:02:06.040Z,"96 km SW of Jiquilillo, Nicaragua",earthquake,6.69,9.051,0.044,156.0,reviewed,us,us
