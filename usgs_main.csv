@@ -750,3 +750,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T12:05:54.710Z,32.986,-115.512,2.85,1.52,ml,14.0,91.0,0.07853,0.27,ci,ci40421480,2023-03-06T12:09:34.370Z,"2km ENE of Brawley, CA",earthquake,0.57,0.86,0.217,17.0,automatic,ci,ci
 2023-03-06T12:00:51.500Z,33.4925,-116.784,3.94,1.0,ml,40.0,36.0,0.02407,0.17,ci,ci40421472,2023-03-06T12:04:26.088Z,"9km NE of Aguanga, CA",earthquake,0.19,0.47,0.141,26.0,automatic,ci,ci
 2023-03-06T11:02:57.035Z,36.2306,36.0127,10.0,4.0,mb,35.0,117.0,1.345,0.34,us,us7000jhlx,2023-03-06T12:18:34.040Z,"5 km WNW of Toygarlı, Turkey",earthquake,5.12,1.881,0.164,10.0,reviewed,us,us
+2023-03-06T13:30:16.732Z,61.6126,-149.4185,34.5,1.2,ml,,,,0.26,ak,ak0232zpunqh,2023-03-06T13:32:50.192Z,"1 km SSE of Tanaina, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-03-06T13:21:49.060Z,36.8865013,-121.643837,7.92,1.07,md,7.0,92.0,0.04164,0.18,nc,nc73856111,2023-03-06T13:38:13.834Z,"0km SSW of Aromas, CA",earthquake,0.75,1.82,0.16,6.0,automatic,nc,nc
