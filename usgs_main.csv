@@ -756,3 +756,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T13:48:14.102Z,61.1582,-146.8665,35.5,1.4,ml,,,,0.65,ak,ak023tx7l3fw,2023-03-06T13:50:27.245Z,"28 km W of Valdez, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-03-06T14:06:04.050Z,19.2455005645752,-155.429168701172,33.8400001525879,2.29999995,md,16.0,190.0,,0.100000001,hv,hv73334527,2023-03-06T14:09:05.550Z,"7 km NE of Pāhala, Hawaii",earthquake,1.4,3.1500001,0.99000001,3.0,automatic,hv,hv
 2023-03-05T19:49:56.040Z,44.5905,-111.1376667,8.48,1.55,ml,14.0,106.0,0.03045,0.18,uu,uu60532681,2023-03-06T14:39:34.780Z,"8 km SSW of West Yellowstone, Montana",earthquake,0.59,0.85,0.74,3.0,reviewed,uu,uu
+2023-03-06T14:44:54.190Z,59.7584,-152.9839,94.8,2.1,ml,,,,0.5,ak,ak0232zqj697,2023-03-06T14:50:14.725Z,"63 km E of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
