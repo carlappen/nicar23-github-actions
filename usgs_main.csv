@@ -776,3 +776,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T02:34:10.956Z,31.66358902,-104.418757,5.514575195,2.4,ml,37.0,70.0,0.01352245993,0.3,tx,tx2023endi,2023-03-06T16:15:45.775Z,"56 km S of Whites City, New Mexico",earthquake,0.9192779117,0.7791561685,0.1,19.0,reviewed,tx,tx
 2023-03-06T02:34:10.850Z,31.65667402,-104.4219227,6.028735352,2.4,ml,45.0,58.0,0.008631043735,0.3,tx,tx2023endh,2023-03-06T16:26:32.706Z,"57 km S of Whites City, New Mexico",earthquake,0.8145574639,0.661716998,0.1,18.0,reviewed,tx,tx
 2023-03-06T13:05:43.461Z,37.1822,-117.3506,4.2,0.4,ml,17.0,98.42,0.187,0.1884,nn,nn00856596,2023-03-06T16:54:29.783Z,"59 km S of Goldfield, Nevada",earthquake,,3.2,1.02,7.0,reviewed,nn,nn
+2023-03-06T17:07:09.940Z,38.8178329,-122.7624969,1.74,1.16,md,9.0,116.0,0.01389,0.01,nc,nc73856161,2023-03-06T17:27:11.214Z,"3km W of Cobb, CA",earthquake,0.38,0.98,0.33,10.0,automatic,nc,nc
+2023-03-06T17:07:09.016Z,36.7582,-116.2354,4.0,0.0,ml,10.0,97.36,0.033,0.1208,nn,nn00856600,2023-03-06T17:07:57.921Z,"49 km ESE of Beatty, Nevada",earthquake,,0.8,0.94,5.0,automatic,nn,nn
+2023-03-06T15:07:42.542Z,54.3366,-159.7092,25.6,3.3,ml,0.0,,,0.53,us,us7000jhn8,2023-03-06T16:56:30.040Z,"122 km SSE of Sand Point, Alaska",earthquake,6.01,8.882,0.115,10.0,reviewed,ak,us
+2023-03-06T00:28:51.150Z,36.4145,-89.5341666666667,9.1,1.74,md,29.0,55.0,0.04103,0.05,nm,nm60513391,2023-03-06T17:12:19.690Z,"6 km NW of Tiptonville, Tennessee",earthquake,0.2,0.41,0.152818656400786,17.0,reviewed,nm,nm
