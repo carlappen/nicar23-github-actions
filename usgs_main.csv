@@ -817,3 +817,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T20:22:00.245Z,12.086,-88.0251,43.259,4.7,mb,47.0,123.0,1.36,0.91,us,us7000jhqd,2023-03-06T21:02:06.040Z,"96 km SW of Jiquilillo, Nicaragua",earthquake,6.69,9.051,0.044,156.0,reviewed,us,us
 2023-03-06T21:32:01.386Z,61.1972,-150.8943,50.3,1.8,ml,,,,0.78,ak,ak0232zumitm,2023-03-06T21:33:34.906Z,"11 km ENE of Beluga, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-03-06T21:29:43.940Z,38.793335,-122.7486649,1.89,0.95,md,12.0,90.0,0.01374,0.02,nc,nc73856216,2023-03-06T21:31:16.337Z,"2km NNE of The Geysers, CA",earthquake,0.28,0.8,0.2,13.0,automatic,nc,nc
+2023-03-06T21:36:19.190Z,38.833168,-122.7931671,1.7,0.67,md,10.0,82.0,0.005679,0.01,nc,nc73856221,2023-03-06T21:37:56.270Z,"6km WNW of Cobb, CA",earthquake,0.4,0.67,0.25,12.0,automatic,nc,nc
