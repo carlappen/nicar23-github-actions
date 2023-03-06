@@ -742,3 +742,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T11:41:53.424Z,63.1391,-149.217,66.9,1.4,ml,,,,0.51,ak,ak0232zoq88e,2023-03-06T11:43:46.477Z,"31 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-06T11:39:54.600Z,38.7878342,-122.767334,2.09,1.32,md,21.0,79.0,0.01409,0.03,nc,nc73856091,2023-03-06T11:41:29.779Z,"2km NW of The Geysers, CA",earthquake,0.24,0.53,0.11,22.0,automatic,nc,nc
 2023-03-06T11:43:36.034Z,65.3552,-145.0456,0.8,1.8,ml,,,,1.13,ak,ak0232zoqmbn,2023-03-06T11:46:27.625Z,"26 km SSW of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-06T13:01:37.180Z,35.5056667,-118.3913333,8.61,1.26,ml,14.0,66.0,0.1706,0.09,ci,ci40421496,2023-03-06T13:05:04.761Z,"13km SE of Bodfish, CA",earthquake,0.2,1.08,0.13,12.0,automatic,ci,ci
+2023-03-06T12:56:05.350Z,38.8276672,-122.8143311,1.68,0.21,md,8.0,113.0,0.005409,0.01,nc,nc73856106,2023-03-06T13:13:14.716Z,"8km NW of The Geysers, CA",earthquake,0.58,0.93,0.13,8.0,automatic,nc,nc
+2023-03-06T12:46:15.720Z,34.0231667,-116.7396667,15.9,1.36,ml,39.0,49.0,0.05782,0.21,ci,ci40421488,2023-03-06T12:56:46.030Z,"12km NNE of Cabazon, CA",earthquake,0.27,0.64,0.163,26.0,automatic,ci,ci
+2023-03-06T12:34:09.042Z,-29.0277,-176.7923,35.983,4.7,mb,20.0,173.0,1.012,0.38,us,us7000jhmd,2023-03-06T13:11:44.040Z,Kermadec Islands region,earthquake,12.98,9.327,0.153,13.0,reviewed,us,us
+2023-03-06T12:30:57.820Z,55.1856,-159.388,35.0,3.2,ml,31.0,206.0,2.344,0.53,us,us7000jhm9,2023-03-06T12:44:46.040Z,"72 km ESE of Sand Point, Alaska",earthquake,8.36,2.015,0.077,22.0,reviewed,us,us
+2023-03-06T12:05:54.710Z,32.986,-115.512,2.85,1.52,ml,14.0,91.0,0.07853,0.27,ci,ci40421480,2023-03-06T12:09:34.370Z,"2km ENE of Brawley, CA",earthquake,0.57,0.86,0.217,17.0,automatic,ci,ci
+2023-03-06T12:00:51.500Z,33.4925,-116.784,3.94,1.0,ml,40.0,36.0,0.02407,0.17,ci,ci40421472,2023-03-06T12:04:26.088Z,"9km NE of Aguanga, CA",earthquake,0.19,0.47,0.141,26.0,automatic,ci,ci
+2023-03-06T11:02:57.035Z,36.2306,36.0127,10.0,4.0,mb,35.0,117.0,1.345,0.34,us,us7000jhlx,2023-03-06T12:18:34.040Z,"5 km WNW of Toygarlı, Turkey",earthquake,5.12,1.881,0.164,10.0,reviewed,us,us
