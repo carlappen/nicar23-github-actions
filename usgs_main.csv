@@ -658,3 +658,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T00:15:04.770Z,38.8128319,-122.8264999,2.42,1.08,md,24.0,55.0,0.004477,0.02,nc,nc73855861,2023-03-06T00:48:13.338Z,"7km WNW of The Geysers, CA",earthquake,0.21,0.43,0.14,24.0,automatic,nc,nc
 2023-03-06T00:13:58.230Z,40.4324989,-123.7186661,25.82,1.57,md,8.0,154.0,0.07808,0.04,nc,nc73855856,2023-03-06T02:27:14.860Z,"34km ESE of Rio Dell, CA",earthquake,0.9,0.77,0.09,2.0,automatic,nc,nc
 2023-03-05T18:46:41.229Z,58.7491,-153.6181,14.3,1.1,ml,,,,0.91,ak,ak0232y5dwtv,2023-03-06T02:52:18.900Z,"87 km NNW of Aleneva, Alaska",earthquake,,2.0,,,reviewed,ak,ak
+2023-03-06T03:19:01.855Z,58.1246,-155.5835,15.6,0.8,ml,,,,1.02,ak,ak0232zjtxnt,2023-03-06T03:20:40.367Z,"88 km SE of King Salmon, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-06T03:14:08.140Z,17.9618333333333,-66.845,15.25,2.21,md,5.0,207.0,0.03516,0.08,pr,pr71398498,2023-03-06T03:21:56.480Z,Puerto Rico region,earthquake,0.72,0.53,0.0949367529403944,4.0,reviewed,pr,pr
+2023-03-06T03:13:00.940Z,38.7876663,-122.777832,0.86,1.38,md,26.0,83.0,0.009614,0.03,nc,nc73855946,2023-03-06T03:30:14.283Z,"2km WNW of The Geysers, CA",earthquake,0.18,0.39,0.13,25.0,automatic,nc,nc
+2023-03-06T02:59:37.089Z,53.9379,-163.9491,47.903,4.4,mb,40.0,158.0,0.972,0.69,us,us7000jhk3,2023-03-06T03:12:22.040Z,"107 km SSW of False Pass, Alaska",earthquake,6.03,7.123,0.083,42.0,reviewed,us,us
+2023-03-06T02:56:51.990Z,38.8390007,-122.7818298,1.13,0.71,md,8.0,113.0,0.005561,0.01,nc,nc73855941,2023-03-06T03:16:12.185Z,"5km WNW of Cobb, CA",earthquake,0.67,1.02,0.25,8.0,automatic,nc,nc
+2023-03-06T02:42:20.436Z,0.0206,123.2649,136.014,4.5,mb,48.0,47.0,1.165,0.78,us,us7000jhjz,2023-03-06T02:59:37.040Z,"61 km SSE of Gorontalo, Indonesia",earthquake,3.95,7.157,0.09,36.0,reviewed,us,us
+2023-03-06T02:40:33.880Z,17.9515,-66.9568333333333,10.68,2.41,md,14.0,209.0,0.05028,0.15,pr,pr71398488,2023-03-06T03:00:33.420Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.45,0.44,0.181637998831392,6.0,reviewed,pr,pr
+2023-03-06T02:16:03.647Z,36.2294,36.0232,10.0,4.0,mb,27.0,159.0,1.339,0.7,us,us7000jhjt,2023-03-06T03:16:50.040Z,"4 km WNW of Toygarlı, Turkey",earthquake,3.88,1.937,0.259,4.0,reviewed,us,us
