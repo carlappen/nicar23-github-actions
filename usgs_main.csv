@@ -675,3 +675,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T04:50:21.470Z,33.765,-116.929,10.69,0.51,ml,10.0,156.0,0.07784,0.18,ci,ci40421408,2023-03-06T04:53:46.223Z,"3km SE of San Jacinto, CA",earthquake,0.71,0.74,0.148,11.0,automatic,ci,ci
 2023-03-06T05:02:30.809Z,60.6963,-146.7104,17.4,1.9,ml,,,,0.6,ak,ak0232zkx7xk,2023-03-06T05:04:14.810Z,"18 km S of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-06T04:55:39.046Z,63.4563,-151.2658,2.0,1.5,ml,,,,0.76,ak,ak0232zkn5ww,2023-03-06T04:57:54.755Z,"24 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-06T05:46:14.920Z,19.1854991912842,-155.36083984375,26.6800003051758,2.19000006,md,26.0,200.0,,0.129999995,hv,hv73334327,2023-03-06T05:49:35.590Z,"12 km E of Pāhala, Hawaii",earthquake,0.75,1.51999998,1.24000001,3.0,automatic,hv,hv
