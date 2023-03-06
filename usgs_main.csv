@@ -688,3 +688,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T07:30:15.203Z,58.3087,-155.0434,1.4,0.3,ml,,,,0.66,ak,ak0232zma1zk,2023-03-06T07:31:40.139Z,"89 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-05T14:32:06.920Z,58.183,-155.297833333333,0.26,-0.48,ml,9.0,155.0,,0.05,av,av91784826,2023-03-06T07:30:36.050Z,Alaska Peninsula,earthquake,0.2,1.26,0.274827801300813,9.0,reviewed,av,av
 2023-03-05T14:29:10.550Z,58.1846666666667,-155.301833333333,1.17,0.12,ml,7.0,154.0,,0.07,av,av91784821,2023-03-06T07:26:50.040Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.76,0.292510101749913,7.0,reviewed,av,av
+2023-03-06T07:38:02.675Z,65.8588,-147.4686,10.7,1.4,ml,,,,0.39,ak,ak0232zmbqmf,2023-03-06T07:45:46.728Z,"55 km S of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-06T07:37:02.682Z,58.2565,-155.1077,1.1,0.4,ml,,,,0.08,ak,ak0232zmbj1j,2023-03-06T07:40:01.576Z,"85 km NNW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2023-03-06T07:26:38.540Z,17.8991666666667,-66.8795,14.93,2.64,md,9.0,234.0,0.07547,0.09,pr,pr71398523,2023-03-06T07:40:41.060Z,"8 km SSE of Guánica, Puerto Rico",earthquake,0.63,0.52,0.0832933670647402,4.0,reviewed,pr,pr
+2023-03-05T15:27:14.660Z,58.1831666666667,-155.31,0.95,-0.48,ml,6.0,158.0,,0.06,av,av91784881,2023-03-06T07:41:52.180Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.87,0.132943474185115,6.0,reviewed,av,av
+2023-03-05T15:23:19.550Z,58.2486666666667,-154.932833333333,3.19,1.06,ml,14.0,153.0,,0.16,av,av91784876,2023-03-06T07:39:19.430Z,"80 km NNW of Karluk, Alaska",earthquake,0.48,1.08,0.390667825414043,14.0,reviewed,av,av
