@@ -666,3 +666,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T02:42:20.436Z,0.0206,123.2649,136.014,4.5,mb,48.0,47.0,1.165,0.78,us,us7000jhjz,2023-03-06T02:59:37.040Z,"61 km SSE of Gorontalo, Indonesia",earthquake,3.95,7.157,0.09,36.0,reviewed,us,us
 2023-03-06T02:40:33.880Z,17.9515,-66.9568333333333,10.68,2.41,md,14.0,209.0,0.05028,0.15,pr,pr71398488,2023-03-06T03:00:33.420Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.45,0.44,0.181637998831392,6.0,reviewed,pr,pr
 2023-03-06T02:16:03.647Z,36.2294,36.0232,10.0,4.0,mb,27.0,159.0,1.339,0.7,us,us7000jhjt,2023-03-06T03:16:50.040Z,"4 km WNW of Toygarlı, Turkey",earthquake,3.88,1.937,0.259,4.0,reviewed,us,us
+2023-03-06T03:36:15.517Z,58.285,-155.1747,27.6,0.3,ml,,,,0.6,ak,ak0232zjxm55,2023-03-06T03:38:41.021Z,"90 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-06T03:27:49.560Z,17.9678333333333,-66.83,11.02,2.41,md,8.0,201.0,0.04743,0.08,pr,pr71398503,2023-03-06T03:43:05.510Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.4,0.39,0.223385953015125,7.0,reviewed,pr,pr
