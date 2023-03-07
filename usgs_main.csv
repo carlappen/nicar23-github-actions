@@ -952,3 +952,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T11:46:58.250Z,44.7766667,-111.007,7.76,0.54,md,5.0,203.0,0.01735,0.22,uu,uu60032739,2023-03-07T14:35:26.220Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,1.77,1.35,0.077,3.0,reviewed,uu,uu
 2023-03-07T11:46:44.200Z,44.798,-110.9783333,8.07,1.58,ml,18.0,118.0,0.04345,0.15,uu,uu60532751,2023-03-07T14:31:49.280Z,"17 km E of Hebgen Lake Estates, Montana",earthquake,0.55,0.69,0.459,3.0,reviewed,uu,uu
 2023-03-07T10:25:49.750Z,37.8931667,-112.5205,7.63,1.69,ml,16.0,99.0,0.3042,0.25,uu,uu60532746,2023-03-07T14:47:16.790Z,"10 km NW of Panguitch, Utah",earthquake,0.65,2.44,0.001,3.0,reviewed,uu,uu
+2023-03-07T15:14:28.219Z,38.1609,-117.8672,4.0,1.6,ml,11.0,135.54,0.076,0.2722,nn,nn00856630,2023-03-07T15:16:10.983Z,"33 km SE of Mina, Nevada",earthquake,,0.8,0.47,7.0,automatic,nn,nn
+2023-03-07T15:00:39.370Z,33.0988333,-115.6055,7.83,1.26,ml,10.0,97.0,0.03076,0.18,ci,ci40421760,2023-03-07T15:04:12.210Z,"7km NNE of Westmorland, CA",earthquake,0.58,0.6,0.262,18.0,automatic,ci,ci
+2023-03-07T14:58:07.120Z,61.3168,-151.2977,13.2,1.7,ml,,,,0.25,ak,ak02331e5f54,2023-03-07T14:59:41.321Z,"22 km NNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-07T14:37:11.602Z,37.1734,71.901,152.982,4.0,mb,37.0,105.0,2.302,0.53,us,us7000jhwh,2023-03-07T15:18:42.040Z,"44 km WNW of Khandūd, Afghanistan",earthquake,6.64,8.535,0.149,12.0,reviewed,us,us
+2023-03-07T14:18:21.176Z,38.8421,37.3633,10.0,4.2,mb,22.0,52.0,0.798,0.87,us,us7000jhwd,2023-03-07T15:08:58.040Z,"15 km NNE of Gürün, Turkey",earthquake,2.41,1.898,0.199,7.0,reviewed,us,us
+2023-03-07T14:00:28.940Z,44.7975,-110.9823333,8.0,0.74,md,14.0,173.0,0.04177,0.15,uu,uu60532766,2023-03-07T15:17:09.740Z,"16 km E of Hebgen Lake Estates, Montana",earthquake,0.69,0.42,0.268,9.0,reviewed,uu,uu
+2023-03-07T12:07:46.394Z,56.3588,-149.2409,10.0,3.2,ml,22.0,255.0,2.317,0.36,us,us7000jhvr,2023-03-07T15:22:59.040Z,Gulf of Alaska,earthquake,9.57,2.022,0.048,56.0,reviewed,us,us
+2023-03-07T12:01:07.130Z,44.7808333,-110.9818333,6.54,0.41,md,7.0,266.0,0.02761,0.13,uu,uu60532761,2023-03-07T14:55:34.490Z,"16 km NE of West Yellowstone, Montana",earthquake,1.49,0.97,0.287,5.0,reviewed,uu,uu
+2023-03-07T11:48:59.040Z,44.7755,-110.9871667,6.42,0.37,md,7.0,263.0,0.02108,0.1,uu,uu60532756,2023-03-07T14:53:59.530Z,"15 km NE of West Yellowstone, Montana",earthquake,1.43,0.94,0.353,5.0,reviewed,uu,uu
+2023-03-07T00:23:58.180Z,35.03,-117.6533333,-1.0,1.56,ml,12.0,156.0,0.1017,0.15,ci,ci40421592,2023-03-07T15:06:59.602Z,"3km N of Boron, CA",quarry blast,0.95,31.61,0.116,10.0,reviewed,ci,ci
