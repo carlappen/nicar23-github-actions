@@ -902,3 +902,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T09:07:49.640Z,38.841835,-122.841835,1.93,0.26,md,8.0,128.0,0.005923,0.02,nc,nc73856381,2023-03-07T09:25:13.896Z,"10km NW of The Geysers, CA",earthquake,0.36,0.77,0.12,8.0,automatic,nc,nc
 2023-03-07T09:01:30.545Z,-17.3331,-65.757,66.349,4.7,mb,44.0,72.0,2.021,0.87,us,us7000jhuw,2023-03-07T09:24:17.015Z,"11 km E of Colomi, Bolivia",earthquake,6.3,8.193,0.045,151.0,reviewed,us,us
 2023-03-07T08:47:42.281Z,7.6219,126.2112,10.0,5.6,mww,93.0,44.0,0.833,0.94,us,us7000jhuv,2023-03-07T09:17:40.846Z,"9 km ENE of Bantacan, Philippines",earthquake,6.72,1.85,0.061,26.0,reviewed,us,us
+2023-03-07T09:37:54.400Z,33.4806671,-116.4229965,11.42,0.98,ml,20.0,118.0,0.1184,0.14,ci,ci40421680,2023-03-07T09:40:01.763Z,"23km SSW of La Quinta, CA",earthquake,0.42,0.9,0.335,10.0,automatic,ci,ci
+2023-03-07T09:37:05.590Z,33.7585,-116.9371667,15.13,1.47,ml,40.0,39.0,0.05562,0.2,ci,ci40421672,2023-03-07T09:40:53.166Z,"3km ENE of Hemet, CA",earthquake,0.23,0.36,0.179,27.0,automatic,ci,ci
+2023-03-07T09:31:44.730Z,38.8330002,-122.8024979,1.7,0.69,md,13.0,51.0,0.01092,0.02,nc,nc73856396,2023-03-07T09:33:19.315Z,"7km W of Cobb, CA",earthquake,0.31,0.52,0.37,13.0,automatic,nc,nc
+2023-03-07T09:03:06.840Z,19.5408,-64.8995,32.0,3.74,md,12.0,296.0,1.1891,0.2,pr,pr2023066000,2023-03-07T09:36:28.148Z,"132 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.85,16.51,0.05,5.0,reviewed,pr,pr
