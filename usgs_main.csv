@@ -1066,3 +1066,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T21:40:06.570Z,41.084,-111.6311667,9.35,1.22,md,12.0,65.0,0.04592,0.09,uu,uu60532816,2023-03-07T22:48:46.260Z,"6 km NE of Morgan, Utah",earthquake,0.28,0.61,0.311,7.0,reviewed,uu,uu
 2023-03-07T09:37:03.042Z,39.6117,-120.7116,0.0,0.4,ml,3.0,275.99,0.372,0.1833,nn,nn00856650,2023-03-07T22:50:11.469Z,Northern California,earthquake,,0.0,0.32,3.0,reviewed,nn,nn
 2023-03-07T09:22:15.281Z,40.087,-119.9273,11.0,0.4,ml,4.0,184.31,0.163,0.061,nn,nn00856649,2023-03-07T22:47:04.490Z,"16 km ENE of Doyle, California",earthquake,,5.5,0.29,4.0,reviewed,nn,nn
+2023-03-07T23:21:28.474Z,61.2847,-150.4944,45.2,1.5,ml,,,,0.35,ak,ak02331jafqn,2023-03-07T23:22:45.546Z,Southern Alaska,earthquake,,1.1,,,automatic,ak,ak
+2023-03-07T23:14:04.200Z,33.4695,-116.5613333,10.23,0.92,ml,31.0,67.0,0.04241,0.18,ci,ci40421928,2023-03-07T23:17:42.083Z,"14km SE of Anza, CA",earthquake,0.26,0.4,0.195,21.0,automatic,ci,ci
+2023-03-07T23:10:55.247Z,64.2666,-149.8897,11.2,1.4,ml,,,,0.85,ak,ak02331j84xe,2023-03-07T23:13:18.954Z,"34 km W of Clear, Alaska, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-07T22:59:42.460Z,62.1888,-149.4701,36.6,1.5,ml,,,,0.39,ak,ak02331ix6fa,2023-03-07T23:01:05.291Z,"20 km E of Susitna North, Alaska",earthquake,,4.9,,,automatic,ak,ak
+2023-03-07T22:54:03.478Z,62.1565,-149.6876,51.0,1.3,ml,,,,0.28,ak,ak02331iw0u3,2023-03-07T22:56:23.060Z,"8 km E of Susitna North, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-03-07T22:00:04.798Z,40.2477,-119.7944,11.3,0.6,ml,3.0,279.68,0.091,0.0738,nn,nn00856655,2023-03-07T23:24:11.540Z,"31 km ENE of Herlong, California",earthquake,,5.6,0.24,2.0,reviewed,nn,nn
+2023-03-07T21:25:58.946Z,40.9212,-127.11,10.0,3.0,ml,19.0,257.0,2.338,0.64,us,us7000jhzx,2023-03-07T23:10:30.040Z,"243 km W of Ferndale, California",earthquake,11.63,2.024,0.052,48.0,reviewed,us,us
+2023-03-07T16:41:29.557Z,40.2001,-119.823,0.0,1.0,ml,3.0,242.23,0.076,0.074,nn,nn00856653,2023-03-07T22:56:23.345Z,"27 km ENE of Herlong, California",earthquake,,48.5,0.33,3.0,reviewed,nn,nn
+2023-03-07T01:32:41.882Z,6.8823,-73.0636,153.23,4.4,mb,30.0,70.0,0.984,0.99,us,us7000jhsj,2023-03-07T23:04:05.040Z,"11 km S of Piedecuesta, Colombia",earthquake,7.87,8.427,0.13,17.0,reviewed,us,us
