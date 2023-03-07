@@ -884,3 +884,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T07:30:05.530Z,33.714,-116.8188333,15.39,0.89,ml,29.0,87.0,0.08719,0.16,ci,ci40421648,2023-03-07T07:33:39.992Z,"8km ESE of Valle Vista, CA",earthquake,0.35,0.51,0.235,29.0,automatic,ci,ci
 2023-03-07T07:22:19.205Z,63.0397,-150.9442,120.1,2.5,ml,,,,0.64,ak,ak023319rp00,2023-03-07T07:24:22.151Z,"61 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-07T07:31:57.715Z,-6.5536,103.9819,43.297,5.3,mb,78.0,81.0,2.406,0.62,us,us7000jhua,2023-03-07T07:49:36.040Z,"188 km SW of Bandar Lampung, Indonesia",earthquake,7.01,7.015,0.059,96.0,reviewed,us,us
+2023-03-07T08:33:29.518Z,62.1465,-145.5925,19.9,1.4,ml,,,,0.84,ak,ak02331afic7,2023-03-07T08:35:06.179Z,Central Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-03-07T08:19:00.290Z,38.8338318,-122.819664,1.73,1.51,md,12.0,61.0,0.01283,0.04,nc,nc73856351,2023-03-07T08:36:16.608Z,"8km NW of The Geysers, CA",earthquake,0.34,0.74,0.29,4.0,automatic,nc,nc
+2023-03-07T08:09:14.990Z,40.8714981,-121.829834,12.88,2.24,md,17.0,84.0,0.1763,0.08,nc,nc73856346,2023-03-07T08:15:14.494Z,"8km ENE of Montgomery Creek, CA",earthquake,0.29,1.27,0.11,11.0,automatic,nc,nc
+2023-03-07T08:08:32.363Z,63.568,-150.8458,0.0,1.9,ml,,,,0.75,ak,ak02331aa5no,2023-03-07T08:10:24.965Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-07T08:00:32.042Z,63.028,-150.9805,125.2,2.2,ml,,,,0.52,ak,ak02331a8fx5,2023-03-07T08:02:30.754Z,"60 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-07T08:00:13.485Z,65.0972,-148.6466,17.5,2.1,ml,,,,1.25,ak,ak02331a8ebj,2023-03-07T08:01:56.174Z,"33 km E of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-07T07:22:26.230Z,-24.3094,-67.0344,165.792,4.5,mb,50.0,87.0,1.711,1.11,us,us7000jhu8,2023-03-07T08:28:00.040Z,"73 km W of San Antonio de los Cobres, Argentina",earthquake,8.11,8.052,0.055,96.0,reviewed,us,us
