@@ -856,3 +856,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T05:50:43.090Z,51.9045,-178.1515,13.59,1.11,ml,5.0,285.0,,0.21,av,av91785681,2023-03-07T04:17:10.930Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.9,1.01,0.131469176234522,5.0,reviewed,av,av
 2023-03-07T04:43:03.506Z,59.5734,-152.5861,70.6,2.2,ml,,,,0.71,ak,ak0233183uz6,2023-03-07T04:45:44.140Z,Southern Alaska,earthquake,,2.0,,,automatic,ak,ak
 2023-03-07T04:55:28.698Z,63.1078,-144.3531,3.2,2.0,ml,,,,0.56,ak,ak0233186hlx,2023-03-07T04:57:19.747Z,"36 km NW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-07T05:15:23.210Z,38.7616653,-122.7419968,1.28,1.5,md,22.0,104.0,0.009145,0.05,nc,nc73856316,2023-03-07T05:16:58.947Z,"2km SE of The Geysers, CA",earthquake,0.26,0.41,0.19,24.0,automatic,nc,nc
+2023-03-07T05:12:35.273Z,62.8501,-151.1352,27.9,1.7,ml,,,,0.95,ak,ak023318ipxj,2023-03-07T05:14:29.764Z,"43 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-07T05:02:51.990Z,33.8826667,-117.0551667,17.08,1.07,ml,24.0,62.0,0.1267,0.23,ci,ci40421608,2023-03-07T05:06:26.885Z,"9km SW of Beaumont, CA",earthquake,0.37,0.99,0.265,25.0,automatic,ci,ci
+2023-03-07T03:59:39.926Z,5.3787,-77.5349,8.564,5.0,mb,75.0,95.0,2.153,0.96,us,us7000jhss,2023-03-07T05:03:20.040Z,"47 km SW of Nuquí, Colombia",earthquake,6.34,4.879,0.037,230.0,reviewed,us,us
+2023-03-06T09:33:28.479Z,-15.2112,-72.8285,77.879,4.6,mb,43.0,130.0,3.943,0.96,us,us7000jhlm,2023-03-07T05:19:14.040Z,"4 km S of Tomepampa, Peru",earthquake,9.52,10.495,0.067,66.0,reviewed,us,us
