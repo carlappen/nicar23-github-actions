@@ -854,3 +854,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T04:07:30.740Z,38.8198318,-122.7904968,1.71,0.78,md,10.0,78.0,0.01009,0.01,nc,nc73856306,2023-03-07T04:25:11.169Z,"6km NNW of The Geysers, CA",earthquake,0.4,1.09,0.23,10.0,automatic,nc,nc
 2023-03-07T01:53:25.000Z,46.32233333333333,-122.28616666666667,12.85,0.68,ml,11.0,172.0,0.02412,0.16,uw,uw61900797,2023-03-07T04:32:20.060Z,"26 km S of Morton, Washington",earthquake,1.32,31.61,0.2113027346884976,6.0,reviewed,uw,uw
 2023-03-06T05:50:43.090Z,51.9045,-178.1515,13.59,1.11,ml,5.0,285.0,,0.21,av,av91785681,2023-03-07T04:17:10.930Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.9,1.01,0.131469176234522,5.0,reviewed,av,av
+2023-03-07T04:43:03.506Z,59.5734,-152.5861,70.6,2.2,ml,,,,0.71,ak,ak0233183uz6,2023-03-07T04:45:44.140Z,Southern Alaska,earthquake,,2.0,,,automatic,ak,ak
