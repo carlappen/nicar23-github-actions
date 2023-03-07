@@ -964,3 +964,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T00:23:58.180Z,35.03,-117.6533333,-1.0,1.56,ml,12.0,156.0,0.1017,0.15,ci,ci40421592,2023-03-07T15:06:59.602Z,"3km N of Boron, CA",quarry blast,0.95,31.61,0.116,10.0,reviewed,ci,ci
 2023-03-07T15:12:03.390Z,44.807,-110.979,8.57,1.67,ml,19.0,102.0,0.05144,0.15,uu,uu60532781,2023-03-07T15:31:37.020Z,"17 km ENE of Hebgen Lake Estates, Montana",earthquake,0.45,0.52,0.477,3.0,reviewed,uu,uu
 2023-03-07T14:58:15.089Z,38.4012,-96.8356,5.0,2.6,mb_lg,22.0,147.0,0.721,0.54,us,us7000jhwi,2023-03-07T15:34:51.987Z,"14 km SE of Lincolnville, Kansas",earthquake,1.65,1.996,0.084,37.0,reviewed,us,us
+2023-03-07T16:37:55.510Z,38.7955017,-122.7913361,-0.88,1.33,md,17.0,70.0,0.01164,0.05,nc,nc73856461,2023-03-07T16:39:30.672Z,"4km NW of The Geysers, CA",earthquake,0.18,0.62,0.26,18.0,automatic,nc,nc
+2023-03-07T16:15:52.689Z,59.3609,-152.9487,97.7,1.9,ml,,,,0.39,ak,ak02331f362s,2023-03-07T16:17:50.827Z,Southern Alaska,earthquake,,0.5,,,automatic,ak,ak
+2023-03-07T16:10:17.531Z,60.7458,-147.1198,21.1,1.8,ml,,,,0.43,ak,ak02331f20sf,2023-03-07T16:12:58.246Z,"27 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-07T16:08:08.890Z,38.8269997,-122.802002,1.72,1.03,md,22.0,34.0,0.01458,0.01,nc,nc73856446,2023-03-07T16:33:15.442Z,"7km NW of The Geysers, CA",earthquake,0.19,0.42,0.21,22.0,automatic,nc,nc
+2023-03-07T16:07:15.585Z,60.8376,-149.8394,33.1,1.6,ml,,,,0.61,ak,ak02331f1dhi,2023-03-07T16:09:12.489Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-07T16:03:14.112Z,61.7575,-150.6651,45.4,2.8,ml,,,,0.18,ak,ak02331f0iib,2023-03-07T16:43:03.008Z,"25 km NNW of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-03-07T15:49:38.903Z,7.6189,-82.4319,10.0,4.5,mb,81.0,77.0,1.18,0.65,us,us7000jhwm,2023-03-07T16:17:18.040Z,"66 km SE of Burica, Panama",earthquake,5.87,1.875,0.071,58.0,reviewed,us,us
+2023-03-07T12:47:26.669Z,31.66912029,-104.3439845,7.314135742,2.2,ml,46.0,66.0,0.06746670631,0.3,tx,tx2023epta,2023-03-07T16:24:35.139Z,"56 km S of Whites City, New Mexico",earthquake,0.7020704752,0.7028227234,0.2,18.0,reviewed,tx,tx
+2023-03-07T11:53:39.260Z,38.7061,35.3208,6.959,4.4,mb,40.0,59.0,0.436,0.6,us,us7000jhvq,2023-03-07T16:13:01.040Z,Central Turkey,earthquake,2.57,5.036,0.155,12.0,reviewed,us,us
+2023-03-07T09:34:56.469Z,31.6178865,-104.0943267,8.355310059,2.2,ml,55.0,52.0,0.0295780091,0.3,tx,tx2023epmr,2023-03-07T16:10:59.313Z,"44 km NW of Toyah, Texas",earthquake,0.5163767059,0.5232686446,0.1,22.0,reviewed,tx,tx
+2023-03-07T02:09:15.980Z,58.2545,-155.140333333333,32.66,0.27,ml,13.0,78.0,,0.1,av,av91787631,2023-03-07T16:46:55.530Z,"86 km NNW of Karluk, Alaska",earthquake,0.42,0.64,0.235130453027761,12.0,reviewed,av,av
