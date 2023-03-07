@@ -863,3 +863,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T09:33:28.479Z,-15.2112,-72.8285,77.879,4.6,mb,43.0,130.0,3.943,0.96,us,us7000jhlm,2023-03-07T05:19:14.040Z,"4 km S of Tomepampa, Peru",earthquake,9.52,10.495,0.067,66.0,reviewed,us,us
 2023-03-07T05:32:57.555Z,62.6547,-149.7286,59.9,1.8,ml,,,,0.56,ak,ak023318n1yz,2023-03-07T05:34:39.353Z,"29 km NE of Chase, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-03-07T05:22:47.629Z,65.488,-144.7746,0.0,1.7,ml,,,,0.75,ak,ak023318kw1n,2023-03-07T05:33:59.159Z,"9 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-07T05:43:29.860Z,35.6513333,-117.4796667,10.94,1.39,ml,16.0,173.0,0.1572,0.21,ci,ci40421632,2023-03-07T05:47:01.389Z,"15km SSW of Searles Valley, CA",earthquake,0.54,0.9,0.142,13.0,automatic,ci,ci
+2023-03-07T05:39:38.280Z,33.1531667,-115.9813333,5.68,2.34,ml,60.0,35.0,0.02049,0.27,ci,ci40421616,2023-03-07T05:43:27.684Z,"14km E of Ocotillo Wells, CA",earthquake,0.27,1.09,0.096,26.0,automatic,ci,ci
+2023-03-07T05:36:33.290Z,19.171667098999,-155.477493286133,28.6599998474121,1.88,md,33.0,86.0,,0.140000001,hv,hv73334922,2023-03-07T05:39:44.050Z,"Island of Hawaii, Hawaii",earthquake,0.72,0.939999998,0.939999998,8.0,automatic,hv,hv
