@@ -1059,3 +1059,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T04:41:14.399Z,39.2901,-118.1724,10.7,0.3,ml,3.0,200.53,0.046,0.0766,nn,nn00856648,2023-03-07T22:28:31.268Z,"48 km ESE of Fallon Station, Nevada",earthquake,,11.3,0.0,1.0,reviewed,nn,nn
 2023-03-07T03:22:13.581Z,40.3644,-119.6213,11.2,0.7,ml,3.0,331.57,0.212,0.0958,nn,nn00856646,2023-03-07T22:06:51.281Z,"33 km SW of Empire, Nevada",earthquake,,9.5,0.36,2.0,reviewed,nn,nn
 2023-03-06T22:38:49.000Z,58.172,-155.363666666667,1.24,-0.09,ml,5.0,191.0,,0.03,av,av91787486,2023-03-07T22:21:00.310Z,"86 km NW of Karluk, Alaska",earthquake,0.33,1.15,0.145216338521204,5.0,reviewed,av,av
+2023-03-07T22:34:54.090Z,38.7896652,-122.7611694,2.5,0.68,md,9.0,102.0,0.011,0.02,nc,nc73854060,2023-03-07T22:36:31.034Z,"1km NNW of The Geysers, CA",earthquake,0.48,1.18,0.22,8.0,automatic,nc,nc
+2023-03-07T01:26:36.870Z,38.8358333,-122.8175,1.72,0.28,md,19.0,50.0,0.01371,0.02,nc,nc73856281,2023-03-07T22:38:18.824Z,"8km W of Cobb, CA",earthquake,0.21,0.48,0.285,18.0,reviewed,nc,nc
