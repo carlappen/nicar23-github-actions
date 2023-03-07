@@ -895,3 +895,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T08:42:10.110Z,35.6643333,-117.5718307,4.79,3.03,ml,52.0,55.0,0.07489,0.18,ci,ci40421656,2023-03-07T08:46:03.887Z,"11km ENE of Ridgecrest, CA",earthquake,0.21,0.48,0.168,19.0,automatic,ci,ci
 2023-03-07T08:38:48.410Z,37.2826653,-121.6589966,3.54,1.36,md,11.0,56.0,0.02619,0.05,nc,nc73856361,2023-03-07T08:40:25.083Z,"16km E of Seven Trees, CA",earthquake,0.3,0.6,0.19,9.0,automatic,nc,nc
 2023-03-07T08:37:05.142Z,63.0553,-150.715,104.3,1.7,ml,,,,0.56,ak,ak02331agbbm,2023-03-07T08:39:25.000Z,"62 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-03-07T07:52:12.090Z,-23.1257,-69.5521,101.674,4.5,mb,33.0,120.0,0.418,1.0,us,us7000jhuh,2023-03-07T08:50:41.040Z,"98 km SW of Calama, Chile",earthquake,5.81,3.917,0.163,11.0,reviewed,us,us
