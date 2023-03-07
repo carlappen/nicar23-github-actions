@@ -1009,3 +1009,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T18:20:30.620Z,35.6773333,-117.4815,6.01,0.58,ml,13.0,109.0,0.09199,0.1,ci,ci40421800,2023-03-07T18:43:57.230Z,"12km SW of Searles Valley, CA",earthquake,0.24,0.85,0.19,2.0,reviewed,ci,ci
 2023-03-07T01:27:50.220Z,60.3101,-139.8238,0.9,3.3,ml,,,,1.04,ak,ak02331688gv,2023-03-07T18:43:01.229Z,"85 km N of Yakutat, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-03-06T22:10:25.890Z,36.7646667,-121.4306667,10.33,0.94,md,12.0,177.0,0.01331,0.06,nc,nc73856231,2023-03-07T18:44:56.763Z,"8km SW of Ridgemark, CA",earthquake,0.72,0.39,0.292,9.0,reviewed,nc,nc
+2023-03-07T18:51:00.051Z,63.4255,-150.3199,4.2,1.6,ml,,,,0.69,ak,ak02331ghn06,2023-03-07T18:53:47.492Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
+2023-03-07T18:20:21.550Z,35.8598333,-117.6646667,11.6,0.08,ml,7.0,94.0,0.0701,0.12,ci,ci37509252,2023-03-07T18:54:25.918Z,"23km ESE of Little Lake, CA",earthquake,0.4,1.02,0.107,3.0,reviewed,ci,ci
+2023-03-07T17:51:38.800Z,36.0566667,-120.6225,0.27,0.37,md,10.0,148.0,0.02452,0.06,nc,nc73856511,2023-03-07T18:55:28.686Z,"25km NW of Parkfield, CA",earthquake,0.76,0.83,0.099,5.0,reviewed,nc,nc
+2023-03-07T08:19:20.509Z,55.323,-159.3925,25.0,2.2,ml,,,,0.56,ak,ak02331aca35,2023-03-07T18:57:26.430Z,"64 km S of Ivanof Bay, Alaska",earthquake,,0.0,,,reviewed,ak,ak
+2023-03-07T05:31:33.843Z,57.7303,-154.0948,21.0,1.2,ml,,,,0.55,ak,ak023318mqt2,2023-03-07T18:50:29.886Z,"22 km NNW of Larsen Bay, Alaska",earthquake,,6.8,,,reviewed,ak,ak
