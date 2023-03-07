@@ -1075,3 +1075,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T21:25:58.946Z,40.9212,-127.11,10.0,3.0,ml,19.0,257.0,2.338,0.64,us,us7000jhzx,2023-03-07T23:10:30.040Z,"243 km W of Ferndale, California",earthquake,11.63,2.024,0.052,48.0,reviewed,us,us
 2023-03-07T16:41:29.557Z,40.2001,-119.823,0.0,1.0,ml,3.0,242.23,0.076,0.074,nn,nn00856653,2023-03-07T22:56:23.345Z,"27 km ENE of Herlong, California",earthquake,,48.5,0.33,3.0,reviewed,nn,nn
 2023-03-07T01:32:41.882Z,6.8823,-73.0636,153.23,4.4,mb,30.0,70.0,0.984,0.99,us,us7000jhsj,2023-03-07T23:04:05.040Z,"11 km S of Piedecuesta, Colombia",earthquake,7.87,8.427,0.13,17.0,reviewed,us,us
+2023-03-07T23:26:36.730Z,33.9491667,-116.8311667,19.14,1.98,ml,64.0,24.0,0.05273,0.21,ci,ci40421936,2023-03-07T23:37:32.260Z,"5km ENE of Banning, CA",earthquake,0.21,0.47,0.132,28.0,automatic,ci,ci
+2023-03-07T23:26:25.410Z,38.8293343,-122.8144989,2.52,0.67,md,11.0,79.0,0.006864,0.01,nc,nc73854075,2023-03-07T23:27:59.976Z,"8km NW of The Geysers, CA",earthquake,0.37,1.14,0.13,11.0,automatic,nc,nc
+2023-03-07T21:15:33.683Z,23.8242,114.5074,10.0,4.1,mb,23.0,94.0,1.576,1.04,us,us7000jhzt,2023-03-07T23:33:16.871Z,"20 km WNW of Heyuan, China",earthquake,7.2,1.924,0.234,6.0,reviewed,us,us
+2023-03-07T16:27:19.530Z,36.5965,-121.2016667,8.11,0.58,md,9.0,143.0,0.028,0.06,nc,nc73856456,2023-03-07T23:36:30.651Z,"9km NW of Pinnacles, CA",earthquake,0.7,0.43,0.317,6.0,reviewed,nc,nc
