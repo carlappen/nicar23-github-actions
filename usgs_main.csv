@@ -906,3 +906,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T09:37:05.590Z,33.7585,-116.9371667,15.13,1.47,ml,40.0,39.0,0.05562,0.2,ci,ci40421672,2023-03-07T09:40:53.166Z,"3km ENE of Hemet, CA",earthquake,0.23,0.36,0.179,27.0,automatic,ci,ci
 2023-03-07T09:31:44.730Z,38.8330002,-122.8024979,1.7,0.69,md,13.0,51.0,0.01092,0.02,nc,nc73856396,2023-03-07T09:33:19.315Z,"7km W of Cobb, CA",earthquake,0.31,0.52,0.37,13.0,automatic,nc,nc
 2023-03-07T09:03:06.840Z,19.5408,-64.8995,32.0,3.74,md,12.0,296.0,1.1891,0.2,pr,pr2023066000,2023-03-07T09:36:28.148Z,"132 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.85,16.51,0.05,5.0,reviewed,pr,pr
+2023-03-07T09:48:00.153Z,61.3476,-149.9507,40.4,1.4,ml,,,,0.15,ak,ak02331b43f3,2023-03-07T09:49:20.899Z,"2 km SE of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-07T09:36:44.406Z,31.66,-104.362,8.714,3.7,ml,38.0,55.0,0.119,0.46,us,us7000jhv6,2023-03-07T09:50:39.040Z,"57 km S of Whites City, New Mexico",earthquake,1.48,8.52,0.043,72.0,reviewed,us,us
