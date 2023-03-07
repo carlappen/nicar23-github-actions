@@ -883,3 +883,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T06:54:15.580Z,17.9941666666667,-66.8376666666667,15.53,2.33,md,9.0,165.0,0.04391,0.2,pr,pr71398673,2023-03-07T07:09:43.430Z,Puerto Rico,earthquake,0.59,0.86,0.197007614488711,6.0,reviewed,pr,pr
 2023-03-07T07:30:05.530Z,33.714,-116.8188333,15.39,0.89,ml,29.0,87.0,0.08719,0.16,ci,ci40421648,2023-03-07T07:33:39.992Z,"8km ESE of Valle Vista, CA",earthquake,0.35,0.51,0.235,29.0,automatic,ci,ci
 2023-03-07T07:22:19.205Z,63.0397,-150.9442,120.1,2.5,ml,,,,0.64,ak,ak023319rp00,2023-03-07T07:24:22.151Z,"61 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-07T07:31:57.715Z,-6.5536,103.9819,43.297,5.3,mb,78.0,81.0,2.406,0.62,us,us7000jhua,2023-03-07T07:49:36.040Z,"188 km SW of Bandar Lampung, Indonesia",earthquake,7.01,7.015,0.059,96.0,reviewed,us,us
