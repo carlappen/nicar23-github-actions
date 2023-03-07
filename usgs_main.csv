@@ -1014,3 +1014,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T17:51:38.800Z,36.0566667,-120.6225,0.27,0.37,md,10.0,148.0,0.02452,0.06,nc,nc73856511,2023-03-07T18:55:28.686Z,"25km NW of Parkfield, CA",earthquake,0.76,0.83,0.099,5.0,reviewed,nc,nc
 2023-03-07T08:19:20.509Z,55.323,-159.3925,25.0,2.2,ml,,,,0.56,ak,ak02331aca35,2023-03-07T18:57:26.430Z,"64 km S of Ivanof Bay, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2023-03-07T05:31:33.843Z,57.7303,-154.0948,21.0,1.2,ml,,,,0.55,ak,ak023318mqt2,2023-03-07T18:50:29.886Z,"22 km NNW of Larsen Bay, Alaska",earthquake,,6.8,,,reviewed,ak,ak
+2023-03-07T18:36:07.570Z,33.4963333,-116.4736667,15.34,0.86,ml,25.0,73.0,0.04832,0.14,ci,ci37509260,2023-03-07T19:12:04.687Z,"20km ESE of Anza, CA",earthquake,0.26,0.47,0.1,17.0,reviewed,ci,ci
+2023-03-07T13:14:35.680Z,54.5205,-159.5713,50.0,3.4,ml,,,,0.89,ak,ak02331danmb,2023-03-07T19:10:14.118Z,"108 km SSE of Sand Point, Alaska",earthquake,,0.0,,,reviewed,ak,ak
+2023-03-07T07:25:00.229Z,31.1656936,-103.478587,-0.7324707031,2.0,ml,23.0,50.0,0.0133443648,0.2,tx,tx2023epij,2023-03-07T19:20:01.802Z,"23 km SSE of Lindsay, Texas",earthquake,0.9367596298,1.95978616,0.1,21.0,reviewed,tx,tx
