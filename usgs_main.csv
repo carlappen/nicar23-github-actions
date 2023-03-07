@@ -962,3 +962,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T12:01:07.130Z,44.7808333,-110.9818333,6.54,0.41,md,7.0,266.0,0.02761,0.13,uu,uu60532761,2023-03-07T14:55:34.490Z,"16 km NE of West Yellowstone, Montana",earthquake,1.49,0.97,0.287,5.0,reviewed,uu,uu
 2023-03-07T11:48:59.040Z,44.7755,-110.9871667,6.42,0.37,md,7.0,263.0,0.02108,0.1,uu,uu60532756,2023-03-07T14:53:59.530Z,"15 km NE of West Yellowstone, Montana",earthquake,1.43,0.94,0.353,5.0,reviewed,uu,uu
 2023-03-07T00:23:58.180Z,35.03,-117.6533333,-1.0,1.56,ml,12.0,156.0,0.1017,0.15,ci,ci40421592,2023-03-07T15:06:59.602Z,"3km N of Boron, CA",quarry blast,0.95,31.61,0.116,10.0,reviewed,ci,ci
+2023-03-07T15:12:03.390Z,44.807,-110.979,8.57,1.67,ml,19.0,102.0,0.05144,0.15,uu,uu60532781,2023-03-07T15:31:37.020Z,"17 km ENE of Hebgen Lake Estates, Montana",earthquake,0.45,0.52,0.477,3.0,reviewed,uu,uu
+2023-03-07T14:58:15.089Z,38.4012,-96.8356,5.0,2.6,mb_lg,22.0,147.0,0.721,0.54,us,us7000jhwi,2023-03-07T15:34:51.987Z,"14 km SE of Lincolnville, Kansas",earthquake,1.65,1.996,0.084,37.0,reviewed,us,us
