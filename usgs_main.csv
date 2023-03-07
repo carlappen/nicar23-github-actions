@@ -975,3 +975,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T11:53:39.260Z,38.7061,35.3208,6.959,4.4,mb,40.0,59.0,0.436,0.6,us,us7000jhvq,2023-03-07T16:13:01.040Z,Central Turkey,earthquake,2.57,5.036,0.155,12.0,reviewed,us,us
 2023-03-07T09:34:56.469Z,31.6178865,-104.0943267,8.355310059,2.2,ml,55.0,52.0,0.0295780091,0.3,tx,tx2023epmr,2023-03-07T16:10:59.313Z,"44 km NW of Toyah, Texas",earthquake,0.5163767059,0.5232686446,0.1,22.0,reviewed,tx,tx
 2023-03-07T02:09:15.980Z,58.2545,-155.140333333333,32.66,0.27,ml,13.0,78.0,,0.1,av,av91787631,2023-03-07T16:46:55.530Z,"86 km NNW of Karluk, Alaska",earthquake,0.42,0.64,0.235130453027761,12.0,reviewed,av,av
+2023-03-07T16:55:19.470Z,38.8138351,-122.8050003,2.41,1.08,md,25.0,40.0,0.009577,0.02,nc,nc73856471,2023-03-07T16:56:56.077Z,"6km NW of The Geysers, CA",earthquake,0.2,0.38,0.09,26.0,automatic,nc,nc
+2023-03-07T16:51:24.805Z,61.3274,-150.3907,69.8,1.5,ml,,,,0.78,ak,ak02331fatpc,2023-03-07T16:53:26.934Z,Southern Alaska,earthquake,,1.0,,,automatic,ak,ak
+2023-03-07T16:49:40.449Z,61.5489,-146.4209,31.0,1.2,ml,,,,0.65,ak,ak02331faf5y,2023-03-07T16:51:55.658Z,"46 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-07T16:47:19.170Z,38.8276672,-122.8014984,1.6,0.71,md,10.0,71.0,0.007942,0.01,nc,nc73856466,2023-03-07T16:48:55.793Z,"7km W of Cobb, CA",earthquake,0.42,0.59,0.25,11.0,automatic,nc,nc
