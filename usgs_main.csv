@@ -1018,3 +1018,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T13:14:35.680Z,54.5205,-159.5713,50.0,3.4,ml,,,,0.89,ak,ak02331danmb,2023-03-07T19:10:14.118Z,"108 km SSE of Sand Point, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2023-03-07T07:25:00.229Z,31.1656936,-103.478587,-0.7324707031,2.0,ml,23.0,50.0,0.0133443648,0.2,tx,tx2023epij,2023-03-07T19:20:01.802Z,"23 km SSE of Lindsay, Texas",earthquake,0.9367596298,1.95978616,0.1,21.0,reviewed,tx,tx
 2023-03-07T19:19:18.809Z,64.8562,-151.2443,20.0,1.6,ml,,,,0.69,ak,ak02331gw954,2023-03-07T19:21:02.692Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
+2023-03-07T19:37:25.909Z,61.3172,-150.8533,35.4,2.4,ml,,,,0.38,ak,ak02331h04ku,2023-03-07T19:39:03.990Z,"23 km NNE of Beluga, Alaska",earthquake,,3.3,,,automatic,ak,ak
+2023-03-07T03:23:18.385Z,31.68266496,-104.4848843,4.203466797,1.9,ml,17.0,55.0,0.0195422531,0.1,tx,tx2023epal,2023-03-07T19:36:57.768Z,"55 km S of Whites City, New Mexico",earthquake,0.9845066165000002,1.042608467,0.1,16.0,reviewed,tx,tx
