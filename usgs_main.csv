@@ -1021,3 +1021,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T19:37:25.909Z,61.3172,-150.8533,35.4,2.4,ml,,,,0.38,ak,ak02331h04ku,2023-03-07T19:39:03.990Z,"23 km NNE of Beluga, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2023-03-07T03:23:18.385Z,31.68266496,-104.4848843,4.203466797,1.9,ml,17.0,55.0,0.0195422531,0.1,tx,tx2023epal,2023-03-07T19:36:57.768Z,"55 km S of Whites City, New Mexico",earthquake,0.9845066165000002,1.042608467,0.1,16.0,reviewed,tx,tx
 2023-03-07T19:43:01.520Z,38.8704987,-122.8413315,10.14,0.29,md,9.0,215.0,0.02115,0.06,nc,nc73856531,2023-03-07T19:44:36.934Z,"12km WNW of Cobb, CA",earthquake,2.13,6.7,0.17,9.0,automatic,nc,nc
+2023-03-07T20:16:15.720Z,37.9873352,-122.4488297,1.52,1.55,md,9.0,86.0,0.02511,0.05,nc,nc73856541,2023-03-07T20:17:52.718Z,"7km E of Santa Venetia, CA",earthquake,0.42,0.52,0.12,7.0,automatic,nc,nc
+2023-03-07T20:11:59.394Z,60.1157,-153.2585,0.0,2.2,ml,,,,0.91,ak,ak02331hg5b8,2023-03-07T20:14:46.986Z,"59 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-07T20:05:13.383Z,61.7867,-151.1726,67.2,2.2,ml,,,,0.73,ak,ak02331heoay,2023-03-07T20:07:05.098Z,"25 km SSE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-07T20:01:02.440Z,34.2003333,-117.3865,12.97,0.94,ml,25.0,83.0,0.017,0.11,ci,ci40421856,2023-03-07T20:13:34.962Z,"3km SSE of Devore, CA",earthquake,0.26,0.36,0.116,16.0,reviewed,ci,ci
+2023-03-07T19:55:42.200Z,38.8273315,-122.8026657,1.66,1.21,md,20.0,48.0,0.006995,0.01,nc,nc73856536,2023-03-07T20:18:10.820Z,"7km NW of The Geysers, CA",earthquake,0.22,0.38,0.19,24.0,automatic,nc,nc
+2023-03-07T19:18:30.330Z,47.1565,-121.8275,-0.77,1.37,ml,17.0,129.0,0.05203,0.14,uw,uw61900882,2023-03-07T20:04:59.050Z,"13 km W of Greenwater, Washington",explosion,0.53,31.61,0.1173681881509182,8.0,reviewed,uw,uw
+2023-03-07T18:07:46.860Z,46.87016666666667,-121.9265,10.83,0.42,ml,20.0,78.0,0.01861,0.09,uw,uw61900872,2023-03-07T20:22:43.220Z,"14 km NNE of Ashford, Washington",earthquake,0.39,0.43,0.1790735267693491,11.0,reviewed,uw,uw
+2023-03-07T17:16:12.810Z,19.0971,-68.5058,9.0,3.9,md,25.0,176.0,0.5963,0.84,pr,pr2023066001,2023-03-07T20:07:06.377Z,"52 km NNE of Otra Banda, Dominican Republic",earthquake,2.04,3.92,0.12,25.0,reviewed,pr,pr
