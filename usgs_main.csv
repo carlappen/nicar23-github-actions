@@ -845,3 +845,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T00:08:22.460Z,19.1718330383301,-155.498840332031,35.5699996948242,1.96000004,md,33.0,154.0,,0.100000001,hv,hv73334812,2023-03-07T00:11:30.180Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.73,1.27999997,1.15999997,7.0,automatic,hv,hv
 2023-03-06T18:20:12.100Z,35.6491667,-117.46,3.94,0.41,ml,7.0,117.0,0.06256,0.12,ci,ci40421536,2023-03-07T00:25:50.868Z,"14km SSW of Searles Valley, CA",earthquake,0.5,1.07,0.181,3.0,reviewed,ci,ci
 2023-03-06T17:40:07.760Z,33.682,-116.688,17.51,0.21,ml,9.0,128.0,0.03636,0.06,ci,ci40421520,2023-03-07T00:19:54.872Z,"7km SSE of Idyllwild, CA",earthquake,0.36,0.4,0.173,5.0,reviewed,ci,ci
+2023-03-07T03:22:18.736Z,61.113,-150.2709,49.2,2.0,ml,,,,0.54,ak,ak023317dtty,2023-03-07T03:24:33.490Z,"23 km WSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
