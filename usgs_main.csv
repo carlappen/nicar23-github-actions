@@ -881,3 +881,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T07:03:43.948Z,65.311,-148.3772,13.0,1.7,ml,,,,0.76,ak,ak023319nodd,2023-03-07T07:06:18.421Z,"25 km SSE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-07T07:01:09.129Z,60.5641,-147.5098,15.4,1.8,ml,,,,0.63,ak,ak023319n68w,2023-03-07T07:03:05.659Z,"56 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-07T06:54:15.580Z,17.9941666666667,-66.8376666666667,15.53,2.33,md,9.0,165.0,0.04391,0.2,pr,pr71398673,2023-03-07T07:09:43.430Z,Puerto Rico,earthquake,0.59,0.86,0.197007614488711,6.0,reviewed,pr,pr
+2023-03-07T07:30:05.530Z,33.714,-116.8188333,15.39,0.89,ml,29.0,87.0,0.08719,0.16,ci,ci40421648,2023-03-07T07:33:39.992Z,"8km ESE of Valle Vista, CA",earthquake,0.35,0.51,0.235,29.0,automatic,ci,ci
+2023-03-07T07:22:19.205Z,63.0397,-150.9442,120.1,2.5,ml,,,,0.64,ak,ak023319rp00,2023-03-07T07:24:22.151Z,"61 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
