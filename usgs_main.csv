@@ -1061,3 +1061,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T22:38:49.000Z,58.172,-155.363666666667,1.24,-0.09,ml,5.0,191.0,,0.03,av,av91787486,2023-03-07T22:21:00.310Z,"86 km NW of Karluk, Alaska",earthquake,0.33,1.15,0.145216338521204,5.0,reviewed,av,av
 2023-03-07T22:34:54.090Z,38.7896652,-122.7611694,2.5,0.68,md,9.0,102.0,0.011,0.02,nc,nc73854060,2023-03-07T22:36:31.034Z,"1km NNW of The Geysers, CA",earthquake,0.48,1.18,0.22,8.0,automatic,nc,nc
 2023-03-07T01:26:36.870Z,38.8358333,-122.8175,1.72,0.28,md,19.0,50.0,0.01371,0.02,nc,nc73856281,2023-03-07T22:38:18.824Z,"8km W of Cobb, CA",earthquake,0.21,0.48,0.285,18.0,reviewed,nc,nc
+2023-03-07T22:47:59.850Z,38.8129997,-122.829834,1.75,1.08,md,11.0,69.0,0.004157,0.01,nc,nc73854065,2023-03-07T22:50:04.108Z,"8km WNW of The Geysers, CA",earthquake,0.34,0.58,0.17,12.0,automatic,nc,nc
+2023-03-07T22:45:35.190Z,64.8555,-151.1589,5.6,1.4,ml,,,,0.86,ak,ak02331iu5u7,2023-03-07T22:47:23.291Z,"29 km WSW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-07T21:40:06.570Z,41.084,-111.6311667,9.35,1.22,md,12.0,65.0,0.04592,0.09,uu,uu60532816,2023-03-07T22:48:46.260Z,"6 km NE of Morgan, Utah",earthquake,0.28,0.61,0.311,7.0,reviewed,uu,uu
+2023-03-07T09:37:03.042Z,39.6117,-120.7116,0.0,0.4,ml,3.0,275.99,0.372,0.1833,nn,nn00856650,2023-03-07T22:50:11.469Z,Northern California,earthquake,,0.0,0.32,3.0,reviewed,nn,nn
+2023-03-07T09:22:15.281Z,40.087,-119.9273,11.0,0.4,ml,4.0,184.31,0.163,0.061,nn,nn00856649,2023-03-07T22:47:04.490Z,"16 km ENE of Doyle, California",earthquake,,5.5,0.29,4.0,reviewed,nn,nn
