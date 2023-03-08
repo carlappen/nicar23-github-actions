@@ -1130,3 +1130,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T06:41:27.410Z,51.8595,-178.019333333333,3.81,1.37,ml,4.0,182.0,,0.18,av,av91787771,2023-03-08T04:42:28.580Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.63,1.16,0.226018189493731,3.0,reviewed,av,av
 2023-03-07T07:32:11.370Z,58.1791666666667,-155.31,0.58,-0.34,ml,4.0,200.0,,0.03,av,av91787801,2023-03-08T04:56:14.750Z,"84 km NW of Karluk, Alaska",earthquake,0.51,1.55,0.312830874746332,4.0,reviewed,av,av
 2023-03-07T06:56:00.050Z,58.179,-155.309833333333,0.97,0.1,ml,6.0,162.0,,0.05,av,av91787786,2023-03-08T04:48:20.490Z,"84 km NW of Karluk, Alaska",earthquake,0.23,0.95,0.198186264022948,6.0,reviewed,av,av
+2023-03-08T05:08:53.485Z,59.1639,-151.9994,58.8,1.7,ml,,,,0.35,ak,ak02332w18ys,2023-03-08T05:11:00.655Z,"Kenai Peninsula, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2023-03-08T05:07:09.330Z,35.6275,-117.4241667,5.7,0.89,ml,12.0,158.0,0.05132,0.18,ci,ci40422024,2023-03-08T05:10:39.956Z,"16km S of Searles Valley, CA",earthquake,0.88,1.11,0.183,7.0,automatic,ci,ci
+2023-03-08T04:54:52.790Z,62.5833,-148.2131,38.4,1.6,ml,,,,0.75,ak,ak02332vpo8v,2023-03-08T04:57:40.583Z,"88 km N of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
