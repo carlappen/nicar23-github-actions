@@ -1119,3 +1119,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-08T03:37:29.753Z,63.4031,-151.339,0.2,1.9,ml,,,,0.88,ak,ak02332v0jov,2023-03-08T03:40:21.099Z,"24 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-08T03:14:12.141Z,53.0503,-166.3666,16.7,2.6,ml,,,,0.59,ak,ak02332uvkza,2023-03-08T03:47:25.662Z,"92 km S of Unalaska, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-03-08T03:47:39.837Z,60.8084,-150.935,46.6,1.5,ml,,,,0.71,ak,ak02332v2pmn,2023-03-08T03:49:39.864Z,"Kenai Peninsula, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-03-08T04:21:49.124Z,61.324,-146.3492,26.1,1.5,ml,,,,0.87,ak,ak02332vilc0,2023-03-08T04:23:41.392Z,"21 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-08T04:07:32.850Z,34.0475,-116.3498333,6.31,2.74,ml,69.0,25.0,0.03977,0.15,ci,ci40422016,2023-03-08T04:34:08.789Z,"10km SSW of Joshua Tree, CA",earthquake,0.16,0.5,0.151,25.0,automatic,ci,ci
+2023-03-08T04:01:47.194Z,60.125,-153.4357,162.4,4.1,ml,,,,0.82,ak,ak02332veatd,2023-03-08T04:33:01.780Z,Southern Alaska,earthquake,,0.4,,,reviewed,ak,ak
+2023-03-08T03:17:53.110Z,37.4955,-118.8508333,4.64,0.29,md,10.0,236.0,0.09593,0.03,nc,nc73854130,2023-03-08T04:34:13.968Z,"17km WSW of Toms Place, CA",earthquake,1.1,1.84,0.128,9.0,reviewed,nc,nc
+2023-03-07T14:47:09.200Z,46.85033333333333,-121.75933333333332,1.4,0.41,ml,16.0,79.0,0.02308,0.08,uw,uw61900847,2023-03-08T04:04:25.920Z,"23 km ENE of Ashford, Washington",earthquake,0.21,0.41,0.1425213932761742,6.0,reviewed,uw,uw
+2023-03-07T12:03:52.980Z,46.8505,-121.75933333333332,1.26,0.8300000000000001,ml,27.0,70.0,0.02308,0.1,uw,uw61900842,2023-03-08T04:28:41.310Z,"23 km ENE of Ashford, Washington",earthquake,0.16,0.41,0.2582818093879196,15.0,reviewed,uw,uw
+2023-03-07T06:37:05.600Z,51.665,-178.499166666667,5.54,3.42,ml,17.0,159.0,,0.2,av,av91787761,2023-03-08T04:28:17.440Z,"130 km W of Adak, Alaska",earthquake,0.52,1.12,0.237319821854789,20.0,reviewed,av,av
