@@ -1160,3 +1160,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T08:36:49.940Z,58.2428333333333,-155.152833333333,33.44,-0.13,ml,13.0,74.0,,0.17,av,av91092383,2023-03-08T07:28:11.340Z,Alaska Peninsula,earthquake,0.56,0.77,0.274479683988352,13.0,reviewed,av,av
 2023-03-08T07:34:58.880Z,33.669,-116.7666667,15.05,0.67,ml,21.0,70.0,0.0607,0.21,ci,ci40422048,2023-03-08T07:38:28.123Z,"9km SSW of Idyllwild, CA",earthquake,0.42,0.66,0.142,14.0,automatic,ci,ci
 2023-03-08T06:55:06.730Z,37.1636667,-121.563,2.42,0.71,md,17.0,45.0,0.05069,0.12,nc,nc73854170,2023-03-08T07:44:47.577Z,"9km ENE of Morgan Hill, CA",earthquake,0.25,0.72,0.147,13.0,reviewed,nc,nc
+2023-03-08T07:33:09.652Z,-6.5224,154.9642,59.954,5.8,mww,72.0,35.0,3.625,0.84,us,us7000ji38,2023-03-08T07:52:22.479Z,"61 km WSW of Panguna, Papua New Guinea",earthquake,7.73,6.547,0.062,25.0,reviewed,us,us
+2023-03-08T07:32:53.887Z,61.3355,-140.5477,9.1,4.7,ml,,,,0.92,ak,ak02332xd9ds,2023-03-08T07:52:10.994Z,"127 km E of McCarthy, Alaska",earthquake,,0.2,,,reviewed,ak,ak
