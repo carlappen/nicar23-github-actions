@@ -1133,3 +1133,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-08T05:08:53.485Z,59.1639,-151.9994,58.8,1.7,ml,,,,0.35,ak,ak02332w18ys,2023-03-08T05:11:00.655Z,"Kenai Peninsula, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-03-08T05:07:09.330Z,35.6275,-117.4241667,5.7,0.89,ml,12.0,158.0,0.05132,0.18,ci,ci40422024,2023-03-08T05:10:39.956Z,"16km S of Searles Valley, CA",earthquake,0.88,1.11,0.183,7.0,automatic,ci,ci
 2023-03-08T04:54:52.790Z,62.5833,-148.2131,38.4,1.6,ml,,,,0.75,ak,ak02332vpo8v,2023-03-08T04:57:40.583Z,"88 km N of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-08T05:33:21.441Z,63.088,-151.4461,2.7,1.4,ml,,,,0.9,ak,ak02332w6je8,2023-03-08T05:35:21.606Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
