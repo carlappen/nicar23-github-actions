@@ -1386,3 +1386,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-08T20:45:52.191Z,54.6599,-161.5573,4.8,1.8,ml,,,,0.38,ak,ak0233356nsn,2023-03-08T22:34:58.117Z,"66 km SE of King Cove, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-03-08T19:48:30.580Z,51.8656666666667,-178.0905,1.88,1.11,ml,4.0,203.0,,0.29,av,av91790026,2023-03-08T22:38:43.110Z,"100 km W of Adak, Alaska",earthquake,1.09,5.39,0.28712245649368,4.0,reviewed,av,av
 2023-03-08T15:40:04.187Z,37.0384,-114.8066,0.0,1.4,ml,5.0,147.37,0.417,0.1558,nn,nn00856712,2023-03-08T22:31:37.210Z,"43 km NNW of Moapa Town, Nevada",earthquake,,0.0,0.12,3.0,reviewed,nn,nn
+2023-03-08T22:39:41.422Z,64.9919,-147.2596,0.0,1.5,ml,,,,1.04,ak,ak023336c8h9,2023-03-08T22:43:13.330Z,"16 km NW of Two Rivers, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-08T19:54:23.950Z,51.8578333333333,-178.092666666667,3.46,1.85,ml,9.0,107.0,,0.18,av,av91790036,2023-03-08T22:50:01.950Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.5,0.44,0.313632726789924,9.0,reviewed,av,av
+2023-03-08T19:53:44.260Z,51.8686666666667,-178.091333333333,-1.74,1.75,ml,5.0,201.0,,0.29,av,av91790031,2023-03-08T22:42:14.340Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.4,2.87,0.260718757382649,5.0,reviewed,av,av
