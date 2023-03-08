@@ -1118,3 +1118,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-08T03:39:50.200Z,33.0278333,-115.5403333,2.7,1.01,ml,9.0,121.0,0.03644,0.33,ci,ci40422000,2023-03-08T03:43:29.555Z,"6km N of Brawley, CA",earthquake,1.34,1.04,0.157,8.0,automatic,ci,ci
 2023-03-08T03:37:29.753Z,63.4031,-151.339,0.2,1.9,ml,,,,0.88,ak,ak02332v0jov,2023-03-08T03:40:21.099Z,"24 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-08T03:14:12.141Z,53.0503,-166.3666,16.7,2.6,ml,,,,0.59,ak,ak02332uvkza,2023-03-08T03:47:25.662Z,"92 km S of Unalaska, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-03-08T03:47:39.837Z,60.8084,-150.935,46.6,1.5,ml,,,,0.71,ak,ak02332v2pmn,2023-03-08T03:49:39.864Z,"Kenai Peninsula, Alaska",earthquake,,1.3,,,automatic,ak,ak
