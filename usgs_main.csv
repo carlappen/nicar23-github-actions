@@ -1233,3 +1233,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-08T11:59:32.940Z,37.3786659,-122.189003,6.57,1.35,md,10.0,105.0,0.04681,0.03,nc,nc73854260,2023-03-08T12:16:14.751Z,"4km E of Portola Valley, CA",earthquake,0.33,0.57,0.25,9.0,automatic,nc,nc
 2023-03-08T11:59:28.090Z,39.3785019,-122.9021683,10.7,2.97,md,35.0,84.0,0.1751,0.16,nc,nc73854255,2023-03-08T13:11:36.040Z,"6km SE of Lake Pillsbury, CA",earthquake,0.28,0.62,0.15,42.0,automatic,nc,nc
 2023-03-08T11:59:18.031Z,63.1126,-144.3653,10.8,1.2,ml,,,,0.48,ak,ak02332zwpdn,2023-03-08T12:02:15.612Z,"36 km NW of Mentasta Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-08T13:33:59.400Z,32.8036667,-115.454,10.75,1.65,ml,16.0,123.0,0.006292,0.25,ci,ci40422104,2023-03-08T13:37:31.395Z,"7km W of Holtville, CA",earthquake,0.75,1.13,0.157,20.0,automatic,ci,ci
+2023-03-08T13:17:35.940Z,33.7953333,-116.9203333,9.21,1.2,ml,33.0,63.0,0.04157,0.21,ci,ci40422096,2023-03-08T13:21:13.535Z,"4km ENE of San Jacinto, CA",earthquake,0.29,0.78,0.184,27.0,automatic,ci,ci
