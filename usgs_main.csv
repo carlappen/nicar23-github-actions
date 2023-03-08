@@ -1309,3 +1309,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-08T18:49:17.440Z,38.8328323,-122.8088303,2.47,0.71,md,10.0,71.0,0.0216,0.01,nc,nc73854365,2023-03-08T18:50:55.413Z,"8km W of Cobb, CA",earthquake,0.35,1.38,0.07,11.0,automatic,nc,nc
 2023-03-08T18:32:02.310Z,37.4621667,-118.7241667,13.59,0.85,md,12.0,127.0,0.1525,0.02,nc,nc73854355,2023-03-08T18:49:23.084Z,"12km SSW of Toms Place, CA",earthquake,0.39,1.86,0.281,11.0,reviewed,nc,nc
 2023-03-08T06:59:59.070Z,31.6770404,-104.4000389,5.514575195,2.1,ml,22.0,100.0,0.05741053459,0.2,tx,tx2023erdb,2023-03-08T18:56:05.168Z,"55 km S of Whites City, New Mexico",earthquake,0.9724575343,1.073265718,0.1,10.0,reviewed,tx,tx
+2023-03-08T19:14:49.310Z,33.5046667,-116.5113333,5.65,1.07,ml,25.0,86.0,0.0552,0.18,ci,ci40181711,2023-03-08T19:18:28.264Z,"16km ESE of Anza, CA",earthquake,0.28,0.54,0.12,25.0,automatic,ci,ci
+2023-03-08T19:09:36.854Z,58.1813,-155.2631,0.0,0.1,ml,,,,0.26,ak,ak023334dhv9,2023-03-08T19:11:36.617Z,"83 km NW of Karluk, Alaska",earthquake,,23.7,,,automatic,ak,ak
+2023-03-08T19:05:59.917Z,65.3631,-148.207,13.4,0.9,ml,,,,0.32,ak,ak023334crvq,2023-03-08T19:08:17.971Z,"23 km SE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-08T06:51:35.410Z,51.8815,-178.091833333333,9.54,0.66,ml,4.0,186.0,,0.26,av,av91092493,2023-03-08T19:08:20.140Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.31,1.47,0.375295916904445,4.0,reviewed,av,av
+2023-03-08T06:51:27.590Z,53.3571666666667,-168.160166666667,23.72,0.44,ml,7.0,167.0,,0.09,av,av91788916,2023-03-08T19:03:43.730Z,"66 km NE of Nikolski, Alaska",earthquake,0.93,0.56,0.510735274136074,7.0,reviewed,av,av
