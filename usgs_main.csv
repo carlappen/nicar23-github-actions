@@ -1586,3 +1586,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T11:10:31.500Z,33.0411667,-116.3948333,5.74,0.75,ml,19.0,80.0,0.07043,0.22,ci,ci40182151,2023-03-09T11:13:58.651Z,"20km ESE of Julian, CA",earthquake,0.41,1.88,0.067,8.0,automatic,ci,ci
 2023-03-09T11:08:48.090Z,38.8040009,-122.821167,1.92,1.31,md,27.0,59.0,0.007924,0.03,nc,nc73854605,2023-03-09T11:22:11.095Z,"6km WNW of The Geysers, CA",earthquake,0.19,0.32,0.15,27.0,automatic,nc,nc
 2023-03-09T11:01:32.618Z,60.0651,-141.977,8.7,1.4,ml,,,,0.84,ak,ak02334n3ngt,2023-03-09T11:03:43.104Z,"138 km WNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-09T11:31:46.030Z,35.9843333,-117.468,-0.09,1.45,ml,17.0,140.0,0.1765,0.18,ci,ci40182159,2023-03-09T11:35:18.757Z,"25km NNW of Searles Valley, CA",earthquake,0.39,31.61,0.219,12.0,automatic,ci,ci
+2023-03-09T11:22:22.259Z,60.44,-147.0726,4.4,1.6,ml,,,,0.62,ak,ak02334n84jg,2023-03-09T11:24:43.345Z,"51 km SSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
