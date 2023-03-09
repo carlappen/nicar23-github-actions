@@ -1561,3 +1561,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T08:11:30.250Z,19.2485008239746,-155.385665893555,32.3699989318848,2.24,ml,38.0,137.0,,0.129999995,hv,hv73335797,2023-03-09T08:17:01.340Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.58,0.800000012,0.57,3.0,automatic,hv,hv
 2023-03-09T07:45:47.427Z,32.74749756,-100.6594179,7.654337565,2.8,ml,15.0,70.0,0.08405727831,0.2,tx,tx2023etac,2023-03-09T08:02:16.416Z,"15 km NE of Hermleigh, Texas",earthquake,0.6770603078,1.28674797,0.1,8.0,reviewed,tx,tx
 2023-03-09T06:44:04.874Z,47.3881,-114.5439,11.899,2.5,ml,14.0,88.0,0.4,0.52,us,us7000jiel,2023-03-09T08:08:55.040Z,"19 km WNW of Dixon, Montana",earthquake,3.85,8.152,0.051,50.0,reviewed,us,us
+2023-03-09T08:44:32.838Z,56.1899,-157.7254,39.9,2.0,ml,,,,0.34,ak,ak02334lkkgj,2023-03-09T08:46:15.152Z,"43 km ESE of Chignik, Alaska",earthquake,,9.1,,,automatic,ak,ak
+2023-03-09T08:42:14.841Z,57.6791,-156.5022,125.5,1.9,ml,,,,0.41,ak,ak02334lk3n0,2023-03-09T08:45:17.037Z,"56 km ENE of Ugashik, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2023-03-09T07:24:28.110Z,35.8439,-106.7117,11.305,2.6,ml,14.0,110.0,0.92,0.59,us,us7000jiew,2023-03-09T08:39:04.040Z,"6 km WSW of La Cueva, New Mexico",earthquake,3.12,8.511,0.06,36.0,reviewed,us,us
