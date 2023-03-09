@@ -1730,3 +1730,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T16:22:39.510Z,51.8586666666667,-178.093,4.07,0.9,ml,4.0,212.0,,0.14,av,av91792966,2023-03-09T19:29:02.980Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.63,1.02,0.382168807111953,4.0,reviewed,av,av
 2023-03-09T04:07:21.648Z,51.8474,-177.9804,5.0,3.2,ml,,,,0.83,ak,ak02334iyvrv,2023-03-09T19:28:45.030Z,"92 km W of Adak, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-03-09T03:51:45.009Z,51.8472,-178.0155,6.1,3.2,ml,,,,0.56,ak,ak02334imxfg,2023-03-09T19:24:58.983Z,"95 km W of Adak, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2023-03-09T19:37:10.349Z,63.1042,-151.4255,2.5,1.4,ml,,,,0.66,ak,ak02334s2sd2,2023-03-09T19:39:26.587Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-09T19:16:10.580Z,17.95,-66.8041666666667,10.03,2.33,md,8.0,212.0,0.0757,0.11,pr,pr71398933,2023-03-09T19:33:47.280Z,"5 km SSE of Indios, Puerto Rico",earthquake,0.57,0.67,0.110260123011614,6.0,reviewed,pr,pr
+2023-03-09T18:18:54.960Z,51.8603333333333,-177.9795,5.84,1.91,ml,4.0,120.0,,0.19,av,av91092693,2023-03-09T19:40:33.160Z,"92 km W of Adak, Alaska",earthquake,0.64,1.63,0.216775046523001,4.0,reviewed,av,av
+2023-03-09T18:18:35.930Z,51.8563333333333,-178.157666666667,2.62,2.36,ml,9.0,115.0,,0.24,av,av91793241,2023-03-09T19:37:13.910Z,"104 km W of Adak, Alaska",earthquake,0.66,1.2,0.199469745095766,9.0,reviewed,av,av
+2023-03-09T17:34:35.110Z,51.876,-178.14,6.76,1.73,ml,7.0,126.0,,0.21,av,av91793136,2023-03-09T19:41:54.670Z,"103 km W of Adak, Alaska",earthquake,1.05,1.01,0.182704642849694,7.0,reviewed,av,av
+2023-03-09T16:28:55.270Z,51.856,-177.968333333333,3.75,1.4,ml,5.0,126.0,,0.21,av,av91792976,2023-03-09T19:40:27.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.58,1.59,0.126947351192762,5.0,reviewed,av,av
+2023-03-09T16:24:53.850Z,51.8628333333333,-178.1,3.84,1.19,ml,4.0,215.0,,0.08,av,av91092688,2023-03-09T19:38:21.300Z,"100 km W of Adak, Alaska",earthquake,0.43,0.42,0.0797199999914249,4.0,reviewed,av,av
+2023-03-09T04:42:24.952Z,60.6281,-149.4124,1.2,0.7,ml,,,,0.84,ak,ak02334j6c4h,2023-03-09T19:39:47.080Z,"15 km N of Moose Pass, Alaska",earthquake,,0.7,,,reviewed,ak,ak
