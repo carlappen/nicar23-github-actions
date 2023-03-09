@@ -1573,3 +1573,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T09:32:51.384Z,61.6866,-149.4667,34.9,1.2,ml,,,,0.27,ak,ak02334m3gwi,2023-03-09T09:34:20.904Z,"6 km NNW of Tanaina, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-03-09T09:31:41.720Z,38.8243332,-122.8001633,2.79,0.71,md,10.0,96.0,0.007798,0.01,nc,nc73854570,2023-03-09T09:33:16.228Z,"6km NW of The Geysers, CA",earthquake,0.4,1.08,0.33,10.0,automatic,nc,nc
 2023-03-09T09:28:44.156Z,63.0959,-149.4324,67.8,1.7,ml,,,,0.77,ak,ak02334m2lhb,2023-03-09T09:30:46.477Z,"40 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-09T09:41:35.370Z,38.7900009,-122.769165,2.64,0.78,md,7.0,126.0,0.01499,0.01,nc,nc73854580,2023-03-09T09:43:11.092Z,"2km NW of The Geysers, CA",earthquake,0.65,1.79,0.03,7.0,automatic,nc,nc
