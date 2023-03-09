@@ -1599,3 +1599,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T12:32:46.420Z,18.0566666666667,-66.873,19.15,2.19,md,7.0,123.0,0.08139,0.07,pr,pr71398913,2023-03-09T12:46:10.880Z,"3 km NW of Yauco, Puerto Rico",earthquake,0.46,0.9,0.0618375330446939,5.0,reviewed,pr,pr
 2023-03-09T12:26:03.252Z,62.3998,-151.1793,81.4,2.0,ml,,,,0.37,ak,ak02334nudph,2023-03-09T12:27:48.839Z,"23 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-09T12:01:36.714Z,17.161,-94.9822,106.412,4.7,mb,39.0,118.0,2.863,1.08,us,us7000jifx,2023-03-09T12:17:14.040Z,"8 km ENE of Palomares, Mexico",earthquake,7.94,6.37,0.041,177.0,reviewed,us,us
+2023-03-09T13:38:56.010Z,38.8256683,-122.803833,2.7,0.73,md,7.0,119.0,0.005378,0.01,nc,nc73854640,2023-03-09T13:40:30.654Z,"7km NW of The Geysers, CA",earthquake,0.63,1.36,0.43,8.0,automatic,nc,nc
+2023-03-09T13:34:34.510Z,38.7563324,-122.7246704,1.38,1.44,md,10.0,115.0,0.005255,0.02,nc,nc73854635,2023-03-09T13:36:10.675Z,"4km SW of Anderson Springs, CA",earthquake,0.5,0.33,0.13,9.0,automatic,nc,nc
+2023-03-09T13:33:48.230Z,33.144,-116.5013333,4.76,0.59,ml,17.0,77.0,0.1342,0.23,ci,ci40182199,2023-03-09T13:37:31.319Z,"12km NE of Julian, CA",earthquake,0.54,1.31,0.171,5.0,automatic,ci,ci
+2023-03-09T13:31:19.715Z,63.1208,-151.4612,0.0,1.6,ml,,,,0.72,ak,ak02334ogx5v,2023-03-09T13:33:28.287Z,"48 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-09T13:28:49.047Z,63.8132,-149.2315,6.9,1.2,ml,,,,0.68,ak,ak02334ogca0,2023-03-09T13:30:48.267Z,"13 km WSW of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-09T13:17:21.720Z,38.8260002,-122.8125,1.99,1.1,md,21.0,70.0,0.003218,0.01,nc,nc73854630,2023-03-09T13:33:14.954Z,"7km NW of The Geysers, CA",earthquake,0.22,0.42,0.21,23.0,automatic,nc,nc
