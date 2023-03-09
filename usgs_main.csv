@@ -1605,3 +1605,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T13:31:19.715Z,63.1208,-151.4612,0.0,1.6,ml,,,,0.72,ak,ak02334ogx5v,2023-03-09T13:33:28.287Z,"48 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-09T13:28:49.047Z,63.8132,-149.2315,6.9,1.2,ml,,,,0.68,ak,ak02334ogca0,2023-03-09T13:30:48.267Z,"13 km WSW of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-09T13:17:21.720Z,38.8260002,-122.8125,1.99,1.1,md,21.0,70.0,0.003218,0.01,nc,nc73854630,2023-03-09T13:33:14.954Z,"7km NW of The Geysers, CA",earthquake,0.22,0.42,0.21,23.0,automatic,nc,nc
+2023-03-09T13:48:15.390Z,35.541832,-120.9068298,14.65,1.53,md,7.0,210.0,0.09865,0.02,nc,nc73854660,2023-03-09T13:49:50.806Z,"11km N of Cayucos, CA",earthquake,3.09,2.19,0.16,4.0,automatic,nc,nc
+2023-03-09T13:46:01.920Z,38.7521667,-122.7283325,1.53,1.2,md,12.0,116.0,0.009796,0.04,nc,nc73854655,2023-03-09T13:47:35.760Z,"4km SE of The Geysers, CA",earthquake,0.47,0.33,0.2,12.0,automatic,nc,nc
+2023-03-09T13:30:06.630Z,51.8676666666667,-178.135166666667,6.38,3.68,ml,7.0,107.0,,0.08,av,av91792531,2023-03-09T13:48:57.640Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.54,0.55,0.313127930143752,6.0,reviewed,av,av
+2023-03-09T13:24:32.430Z,51.865,-178.134,5.93,3.14,ml,10.0,108.0,,0.13,av,av91792516,2023-03-09T13:55:25.790Z,"103 km W of Adak, Alaska",earthquake,0.53,0.55,0.209245234226239,10.0,reviewed,av,av
