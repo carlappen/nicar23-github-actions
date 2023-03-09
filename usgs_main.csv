@@ -1595,3 +1595,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T11:49:06.700Z,34.0465,-116.348,7.21,2.01,ml,60.0,31.0,0.04159,0.15,ci,ci40182183,2023-03-09T11:52:48.849Z,"10km SSW of Joshua Tree, CA",earthquake,0.17,0.54,0.185,26.0,automatic,ci,ci
 2023-03-09T11:46:17.090Z,33.4718333,-116.5563333,8.82,0.57,ml,23.0,81.0,0.0446,0.21,ci,ci40182175,2023-03-09T11:49:47.522Z,"14km SE of Anza, CA",earthquake,0.37,0.69,0.229,14.0,automatic,ci,ci
 2023-03-09T11:45:40.830Z,38.7943344,-122.7626648,2.41,1.24,md,21.0,63.0,0.006692,0.03,nc,nc73854615,2023-03-09T11:47:16.365Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.5,0.15,21.0,automatic,nc,nc
+2023-03-09T12:48:50.983Z,59.8677,-152.6496,85.4,1.0,ml,,,,0.08,ak,ak02334nz756,2023-03-09T12:50:12.541Z,"47 km WNW of Anchor Point, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-09T12:32:46.420Z,18.0566666666667,-66.873,19.15,2.19,md,7.0,123.0,0.08139,0.07,pr,pr71398913,2023-03-09T12:46:10.880Z,"3 km NW of Yauco, Puerto Rico",earthquake,0.46,0.9,0.0618375330446939,5.0,reviewed,pr,pr
+2023-03-09T12:26:03.252Z,62.3998,-151.1793,81.4,2.0,ml,,,,0.37,ak,ak02334nudph,2023-03-09T12:27:48.839Z,"23 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-09T12:01:36.714Z,17.161,-94.9822,106.412,4.7,mb,39.0,118.0,2.863,1.08,us,us7000jifx,2023-03-09T12:17:14.040Z,"8 km ENE of Palomares, Mexico",earthquake,7.94,6.37,0.041,177.0,reviewed,us,us
