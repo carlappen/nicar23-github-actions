@@ -1501,3 +1501,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T05:02:58.120Z,38.8326683,-122.8190002,2.07,0.67,md,9.0,105.0,0.01159,0.02,nc,nc73854520,2023-03-09T05:19:14.956Z,"8km NW of The Geysers, CA",earthquake,0.46,0.85,0.4,9.0,automatic,nc,nc
 2023-03-09T04:59:40.950Z,33.0385,-116.394,6.42,0.87,ml,23.0,79.0,0.06796,0.21,ci,ci40181919,2023-03-09T05:03:21.029Z,"20km ESE of Julian, CA",earthquake,0.38,0.96,0.147,12.0,automatic,ci,ci
 2023-03-09T04:22:46.577Z,15.5671,-92.7796,123.196,4.9,mb,70.0,135.0,0.942,0.79,us,us7000jidj,2023-03-09T05:11:34.036Z,"15 km SSW of Nueva Colombia, Mexico",earthquake,7.77,6.874,0.025,494.0,reviewed,us,us
+2023-03-09T05:31:19.828Z,59.7134,-152.8321,91.4,1.5,ml,,,,0.59,ak,ak02334jpg9e,2023-03-09T05:33:16.168Z,"56 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
