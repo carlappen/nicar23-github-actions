@@ -2063,3 +2063,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T08:40:09.226Z,37.1921,-104.697,7.062,2.8,ml,13.0,70.0,0.098,0.87,us,us7000jirv,2023-03-10T09:08:01.040Z,"7 km N of Valdez, Colorado",earthquake,1.97,1.59,0.051,50.0,reviewed,us,us
 2023-03-10T09:27:09.420Z,19.2479991912842,-155.402160644531,31.2399997711182,2.02999997,md,35.0,131.0,,0.119999997,hv,hv73336287,2023-03-10T09:30:21.870Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.6,0.75,0.25999999,16.0,automatic,hv,hv
 2023-03-10T09:18:41.372Z,6.8426,-73.0822,159.388,5.4,mww,113.0,31.0,0.944,1.41,us,us7000jirz,2023-03-10T09:36:36.260Z,"12 km N of Jordán, Colombia",earthquake,6.14,5.056,0.06,27.0,reviewed,us,us
+2023-03-10T09:47:37.160Z,38.8181648,-122.8253326,1.9,0.81,md,9.0,86.0,0.009046,0.01,nc,nc73854960,2023-03-10T09:49:15.544Z,"8km NW of The Geysers, CA",earthquake,0.36,0.97,0.27,12.0,automatic,nc,nc
+2023-03-10T09:43:14.422Z,58.2676,-155.0594,0.0,1.9,ml,,,,0.61,ak,ak023369p3f6,2023-03-10T09:44:56.754Z,"85 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-10T09:41:24.867Z,58.2561,-155.0673,0.0,1.7,ml,,,,0.47,ak,ak023369oosm,2023-03-10T09:42:47.039Z,"84 km NNW of Karluk, Alaska",earthquake,,6.3,,,automatic,ak,ak
+2023-03-10T09:33:02.355Z,59.4307,-152.4459,182.8,2.2,ml,,,,1.33,ak,ak023369mxlt,2023-03-10T09:40:20.006Z,"30 km WNW of Nanwalek, Alaska",earthquake,,7.1,,,automatic,ak,ak
