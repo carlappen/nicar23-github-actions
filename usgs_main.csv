@@ -2074,3 +2074,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T11:00:57.519Z,-4.2625,152.7413,10.0,5.0,mb,80.0,39.0,8.81,0.65,us,us7000jise,2023-03-10T11:22:34.040Z,"53 km E of Kokopo, Papua New Guinea",earthquake,9.43,1.785,0.061,86.0,reviewed,us,us
 2023-03-10T10:50:49.074Z,37.234,-104.7492,1.692,3.0,mb_lg,16.0,67.0,0.115,0.26,us,us7000jisa,2023-03-10T11:16:35.771Z,"12 km N of Segundo, Colorado",earthquake,1.83,0.51,0.059,117.0,reviewed,us,us
 2023-03-09T12:44:55.689Z,51.9047,-178.1405,10.512,3.1,ml,15.0,133.0,0.015,0.63,us,us7000jigc,2023-03-10T11:02:18.040Z,"103 km W of Adak, Alaska",earthquake,1.4,2.107,0.097,14.0,reviewed,us,us
+2023-03-10T11:46:23.980Z,19.7625007629395,-156.429672241211,6.98000001907349,2.97,ml,38.0,313.0,,0.219999999,hv,hv73336367,2023-03-10T11:51:53.680Z,"47 km W of Kalaoa, Hawaii",earthquake,5.24,7.65999985,0.12,4.0,automatic,hv,hv
