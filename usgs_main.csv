@@ -2091,3 +2091,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T05:42:15.683Z,51.8733,-178.094,10.598,2.9,ml,16.0,97.0,0.045,0.46,us,us7000jir0,2023-03-10T13:03:36.040Z,"100 km W of Adak, Alaska",earthquake,1.01,1.568,0.097,14.0,reviewed,us,us
 2023-03-10T05:12:41.428Z,51.8762,-178.1014,3.489,3.3,ml,18.0,117.0,0.041,0.57,us,us7000jirc,2023-03-10T13:01:21.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.97,3.575,0.097,14.0,reviewed,us,us
 2023-03-10T05:12:08.635Z,51.8737,-178.0625,3.885,2.8,ml,16.0,104.0,0.042,0.64,us,us7000jir8,2023-03-10T13:00:12.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.09,2.399,0.115,16.0,reviewed,us,us
+2023-03-10T13:11:40.864Z,14.1061,-91.4134,77.527,4.2,mb,42.0,172.0,0.983,0.46,us,us7000jist,2023-03-10T13:38:29.040Z,"16 km SW of Nueva Concepción, Guatemala",earthquake,6.43,8.63,0.064,68.0,reviewed,us,us
+2023-03-10T12:57:35.397Z,28.4745,139.6201,464.411,4.6,mb,110.0,106.0,4.629,0.65,us,us7000jisq,2023-03-10T13:20:28.040Z,"Bonin Islands, Japan region",earthquake,11.0,8.123,0.032,291.0,reviewed,us,us
+2023-03-10T09:43:22.570Z,37.197,-104.7648,5.263,2.5,ml,15.0,66.0,0.076,0.23,us,us7000jis6,2023-03-10T13:29:25.563Z,Colorado,earthquake,2.45,6.539,0.121,20.0,reviewed,us,us
+2023-03-10T08:04:18.685Z,-30.7157,-179.94,404.692,4.5,mb,35.0,77.0,2.274,0.63,us,us7000jirq,2023-03-10T13:21:39.040Z,Kermadec Islands region,earthquake,14.04,9.533,0.098,31.0,reviewed,us,us
+2023-03-10T07:58:34.439Z,37.9929,37.5024,5.069,4.1,mb,24.0,72.0,0.682,0.97,us,us7000jirp,2023-03-10T13:17:45.040Z,"6 km ENE of Nurhak, Turkey",earthquake,1.85,6.075,0.234,5.0,reviewed,us,us
