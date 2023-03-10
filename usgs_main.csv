@@ -2334,3 +2334,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T20:36:06.270Z,51.8498333333333,-178.039166666667,3.11,1.74,ml,4.0,215.0,,0.09,av,av91796826,2023-03-10T23:32:42.890Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.29,0.77,0.162069634070411,4.0,reviewed,av,av
 2023-03-10T23:35:40.760Z,35.2861667,-119.4103333,23.63,1.87,ml,17.0,111.0,0.0605,0.22,ci,ci40182935,2023-03-10T23:39:17.573Z,"14km SSE of Buttonwillow, CA",earthquake,0.69,1.04,0.207,28.0,automatic,ci,ci
 2023-03-10T20:41:59.810Z,51.8558333333333,-178.045333333333,-1.77,1.47,ml,5.0,151.0,,0.25,av,av91796836,2023-03-10T23:40:27.050Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.67,1.71,0.268942290969816,5.0,reviewed,av,av
+2023-03-10T23:51:26.660Z,36.9666672,-121.5849991,5.8,1.29,md,10.0,186.0,0.01159,0.08,nc,nc73855215,2023-03-10T23:53:02.098Z,"5km SSW of Gilroy, CA",earthquake,0.79,0.53,0.19,11.0,automatic,nc,nc
+2023-03-10T23:48:14.958Z,61.5754,-149.8632,56.4,1.4,ml,,,,0.24,ak,ak02336i28if,2023-03-10T23:49:42.883Z,"6 km SSW of Houston, Alaska",earthquake,,1.0,,,automatic,ak,ak
