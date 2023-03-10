@@ -1983,3 +1983,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T04:43:43.957Z,62.74,-150.4972,107.0,1.1,ml,,,,0.76,ak,ak023366pzob,2023-03-10T04:45:28.600Z,Central Alaska,earthquake,,1.0,,,automatic,ak,ak
 2023-03-10T04:34:43.490Z,33.6686667,-116.7545,11.8,0.48,ml,14.0,104.0,0.05411,0.22,ci,ci40182511,2023-03-10T04:38:25.352Z,"9km SSW of Idyllwild, CA",earthquake,0.78,0.81,0.197,7.0,automatic,ci,ci
 2023-03-10T04:01:43.720Z,51.8685,-178.069833333333,-1.8,0.95,ml,4.0,174.0,,0.22,av,av91794781,2023-03-10T04:45:50.120Z,"98 km W of Adak, Alaska",earthquake,0.59,1.66,0.249034474674233,4.0,reviewed,av,av
+2023-03-10T04:33:59.020Z,17.9436666666667,-66.2578333333333,12.09,2.52,md,10.0,206.0,0.1397,0.18,pr,pr71398973,2023-03-10T04:47:59.050Z,"3 km WSW of Central Aguirre, Puerto Rico",earthquake,0.48,0.47,0.272054266311325,6.0,reviewed,pr,pr
+2023-03-10T04:01:53.790Z,51.872,-178.124833333333,4.21,1.1,ml,4.0,232.0,,0.25,av,av91093008,2023-03-10T04:48:17.430Z,"102 km W of Adak, Alaska",earthquake,1.21,2.0,0.350626252896468,4.0,reviewed,av,av
