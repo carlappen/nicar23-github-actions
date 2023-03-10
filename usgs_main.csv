@@ -2332,3 +2332,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T20:33:39.670Z,51.828,-178.155,-1.8,2.17,ml,4.0,258.0,,0.23,av,av91796816,2023-03-10T23:16:15.110Z,"104 km W of Adak, Alaska",earthquake,1.03,1.75,0.233342221441426,4.0,reviewed,av,av
 2023-03-10T20:28:45.060Z,51.8585,-178.091666666667,2.64,1.32,ml,4.0,212.0,,0.22,av,av91796801,2023-03-10T23:06:00.240Z,"100 km W of Adak, Alaska",earthquake,0.92,3.25,0.269505986025022,4.0,reviewed,av,av
 2023-03-10T20:36:06.270Z,51.8498333333333,-178.039166666667,3.11,1.74,ml,4.0,215.0,,0.09,av,av91796826,2023-03-10T23:32:42.890Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.29,0.77,0.162069634070411,4.0,reviewed,av,av
+2023-03-10T23:35:40.760Z,35.2861667,-119.4103333,23.63,1.87,ml,17.0,111.0,0.0605,0.22,ci,ci40182935,2023-03-10T23:39:17.573Z,"14km SSE of Buttonwillow, CA",earthquake,0.69,1.04,0.207,28.0,automatic,ci,ci
+2023-03-10T20:41:59.810Z,51.8558333333333,-178.045333333333,-1.77,1.47,ml,5.0,151.0,,0.25,av,av91796836,2023-03-10T23:40:27.050Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.67,1.71,0.268942290969816,5.0,reviewed,av,av
