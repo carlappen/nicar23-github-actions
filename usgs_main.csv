@@ -2323,3 +2323,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T22:35:35.835Z,57.6327,-154.4322,26.2,1.9,ml,,,,0.47,ak,ak02336he27j,2023-03-10T22:36:59.600Z,"7 km N of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-10T20:13:58.760Z,51.858,-177.974833333333,5.25,1.16,ml,4.0,122.0,,0.11,av,av91796771,2023-03-10T22:34:03.600Z,"92 km W of Adak, Alaska",earthquake,0.46,1.33,0.245949191794973,4.0,reviewed,av,av
 2023-03-10T20:18:27.960Z,51.8558333333333,-178.047666666667,-1.8,1.21,ml,4.0,156.0,,0.25,av,av91796776,2023-03-10T22:43:39.010Z,"97 km W of Adak, Alaska",earthquake,0.93,1.76,0.114246429621666,3.0,reviewed,av,av
+2023-03-10T22:48:45.428Z,62.6672,-151.394,0.0,1.3,ml,,,,0.88,ak,ak02336hgv9a,2023-03-10T22:51:28.049Z,"37 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-10T20:25:55.000Z,51.8566666666667,-178.099833333333,3.83,2.55,ml,11.0,129.0,,0.15,av,av91796786,2023-03-10T22:56:52.090Z,"100 km W of Adak, Alaska",earthquake,0.43,0.31,0.246056723025922,12.0,reviewed,av,av
+2023-03-10T20:23:47.550Z,51.8685,-178.1075,1.33,0.99,ml,4.0,218.0,,0.26,av,av91796781,2023-03-10T22:50:08.910Z,"101 km W of Adak, Alaska",earthquake,2.4,4.34,0.283577363727337,4.0,reviewed,av,av
