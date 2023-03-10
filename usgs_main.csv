@@ -2044,3 +2044,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T04:49:58.150Z,51.8578333333333,-178.150666666667,3.4,2.39,ml,11.0,134.0,,0.22,av,av91794876,2023-03-10T07:01:51.770Z,"104 km W of Adak, Alaska",earthquake,0.69,0.77,0.203253800900303,11.0,reviewed,av,av
 2023-03-10T04:49:58.130Z,51.871,-178.148833333333,5.49,2.47,ml,11.0,129.0,,0.25,av,av91794881,2023-03-10T07:07:14.610Z,"104 km W of Adak, Alaska",earthquake,0.88,0.98,0.27901886990767,13.0,reviewed,av,av
 2023-03-10T06:36:01.200Z,51.856,-178.108333333333,4.65,3.65,ml,8.0,109.0,,0.15,av,av91795186,2023-03-10T07:25:26.760Z,"101 km W of Adak, Alaska",earthquake,0.5,0.75,0.269625600475148,8.0,reviewed,av,av
+2023-03-10T07:43:45.614Z,61.6189,-146.3266,34.4,1.5,ml,,,,0.52,ak,ak023368iam9,2023-03-10T07:45:44.374Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-10T07:43:34.116Z,58.2484,-155.1397,1.1,1.0,ml,,,,0.56,ak,ak023368i9qb,2023-03-10T07:45:40.688Z,"85 km NNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-03-10T07:38:45.064Z,61.7015,-150.1757,14.5,1.1,ml,,,,0.37,ak,ak023368h7zu,2023-03-10T07:41:03.269Z,"8 km SW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-10T00:08:38.580Z,51.8691666666667,-178.108666666667,5.27,1.9,ml,7.0,125.0,,0.25,av,av91794141,2023-03-10T07:42:06.920Z,"101 km W of Adak, Alaska",earthquake,1.11,1.46,0.144254045420192,7.0,reviewed,av,av
+2023-03-10T00:06:36.170Z,51.8521666666667,-177.997333333333,3.48,1.32,ml,4.0,133.0,,0.04,av,av91794136,2023-03-10T07:36:45.530Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.31,0.84,0.177024777698078,4.0,reviewed,av,av
