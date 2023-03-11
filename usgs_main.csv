@@ -2570,3 +2570,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T14:44:37.170Z,38.8321648,-122.8003311,1.75,1.07,md,22.0,45.0,0.009986,0.02,nc,nc73855380,2023-03-11T14:46:13.907Z,"7km W of Cobb, CA",earthquake,0.19,0.4,0.3,22.0,automatic,nc,nc
 2023-03-11T14:44:27.153Z,65.0955,-148.6317,9.4,1.2,ml,,,,0.5,ak,ak0233807umz,2023-03-11T14:45:55.434Z,"34 km E of Minto, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-10T19:30:22.158Z,51.8687,-178.0622,7.455,3.3,ml,18.0,96.0,0.037,0.54,us,us7000jj15,2023-03-11T14:49:39.040Z,"98 km W of Adak, Alaska",earthquake,1.56,1.503,0.097,14.0,reviewed,us,us
+2023-03-11T15:08:14.110Z,38.8361664,-122.8264999,1.87,0.77,md,11.0,77.0,0.007424,0.01,nc,nc73855385,2023-03-11T15:22:11.558Z,"9km NW of The Geysers, CA",earthquake,0.31,0.67,0.26,12.0,automatic,nc,nc
+2023-03-11T14:53:28.919Z,61.6035,-141.5077,5.6,1.7,ml,,,,0.26,ak,ak0233809s7v,2023-03-11T14:55:31.821Z,"77 km ENE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-10T20:34:49.417Z,51.8318,-178.0057,2.619,2.6,ml,11.0,116.0,0.02,0.34,us,us7000jj0m,2023-03-11T15:04:50.040Z,"94 km W of Adak, Alaska",earthquake,1.65,3.772,0.105,12.0,reviewed,us,us
+2023-03-10T20:25:54.896Z,51.9083,-178.0871,9.199,3.0,ml,18.0,154.0,0.023,0.43,us,us7000jj0g,2023-03-11T15:01:31.040Z,"100 km W of Adak, Alaska",earthquake,1.85,1.701,0.097,14.0,reviewed,us,us
