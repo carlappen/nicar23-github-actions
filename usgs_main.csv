@@ -2584,3 +2584,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T16:09:53.660Z,39.3626671,-120.0070038,1.0,2.46,md,8.0,109.0,0.0734,0.06,nc,nc73855405,2023-03-11T16:35:12.041Z,"14km NNW of Incline Village-Crystal Bay, NV",earthquake,0.64,2.72,0.15,7.0,automatic,nc,nc
 2023-03-11T16:09:08.450Z,39.3634987,-120.0116653,-2.03,2.94,md,14.0,68.0,0.07316,0.08,nc,nc73855400,2023-03-11T16:21:50.718Z,"14km N of Kings Beach, CA",earthquake,0.27,1.36,0.14,16.0,automatic,nc,nc
 2023-03-11T15:59:53.251Z,36.08597565,-98.86579132,12.16498566,2.24,ml,17.0,131.5805664,0.3120517731,1.426234894,ok,ok2023exhj,2023-03-11T16:02:47.219Z,"8 km SE of Seiling, Oklahoma",earthquake,5.441720882,4.301856936,,9.0,automatic,ok,ok
+2023-03-11T16:42:20.650Z,38.793335,-122.7276688,2.16,0.87,md,10.0,100.0,0.01232,0.01,nc,nc73855420,2023-03-11T16:43:59.561Z,"3km NE of The Geysers, CA",earthquake,0.29,0.79,0.15,9.0,automatic,nc,nc
+2023-03-11T16:38:43.290Z,35.6568333,-117.4563333,10.57,1.12,ml,12.0,107.0,0.02782,0.12,ci,ci40183335,2023-03-11T16:42:24.644Z,"13km SSW of Searles Valley, CA",earthquake,0.52,0.46,0.281,10.0,automatic,ci,ci
