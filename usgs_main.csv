@@ -2525,3 +2525,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T10:52:11.704Z,59.6254,-152.2818,81.5,1.9,ml,,,,0.48,ak,ak02337xvsr6,2023-03-11T10:53:35.434Z,"30 km SW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-11T11:10:36.400Z,38.7980003,-122.7646637,1.63,0.25,md,6.0,128.0,0.004673,0.01,nc,nc73855345,2023-03-11T11:12:12.614Z,"2km NNW of The Geysers, CA",earthquake,0.55,1.33,0.03,7.0,automatic,nc,nc
 2023-03-11T10:25:11.240Z,18.918,-67.2075,9.3,3.44,md,20.0,272.0,0.4573,0.18,pr,pr71399123,2023-03-11T11:12:49.150Z,"48 km NNW of San Antonio, Puerto Rico",earthquake,0.57,0.71,0.105712836237975,15.0,reviewed,pr,pr
+2023-03-11T05:07:54.582Z,31.60746888,-104.276224,7.57121582,2.6,ml,16.0,61.0,0.06496199777,0.1,tx,tx2023ewlu,2023-03-11T11:31:51.096Z,"56 km NW of Toyah, Texas",earthquake,0.9407764995,1.279509773,0.2,29.0,reviewed,tx,tx
