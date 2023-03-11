@@ -2520,3 +2520,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T09:53:22.052Z,60.8997,-151.6905,64.6,1.8,ml,,,,0.4,ak,ak02337xalnx,2023-03-11T09:54:57.288Z,"31 km NW of Nikiski, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-03-11T10:34:10.710Z,33.5968323,-117.9483337,13.11,1.8,ml,48.0,161.0,0.0578,0.21,ci,ci40183231,2023-03-11T10:36:19.500Z,"3km SW of Newport Beach, CA",earthquake,0.46,0.54,0.222,26.0,automatic,ci,ci
 2023-03-11T10:27:33.130Z,19.2495002746582,-155.394668579102,30.1399993896484,2.25,ml,40.0,134.0,,0.140000001,hv,hv73336952,2023-03-11T10:33:04.610Z,"Island of Hawaii, Hawaii",earthquake,0.59,0.819999993,3.06,8.0,automatic,hv,hv
+2023-03-11T10:30:43.051Z,63.1058,-151.3835,3.3,1.4,ml,,,,0.3,ak,ak02337xr5f5,2023-03-11T10:39:32.954Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
