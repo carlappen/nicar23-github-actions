@@ -2474,3 +2474,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T14:34:11.555Z,13.3463,-89.5657,60.063,4.1,mb,30.0,171.0,0.326,0.61,us,us7000jiuv,2023-03-11T06:19:13.040Z,"30 km WSW of La Libertad, El Salvador",earthquake,7.43,9.154,0.117,22.0,reviewed,us,us
 2023-03-10T14:01:19.855Z,18.3804,145.4725,486.3,4.0,mb,33.0,101.0,4.799,0.75,us,us7000jiun,2023-03-11T06:01:08.040Z,"Pagan region, Northern Mariana Islands",earthquake,12.63,10.672,0.098,33.0,reviewed,us,us
 2023-03-10T13:40:13.410Z,46.19833333333333,-122.20816666666668,8.21,0.21,ml,16.0,59.0,0.01211,0.09,uw,uw61910446,2023-03-11T06:03:35.720Z,"36 km NNE of Amboy, Washington",earthquake,0.35,0.49,0.1781963751870523,8.0,reviewed,uw,uw
+2023-03-11T06:38:33.790Z,57.1282,-156.2753,79.2,1.9,ml,,,,0.55,ak,ak02337vf40j,2023-03-11T06:40:43.028Z,"80 km ESE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-11T06:22:25.116Z,-40.733,-85.355,10.0,4.7,mb,61.0,176.0,8.783,0.7,us,us7000jj2v,2023-03-11T06:40:49.040Z,West Chile Rise,earthquake,11.87,1.952,0.09,38.0,reviewed,us,us
