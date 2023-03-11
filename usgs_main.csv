@@ -2667,3 +2667,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T14:29:43.700Z,51.853,-178.095,3.59,2.08,ml,8.0,130.0,,0.16,av,av91798686,2023-03-11T20:04:10.090Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.55,0.49,0.264355062560246,8.0,reviewed,av,av
 2023-03-11T10:05:09.846Z,51.8457,-178.112,5.3,3.4,ml,,,,0.6,ak,ak02337xlpbd,2023-03-11T20:21:13.650Z,"101 km W of Adak, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-03-11T02:09:56.286Z,51.8003,178.7129,85.3,2.7,ml,,,,0.3,ak,ak02337sv6vm,2023-03-11T20:10:32.313Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2023-03-11T19:13:53.520Z,51.8538333333333,-178.026666666667,5.2,2.29,ml,12.0,118.0,,0.2,av,av91799221,2023-03-11T20:28:41.840Z,"95 km W of Adak, Alaska",earthquake,0.75,0.43,0.234978624827116,13.0,reviewed,av,av
+2023-03-11T17:34:55.820Z,51.864,-177.926666666667,4.42,1.1,ml,4.0,170.0,,0.09,av,av91093583,2023-03-11T20:34:17.010Z,"89 km W of Adak, Alaska",earthquake,0.93,2.9,0.176837161707046,4.0,reviewed,av,av
+2023-03-11T17:34:46.590Z,51.8636666666667,-177.9285,5.88,1.02,ml,4.0,168.0,,0.1,av,av91799056,2023-03-11T20:31:59.110Z,"89 km W of Adak, Alaska",earthquake,0.47,1.23,0.172243102538616,4.0,reviewed,av,av
+2023-03-11T17:30:27.310Z,51.8536666666667,-178.023666666667,-1.8,1.5,ml,4.0,174.0,,0.28,av,av91799051,2023-03-11T20:29:43.430Z,"95 km W of Adak, Alaska",earthquake,0.8,1.82,0.23050540442846,5.0,reviewed,av,av
+2023-03-11T17:28:50.400Z,51.8665,-178.1035,1.03,1.04,ml,4.0,216.0,,0.2,av,av91799046,2023-03-11T20:25:33.880Z,"101 km W of Adak, Alaska",earthquake,0.88,4.0,0.153321720063036,4.0,reviewed,av,av
+2023-03-11T15:14:11.055Z,60.4909,-152.5079,101.0,1.5,ml,,,,0.4,ak,ak023380mp0s,2023-03-11T20:28:23.262Z,"66 km WSW of Salamatof, Alaska",earthquake,,0.8,,,reviewed,ak,ak
