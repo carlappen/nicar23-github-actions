@@ -2476,3 +2476,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T13:40:13.410Z,46.19833333333333,-122.20816666666668,8.21,0.21,ml,16.0,59.0,0.01211,0.09,uw,uw61910446,2023-03-11T06:03:35.720Z,"36 km NNE of Amboy, Washington",earthquake,0.35,0.49,0.1781963751870523,8.0,reviewed,uw,uw
 2023-03-11T06:38:33.790Z,57.1282,-156.2753,79.2,1.9,ml,,,,0.55,ak,ak02337vf40j,2023-03-11T06:40:43.028Z,"80 km ESE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-11T06:22:25.116Z,-40.733,-85.355,10.0,4.7,mb,61.0,176.0,8.783,0.7,us,us7000jj2v,2023-03-11T06:40:49.040Z,West Chile Rise,earthquake,11.87,1.952,0.09,38.0,reviewed,us,us
+2023-03-11T05:20:48.088Z,51.8713,-178.1152,5.0,2.7,ml,17.0,103.0,0.044,0.56,us,us7000jj2s,2023-03-11T06:42:29.040Z,"102 km W of Adak, Alaska",earthquake,1.31,1.62,0.097,14.0,reviewed,us,us
+2023-03-11T03:43:00.860Z,51.8361666666667,-178.201333333333,14.74,2.01,ml,9.0,174.0,,0.27,av,av91797581,2023-03-11T06:45:05.390Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,2.6,1.08,0.270770165500422,10.0,reviewed,av,av
