@@ -2506,3 +2506,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T08:49:52.069Z,-24.0847,-179.9607,498.911,4.8,mb,70.0,64.0,5.266,0.73,us,us7000jj3k,2023-03-11T09:05:29.040Z,south of the Fiji Islands,earthquake,12.28,8.332,0.1,31.0,reviewed,us,us
 2023-03-10T16:46:46.310Z,19.1361,-66.555,22.0,3.65,md,22.0,224.0,0.6595,0.42,pr,pr2023069000,2023-03-11T08:58:19.742Z,"74 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.37,28.14,0.11,15.0,reviewed,pr,pr
 2023-03-11T09:25:49.163Z,65.4968,-147.9979,8.4,1.2,ml,,,,0.34,ak,ak02337x4npg,2023-03-11T09:27:27.331Z,"25 km E of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-11T09:32:33.130Z,33.3196667,-116.894,13.81,1.97,ml,59.0,29.0,0.1333,0.23,ci,ci40183215,2023-03-11T09:36:16.634Z,"5km SW of Palomar Observatory, CA",earthquake,0.22,0.82,0.192,26.0,automatic,ci,ci
+2023-03-11T09:31:29.460Z,35.5131667,-117.4073333,11.83,1.33,ml,11.0,165.0,0.03684,0.13,ci,ci40183207,2023-03-11T09:34:59.411Z,"26km NE of Johannesburg, CA",earthquake,0.68,1.14,0.104,15.0,automatic,ci,ci
