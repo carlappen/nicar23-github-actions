@@ -2494,3 +2494,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T08:09:08.407Z,61.3075,-150.8827,50.4,1.8,ml,,,,0.49,ak,ak02337wfpi0,2023-03-11T08:11:12.332Z,"21 km NNE of Beluga, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-03-11T07:59:03.490Z,35.5225,-117.4113333,10.82,1.4,ml,13.0,149.0,0.03826,0.13,ci,ci40183167,2023-03-11T08:02:39.156Z,"26km NE of Johannesburg, CA",earthquake,0.54,0.64,0.122,16.0,automatic,ci,ci
 2023-03-11T07:32:37.737Z,-6.7518,128.6031,10.484,4.6,mb,25.0,62.0,2.566,1.0,us,us7000jj37,2023-03-11T08:00:26.040Z,"263 km NE of Lospalos, Timor Leste",earthquake,7.81,2.872,0.146,14.0,reviewed,us,us
+2023-03-11T08:38:14.411Z,60.6018,-141.7702,12.1,1.5,ml,,,,0.61,ak,ak02337wlxq9,2023-03-11T08:39:36.290Z,"111 km SSE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-11T08:32:55.920Z,38.8101654,-122.7898331,2.86,1.23,md,26.0,63.0,0.004804,0.02,nc,nc73855310,2023-03-11T08:34:33.818Z,"5km NW of The Geysers, CA",earthquake,0.22,0.45,0.19,26.0,automatic,nc,nc
+2023-03-11T08:32:37.800Z,33.7855,-116.936,13.96,0.68,ml,16.0,207.0,0.09454,0.14,ci,ci40183191,2023-03-11T08:36:12.295Z,"2km E of San Jacinto, CA",earthquake,0.59,0.44,0.16,15.0,automatic,ci,ci
