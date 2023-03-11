@@ -2508,3 +2508,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T09:25:49.163Z,65.4968,-147.9979,8.4,1.2,ml,,,,0.34,ak,ak02337x4npg,2023-03-11T09:27:27.331Z,"25 km E of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-11T09:32:33.130Z,33.3196667,-116.894,13.81,1.97,ml,59.0,29.0,0.1333,0.23,ci,ci40183215,2023-03-11T09:36:16.634Z,"5km SW of Palomar Observatory, CA",earthquake,0.22,0.82,0.192,26.0,automatic,ci,ci
 2023-03-11T09:31:29.460Z,35.5131667,-117.4073333,11.83,1.33,ml,11.0,165.0,0.03684,0.13,ci,ci40183207,2023-03-11T09:34:59.411Z,"26km NE of Johannesburg, CA",earthquake,0.68,1.14,0.104,15.0,automatic,ci,ci
+2023-03-11T09:44:55.720Z,34.0495,-116.3516667,5.04,1.59,ml,47.0,61.0,0.03741,0.2,ci,ci40183223,2023-03-11T09:48:39.705Z,"10km SSW of Joshua Tree, CA",earthquake,0.25,0.56,0.113,27.0,automatic,ci,ci
+2023-03-11T09:42:24.420Z,19.3011665344238,-155.216995239258,6.21999979019165,2.45,ml,39.0,101.0,,0.159999996,hv,hv73336932,2023-03-11T09:47:55.830Z,"15 km S of Volcano, Hawaii",earthquake,0.38,0.629999995,0.34,15.0,automatic,hv,hv
+2023-03-11T09:42:24.300Z,38.8064995,-122.8228302,2.63,0.63,md,8.0,119.0,0.005495,0.02,nc,nc73855335,2023-03-11T09:44:03.703Z,"7km WNW of The Geysers, CA",earthquake,0.52,1.17,0.17,10.0,automatic,nc,nc
+2023-03-11T09:41:43.760Z,40.7461662,-122.2040024,3.05,2.29,md,8.0,130.0,0.1044,0.09,nc,nc73855330,2023-03-11T09:47:19.657Z,"12km NNE of Bella Vista, CA",earthquake,0.65,8.31,0.11,10.0,automatic,nc,nc
+2023-03-11T09:18:36.850Z,37.9125,140.636,115.318,4.0,mb,26.0,80.0,2.372,0.34,us,us7000jj3s,2023-03-11T09:48:03.040Z,"7 km NNE of Yanagawamachi-saiwaichō, Japan",earthquake,8.97,7.861,0.144,14.0,reviewed,us,us
