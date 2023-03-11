@@ -2383,3 +2383,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T04:30:12.016Z,51.8484,-178.021,1.301,2.7,ml,15.0,75.0,0.017,0.66,us,us7000jir4,2023-03-11T00:39:42.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.12,3.594,0.105,12.0,reviewed,us,us
 2023-03-10T02:56:39.654Z,51.8879,-178.0986,7.639,2.7,ml,16.0,110.0,0.031,0.29,us,us7000jizj,2023-03-11T00:37:46.040Z,"100 km W of Adak, Alaska",earthquake,1.31,1.278,0.105,12.0,reviewed,us,us
 2023-03-10T02:38:35.303Z,51.8278,-178.1007,8.525,2.8,ml,14.0,135.0,0.04,0.5,us,us7000jizk,2023-03-11T00:35:34.040Z,"101 km W of Adak, Alaska",earthquake,1.94,1.77,0.105,12.0,reviewed,us,us
+2023-03-11T02:45:22.429Z,57.6823,-154.4591,29.7,1.7,ml,,,,0.5,ak,ak02337t2uqa,2023-03-11T02:47:13.059Z,"12 km N of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-11T02:44:38.819Z,61.4725,-151.64,78.6,2.1,ml,,,,0.66,ak,ak02337t2oa1,2023-03-11T02:46:23.962Z,"47 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-10T21:08:23.490Z,51.8621666666667,-177.975166666667,4.77,1.43,ml,7.0,96.0,,0.27,av,av91796891,2023-03-11T02:45:11.300Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.64,0.94,0.263893664993066,7.0,reviewed,av,av
+2023-03-10T21:07:36.090Z,51.8561666666667,-178.111666666667,3.4,1.83,ml,9.0,131.0,,0.23,av,av91796886,2023-03-11T02:38:30.340Z,"101 km W of Adak, Alaska",earthquake,0.64,0.54,0.226285763534268,8.0,reviewed,av,av
+2023-03-10T21:06:16.320Z,51.8568333333333,-177.983,3.2,1.36,ml,5.0,114.0,,0.22,av,av91796881,2023-03-11T02:32:07.380Z,"92 km W of Adak, Alaska",earthquake,0.55,1.49,0.130659904298683,5.0,reviewed,av,av
