@@ -2760,3 +2760,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T01:29:41.510Z,51.8628333333333,-177.985833333333,5.96,2.2,ml,6.0,101.0,,0.23,av,av91093633,2023-03-11T23:26:40.000Z,"93 km W of Adak, Alaska",earthquake,0.66,0.68,0.257780152007199,6.0,reviewed,av,av
 2023-03-11T01:29:15.760Z,51.8546666666667,-177.983166666667,5.22,2.1,ml,7.0,88.0,,0.18,av,av91797371,2023-03-11T23:24:48.410Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.56,0.6,0.160888555320047,7.0,reviewed,av,av
 2023-03-11T00:46:18.280Z,51.849,-178.0675,3.49,2.46,ml,5.0,136.0,,0.27,av,av91797291,2023-03-11T23:34:06.220Z,"98 km W of Adak, Alaska",earthquake,1.05,0.49,0.24527057527859,5.0,reviewed,av,av
+2023-03-11T23:36:36.451Z,67.167,-154.5874,40.6,2.5,ml,,,,0.84,ak,ak023385j22l,2023-03-11T23:39:37.772Z,"104 km ENE of Kobuk, Alaska",earthquake,,7.2,,,automatic,ak,ak
+2023-03-11T01:52:27.952Z,51.8571,-178.1112,4.133,3.3,ml,16.0,107.0,0.051,0.52,us,us7000jj89,2023-03-11T23:38:49.040Z,"101 km W of Adak, Alaska",earthquake,1.18,1.772,0.105,12.0,reviewed,us,us
