@@ -2739,3 +2739,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T22:24:14.220Z,51.8578333333333,-178.079833333333,4.36,2.59,ml,9.0,125.0,,0.09,av,av91799591,2023-03-11T22:41:12.410Z,"99 km W of Adak, Alaska",earthquake,0.27,0.35,0.273543056200406,11.0,reviewed,av,av
 2023-03-11T22:00:11.670Z,51.877,-178.137166666667,5.3,2.24,ml,8.0,125.0,,0.18,av,av91799541,2023-03-11T22:36:14.710Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.72,1.09,0.163397133965828,9.0,reviewed,av,av
 2023-03-11T08:30:35.810Z,51.8553333333333,-178.106166666667,5.92,2.5,ml,11.0,109.0,,0.17,av,av91797996,2023-03-11T22:37:05.160Z,"101 km W of Adak, Alaska",earthquake,0.59,0.63,0.212956233527717,11.0,reviewed,av,av
+2023-03-11T22:51:03.932Z,64.836,-148.9945,16.4,1.0,ml,,,,0.83,ak,ak0233850rp5,2023-03-11T22:52:39.650Z,"26 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-11T22:48:41.814Z,63.0321,-151.6798,0.0,1.9,ml,,,,1.1,ak,ak02338507h1,2023-03-11T22:51:31.181Z,"56 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-11T22:24:13.929Z,51.8604,-178.0586,10.043,2.8,ml,16.0,102.0,0.029,0.58,us,us7000jj7z,2023-03-11T22:47:49.040Z,"98 km W of Adak, Alaska",earthquake,1.39,2.095,0.097,14.0,reviewed,us,us
+2023-03-11T07:54:40.450Z,51.849,-178.112833333333,3.61,2.33,ml,15.0,112.0,,0.2,av,av91797936,2023-03-11T22:49:08.910Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.56,0.43,0.268134237862745,15.0,reviewed,av,av
