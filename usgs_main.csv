@@ -2505,3 +2505,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T09:09:24.320Z,61.3461,-146.6335,17.8,1.8,ml,,,,0.95,ak,ak02337x16c0,2023-03-11T09:11:26.430Z,"28 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-11T08:49:52.069Z,-24.0847,-179.9607,498.911,4.8,mb,70.0,64.0,5.266,0.73,us,us7000jj3k,2023-03-11T09:05:29.040Z,south of the Fiji Islands,earthquake,12.28,8.332,0.1,31.0,reviewed,us,us
 2023-03-10T16:46:46.310Z,19.1361,-66.555,22.0,3.65,md,22.0,224.0,0.6595,0.42,pr,pr2023069000,2023-03-11T08:58:19.742Z,"74 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.37,28.14,0.11,15.0,reviewed,pr,pr
+2023-03-11T09:25:49.163Z,65.4968,-147.9979,8.4,1.2,ml,,,,0.34,ak,ak02337x4npg,2023-03-11T09:27:27.331Z,"25 km E of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
