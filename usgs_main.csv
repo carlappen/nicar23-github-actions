@@ -2487,3 +2487,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T07:52:24.950Z,38.8193321,-122.7588348,1.72,0.73,md,11.0,124.0,0.01409,0.04,nc,nc73855300,2023-03-11T07:54:03.890Z,"3km W of Cobb, CA",earthquake,0.33,0.55,0.09,12.0,automatic,nc,nc
 2023-03-11T07:48:54.610Z,33.6468333,-116.6631667,13.29,1.01,ml,39.0,42.0,0.05642,0.19,ci,ci40183159,2023-03-11T07:52:29.104Z,"10km N of Anza, CA",earthquake,0.22,0.42,0.153,26.0,automatic,ci,ci
 2023-03-11T07:41:43.741Z,4.8284,123.6811,506.939,4.6,mb,79.0,80.0,2.919,0.6,us,us7000jj38,2023-03-11T07:57:50.040Z,"161 km SSW of Malisbeng, Philippines",earthquake,10.89,8.472,0.064,73.0,reviewed,us,us
+2023-03-11T08:25:10.540Z,60.1141,-152.8695,102.2,1.8,ml,,,,0.57,ak,ak02337wj53m,2023-03-11T08:27:15.811Z,"66 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-11T08:23:46.112Z,65.443,-148.2437,12.3,0.8,ml,,,,0.18,ak,ak02337wisfn,2023-03-11T08:25:39.498Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-11T08:19:28.904Z,60.5004,-143.0338,0.0,1.7,ml,,,,0.94,ak,ak02337whw8q,2023-03-11T08:21:19.746Z,"104 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-11T08:11:19.060Z,32.9746667,-116.2928333,9.99,2.64,ml,69.0,50.0,0.02189,0.24,ci,ci40183175,2023-03-11T08:25:52.576Z,"24km SW of Ocotillo Wells, CA",earthquake,0.23,0.68,0.213,25.0,automatic,ci,ci
+2023-03-11T08:09:08.407Z,61.3075,-150.8827,50.4,1.8,ml,,,,0.49,ak,ak02337wfpi0,2023-03-11T08:11:12.332Z,"21 km NNE of Beluga, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-11T07:59:03.490Z,35.5225,-117.4113333,10.82,1.4,ml,13.0,149.0,0.03826,0.13,ci,ci40183167,2023-03-11T08:02:39.156Z,"26km NE of Johannesburg, CA",earthquake,0.54,0.64,0.122,16.0,automatic,ci,ci
+2023-03-11T07:32:37.737Z,-6.7518,128.6031,10.484,4.6,mb,25.0,62.0,2.566,1.0,us,us7000jj37,2023-03-11T08:00:26.040Z,"263 km NE of Lospalos, Timor Leste",earthquake,7.81,2.872,0.146,14.0,reviewed,us,us
