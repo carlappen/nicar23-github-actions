@@ -2552,3 +2552,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T13:43:38.496Z,39.3612,-120.0122,6.2,0.7,ml,8.0,89.26,0.071,0.0688,nn,nn00856833,2023-03-11T13:44:55.173Z,"3 km SSE of Floriston, California",earthquake,,1.3,0.44,3.0,automatic,nn,nn
 2023-03-11T11:19:17.860Z,51.8713333333333,-178.096666666667,-1.8,0.87,ml,4.0,204.0,,0.17,av,av91798356,2023-03-11T13:45:27.020Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.92,1.99,0.272229799423027,4.0,reviewed,av,av
 2023-03-11T11:15:03.570Z,51.8648333333333,-178.088,3.29,1.58,ml,5.0,202.0,,0.15,av,av91798346,2023-03-11T13:41:33.530Z,"100 km W of Adak, Alaska",earthquake,0.6,0.52,0.298709378430969,5.0,reviewed,av,av
+2023-03-11T13:51:32.800Z,38.831665,-122.8010025,1.56,0.38,md,10.0,52.0,0.01071,0.01,nc,nc73855370,2023-03-11T13:53:08.488Z,"7km W of Cobb, CA",earthquake,0.32,1.2,0.29,11.0,automatic,nc,nc
+2023-03-11T13:29:46.144Z,-16.3501,177.4615,10.0,5.5,mww,61.0,60.0,1.498,0.81,us,us7000jj4s,2023-03-11T13:52:19.903Z,"132 km N of Ba, Fiji",earthquake,7.82,1.848,0.057,30.0,reviewed,us,us
+2023-03-11T11:21:17.010Z,58.182,-155.272833333333,0.54,-0.2,ml,4.0,185.0,,0.03,av,av91798361,2023-03-11T13:52:35.730Z,Alaska Peninsula,earthquake,0.35,2.1,0.148573867050822,4.0,reviewed,av,av
+2023-03-11T11:20:21.990Z,51.8505,-178.089666666667,5.0,1.69,ml,5.0,215.0,,0.22,av,av91798351,2023-03-11T13:48:14.270Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.01,31.61,0.129302388488175,5.0,reviewed,av,av
+2023-03-11T11:07:34.860Z,51.9152,-178.0836,9.152,3.4,ml,16.0,166.0,0.024,0.56,us,us7000jj4m,2023-03-11T13:50:41.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.36,1.804,0.097,14.0,reviewed,us,us
