@@ -2483,3 +2483,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-11T06:59:58.038Z,62.2726,-149.2218,53.8,1.2,ml,,,,0.53,ak,ak02337vjnx7,2023-03-11T07:01:44.848Z,"34 km ENE of Susitna North, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-03-11T06:30:25.120Z,17.9846666666667,-66.9746666666667,43.77,2.43,md,11.0,163.0,0.06792,0.08,pr,pr71399118,2023-03-11T07:00:18.850Z,"6 km W of Fuig, Puerto Rico",earthquake,0.49,0.56,0.175863142251257,5.0,reviewed,pr,pr
 2023-03-11T07:18:49.300Z,33.5705,-116.6506667,10.72,0.52,ml,21.0,45.0,0.01722,0.17,ci,ci40183151,2023-03-11T07:22:28.162Z,"3km NE of Anza, CA",earthquake,0.31,0.48,0.257,12.0,automatic,ci,ci
+2023-03-10T22:19:57.370Z,38.7486667,-122.7086667,0.87,0.03,md,10.0,115.0,0.008244,0.02,nc,nc73855205,2023-03-11T07:48:55.642Z,"3km SSW of Anderson Springs, CA",earthquake,0.32,0.52,0.126,4.0,reviewed,nc,nc
