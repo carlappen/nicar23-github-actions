@@ -2944,3 +2944,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T11:21:17.840Z,58.3099,-154.8199,18.9,0.5,ml,,,,0.54,ak,ak02339lty4o,2023-03-12T11:23:15.191Z,"85 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-12T11:34:12.161Z,61.6704,-150.0888,22.0,1.6,ml,,,,0.5,ak,ak02339lwq00,2023-03-12T11:37:01.390Z,"8 km SSW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-12T11:29:32.363Z,58.1748,-155.4052,0.1,1.0,ml,,,,0.91,ak,ak02339lvoz8,2023-03-12T11:31:24.285Z,"87 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-12T11:43:48.170Z,38.8180008,-122.8059998,3.0,0.78,md,15.0,63.0,0.006256,0.02,nc,nc73855740,2023-03-12T11:45:22.214Z,"6km NW of The Geysers, CA",earthquake,0.34,0.71,0.19,16.0,automatic,nc,nc
