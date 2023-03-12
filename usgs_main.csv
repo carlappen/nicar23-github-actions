@@ -3048,3 +3048,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T19:29:59.530Z,38.8185005,-122.7656631,1.89,1.09,md,13.0,108.0,0.01241,0.02,nc,nc73855885,2023-03-12T19:31:37.903Z,"4km W of Cobb, CA",earthquake,0.31,0.53,0.17,14.0,automatic,nc,nc
 2023-03-12T17:16:12.012Z,56.6181,-149.1972,11.6,2.4,ml,,,,0.77,ak,ak02339pdi2y,2023-03-12T19:30:39.994Z,Gulf of Alaska,earthquake,,13.5,,,reviewed,ak,ak
 2023-03-12T09:50:41.090Z,51.866,-177.9245,6.85,0.96,ml,4.0,175.0,,0.05,av,av91800891,2023-03-12T19:34:32.790Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.71,1.16,0.2150079173185,4.0,reviewed,av,av
+2023-03-12T19:41:16.062Z,61.4553,-151.5061,63.6,1.3,ml,,,,0.42,ak,ak02339qpp5i,2023-03-12T19:42:46.627Z,"41 km NNW of Beluga, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-12T19:37:48.782Z,62.2211,-150.1002,22.4,0.9,ml,,,,0.85,ak,ak02339qowr8,2023-03-12T19:40:08.183Z,"11 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-12T09:59:38.420Z,53.8781666666667,-166.573166666667,3.14,-0.7,ml,4.0,164.0,,0.03,av,av91800911,2023-03-12T19:44:26.890Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.46,1.08,0.177941095300358,4.0,reviewed,av,av
+2023-03-12T09:57:04.060Z,51.859,-178.097833333333,2.78,1.15,ml,4.0,215.0,,0.27,av,av91800906,2023-03-12T19:41:59.900Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,2.47,1.96,0.300938966679868,4.0,reviewed,av,av
+2023-03-12T09:55:51.540Z,51.8678333333333,-178.102166666667,2.67,1.67,ml,5.0,214.0,,0.25,av,av91800901,2023-03-12T19:39:29.230Z,"101 km W of Adak, Alaska",earthquake,1.08,2.13,0.196919409225766,5.0,reviewed,av,av
+2023-03-12T09:54:00.820Z,51.8596666666667,-177.911166666667,5.98,0.85,ml,4.0,176.0,,0.06,av,av91800896,2023-03-12T19:36:48.510Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.42,1.05,0.093607369146428,4.0,reviewed,av,av
