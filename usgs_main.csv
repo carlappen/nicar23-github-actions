@@ -2929,3 +2929,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T08:10:16.485Z,65.1264,-149.0785,6.8,1.2,ml,,,,0.78,ak,ak02339jzac0,2023-03-12T08:12:15.591Z,"13 km ESE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-12T07:43:20.334Z,-12.0577,165.8247,10.0,5.7,mww,67.0,58.0,3.626,0.71,us,us7000jjax,2023-03-12T08:05:20.056Z,"147 km S of Lata, Solomon Islands",earthquake,8.73,1.87,0.057,30.0,reviewed,us,us
 2023-03-12T08:32:53.283Z,59.9977,-151.6188,60.7,1.9,ml,,,,0.7,ak,ak02339k42xc,2023-03-12T08:35:22.709Z,"Kenai Peninsula, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-12T08:47:04.070Z,33.7441667,-116.8523333,1.9,0.58,ml,15.0,95.0,0.08242,0.16,ci,ci40183591,2023-03-12T08:50:39.880Z,"4km E of Valle Vista, CA",earthquake,0.27,0.4,0.134,11.0,automatic,ci,ci
