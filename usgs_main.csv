@@ -2914,3 +2914,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T06:38:22.003Z,63.0378,-148.0267,0.0,2.5,ml,,,,0.74,ak,ak02339iyfnr,2023-03-12T06:40:33.090Z,"60 km SE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-12T06:31:40.540Z,36.0128326,-120.5705032,3.91,1.83,md,24.0,82.0,0.02769,0.05,nc,nc73855670,2023-03-12T06:33:18.413Z,"18km NW of Parkfield, CA",earthquake,0.22,0.41,0.16,13.0,automatic,nc,nc
 2023-03-12T05:50:55.180Z,36.0288315,-120.5924988,2.98,1.36,md,17.0,117.0,0.04,0.05,nc,nc73855660,2023-03-12T06:33:15.557Z,"20km NW of Parkfield, CA",earthquake,0.33,0.7,0.29,9.0,automatic,nc,nc
+2023-03-12T07:11:24.371Z,58.1976,-154.8813,82.0,0.4,ml,,,,0.71,ak,ak02339je31x,2023-03-12T07:12:56.405Z,Alaska Peninsula,earthquake,,3.5,,,automatic,ak,ak
+2023-03-12T07:05:16.840Z,33.4443333,-117.1146667,12.48,0.73,ml,27.0,46.0,0.04879,0.17,ci,ci40183567,2023-03-12T07:08:44.727Z,"6km SSE of Temecula, CA",earthquake,0.25,0.52,0.169,16.0,automatic,ci,ci
+2023-03-12T07:01:32.700Z,38.8343315,-122.8191681,1.58,0.22,md,8.0,83.0,0.01303,0.01,nc,nc73855675,2023-03-12T07:18:13.398Z,"8km NW of The Geysers, CA",earthquake,0.48,1.62,0.13,8.0,automatic,nc,nc
