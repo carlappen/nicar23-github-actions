@@ -2994,3 +2994,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T07:46:23.440Z,51.8456666666667,-178.108666666667,4.61,1.96,ml,9.0,113.0,,0.19,av,av91800721,2023-03-12T14:55:09.030Z,"101 km W of Adak, Alaska",earthquake,0.66,0.84,0.228855134028747,9.0,reviewed,av,av
 2023-03-12T07:14:11.570Z,51.8418333333333,-178.105666666667,4.44,2.43,ml,9.0,115.0,,0.17,av,av91800661,2023-03-12T14:58:26.000Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.57,0.76,0.166115857877238,8.0,reviewed,av,av
 2023-03-12T15:35:42.630Z,33.6468333,-116.7085,17.53,0.55,ml,15.0,92.0,0.06434,0.22,ci,ci40183871,2023-03-12T15:39:15.466Z,"10km S of Idyllwild, CA",earthquake,0.74,0.75,0.408,8.0,automatic,ci,ci
+2023-03-12T15:32:02.056Z,48.9961,-129.6001,31.8,1.8,ml,,,,0.92,ak,ak02339oahkj,2023-03-12T15:48:52.263Z,"253 km SW of Port McNeill, Canada",earthquake,,1.7,,,automatic,ak,ak
+2023-03-12T02:30:18.580Z,33.843,-117.6701667,6.55,0.98,ml,34.0,99.0,0.04157,0.18,ci,ci40183511,2023-03-12T15:50:42.335Z,"10km WSW of Corona, CA",earthquake,0.28,0.48,0.098,12.0,reviewed,ci,ci
