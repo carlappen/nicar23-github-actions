@@ -2911,3 +2911,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T05:54:53.535Z,64.096,-147.0101,107.2,1.1,ml,,,,0.22,ak,ak02339igid0,2023-03-12T06:06:19.681Z,"36 km SSW of Harding-Birch Lakes, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-03-12T04:57:38.970Z,51.8596666666667,-177.937,4.96,1.29,ml,5.0,157.0,,0.1,av,av91800391,2023-03-12T06:08:02.860Z,"89 km W of Adak, Alaska",earthquake,0.45,1.04,0.251250782898163,5.0,reviewed,av,av
 2023-03-12T04:46:43.360Z,51.8536666666667,-178.065166666667,3.67,0.99,ml,3.0,190.0,,0.01,av,av91800371,2023-03-12T06:02:57.400Z,"98 km W of Adak, Alaska",earthquake,0.46,1.07,0.294463376080277,3.0,reviewed,av,av
+2023-03-12T06:38:22.003Z,63.0378,-148.0267,0.0,2.5,ml,,,,0.74,ak,ak02339iyfnr,2023-03-12T06:40:33.090Z,"60 km SE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-12T06:31:40.540Z,36.0128326,-120.5705032,3.91,1.83,md,24.0,82.0,0.02769,0.05,nc,nc73855670,2023-03-12T06:33:18.413Z,"18km NW of Parkfield, CA",earthquake,0.22,0.41,0.16,13.0,automatic,nc,nc
+2023-03-12T05:50:55.180Z,36.0288315,-120.5924988,2.98,1.36,md,17.0,117.0,0.04,0.05,nc,nc73855660,2023-03-12T06:33:15.557Z,"20km NW of Parkfield, CA",earthquake,0.33,0.7,0.29,9.0,automatic,nc,nc
