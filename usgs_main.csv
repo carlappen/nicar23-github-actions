@@ -2942,3 +2942,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T09:32:42.135Z,38.0711,72.9395,10.0,4.3,mb,27.0,65.0,1.663,0.98,us,us7000jjb9,2023-03-12T11:05:56.040Z,"90 km W of Murghob, Tajikistan",earthquake,4.99,1.823,0.138,15.0,reviewed,us,us
 2023-03-12T11:25:59.090Z,38.8180008,-122.8088303,3.34,1.82,md,37.0,40.0,0.005473,0.03,nc,nc73855735,2023-03-12T11:27:36.424Z,"6km NW of The Geysers, CA",earthquake,0.17,0.31,0.17,37.0,automatic,nc,nc
 2023-03-12T11:21:17.840Z,58.3099,-154.8199,18.9,0.5,ml,,,,0.54,ak,ak02339lty4o,2023-03-12T11:23:15.191Z,"85 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-12T11:34:12.161Z,61.6704,-150.0888,22.0,1.6,ml,,,,0.5,ak,ak02339lwq00,2023-03-12T11:37:01.390Z,"8 km SSW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-12T11:29:32.363Z,58.1748,-155.4052,0.1,1.0,ml,,,,0.91,ak,ak02339lvoz8,2023-03-12T11:31:24.285Z,"87 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
