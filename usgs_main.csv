@@ -3064,3 +3064,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T19:09:16.520Z,51.856,-178.101666666667,2.47,0.87,ml,4.0,220.0,,0.28,av,av91801551,2023-03-12T20:05:15.190Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,2.49,1.86,0.268420597430703,4.0,reviewed,av,av
 2023-03-12T18:29:47.460Z,-10.0815,-79.293,29.522,4.5,mb,38.0,107.0,3.062,0.67,us,us7000jjd9,2023-03-12T20:00:50.040Z,"121 km SW of Puerto Casma, Peru",earthquake,13.79,7.004,0.115,22.0,reviewed,us,us
 2023-03-12T17:04:20.621Z,51.8667,-178.1053,6.962,3.0,ml,18.0,103.0,0.049,0.67,us,us7000jjdn,2023-03-12T20:17:57.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.08,1.947,0.097,14.0,reviewed,us,us
+2023-03-12T20:30:04.653Z,63.0458,-151.0045,120.6,1.6,ml,,,,0.25,ak,ak02339r8r01,2023-03-12T20:31:55.154Z,Central Alaska,earthquake,,1.2,,,automatic,ak,ak
+2023-03-12T19:47:45.690Z,51.8606666666667,-177.908833333333,4.22,1.21,ml,4.0,178.0,,0.11,av,av91801596,2023-03-12T20:34:38.960Z,"87 km W of Adak, Alaska",earthquake,0.52,2.31,0.252925799616133,4.0,reviewed,av,av
+2023-03-12T19:41:43.940Z,51.8543333333333,-177.9175,4.61,0.88,ml,4.0,165.0,,0.05,av,av91801591,2023-03-12T20:31:36.310Z,"88 km W of Adak, Alaska",earthquake,0.35,1.39,0.239658817983961,4.0,reviewed,av,av
+2023-03-12T19:27:00.700Z,51.8618333333333,-177.907666666667,7.05,1.07,ml,4.0,181.0,,0.09,av,av91801581,2023-03-12T20:25:58.520Z,"87 km W of Adak, Alaska",earthquake,0.57,1.52,0.188203374509929,4.0,reviewed,av,av
