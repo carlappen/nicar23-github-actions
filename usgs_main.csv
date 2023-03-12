@@ -2917,3 +2917,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T07:11:24.371Z,58.1976,-154.8813,82.0,0.4,ml,,,,0.71,ak,ak02339je31x,2023-03-12T07:12:56.405Z,Alaska Peninsula,earthquake,,3.5,,,automatic,ak,ak
 2023-03-12T07:05:16.840Z,33.4443333,-117.1146667,12.48,0.73,ml,27.0,46.0,0.04879,0.17,ci,ci40183567,2023-03-12T07:08:44.727Z,"6km SSE of Temecula, CA",earthquake,0.25,0.52,0.169,16.0,automatic,ci,ci
 2023-03-12T07:01:32.700Z,38.8343315,-122.8191681,1.58,0.22,md,8.0,83.0,0.01303,0.01,nc,nc73855675,2023-03-12T07:18:13.398Z,"8km NW of The Geysers, CA",earthquake,0.48,1.62,0.13,8.0,automatic,nc,nc
+2023-03-12T07:31:00.430Z,19.1686668395996,-155.494171142578,28.2800006866455,2.01999998,md,30.0,151.0,,0.109999999,hv,hv73337802,2023-03-12T07:34:06.020Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.69,1.0,0.790000021,8.0,automatic,hv,hv
+2023-03-12T07:26:32.070Z,33.8095,-116.0925,2.68,0.85,ml,15.0,103.0,0.1338,0.26,ci,ci40183575,2023-03-12T07:30:07.469Z,"15km NE of Indio, CA",earthquake,0.52,3.03,0.147,16.0,automatic,ci,ci
+2023-03-12T07:01:33.953Z,-24.3356,-67.3942,216.213,4.3,mb,26.0,91.0,1.554,0.6,us,us7000jjar,2023-03-12T07:33:06.040Z,"109 km W of San Antonio de los Cobres, Argentina",earthquake,8.29,5.113,0.188,9.0,reviewed,us,us
