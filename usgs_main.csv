@@ -2935,3 +2935,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T09:01:58.896Z,60.5008,-152.6066,91.5,2.4,ml,,,,0.91,ak,ak02339kivrl,2023-03-12T09:04:41.830Z,"71 km W of Salamatof, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-03-12T08:58:56.190Z,33.7196667,-116.7615,14.41,0.54,ml,16.0,195.0,0.04035,0.17,ci,ci40183599,2023-03-12T09:02:25.930Z,"4km WSW of Idyllwild, CA",earthquake,0.96,0.68,0.103,11.0,automatic,ci,ci
 2023-03-12T09:46:16.570Z,38.8834991,-122.8531647,0.89,0.22,md,7.0,216.0,0.03051,0.04,nc,nc73855715,2023-03-12T09:47:50.414Z,"11km S of Kelseyville, CA",earthquake,0.65,0.86,0.09,7.0,automatic,nc,nc
+2023-03-12T10:07:18.090Z,19.1743335723877,-155.491500854492,32.7000007629395,1.86000001,md,34.0,150.0,,0.119999997,hv,hv73337862,2023-03-12T10:10:37.990Z,"Island of Hawaii, Hawaii",earthquake,0.65,0.949999988,0.159999996,5.0,automatic,hv,hv
+2023-03-12T09:30:16.307Z,52.1637,174.096,35.0,3.9,mb,46.0,179.0,0.568,0.9,us,us7000jjbb,2023-03-12T09:54:07.040Z,"97 km SE of Attu Station, Alaska",earthquake,8.31,1.998,0.079,42.0,reviewed,us,us
