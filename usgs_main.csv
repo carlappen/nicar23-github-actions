@@ -2999,3 +2999,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T16:29:03.240Z,33.6121667,-116.798,6.53,0.37,ml,10.0,133.0,0.0452,0.11,ci,ci40183879,2023-03-12T16:32:37.154Z,"13km WNW of Anza, CA",earthquake,0.43,0.39,0.258,8.0,automatic,ci,ci
 2023-03-12T15:31:55.514Z,48.8226,-129.6158,10.0,4.4,mb,39.0,150.0,0.923,1.07,us,us7000jjch,2023-03-12T16:35:11.344Z,"268 km SW of Port McNeill, Canada",earthquake,6.22,1.918,0.04,181.0,reviewed,us,us
 2023-03-12T15:21:24.010Z,33.5316667,-116.7286667,4.69,0.21,ml,16.0,129.0,0.03441,0.08,ci,ci40183847,2023-03-12T16:26:44.575Z,"6km WSW of Anza, CA",earthquake,0.19,0.21,0.161,4.0,reviewed,ci,ci
+2023-03-12T16:33:59.450Z,65.4392,-148.0506,16.6,1.2,ml,,,,0.37,ak,ak02339ovryh,2023-03-12T16:41:16.045Z,"24 km ESE of Livengood, Alaska",earthquake,,0.6,,,automatic,ak,ak
