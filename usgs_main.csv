@@ -3262,3 +3262,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T12:29:59.750Z,44.6396667,-111.0503333,9.14,0.63,md,10.0,90.0,0.04945,0.1,uu,uu60533416,2023-03-13T14:28:55.560Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.52,1.12,0.293,7.0,reviewed,uu,uu
 2023-03-13T08:29:26.960Z,44.6405,-111.0513333,9.35,0.43,md,9.0,91.0,0.04951,0.1,uu,uu60032744,2023-03-13T14:33:37.990Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.5,1.26,0.258,5.0,reviewed,uu,uu
 2023-03-13T08:28:56.370Z,44.6448333,-111.0508333,8.52,0.41,md,9.0,93.0,0.05287,0.08,uu,uu60533411,2023-03-13T14:30:30.510Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.45,1.01,0.297,7.0,reviewed,uu,uu
+2023-03-13T14:36:37.243Z,62.0989,-149.8704,159.6,2.0,ml,,,,0.75,ak,ak0233bb8uoc,2023-03-13T14:39:05.714Z,"7 km S of Susitna North, Alaska",earthquake,,1.0,,,automatic,ak,ak
