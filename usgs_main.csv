@@ -3248,3 +3248,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T10:58:50.200Z,18.2813,-64.0881,117.0,3.84,md,6.0,347.0,0.8713,0.22,pr,pr2023072002,2023-03-13T12:21:21.830Z,"74 km E of Cruz Bay, U.S. Virgin Islands",earthquake,7.14,1.51,0.16,3.0,reviewed,pr,pr
 2023-03-13T10:55:51.613Z,-7.2664,130.3319,83.938,4.6,mb,42.0,71.0,2.759,0.74,us,us7000jjib,2023-03-13T12:52:53.040Z,"Kepulauan Tanimbar, Indonesia",earthquake,4.88,9.049,0.097,32.0,reviewed,us,us
 2023-03-13T05:40:35.549Z,35.5045,-98.0555,7.75,1.28,ml,39.0,55.0,0.082783755,0.41,ok,ok2023fady,2023-03-13T12:56:02.304Z,"9 km WSW of El Reno, Oklahoma",earthquake,,0.8,0.19,18.0,reviewed,ok,ok
+2023-03-13T13:20:34.363Z,37.541,-117.9347,0.9,1.3,ml,8.0,184.59,0.384,0.4475,nn,nn00856851,2023-03-13T13:22:01.731Z,California-Nevada border region,earthquake,,22.1,0.83,6.0,automatic,nn,nn
+2023-03-13T13:16:51.600Z,32.705,-115.8085,9.89,1.41,ml,15.0,105.0,0.08876,0.2,ci,ci40184183,2023-03-13T13:20:26.047Z,"18km E of Ocotillo, CA",earthquake,0.61,1.05,0.286,17.0,automatic,ci,ci
+2023-03-13T13:00:58.100Z,33.9916667,-117.1858333,15.39,1.56,ml,46.0,42.0,0.04549,0.18,ci,ci40184167,2023-03-13T13:22:01.480Z,"7km S of Redlands, CA",earthquake,0.2,0.34,0.228,25.0,reviewed,ci,ci
