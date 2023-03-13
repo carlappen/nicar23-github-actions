@@ -3321,3 +3321,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T17:03:28.680Z,44.6428333,-111.0433333,11.53,2.67,ml,22.0,53.0,0.05527,0.16,uu,uu60533496,2023-03-13T17:43:19.990Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.49,0.51,0.131,6.0,reviewed,uu,uu
 2023-03-13T15:27:50.360Z,44.6515,-111.049,7.89,0.57,ml,9.0,94.0,0.05878,0.11,uu,uu60533436,2023-03-13T17:46:27.300Z,Idaho-Montana border region,earthquake,0.44,0.83,0.115,2.0,reviewed,uu,uu
 2023-03-13T15:07:28.650Z,44.6391667,-111.0508333,9.1,0.46,md,12.0,90.0,0.04884,0.14,uu,uu60533431,2023-03-13T17:42:46.120Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.52,0.98,0.274,7.0,reviewed,uu,uu
+2023-03-13T17:53:50.764Z,62.2754,-149.7975,1.8,2.0,ml,,,,0.49,ak,ak0233bd4tpg,2023-03-13T17:55:51.389Z,"13 km NNE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-13T17:45:37.860Z,33.503,-116.5213333,11.54,0.49,ml,17.0,70.0,0.05495,0.21,ci,ci40184239,2023-03-13T17:49:14.008Z,"15km ESE of Anza, CA",earthquake,0.43,0.83,0.066,8.0,automatic,ci,ci
+2023-03-13T17:44:59.360Z,18.0065,-66.968,4.6,1.72,md,3.0,200.0,0.08138,0.05,pr,pr71399423,2023-03-13T17:53:05.680Z,Puerto Rico,earthquake,2.02,3.83,0.0990340362631903,3.0,reviewed,pr,pr
+2023-03-13T15:28:39.830Z,44.6446667,-111.0461667,9.04,1.52,ml,13.0,89.0,0.05506,0.14,uu,uu60032749,2023-03-13T17:53:43.950Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.41,0.78,0.425,3.0,reviewed,uu,uu
+2023-03-13T15:28:24.760Z,44.6395,-111.043,8.47,0.77,ml,13.0,85.0,0.05328,0.16,uu,uu60533441,2023-03-13T17:50:05.740Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.42,0.89,0.096,2.0,reviewed,uu,uu
+2023-03-12T18:37:55.340Z,36.1455,-98.7705,5.38,1.81,ml,42.0,92.0,0.1745657442,0.22,ok,ok2023ezic,2023-03-13T17:52:25.797Z,"13 km E of Seiling, Oklahoma",earthquake,,0.6,0.11,4.0,reviewed,ok,ok
