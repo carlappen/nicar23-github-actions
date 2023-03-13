@@ -3205,3 +3205,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T06:49:21.929Z,-58.8029,-25.074,23.861,4.9,mb,56.0,82.0,15.757,0.46,us,us7000jjha,2023-03-13T07:19:22.040Z,South Sandwich Islands region,earthquake,13.26,5.75,0.076,54.0,reviewed,us,us
 2023-03-13T07:46:45.240Z,19.1931667327881,-155.481994628906,33.1500015258789,2.31,ml,33.0,146.0,,0.119999997,hv,hv73338417,2023-03-13T07:52:16.400Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.72,0.970000029,2.51,12.0,automatic,hv,hv
 2023-03-13T07:44:59.771Z,59.225,-151.648,50.6,1.8,ml,,,,0.46,ak,ak0233b74kwp,2023-03-13T07:46:42.825Z,"17 km SE of Port Graham, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-03-13T08:31:12.920Z,33.5008333,-116.495,13.05,1.04,ml,32.0,93.0,0.06212,0.18,ci,ci40184095,2023-03-13T08:34:49.007Z,"18km ESE of Anza, CA",earthquake,0.28,0.48,0.129,28.0,automatic,ci,ci
+2023-03-13T08:11:47.628Z,63.5052,-147.7472,7.4,2.4,ml,,,,0.45,ak,ak0233b7iwy2,2023-03-13T08:13:39.928Z,"61 km ENE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-13T07:55:53.714Z,58.0039,-156.5266,16.5,1.4,ml,,,,0.22,ak,ak0233b76x86,2023-03-13T07:58:04.552Z,Alaska Peninsula,earthquake,,0.5,,,automatic,ak,ak
+2023-03-13T07:52:17.190Z,18.0566666666667,-66.8563333333333,14.69,2.68,md,5.0,119.0,0.08405,0.08,pr,pr71399333,2023-03-13T08:14:13.570Z,Puerto Rico region,earthquake,0.43,1.02,0.062811401466154,4.0,reviewed,pr,pr
+2023-03-13T07:22:59.740Z,19.3455,-68.1763,26.0,3.92,md,16.0,284.0,0.8565,0.38,pr,pr2023072000,2023-03-13T08:04:54.328Z,"87 km NNE of Punta Cana, Dominican Republic",earthquake,1.95,26.63,0.11,8.0,reviewed,pr,pr
