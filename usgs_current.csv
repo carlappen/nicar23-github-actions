@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-13T10:36:07.430Z,65.0272,-147.0405,15.1,0.9,ml,,,,0.25,ak,ak0233b8v1yf,2023-03-13T10:38:05.859Z,"17 km N of Two Rivers, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-13T10:18:11.278Z,61.4279,-151.6434,68.4,1.8,ml,,,,0.65,ak,ak0233b8r7d3,2023-03-13T10:19:53.188Z,"43 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-13T10:14:22.220Z,38.8294983,-122.8056641,1.56,0.41,md,8,96,0.007,0.01,nc,nc73856145,2023-03-13T10:31:11.264Z,"7km W of Cobb, CA",earthquake,0.81,0.79,0.29,8,automatic,nc,nc
 2023-03-13T09:32:27.601Z,61.5307,-146.5727,21.8,1.6,ml,,,,0.69,ak,ak0233b88t1k,2023-03-13T09:34:13.054Z,"46 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
