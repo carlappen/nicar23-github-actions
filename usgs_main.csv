@@ -3214,3 +3214,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T08:41:02.530Z,38.8463326,-122.7279968,-0.1,0.83,md,9.0,172.0,0.03637,0.21,nc,nc73856120,2023-03-13T08:42:39.178Z,"3km N of Cobb, CA",earthquake,1.33,6.35,0.19,8.0,automatic,nc,nc
 2023-03-13T08:47:24.520Z,33.2923333,-116.7531667,9.79,0.44,ml,12.0,106.0,0.1285,0.17,ci,ci40184103,2023-03-13T08:50:54.358Z,"6km N of Lake Henshaw, CA",earthquake,0.49,2.25,0.017,5.0,automatic,ci,ci
 2023-03-13T07:53:02.480Z,19.0276,-67.8181,103.0,3.65,md,5.0,330.0,1.2428,0.52,pr,pr2023072001,2023-03-13T08:49:50.982Z,"79 km NE of Punta Cana, Dominican Republic",earthquake,17.73,26.18,0.12,4.0,reviewed,pr,pr
+2023-03-13T09:23:03.092Z,61.4439,-146.6416,32.5,1.5,ml,,,,0.57,ak,ak0233b86tph,2023-03-13T09:25:01.155Z,Southern Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-03-13T09:21:38.190Z,18.9606666564941,-155.503662109375,33.939998626709,1.90999997,md,34.0,227.0,,0.170000002,hv,hv73338467,2023-03-13T09:25:45.849Z,"Hawaii region, Hawaii",earthquake,0.66,1.04999995,2.02999997,4.0,automatic,hv,hv
+2023-03-13T09:07:24.127Z,57.4257,-153.1845,46.4,2.2,ml,,,,0.85,ak,ak0233b83fvg,2023-03-13T09:09:19.695Z,"25 km NNE of Old Harbor, Alaska",earthquake,,6.5,,,automatic,ak,ak
+2023-03-13T08:48:18.096Z,37.2007,-104.7372,6.438,2.4,mb_lg,8.0,83.0,0.087,0.24,us,us7000jjhs,2023-03-13T09:21:19.040Z,"8 km N of Segundo, Colorado",earthquake,1.95,1.943,0.147,18.0,reviewed,us,us
