@@ -3194,3 +3194,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T05:38:07.822Z,64.7438,-149.2225,8.8,1.2,ml,,,,0.7,ak,ak0233b5wbea,2023-03-13T05:40:38.746Z,"16 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-13T05:54:15.769Z,58.0016,-156.4633,12.2,1.8,ml,,,,0.28,ak,ak0233b5zrgo,2023-03-13T05:55:41.427Z,"58 km ESE of Egegik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-13T05:49:27.740Z,34.1946667,-116.9535,9.3,0.79,ml,15.0,67.0,0.07272,0.15,ci,ci40184087,2023-03-13T05:52:53.349Z,"7km SW of Big Bear Lake, CA",earthquake,0.35,0.67,0.178,15.0,automatic,ci,ci
+2023-03-13T06:19:05.807Z,31.60810884,-103.9720247,8.419580078,3.1,ml,14.0,66.0,0.003757351386,0.1,tx,tx2023fafg,2023-03-13T06:35:16.040Z,"36 km NNW of Toyah, Texas",earthquake,0.6200168714,0.5612817546,0.1,8.0,reviewed,tx,tx
+2023-03-13T06:11:33.820Z,-17.4346,-178.7572,550.523,5.0,mb,60.0,66.0,3.058,0.58,us,us7000jjh3,2023-03-13T06:30:44.040Z,"215 km ENE of Levuka, Fiji",earthquake,12.11,8.965,0.082,47.0,reviewed,us,us
+2023-03-13T06:02:03.558Z,59.2155,-153.7107,88.4,1.8,ml,,,,0.41,ak,ak0233b6a0w3,2023-03-13T06:04:02.806Z,"58 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
