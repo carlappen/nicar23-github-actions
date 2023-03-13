@@ -3234,3 +3234,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T10:19:20.680Z,17.9375,-66.7066666666667,6.66,2.41,md,14.0,204.0,0.1151,0.14,pr,pr71399373,2023-03-13T11:15:04.710Z,"6 km S of Tallaboa, Puerto Rico",earthquake,0.61,0.36,0.0907820684033451,9.0,reviewed,pr,pr
 2023-03-13T09:04:59.658Z,18.4842,-70.4656,10.0,4.6,mb,75.0,59.0,0.521,0.88,us,us7000jjhw,2023-03-13T11:07:41.682Z,"8 km SSE of San José de Ocoa, Dominican Republic",earthquake,5.68,1.88,0.045,146.0,reviewed,us,us
 2023-03-13T11:21:18.530Z,37.5890007,-118.8468323,3.36,1.18,md,9.0,209.0,0.01412,0.02,nc,nc73856160,2023-03-13T11:22:54.672Z,"13km ESE of Mammoth Lakes, CA",earthquake,1.02,1.46,0.06,9.0,automatic,nc,nc
+2023-03-13T10:14:49.755Z,-24.1199,-66.7077,190.936,4.5,mb,51.0,36.0,1.782,0.92,us,us7000jji3,2023-03-13T11:35:16.040Z,"Salta, Argentina",earthquake,8.57,2.702,0.043,159.0,reviewed,us,us
