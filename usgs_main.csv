@@ -3233,3 +3233,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T10:24:33.725Z,14.4015,123.0328,21.817,4.7,mb,46.0,116.0,8.573,0.82,us,us7000jji7,2023-03-13T11:01:12.040Z,"23 km NNE of Sabang Indan, Philippines",earthquake,11.67,3.342,0.07,62.0,reviewed,us,us
 2023-03-13T10:19:20.680Z,17.9375,-66.7066666666667,6.66,2.41,md,14.0,204.0,0.1151,0.14,pr,pr71399373,2023-03-13T11:15:04.710Z,"6 km S of Tallaboa, Puerto Rico",earthquake,0.61,0.36,0.0907820684033451,9.0,reviewed,pr,pr
 2023-03-13T09:04:59.658Z,18.4842,-70.4656,10.0,4.6,mb,75.0,59.0,0.521,0.88,us,us7000jjhw,2023-03-13T11:07:41.682Z,"8 km SSE of San José de Ocoa, Dominican Republic",earthquake,5.68,1.88,0.045,146.0,reviewed,us,us
+2023-03-13T11:21:18.530Z,37.5890007,-118.8468323,3.36,1.18,md,9.0,209.0,0.01412,0.02,nc,nc73856160,2023-03-13T11:22:54.672Z,"13km ESE of Mammoth Lakes, CA",earthquake,1.02,1.46,0.06,9.0,automatic,nc,nc
