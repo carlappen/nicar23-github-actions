@@ -3313,3 +3313,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T15:43:52.440Z,51.8636666666667,-178.0815,2.82,1.25,ml,5.0,196.0,,0.25,av,av91803346,2023-03-13T17:02:37.370Z,"99 km W of Adak, Alaska",earthquake,0.87,1.7,0.167289498002855,5.0,reviewed,av,av
 2023-03-13T03:27:57.690Z,44.6443333,-111.0428333,9.0,0.69,md,14.0,87.0,0.05654,0.15,uu,uu60533341,2023-03-13T17:13:51.540Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.37,0.8,0.322,9.0,reviewed,uu,uu
 2023-03-13T03:05:31.410Z,44.6415,-111.045,8.4,0.48,ml,12.0,87.0,0.05349,0.17,uu,uu60533336,2023-03-13T17:07:38.380Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.5,0.93,0.11,2.0,reviewed,uu,uu
+2023-03-13T17:29:52.332Z,58.1682,-155.326,1.1,1.0,ml,,,,0.2,ak,ak0233bczon5,2023-03-13T17:31:01.314Z,"84 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2023-03-13T04:37:41.710Z,44.6406667,-111.0491667,9.18,0.52,md,11.0,90.0,0.05074,0.1,uu,uu60533356,2023-03-13T17:31:54.710Z,Idaho-Montana border region,earthquake,0.4,0.94,0.332,7.0,reviewed,uu,uu
+2023-03-13T04:23:26.300Z,44.6375,-111.0441667,9.71,1.89,ml,15.0,49.0,0.05138,0.13,uu,uu60533351,2023-03-13T17:36:03.230Z,Idaho-Montana border region,earthquake,0.4,0.87,0.439,3.0,reviewed,uu,uu
+2023-03-13T04:13:49.170Z,44.6083333,-110.3815,4.23,0.8,md,13.0,89.0,0.0502,0.07,uu,uu60533346,2023-03-13T17:27:13.670Z,"48 km SSE of Mammoth, Wyoming",earthquake,0.19,0.42,0.402,8.0,reviewed,uu,uu
