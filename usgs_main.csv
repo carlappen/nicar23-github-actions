@@ -3176,3 +3176,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T03:35:00.070Z,33.1726685,-116.1190033,10.35,1.14,ml,35.0,67.0,0.04437,0.21,ci,ci40184063,2023-03-13T03:37:13.878Z,"4km NNE of Ocotillo Wells, CA",earthquake,0.33,0.68,0.222,3.0,automatic,ci,ci
 2023-03-13T03:32:14.170Z,34.8411667,-120.3655,1.22,1.39,ml,10.0,195.0,0.06369,0.18,ci,ci40184047,2023-03-13T03:35:51.398Z,"7km ESE of Orcutt, CA",earthquake,0.6,0.76,0.119,15.0,automatic,ci,ci
 2023-03-13T03:11:49.272Z,-3.8684,-76.6221,108.328,4.7,mb,81.0,104.0,2.744,0.67,us,us7000jjgg,2023-03-13T03:28:04.040Z,"48 km SSW of Alianza Cristiana, Peru",earthquake,9.09,7.128,0.034,269.0,reviewed,us,us
+2023-03-13T03:41:04.941Z,58.9579,-138.1638,0.0,2.1,ml,,,,0.92,ak,ak0233b4q33y,2023-03-13T03:44:15.557Z,Southeastern Alaska,earthquake,,1.2,,,automatic,ak,ak
+2023-03-13T03:39:06.032Z,61.6191,-150.5316,34.5,1.6,ml,,,,0.59,ak,ak0233b4pnrf,2023-03-13T03:41:56.307Z,"8 km N of Susitna, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2023-03-13T03:35:00.120Z,33.172,-116.1211667,10.08,1.04,ml,13.0,159.0,0.04244,0.13,ci,ci40184055,2023-03-13T03:38:27.682Z,"3km NNE of Ocotillo Wells, CA",earthquake,0.78,0.95,0.172,20.0,automatic,ci,ci
