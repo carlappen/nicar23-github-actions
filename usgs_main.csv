@@ -3203,3 +3203,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T06:52:25.414Z,60.5877,-151.7956,76.7,1.9,ml,,,,0.59,ak,ak0233b6ksdp,2023-03-13T06:54:56.481Z,"26 km W of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-13T07:09:13.940Z,19.423999786377,-155.265167236328,7.98999977111816,2.07,ml,19.0,96.0,,0.180000007,hv,hv73338377,2023-03-13T07:14:45.570Z,"3 km WSW of Volcano, Hawaii",earthquake,0.39,0.629999995,0.24,12.0,automatic,hv,hv
 2023-03-13T06:49:21.929Z,-58.8029,-25.074,23.861,4.9,mb,56.0,82.0,15.757,0.46,us,us7000jjha,2023-03-13T07:19:22.040Z,South Sandwich Islands region,earthquake,13.26,5.75,0.076,54.0,reviewed,us,us
+2023-03-13T07:46:45.240Z,19.1931667327881,-155.481994628906,33.1500015258789,2.31,ml,33.0,146.0,,0.119999997,hv,hv73338417,2023-03-13T07:52:16.400Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.72,0.970000029,2.51,12.0,automatic,hv,hv
+2023-03-13T07:44:59.771Z,59.225,-151.648,50.6,1.8,ml,,,,0.46,ak,ak0233b74kwp,2023-03-13T07:46:42.825Z,"17 km SE of Port Graham, Alaska",earthquake,,1.4,,,automatic,ak,ak
