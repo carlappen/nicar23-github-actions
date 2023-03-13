@@ -3276,3 +3276,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T15:10:27.220Z,51.861,-177.942166666667,5.82,0.46,ml,4.0,155.0,,0.05,av,av91093913,2023-03-13T15:30:15.180Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.39,1.0,0.417543982171874,4.0,reviewed,av,av
 2023-03-13T15:10:27.170Z,51.8605,-177.945333333333,6.15,0.46,ml,4.0,151.0,,0.06,av,av91803276,2023-03-13T15:33:12.260Z,"90 km W of Adak, Alaska",earthquake,0.44,0.99,0.417543982171874,4.0,reviewed,av,av
 2023-03-13T14:29:57.603Z,44.5378,149.3325,35.0,4.6,mb,117.0,83.0,5.165,0.75,us,us7000jjj9,2023-03-13T15:29:06.040Z,"138 km SE of Kuril’sk, Russia",earthquake,8.9,1.848,0.044,153.0,reviewed,us,us
+2023-03-13T15:39:01.410Z,38.8161659,-122.8221664,3.57,0.99,md,8.0,103.0,0.009116,0.03,nc,nc73856225,2023-03-13T15:40:39.901Z,"7km NW of The Geysers, CA",earthquake,1.11,1.14,0.15,8.0,automatic,nc,nc
+2023-03-13T14:40:04.580Z,44.5989,149.3446,35.0,4.5,mb,91.0,81.0,5.175,0.58,us,us7000jjjc,2023-03-13T15:46:34.040Z,"135 km ESE of Kuril’sk, Russia",earthquake,9.78,1.863,0.061,78.0,reviewed,us,us
+2023-03-13T14:27:19.590Z,51.8691666666667,-177.905833333333,6.31,1.06,ml,4.0,192.0,,0.11,av,av91803196,2023-03-13T15:46:27.290Z,"87 km W of Adak, Alaska",earthquake,0.57,1.24,0.275578540033327,4.0,reviewed,av,av
+2023-03-13T14:15:39.090Z,53.3946666666667,-168.1915,-0.38,-0.16,ml,5.0,231.0,,0.07,av,av91803176,2023-03-13T15:43:10.120Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.33,0.74,0.483627584704109,5.0,reviewed,av,av
