@@ -3192,3 +3192,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T05:25:58.988Z,61.8713,-151.2955,75.0,1.2,ml,,,,0.31,ak,ak0233b5tn16,2023-03-13T05:27:29.522Z,"14 km SSE of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-13T05:25:18.940Z,38.8341675,-122.7901688,1.51,1.09,md,18.0,52.0,0.004238,0.03,nc,nc73856080,2023-03-13T05:26:54.411Z,"6km WNW of Cobb, CA",earthquake,0.22,0.36,0.15,18.0,automatic,nc,nc
 2023-03-13T05:38:07.822Z,64.7438,-149.2225,8.8,1.2,ml,,,,0.7,ak,ak0233b5wbea,2023-03-13T05:40:38.746Z,"16 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-13T05:54:15.769Z,58.0016,-156.4633,12.2,1.8,ml,,,,0.28,ak,ak0233b5zrgo,2023-03-13T05:55:41.427Z,"58 km ESE of Egegik, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-13T05:49:27.740Z,34.1946667,-116.9535,9.3,0.79,ml,15.0,67.0,0.07272,0.15,ci,ci40184087,2023-03-13T05:52:53.349Z,"7km SW of Big Bear Lake, CA",earthquake,0.35,0.67,0.178,15.0,automatic,ci,ci
