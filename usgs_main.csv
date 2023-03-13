@@ -3263,3 +3263,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T08:29:26.960Z,44.6405,-111.0513333,9.35,0.43,md,9.0,91.0,0.04951,0.1,uu,uu60032744,2023-03-13T14:33:37.990Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.5,1.26,0.258,5.0,reviewed,uu,uu
 2023-03-13T08:28:56.370Z,44.6448333,-111.0508333,8.52,0.41,md,9.0,93.0,0.05287,0.08,uu,uu60533411,2023-03-13T14:30:30.510Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.45,1.01,0.297,7.0,reviewed,uu,uu
 2023-03-13T14:36:37.243Z,62.0989,-149.8704,159.6,2.0,ml,,,,0.75,ak,ak0233bb8uoc,2023-03-13T14:39:05.714Z,"7 km S of Susitna North, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-13T14:53:26.194Z,63.1764,-148.5303,68.5,1.8,ml,,,,0.35,ak,ak0233bbcgzv,2023-03-13T14:55:04.903Z,Central Alaska,earthquake,,0.5,,,automatic,ak,ak
+2023-03-13T14:47:01.800Z,33.1793333,-116.1078333,10.11,0.89,ml,16.0,97.0,0.1093,0.22,ci,ci40184207,2023-03-13T14:50:37.245Z,"5km NNE of Ocotillo Wells, CA",earthquake,0.53,1.03,0.07,12.0,automatic,ci,ci
+2023-03-13T13:59:01.210Z,52.8269,-132.1434,10.0,4.2,mb,110.0,168.0,0.335,0.81,us,us7000jjj5,2023-03-13T14:54:17.926Z,"Haida Gwaii, Canada",earthquake,7.19,1.892,0.063,71.0,reviewed,us,us
