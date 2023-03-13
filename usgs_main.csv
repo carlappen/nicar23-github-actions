@@ -3473,3 +3473,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T01:13:14.790Z,38.8358333,-122.8186667,2.0,0.53,md,11.0,137.0,0.01342,0.01,nc,nc73856015,2023-03-13T22:21:41.790Z,"8km W of Cobb, CA",earthquake,0.41,0.99,0.178,10.0,reviewed,nc,nc
 2023-03-13T01:06:21.978Z,40.3744,-119.8437,2.6,1.2,ml,4.0,299.32,0.222,0.0917,nn,nn00856873,2023-03-13T21:55:01.010Z,"35 km NE of Herlong, California",earthquake,,30.5,0.18,4.0,reviewed,nn,nn
 2023-03-12T23:45:54.147Z,51.3874,176.7463,35.0,3.7,ml,12.0,221.0,1.234,0.49,us,us7000jjfm,2023-03-13T22:03:52.040Z,"292 km SE of Attu Station, Alaska",earthquake,5.54,2.023,0.115,10.0,reviewed,us,us
+2023-03-13T22:36:45.680Z,38.8258324,-122.8054962,1.41,1.22,md,12.0,68.0,0.004326,0.02,nc,nc73856385,2023-03-13T22:38:20.757Z,"7km NW of The Geysers, CA",earthquake,0.29,0.96,0.18,12.0,automatic,nc,nc
+2023-03-13T21:18:47.950Z,44.6478333,-111.0495,7.22,0.66,ml,9.0,93.0,0.05574,0.13,uu,uu60533796,2023-03-13T22:38:04.830Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.38,0.86,0.074,2.0,reviewed,uu,uu
+2023-03-13T21:07:43.370Z,44.6446667,-111.049,7.79,0.76,md,6.0,150.0,0.05364,0.12,uu,uu60533791,2023-03-13T22:34:26.570Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.68,1.03,0.338,5.0,reviewed,uu,uu
+2023-03-13T13:50:26.787Z,36.7609,-115.9966,3.5,-0.3,ml,5.0,254.63,0.034,0.0297,nn,nn00856879,2023-03-13T22:32:13.285Z,"36 km NW of Indian Springs, Nevada",earthquake,,6.2,0.0,1.0,reviewed,nn,nn
+2023-03-13T07:45:52.080Z,51.8495,-178.105,3.28,1.61,ml,5.0,225.0,,0.18,av,av91802491,2023-03-13T22:37:04.130Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.86,0.58,0.209424697234581,5.0,reviewed,av,av
+2023-03-12T23:54:16.420Z,43.7923,92.6838,10.007,4.4,mb,24.0,103.0,7.919,0.35,us,us7000jjf9,2023-03-13T22:36:04.040Z,"125 km NNW of Hami, China",earthquake,11.47,6.204,0.161,11.0,reviewed,us,us
