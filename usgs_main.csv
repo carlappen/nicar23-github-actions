@@ -3210,3 +3210,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T07:55:53.714Z,58.0039,-156.5266,16.5,1.4,ml,,,,0.22,ak,ak0233b76x86,2023-03-13T07:58:04.552Z,Alaska Peninsula,earthquake,,0.5,,,automatic,ak,ak
 2023-03-13T07:52:17.190Z,18.0566666666667,-66.8563333333333,14.69,2.68,md,5.0,119.0,0.08405,0.08,pr,pr71399333,2023-03-13T08:14:13.570Z,Puerto Rico region,earthquake,0.43,1.02,0.062811401466154,4.0,reviewed,pr,pr
 2023-03-13T07:22:59.740Z,19.3455,-68.1763,26.0,3.92,md,16.0,284.0,0.8565,0.38,pr,pr2023072000,2023-03-13T08:04:54.328Z,"87 km NNE of Punta Cana, Dominican Republic",earthquake,1.95,26.63,0.11,8.0,reviewed,pr,pr
+2023-03-13T08:41:18.430Z,38.8288345,-122.8105011,2.21,0.74,md,10.0,86.0,0.005442,0.01,nc,nc73856125,2023-03-13T08:42:53.287Z,"7km NW of The Geysers, CA",earthquake,0.36,0.93,0.22,10.0,automatic,nc,nc
+2023-03-13T08:41:02.530Z,38.8463326,-122.7279968,-0.1,0.83,md,9.0,172.0,0.03637,0.21,nc,nc73856120,2023-03-13T08:42:39.178Z,"3km N of Cobb, CA",earthquake,1.33,6.35,0.19,8.0,automatic,nc,nc
