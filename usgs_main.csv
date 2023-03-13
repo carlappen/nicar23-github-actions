@@ -3301,3 +3301,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T01:36:01.000Z,44.6435,-111.0453333,8.46,0.59,md,10.0,94.0,0.05467,0.14,uu,uu60533321,2023-03-13T16:19:44.790Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.42,1.03,0.218,6.0,reviewed,uu,uu
 2023-03-12T23:22:04.840Z,44.7951667,-110.9728333,8.1,1.0,ml,10.0,163.0,0.04298,0.16,uu,uu60533316,2023-03-13T16:14:03.510Z,"17 km E of Hebgen Lake Estates, Montana",earthquake,0.46,0.67,0.21,2.0,reviewed,uu,uu
 2023-03-12T18:18:01.590Z,44.7835,-110.9883333,8.24,0.51,md,10.0,188.0,0.0273,0.16,uu,uu60533291,2023-03-13T16:09:52.000Z,"16 km E of Hebgen Lake Estates, Montana",earthquake,1.17,0.68,0.298,6.0,reviewed,uu,uu
+2023-03-13T16:44:06.940Z,36.7796669,-121.4591675,11.01,1.6,md,6.0,141.0,0.03789,0.03,nc,nc73856245,2023-03-13T16:45:45.350Z,"9km WSW of Ridgemark, CA",earthquake,0.64,0.97,0.09,3.0,automatic,nc,nc
+2023-03-13T14:45:20.950Z,51.8555,-177.945,3.76,0.4,ml,4.0,146.0,,0.16,av,av91803241,2023-03-13T16:46:53.350Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.55,1.94,0.366042465165807,4.0,reviewed,av,av
