@@ -3352,3 +3352,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T04:21:25.610Z,47.81,-122.3325,27.22,1.28,ml,18.0,82.0,0.03035,0.28,uw,uw61911011,2023-03-13T18:11:33.660Z,"1 km SW of Lynnwood, Washington",earthquake,0.74,0.91,0.1300073195954243,4.0,reviewed,uw,uw
 2023-03-13T02:33:23.790Z,34.0073333,-118.8693333,9.68,1.46,ml,15.0,180.0,0.05198,0.14,ci,ci40184039,2023-03-13T18:19:03.493Z,"6km W of Malibu, CA",earthquake,0.42,0.62,0.164,21.0,reviewed,ci,ci
 2023-03-13T02:04:10.704Z,31.62629345,-104.2795968,7.519799805,2.7,ml,59.0,59.0,0.1315663594,0.2,tx,tx2023ezwv,2023-03-13T18:01:32.438Z,"57 km NW of Toyah, Texas",earthquake,0.6015533781,0.989973776,0.1,14.0,reviewed,tx,tx
+2023-03-13T18:35:46.860Z,35.0615,-118.3393333,0.07,1.2,ml,12.0,70.0,0.07076,0.18,ci,ci40184247,2023-03-13T18:39:23.539Z,"13km SE of Tehachapi, CA",earthquake,0.44,31.61,0.129,24.0,automatic,ci,ci
+2023-03-13T18:31:26.290Z,44.6258333,-111.0545,7.81,2.07,md,9.0,101.0,0.03866,0.11,uu,uu60032764,2023-03-13T18:43:09.700Z,"5 km SE of West Yellowstone, Montana",earthquake,0.38,0.93,0.43,6.0,reviewed,uu,uu
+2023-03-13T18:31:11.240Z,44.6383333,-111.0491667,7.95,2.47,ml,17.0,53.0,0.04917,0.16,uu,uu60533616,2023-03-13T18:40:32.970Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.37,0.52,0.383,7.0,reviewed,uu,uu
+2023-03-13T12:02:04.650Z,56.1288,-149.6566,10.0,3.0,ml,,,,0.95,ak,ak0233b9upw6,2023-03-13T18:35:21.316Z,"229 km SE of Chiniak, Alaska",earthquake,,0.0,,,reviewed,ak,ak
