@@ -3655,3 +3655,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T09:07:28.871Z,62.2705,-150.9741,75.0,1.6,ml,,,,0.32,ak,ak0233cvmsqf,2023-03-14T09:10:42.745Z,"27 km SSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-14T09:02:03.070Z,34.1336667,-117.2141667,0.13,0.7,ml,10.0,150.0,0.09994,0.31,ci,ci40184535,2023-03-14T09:05:44.638Z,"1km NW of Highland, CA",earthquake,0.94,31.61,0.207,11.0,automatic,ci,ci
 2023-03-14T08:54:49.320Z,33.2461667,-116.2991667,9.63,1.25,ml,48.0,29.0,0.06541,0.19,ci,ci40184527,2023-03-14T09:05:51.350Z,"7km E of Borrego Springs, CA",earthquake,0.24,0.57,0.149,26.0,automatic,ci,ci
+2023-03-14T09:35:29.530Z,37.5301666,-117.9796677,3.03,3.27,ml,24.0,116.0,0.3844,0.18,nc,nc73856635,2023-03-14T09:38:15.433Z,"18km N of Deep Springs, CA",earthquake,0.46,8.03,0.303,18.0,automatic,nc,nc
+2023-03-14T09:34:19.672Z,37.5389,-117.9836,3.9,2.6,ml,21.0,136.19,0.407,0.2845,nn,nn00856946,2023-03-14T09:36:08.846Z,"16 km SSE of Dyer, Nevada",earthquake,,1.0,0.97,10.0,automatic,nn,nn
+2023-03-14T09:32:51.670Z,37.5233345,-117.9708328,2.34,2.66,ml,14.0,117.0,0.3837,0.12,nc,nc73856630,2023-03-14T09:35:34.937Z,"17km N of Deep Springs, CA",earthquake,0.34,9.63,0.163,8.0,automatic,nc,nc
+2023-03-14T09:25:08.351Z,37.5273,-117.9742,6.3,3.3,ml,33.0,75.47,0.393,0.2997,nn,nn00856941,2023-03-14T09:28:30.114Z,Central California,earthquake,,0.5,0.37,21.0,automatic,nn,nn
