@@ -3961,3 +3961,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T11:22:08.960Z,51.8733333333333,-177.911833333333,4.66,1.21,ml,4.0,194.0,,0.15,av,av91804821,2023-03-14T23:42:28.930Z,"88 km W of Adak, Alaska",earthquake,0.65,2.03,0.179882088861493,4.0,reviewed,av,av
 2023-03-14T11:11:15.980Z,51.8755,-177.897,4.12,1.24,ml,4.0,206.0,,0.05,av,av91804791,2023-03-14T23:40:11.300Z,"86 km W of Adak, Alaska",earthquake,0.53,1.09,0.123863630485104,5.0,reviewed,av,av
 2023-03-14T10:51:35.450Z,51.8596666666667,-178.079833333333,3.74,1.36,ml,4.0,200.0,,0.15,av,av91094243,2023-03-14T23:37:25.390Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.48,0.54,0.140906815321299,4.0,reviewed,av,av
+2023-03-14T23:47:44.230Z,40.9291649,-123.7214966,23.27,2.69,md,11.0,148.0,0.05501,0.08,nc,nc73856980,2023-03-14T23:54:14.103Z,"8km W of Willow Creek, CA",earthquake,0.95,0.56,0.1,6.0,automatic,nc,nc
+2023-03-14T23:46:37.755Z,65.028,-147.0276,0.0,1.6,ml,,,,0.64,ak,ak0233d478tb,2023-03-14T23:48:58.551Z,"17 km N of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-14T20:40:19.290Z,51.863,-178.075833333333,0.09,1.17,ml,4.0,190.0,,0.26,av,av91805566,2023-03-14T23:52:49.640Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.88,31.61,0.150313281392478,4.0,reviewed,av,av
+2023-03-14T14:55:11.800Z,51.8806666666667,-177.9485,2.49,1.03,ml,5.0,179.0,,0.07,av,av91805086,2023-03-14T23:55:52.450Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.38,0.88,0.143003704901535,5.0,reviewed,av,av
+2023-03-14T13:32:05.930Z,51.8873333333333,-178.154,6.12,1.77,ml,4.0,266.0,,0.03,av,av91804976,2023-03-14T23:50:59.090Z,"104 km W of Adak, Alaska",earthquake,0.57,0.98,0.0562368576610983,4.0,reviewed,av,av
+2023-03-14T13:26:50.640Z,51.8593333333333,-178.0965,2.78,0.93,ml,4.0,214.0,,0.27,av,av91804966,2023-03-14T23:49:02.580Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,2.45,1.98,0.172661886662017,4.0,reviewed,av,av
+2023-03-14T02:55:39.508Z,14.338,-93.2086,35.0,4.5,mb,55.0,186.0,2.192,0.53,us,us7000jjqm,2023-03-14T23:47:58.040Z,"94 km WSW of Puerto Madero, Mexico",earthquake,7.21,1.953,0.039,195.0,reviewed,us,us
