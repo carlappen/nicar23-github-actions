@@ -3639,3 +3639,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T07:33:54.920Z,34.0283318,-117.2523346,15.2,1.03,ml,23.0,84.0,0.108,0.13,ci,ci40184503,2023-03-14T07:36:17.684Z,"2km SSE of Loma Linda, CA",earthquake,0.3,0.75,0.254,9.0,automatic,ci,ci
 2023-03-14T07:25:43.030Z,38.8240013,-122.8083344,1.1,0.82,md,14.0,70.0,0.001488,0.03,nc,nc73856565,2023-03-14T07:27:19.835Z,"7km NW of The Geysers, CA",earthquake,0.25,0.57,0.17,15.0,automatic,nc,nc
 2023-03-14T07:24:41.809Z,37.3895,-117.1296,1.6,1.2,ml,12.0,141.96,0.407,0.3105,nn,nn00856934,2023-03-14T07:25:55.335Z,"36 km SSE of Goldfield, Nevada",earthquake,,21.2,0.89,8.0,automatic,nn,nn
+2023-03-14T07:37:57.010Z,38.814167,-122.8301697,1.39,0.92,md,13.0,63.0,0.005348,0.02,nc,nc73856570,2023-03-14T07:39:33.860Z,"8km WNW of The Geysers, CA",earthquake,0.26,0.55,0.21,15.0,automatic,nc,nc
+2023-03-14T07:25:23.650Z,17.9275,-66.7028333333333,6.62,2.86,md,8.0,239.0,0.1249,0.1,pr,pr71399548,2023-03-14T07:40:44.710Z,"7 km S of Tallaboa, Puerto Rico",earthquake,0.69,0.35,0.0539961236499371,2.0,reviewed,pr,pr
