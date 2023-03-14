@@ -3673,3 +3673,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T09:55:10.580Z,17.9821666666667,-66.8381666666667,11.96,2.15,md,8.0,186.0,0.03974,0.1,pr,pr71399558,2023-03-14T10:19:50.050Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.73,0.44,0.162142443978562,6.0,reviewed,pr,pr
 2023-03-14T09:53:24.146Z,59.8877,-153.304,131.9,2.1,ml,,,,0.58,ak,ak0233cvwnb2,2023-03-14T09:55:07.510Z,"46 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-14T09:51:34.508Z,37.5629,-117.9106,5.2,2.3,ml,22.0,96.93,0.391,0.2605,nn,nn00856959,2023-03-14T09:58:14.889Z,California-Nevada border region,earthquake,,0.6,0.43,13.0,automatic,nn,nn
+2023-03-14T10:45:45.290Z,37.5181656,-117.9766693,0.8,2.8,ml,20.0,116.0,0.3767,0.2,nc,nc73856680,2023-03-14T10:48:20.776Z,"16km N of Deep Springs, CA",earthquake,0.47,15.1,0.174,10.0,automatic,nc,nc
+2023-03-14T10:37:14.250Z,37.4214,-117.9036,3.5,1.8,ml,9.0,176.03,0.603,0.4127,nn,nn00856970,2023-03-14T10:38:46.805Z,"30 km SSE of Dyer, Nevada",earthquake,,2.1,0.1,5.0,automatic,nn,nn
