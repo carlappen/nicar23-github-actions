@@ -3617,3 +3617,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T05:54:59.202Z,60.513,-141.8545,17.4,1.9,ml,,,,0.53,ak,ak0233ctj7b4,2023-03-14T05:56:30.242Z,"117 km SSE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-14T05:48:39.979Z,37.5403,-117.9292,3.2,1.1,ml,9.0,183.9,0.381,0.3742,nn,nn00856923,2023-03-14T05:50:14.322Z,"18 km SE of Dyer, Nevada",earthquake,,1.6,0.76,7.0,automatic,nn,nn
 2023-03-14T04:57:08.900Z,54.9466666666667,-162.2555,2.69,0.21,ml,4.0,255.0,,0.1,av,av91804196,2023-03-14T05:54:56.650Z,Alaska Peninsula,earthquake,5.2,8.51,0.137300502277159,4.0,reviewed,av,av
+2023-03-14T06:28:45.052Z,59.0324,-151.2679,24.6,3.0,ml,,,,0.67,ak,ak0233ctz18q,2023-03-14T06:31:15.917Z,"47 km SE of Port Graham, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-14T06:28:32.970Z,19.1386661529541,-155.37516784668,27.5900001525879,2.15,ml,37.0,184.0,,0.150000006,hv,hv73339262,2023-03-14T06:34:04.740Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.57,1.01999998,2.8,10.0,automatic,hv,hv
+2023-03-14T06:21:34.397Z,60.6845,-146.6812,9.7,1.9,ml,,,,0.72,ak,ak0233ctxidb,2023-03-14T06:23:43.150Z,"20 km S of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-14T06:20:23.870Z,33.5161667,-116.7401667,10.92,0.42,ml,16.0,61.0,0.04916,0.19,ci,ci40184455,2023-03-14T06:24:00.024Z,"8km SW of Anza, CA",earthquake,0.41,0.72,0.147,8.0,automatic,ci,ci
+2023-03-14T06:11:19.886Z,37.3689,-117.7144,0.0,2.5,ml,17.0,178.88,0.146,0.4034,nn,nn00856924,2023-03-14T06:12:45.170Z,"43 km S of Silver Peak, Nevada",earthquake,,11.1,0.78,13.0,automatic,nn,nn
