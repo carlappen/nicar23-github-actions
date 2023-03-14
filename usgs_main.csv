@@ -3710,3 +3710,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T01:02:08.830Z,44.6461667,-111.0548333,7.58,0.72,md,10.0,97.0,0.05201,0.17,uu,uu60533856,2023-03-14T13:31:44.450Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.51,1.09,0.403,7.0,reviewed,uu,uu
 2023-03-14T00:04:12.570Z,44.6448333,-111.047,8.22,1.38,ml,11.0,93.0,0.05476,0.19,uu,uu60533846,2023-03-14T13:26:58.220Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.49,1.04,0.513,3.0,reviewed,uu,uu
 2023-03-14T00:04:08.680Z,44.6471667,-111.0445,4.92,0.09,md,7.0,124.0,0.05767,0.13,uu,uu60032819,2023-03-14T13:29:38.490Z,Idaho-Montana border region,earthquake,0.47,1.16,0.225,3.0,reviewed,uu,uu
+2023-03-14T10:08:07.770Z,51.8573333333333,-178.097,4.71,2.48,ml,8.0,107.0,,0.13,av,av91804661,2023-03-14T13:46:57.310Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.43,0.56,0.239883263793161,8.0,reviewed,av,av
