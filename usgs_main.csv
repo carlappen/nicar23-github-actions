@@ -3901,3 +3901,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T07:12:22.980Z,51.86,-177.91,3.47,1.15,ml,5.0,177.0,,0.05,av,av91804376,2023-03-14T21:27:52.580Z,"87 km W of Adak, Alaska",earthquake,0.61,1.17,0.156499189418168,5.0,reviewed,av,av
 2023-03-14T07:08:00.460Z,51.8615,-177.908666666667,3.98,1.68,ml,4.0,180.0,,0.05,av,av91804366,2023-03-14T21:25:51.810Z,"87 km W of Adak, Alaska",earthquake,0.94,0.65,0.22495888232675,4.0,reviewed,av,av
 2023-03-14T07:02:13.100Z,51.8598333333333,-177.907166666667,4.63,1.76,ml,7.0,137.0,,0.07,av,av91804361,2023-03-14T21:23:34.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.42,0.74,0.315132771681673,7.0,reviewed,av,av
+2023-03-14T21:41:52.198Z,61.7348,-150.8454,61.2,1.6,ml,,,,0.47,ak,ak0233d2zc4z,2023-03-14T21:43:39.802Z,"27 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-14T21:33:28.111Z,35.9440155,-97.87483215,5.186920643,2.35,ml,33.0,53.97215271,0.09254742414,0.4679190918,ok,ok2023fdex,2023-03-14T21:37:13.725Z,"5 km SE of Dover, Oklahoma",earthquake,2.109847748,3.028289611,,25.0,automatic,ok,ok
