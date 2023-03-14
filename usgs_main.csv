@@ -3799,3 +3799,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T19:32:59.380Z,44.6483333,-111.0426667,8.06,0.76,ml,10.0,92.0,0.05904,0.11,uu,uu60032929,2023-03-14T17:34:01.750Z,"Yellowstone National Park, Wyoming",earthquake,0.36,0.71,0.135,2.0,reviewed,uu,uu
 2023-03-13T18:57:45.030Z,44.6403333,-111.0363333,7.78,0.6,md,6.0,136.0,0.05755,0.06,uu,uu60533641,2023-03-14T17:07:46.680Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.49,0.73,0.32,4.0,reviewed,uu,uu
 2023-03-13T18:49:24.271Z,17.7912,-106.0095,10.0,4.5,mb,83.0,205.0,4.893,1.13,us,us7000jjld,2023-03-14T17:19:12.040Z,"208 km SSW of Emiliano Zapata, Mexico",earthquake,9.24,1.961,0.042,171.0,reviewed,us,us
+2023-03-14T17:46:51.590Z,36.6893349,-121.3499985,4.72,3.39,ml,41.0,45.0,0.01831,0.23,nc,nc73856845,2023-03-14T17:49:32.212Z,"12km SSW of Tres Pinos, CA",earthquake,0.38,0.93,0.292,35.0,automatic,nc,nc
+2023-03-14T17:41:44.690Z,36.6980019,-121.3290024,2.94,3.41,ml,15.0,202.0,0.1847,0.05,nc,nc73856835,2023-03-14T17:45:57.919Z,"10km S of Tres Pinos, CA",earthquake,0.7,3.38,0.257,38.0,automatic,nc,nc
+2023-03-14T17:41:24.820Z,36.6985016,-121.3464966,4.92,3.36,ml,36.0,84.0,0.008941,0.15,nc,nc73856840,2023-03-14T17:45:54.400Z,"10km SSW of Tres Pinos, CA",earthquake,0.31,0.65,0.267,34.0,automatic,nc,nc
+2023-03-14T17:38:45.320Z,38.7721672,-122.7121658,14.68,1.34,md,8.0,196.0,0.01449,0.09,nc,nc73856825,2023-03-14T17:40:20.551Z,"2km W of Anderson Springs, CA",earthquake,2.24,8.75,0.2,5.0,automatic,nc,nc
+2023-03-14T17:38:28.272Z,37.6346,-117.5696,14.0,2.8,ml,17.0,131.54,0.833,0.3446,nn,nn00856999,2023-03-14T17:39:53.845Z,"14 km SSE of Silver Peak, Nevada",earthquake,,0.5,0.91,11.0,automatic,nn,nn
+2023-03-14T17:37:45.173Z,37.6092,-117.8246,9.5,1.7,ml,9.0,195.77,0.476,0.2452,nn,nn00857000,2023-03-14T17:39:11.462Z,"22 km ESE of Dyer, Nevada",earthquake,,0.9,0.76,7.0,automatic,nn,nn
+2023-03-14T08:00:17.720Z,37.5886667,-118.8535,2.63,-0.11,md,7.0,210.0,0.01942,0.01,nc,nc73856580,2023-03-14T17:45:14.458Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.66,1.41,0.107,6.0,reviewed,nc,nc
