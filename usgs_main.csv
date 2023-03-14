@@ -3683,3 +3683,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T10:56:31.639Z,37.5676,-117.9131,4.8,1.6,ml,9.0,178.31,0.396,0.0995,nn,nn00856980,2023-03-14T10:57:57.006Z,"17 km SE of Dyer, Nevada",earthquake,,0.8,0.86,6.0,automatic,nn,nn
 2023-03-14T11:31:06.580Z,38.8031654,-122.7891693,1.21,0.86,md,6.0,93.0,0.00678,0.06,nc,nc73856690,2023-03-14T11:32:44.372Z,"4km NW of The Geysers, CA",earthquake,0.55,0.94,0.25,9.0,automatic,nc,nc
 2023-03-14T11:27:54.050Z,33.5161667,-116.5498333,12.47,0.72,ml,26.0,78.0,0.04412,0.18,ci,ci40184639,2023-03-14T11:31:35.889Z,"12km ESE of Anza, CA",earthquake,0.27,0.44,0.087,21.0,automatic,ci,ci
+2023-03-14T11:37:20.908Z,60.4017,-143.3696,24.2,1.6,ml,,,,0.11,ak,ak0233cx02t6,2023-03-14T11:38:39.700Z,"117 km SSW of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
