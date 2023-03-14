@@ -3626,3 +3626,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T06:42:22.593Z,58.8734,-154.2321,11.9,1.6,ml,,,,0.22,ak,ak0233cu1zhv,2023-03-14T06:44:44.833Z,"70 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-14T06:38:57.379Z,58.2711,-155.1075,1.6,0.9,ml,,,,0.26,ak,ak0233cu17bd,2023-03-14T06:40:19.765Z,"87 km NNW of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-03-14T06:50:09.600Z,37.4321,-117.6333,0.0,1.7,ml,16.0,182.23,0.199,0.3633,nn,nn00856926,2023-03-14T06:51:35.558Z,"35 km S of Silver Peak, Nevada",earthquake,,21.5,0.95,10.0,automatic,nn,nn
+2023-03-14T07:17:11.686Z,37.7135,-117.5448,2.9,1.1,ml,10.0,136.11,0.386,0.2895,nn,nn00856933,2023-03-14T07:18:34.573Z,"9 km ESE of Silver Peak, Nevada",earthquake,,13.1,0.91,6.0,automatic,nn,nn
+2023-03-14T07:13:45.159Z,37.5505,-117.9817,4.6,2.4,ml,20.0,134.93,0.569,0.3161,nn,nn00856930,2023-03-14T07:15:07.006Z,California-Nevada border region,earthquake,,0.9,0.32,13.0,automatic,nn,nn
+2023-03-14T07:12:08.420Z,33.851,-117.6706667,6.6,0.84,ml,20.0,71.0,0.06066,0.19,ci,ci40184487,2023-03-14T07:15:41.229Z,"10km WSW of Corona, CA",earthquake,0.37,0.75,0.187,16.0,automatic,ci,ci
+2023-03-14T07:08:45.037Z,62.4674,-148.4624,53.8,2.1,ml,,,,0.9,ak,ak0233cug6hh,2023-03-14T07:13:34.255Z,"74 km N of Chickaloon, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-14T07:06:25.687Z,37.5048,-117.9125,8.0,1.2,ml,8.0,186.13,0.345,0.2474,nn,nn00856929,2023-03-14T07:07:54.380Z,"22 km SE of Dyer, Nevada",earthquake,,0.8,0.89,4.0,automatic,nn,nn
+2023-03-14T07:01:16.308Z,37.44,-117.8852,7.0,1.5,ml,11.0,218.97,0.281,0.2538,nn,nn00856928,2023-03-14T07:02:45.217Z,"29 km SSE of Dyer, Nevada",earthquake,,1.0,0.79,7.0,automatic,nn,nn
+2023-03-14T07:00:34.780Z,34.0045,-116.9841667,11.5,0.79,ml,16.0,126.0,0.09745,0.15,ci,ci40184479,2023-03-14T07:04:11.814Z,"6km ESE of Yucaipa, CA",earthquake,0.35,0.9,0.092,15.0,automatic,ci,ci
+2023-03-14T06:56:37.070Z,33.0221667,-116.346,9.56,0.92,ml,21.0,81.0,0.07398,0.23,ci,ci40184471,2023-03-14T07:00:10.304Z,"24km SW of Ocotillo Wells, CA",earthquake,0.38,0.84,0.223,11.0,automatic,ci,ci
+2023-03-14T06:55:05.950Z,34.4671667,-117.0263333,10.12,1.34,ml,9.0,288.0,0.5629,0.17,ci,ci40184463,2023-03-14T06:58:42.596Z,"6km WNW of Lucerne Valley, CA",earthquake,5.27,31.61,0.303,15.0,automatic,ci,ci
+2023-03-14T05:07:00.009Z,6.7938,-73.0147,157.698,4.5,mb,59.0,38.0,0.899,1.02,us,us7000jjrd,2023-03-14T07:02:24.040Z,"6 km NW of Cepitá, Colombia",earthquake,7.49,6.954,0.041,176.0,reviewed,us,us
