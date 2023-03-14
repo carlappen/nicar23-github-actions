@@ -3579,3 +3579,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T03:42:44.685Z,59.6984,-153.611,126.4,2.1,ml,,,,0.22,ak,ak0233cs9qdw,2023-03-14T03:44:23.457Z,"29 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-14T03:41:51.120Z,33.5475,-116.4121667,7.19,0.82,ml,31.0,102.0,0.02656,0.18,ci,ci40184399,2023-03-14T03:45:28.271Z,"16km SW of La Quinta, CA",earthquake,0.31,0.55,0.113,24.0,automatic,ci,ci
 2023-03-13T13:14:14.330Z,51.8556666666667,-178.0985,2.24,1.53,ml,5.0,217.0,,0.3,av,av91803031,2023-03-14T03:40:35.570Z,"100 km W of Adak, Alaska",earthquake,1.11,2.54,0.188063072428269,5.0,reviewed,av,av
+2023-03-14T03:50:10.110Z,38.8243332,-122.8466644,1.39,0.52,md,8.0,154.0,0.008595,0.02,nc,nc73856465,2023-03-14T03:51:44.521Z,"9km NW of The Geysers, CA",earthquake,0.66,0.88,0.2,8.0,automatic,nc,nc
+2023-03-14T03:24:02.670Z,51.8553333333333,-178.113166666667,3.68,2.07,ml,10.0,132.0,,0.24,av,av91804091,2023-03-14T03:56:34.680Z,"101 km W of Adak, Alaska",earthquake,0.76,0.63,0.126513924435888,9.0,reviewed,av,av
