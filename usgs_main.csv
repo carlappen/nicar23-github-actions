@@ -3622,3 +3622,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T06:21:34.397Z,60.6845,-146.6812,9.7,1.9,ml,,,,0.72,ak,ak0233ctxidb,2023-03-14T06:23:43.150Z,"20 km S of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-14T06:20:23.870Z,33.5161667,-116.7401667,10.92,0.42,ml,16.0,61.0,0.04916,0.19,ci,ci40184455,2023-03-14T06:24:00.024Z,"8km SW of Anza, CA",earthquake,0.41,0.72,0.147,8.0,automatic,ci,ci
 2023-03-14T06:11:19.886Z,37.3689,-117.7144,0.0,2.5,ml,17.0,178.88,0.146,0.4034,nn,nn00856924,2023-03-14T06:12:45.170Z,"43 km S of Silver Peak, Nevada",earthquake,,11.1,0.78,13.0,automatic,nn,nn
+2023-03-14T06:43:24.890Z,38.7826653,-122.7434998,1.16,0.77,md,7.0,135.0,0.005326,0.03,nc,nc73856535,2023-03-14T06:44:59.557Z,"1km ENE of The Geysers, CA",earthquake,0.6,1.74,0.27,9.0,automatic,nc,nc
+2023-03-14T06:42:22.593Z,58.8734,-154.2321,11.9,1.6,ml,,,,0.22,ak,ak0233cu1zhv,2023-03-14T06:44:44.833Z,"70 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-14T06:38:57.379Z,58.2711,-155.1075,1.6,0.9,ml,,,,0.26,ak,ak0233cu17bd,2023-03-14T06:40:19.765Z,"87 km NNW of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
