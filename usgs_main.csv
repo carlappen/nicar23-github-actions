@@ -3711,3 +3711,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T00:04:12.570Z,44.6448333,-111.047,8.22,1.38,ml,11.0,93.0,0.05476,0.19,uu,uu60533846,2023-03-14T13:26:58.220Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.49,1.04,0.513,3.0,reviewed,uu,uu
 2023-03-14T00:04:08.680Z,44.6471667,-111.0445,4.92,0.09,md,7.0,124.0,0.05767,0.13,uu,uu60032819,2023-03-14T13:29:38.490Z,Idaho-Montana border region,earthquake,0.47,1.16,0.225,3.0,reviewed,uu,uu
 2023-03-14T10:08:07.770Z,51.8573333333333,-178.097,4.71,2.48,ml,8.0,107.0,,0.13,av,av91804661,2023-03-14T13:46:57.310Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.43,0.56,0.239883263793161,8.0,reviewed,av,av
+2023-03-14T14:14:14.140Z,38.8069992,-122.7695007,1.08,1.6,md,22.0,83.0,0.00995,0.03,nc,nc73856725,2023-03-14T14:30:14.588Z,"4km NNW of The Geysers, CA",earthquake,0.19,0.37,0.16,22.0,automatic,nc,nc
+2023-03-14T14:03:00.521Z,63.1499,-148.7914,75.2,1.4,ml,,,,0.23,ak,ak0233cyl1pg,2023-03-14T14:04:23.374Z,"28 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-14T14:01:47.720Z,33.8425,-117.1966667,23.91,1.07,ml,18.0,84.0,0.1895,0.35,ci,ci40184695,2023-03-14T14:05:27.587Z,"6km NW of Nuevo, CA",earthquake,1.12,1.96,0.229,27.0,automatic,ci,ci
+2023-03-14T12:37:23.149Z,31.6438,-104.4507,8.116,2.6,ml,30.0,90.0,0.049,0.37,us,us7000jjtd,2023-03-14T14:02:15.040Z,"59 km S of Whites City, New Mexico",earthquake,2.5,4.525,0.077,72.0,reviewed,us,us
+2023-03-14T08:17:34.790Z,46.0995,-122.17066666666666,11.75,0.67,ml,12.0,232.0,0.0851,0.07,uw,uw61911341,2023-03-14T14:31:13.900Z,"29 km NE of Amboy, Washington",earthquake,0.63,0.98,0.0759338001061665,11.0,reviewed,uw,uw
+2023-03-14T04:53:45.200Z,46.09483333333333,-122.16516666666666,8.85,0.67,ml,13.0,235.0,0.08008,0.15,uw,uw61911326,2023-03-14T14:26:52.770Z,"29 km NE of Amboy, Washington",earthquake,0.78,1.14,0.0480838202118905,8.0,reviewed,uw,uw
