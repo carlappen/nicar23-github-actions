@@ -3721,3 +3721,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T14:41:49.553Z,37.4588,-117.8528,6.8,1.1,ml,11.0,211.8,0.279,0.3105,nn,nn00856986,2023-03-14T14:43:20.053Z,"29 km SE of Dyer, Nevada",earthquake,,0.9,0.99,6.0,automatic,nn,nn
 2023-03-14T14:39:26.235Z,37.5214,-117.9662,6.7,2.9,ml,26.0,94.37,0.385,0.3212,nn,nn00856985,2023-03-14T14:42:43.068Z,"18 km SSE of Dyer, Nevada",earthquake,,0.6,0.89,17.0,automatic,nn,nn
 2023-03-14T14:11:29.570Z,17.9775,-66.9855,38.57,2.7,md,11.0,171.0,0.05647,0.16,pr,pr71399588,2023-03-14T14:44:27.540Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.56,0.86,0.0442624322786798,5.0,reviewed,pr,pr
+2023-03-14T14:51:42.600Z,37.5105019,-117.9851685,0.01,2.83,ml,19.0,114.0,0.3622,0.21,nc,nc73856750,2023-03-14T14:54:25.954Z,"15km N of Deep Springs, CA",earthquake,0.47,15.44,0.2,10.0,automatic,nc,nc
+2023-03-14T04:24:48.107Z,-56.6497,-141.8297,10.0,5.5,mww,30.0,116.0,33.507,0.81,us,us7000jju1,2023-03-14T14:51:13.380Z,Pacific-Antarctic Ridge,earthquake,15.54,1.827,0.089,12.0,reviewed,us,us
