@@ -3723,3 +3723,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T14:11:29.570Z,17.9775,-66.9855,38.57,2.7,md,11.0,171.0,0.05647,0.16,pr,pr71399588,2023-03-14T14:44:27.540Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.56,0.86,0.0442624322786798,5.0,reviewed,pr,pr
 2023-03-14T14:51:42.600Z,37.5105019,-117.9851685,0.01,2.83,ml,19.0,114.0,0.3622,0.21,nc,nc73856750,2023-03-14T14:54:25.954Z,"15km N of Deep Springs, CA",earthquake,0.47,15.44,0.2,10.0,automatic,nc,nc
 2023-03-14T04:24:48.107Z,-56.6497,-141.8297,10.0,5.5,mww,30.0,116.0,33.507,0.81,us,us7000jju1,2023-03-14T14:51:13.380Z,Pacific-Antarctic Ridge,earthquake,15.54,1.827,0.089,12.0,reviewed,us,us
+2023-03-14T15:29:07.195Z,61.1787,-149.3691,30.6,1.5,ml,,,,0.58,ak,ak0233czc2fz,2023-03-14T15:31:04.825Z,Southern Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-03-14T15:14:07.050Z,33.5325,-116.5308333,13.97,0.98,ml,25.0,65.0,0.02493,0.17,ci,ci40184751,2023-03-14T15:17:44.026Z,"14km E of Anza, CA",earthquake,0.28,0.42,0.169,25.0,automatic,ci,ci
+2023-03-14T15:11:06.990Z,33.5228333,-116.53,12.54,0.76,ml,19.0,87.0,0.03459,0.19,ci,ci40184743,2023-03-14T15:14:46.981Z,"14km ESE of Anza, CA",earthquake,0.44,1.06,0.156,19.0,automatic,ci,ci
+2023-03-14T15:08:05.228Z,37.3232,-117.6802,7.4,1.7,ml,14.0,170.93,0.094,0.4152,nn,nn00856991,2023-03-14T15:09:10.915Z,"48 km S of Silver Peak, Nevada",earthquake,,1.2,0.86,8.0,automatic,nn,nn
+2023-03-14T14:59:13.090Z,18.0035,-66.9845,43.46,2.38,md,7.0,135.0,0.06618,0.08,pr,pr71399598,2023-03-14T15:19:35.380Z,"6 km SW of Liborio Negron Torres, Puerto Rico",earthquake,0.79,0.64,0.0331392412751432,3.0,reviewed,pr,pr
+2023-03-14T14:49:49.755Z,37.8097,37.3889,10.0,4.6,mwr,87.0,55.0,0.652,1.05,us,us7000jjv5,2023-03-14T15:12:38.040Z,Central Turkey,earthquake,4.41,1.844,0.069,20.0,reviewed,us,us
+2023-03-14T14:39:25.519Z,37.5015,-117.9345,5.0,2.8,ml,50.0,41.0,0.353,0.83,us,us7000jjv2,2023-03-14T15:22:50.040Z,"21 km SSE of Dyer, Nevada",earthquake,1.18,1.931,0.034,116.0,reviewed,us,us
+2023-03-14T06:24:14.370Z,44.639,-111.0421667,7.66,0.58,md,7.0,140.0,0.05343,0.13,uu,uu60533916,2023-03-14T15:14:45.160Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.74,0.88,0.377,5.0,reviewed,uu,uu
+2023-03-13T23:37:18.610Z,44.6445,-111.0436667,8.25,0.53,md,8.0,93.0,0.05622,0.13,uu,uu60533841,2023-03-14T15:22:57.250Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.44,0.91,0.357,6.0,reviewed,uu,uu
+2023-03-13T22:49:29.430Z,44.64,-111.0496667,9.04,0.93,md,10.0,90.0,0.05002,0.18,uu,uu60533826,2023-03-14T15:28:49.800Z,Idaho-Montana border region,earthquake,0.59,1.05,0.213,4.0,reviewed,uu,uu
