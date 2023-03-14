@@ -3659,3 +3659,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T09:34:19.672Z,37.5389,-117.9836,3.9,2.6,ml,21.0,136.19,0.407,0.2845,nn,nn00856946,2023-03-14T09:36:08.846Z,"16 km SSE of Dyer, Nevada",earthquake,,1.0,0.97,10.0,automatic,nn,nn
 2023-03-14T09:32:51.670Z,37.5233345,-117.9708328,2.34,2.66,ml,14.0,117.0,0.3837,0.12,nc,nc73856630,2023-03-14T09:35:34.937Z,"17km N of Deep Springs, CA",earthquake,0.34,9.63,0.163,8.0,automatic,nc,nc
 2023-03-14T09:25:08.351Z,37.5273,-117.9742,6.3,3.3,ml,33.0,75.47,0.393,0.2997,nn,nn00856941,2023-03-14T09:28:30.114Z,Central California,earthquake,,0.5,0.37,21.0,automatic,nn,nn
+2023-03-14T09:47:03.750Z,37.5125008,-117.9603348,0.62,2.43,md,8.0,204.0,0.3811,0.04,nc,nc73856655,2023-03-14T09:51:16.851Z,"16km N of Deep Springs, CA",earthquake,0.81,6.95,0.09,6.0,automatic,nc,nc
+2023-03-14T09:43:59.414Z,37.5663,-117.9526,1.9,1.6,ml,15.0,183.96,0.413,0.3176,nn,nn00856954,2023-03-14T09:45:37.418Z,"15 km SE of Dyer, Nevada",earthquake,,2.0,0.89,9.0,automatic,nn,nn
+2023-03-14T09:40:57.996Z,37.5482,-117.9413,3.5,1.2,ml,11.0,184.61,0.393,0.1125,nn,nn00856952,2023-03-14T09:42:26.359Z,"17 km SE of Dyer, Nevada",earthquake,,1.4,0.76,8.0,automatic,nn,nn
