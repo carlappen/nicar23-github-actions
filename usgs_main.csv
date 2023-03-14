@@ -3882,3 +3882,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T06:28:29.850Z,51.8545,-178.095666666667,5.05,0.81,ml,4.0,216.0,,0.1,av,av91804286,2023-03-14T20:02:31.290Z,"100 km W of Adak, Alaska",earthquake,0.66,0.86,0.330655957445106,4.0,reviewed,av,av
 2023-03-14T04:19:26.110Z,37.5166667,-117.9816667,7.82,2.14,md,19.0,115.0,0.3069,0.1,nc,nc73856475,2023-03-14T20:34:14.889Z,"16km N of Deep Springs, CA",earthquake,0.27,2.39,0.191,20.0,reviewed,nc,nc
 2023-03-13T20:37:34.457Z,-48.8241,121.1778,10.0,4.5,mb,21.0,98.0,16.154,0.83,us,us7000jjmw,2023-03-14T20:23:19.040Z,western Indian-Antarctic Ridge,earthquake,14.78,1.904,0.127,18.0,reviewed,us,us
+2023-03-14T12:37:23.132Z,31.64715693,-104.4360963,5.334619141,2.5,ml,14.0,65.0,0.009699494552,0.2,tx,tx2023fcne,2023-03-14T20:41:11.270Z,"58 km S of Whites City, New Mexico",earthquake,1.895837673,1.582628128,0.1,21.0,reviewed,tx,tx
