@@ -4108,3 +4108,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T11:10:21.609Z,58.2557,-155.087,2.7,1.2,ml,,,,0.57,ak,ak0233ekdn0w,2023-03-15T11:12:12.476Z,"85 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-15T11:00:50.270Z,19.2023334503174,-155.366836547852,34.1699981689453,2.2,ml,39.0,164.0,,0.159999996,hv,hv73340272,2023-03-15T11:06:20.220Z,"11 km E of Pāhala, Hawaii",earthquake,0.77,1.0,0.35,4.0,automatic,hv,hv
 2023-03-15T11:00:36.740Z,63.2933,-150.2952,76.7,1.4,ml,,,,0.73,ak,ak0233ekbiaz,2023-03-15T11:02:38.095Z,"68 km W of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-03-15T11:23:25.010Z,33.49,-116.483,14.34,0.68,ml,14.0,107.0,0.07836,0.12,ci,ci40185143,2023-03-15T11:27:08.923Z,"19km ESE of Anza, CA",earthquake,0.38,0.74,0.229,11.0,automatic,ci,ci
+2023-03-15T11:15:52.540Z,19.1041660308838,-155.408996582031,31.0100002288818,2.54999995,md,37.0,189.0,,0.129999995,hv,hv73340282,2023-03-15T11:22:06.910Z,"13 km SE of Pāhala, Hawaii",earthquake,0.6,0.980000019,1.99000001,34.0,automatic,hv,hv
