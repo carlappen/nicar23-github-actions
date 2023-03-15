@@ -4049,3 +4049,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T06:32:01.713Z,58.1254,-155.484,24.3,1.1,ml,,,,2.06,ak,ak0233ehj57v,2023-03-15T06:34:12.924Z,"87 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-15T06:51:52.210Z,38.8170013,-122.8079987,3.06,1.06,md,26.0,40.0,0.006587,0.02,nc,nc73857055,2023-03-15T06:53:30.659Z,"6km NW of The Geysers, CA",earthquake,0.21,0.42,0.25,26.0,automatic,nc,nc
 2023-03-15T06:36:26.610Z,18.5519,-106.8189,10.0,4.5,mb,56.0,129.0,5.398,1.08,us,us7000jk0l,2023-03-15T06:52:37.040Z,"212 km SW of José María Morelos, Mexico",earthquake,9.62,1.91,0.048,129.0,reviewed,us,us
+2023-03-15T07:16:47.940Z,33.9998333,-116.986,17.73,1.19,ml,34.0,102.0,0.1023,0.25,ci,ci40185087,2023-03-15T07:20:19.842Z,"6km ENE of Calimesa, CA",earthquake,0.33,0.81,0.167,27.0,automatic,ci,ci
+2023-03-15T07:08:10.044Z,60.4053,-160.8006,15.0,3.7,ml,,,,0.81,ak,ak0233ehzhs1,2023-03-15T07:18:26.509Z,"56 km SE of Kwethluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
+2023-03-15T07:05:27.838Z,61.4868,-151.5741,70.8,2.2,ml,,,,0.52,ak,ak0233ehyui7,2023-03-15T07:07:42.571Z,"46 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-15T07:03:57.300Z,38.8064995,-122.8271637,2.53,0.43,md,7.0,128.0,0.002841,0.01,nc,nc73857060,2023-03-15T07:20:11.812Z,"7km WNW of The Geysers, CA",earthquake,0.55,1.89,0.3,8.0,automatic,nc,nc
+2023-03-15T06:27:08.490Z,34.6115,32.4795,10.0,4.2,mb,35.0,154.0,0.783,1.08,us,us7000jk0j,2023-03-15T07:15:06.713Z,"15 km S of Koloni, Cyprus",earthquake,6.61,1.962,0.141,14.0,reviewed,us,us
+2023-03-14T17:45:49.960Z,19.1761666666667,-155.48,33.16,1.81,md,12.0,159.0,,0.07,hv,hv73339712,2023-03-15T07:01:51.410Z,"2 km S of Pāhala, Hawaii",earthquake,0.85,1.28,0.0530460163329702,5.0,reviewed,hv,hv
