@@ -4019,3 +4019,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T02:58:40.440Z,36.5828323,-121.1793365,7.3,1.89,md,16.0,139.0,0.01213,0.05,nc,nc73857010,2023-03-15T03:15:13.346Z,"6km NNW of Pinnacles, CA",earthquake,0.28,0.65,0.18,16.0,automatic,nc,nc
 2023-03-15T00:45:19.420Z,58.2413333333333,-155.169166666667,4.77,0.23,ml,13.0,72.0,,0.17,av,av91805861,2023-03-15T03:22:01.960Z,Alaska Peninsula,earthquake,0.35,0.51,0.280191327421966,13.0,reviewed,av,av
 2023-03-14T04:29:37.782Z,-15.1687,-75.8206,22.005,4.3,mb,32.0,143.0,3.315,0.98,us,us7000jjr6,2023-03-15T03:05:06.040Z,"73 km WNW of San Juan, Peru",earthquake,10.03,6.79,0.133,16.0,reviewed,us,us
+2023-03-15T03:41:56.850Z,38.8255005,-122.8509979,1.65,0.27,md,12.0,96.0,0.005023,0.01,nc,nc73857020,2023-03-15T03:43:31.637Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.77,0.17,11.0,automatic,nc,nc
