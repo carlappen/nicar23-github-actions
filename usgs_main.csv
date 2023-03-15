@@ -4039,3 +4039,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T05:02:06.050Z,33.0533333,-116.3746667,13.84,1.59,ml,39.0,43.0,0.08674,0.19,ci,ci40185071,2023-03-15T05:13:10.470Z,"21km E of Julian, CA",earthquake,0.24,0.64,0.265,26.0,automatic,ci,ci
 2023-03-15T05:00:39.334Z,63.2567,-150.5533,125.7,2.3,ml,,,,0.41,ak,ak0233egqxj4,2023-03-15T05:02:46.137Z,"66 km ESE of Denali National Park, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-03-15T05:27:11.763Z,59.8387,-151.4477,66.4,1.6,ml,,,,0.34,ak,ak0233egwnt4,2023-03-15T05:28:52.955Z,"9 km ENE of Nikolaevsk, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-03-15T05:42:15.270Z,36.6933327,-121.3270035,3.98,2.21,md,21.0,128.0,0.02109,0.06,nc,nc73857035,2023-03-15T05:43:50.827Z,"11km S of Tres Pinos, CA",earthquake,0.33,0.59,0.16,22.0,automatic,nc,nc
+2023-03-15T05:36:08.177Z,62.191,-148.7286,25.3,1.8,ml,,,,0.45,ak,ak0233egykz5,2023-03-15T05:37:45.919Z,"46 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
