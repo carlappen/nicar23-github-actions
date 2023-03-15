@@ -4035,3 +4035,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T14:19:57.540Z,48.7555,-119.49566666666666,8.26,1.23,ml,8.0,117.0,0.04854,0.28,uw,uw61911371,2023-03-15T04:34:21.700Z,"6 km NW of Tonasket, Washington",earthquake,0.56,0.87,0.0986071918548626,5.0,reviewed,uw,uw
 2023-03-15T04:45:33.440Z,60.1238,-152.5017,98.4,1.9,ml,,,,0.37,ak,ak0233egf4rk,2023-03-15T04:47:16.370Z,"47 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-15T04:20:42.190Z,17.9621666666667,-66.8466666666667,12.43,2.06,md,9.0,203.0,0.03356,0.12,pr,pr71399683,2023-03-15T04:49:13.110Z,"4 km SW of Indios, Puerto Rico",earthquake,0.69,0.39,0.134581936029082,5.0,reviewed,pr,pr
+2023-03-15T05:21:18.941Z,62.1589,-145.6598,17.6,2.4,ml,,,,0.82,ak,ak0233egve2e,2023-03-15T05:22:56.447Z,"8 km NW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-15T05:02:06.050Z,33.0533333,-116.3746667,13.84,1.59,ml,39.0,43.0,0.08674,0.19,ci,ci40185071,2023-03-15T05:13:10.470Z,"21km E of Julian, CA",earthquake,0.24,0.64,0.265,26.0,automatic,ci,ci
+2023-03-15T05:00:39.334Z,63.2567,-150.5533,125.7,2.3,ml,,,,0.41,ak,ak0233egqxj4,2023-03-15T05:02:46.137Z,"66 km ESE of Denali National Park, Alaska",earthquake,,0.8,,,automatic,ak,ak
