@@ -4250,3 +4250,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T18:46:31.980Z,40.4631,-126.0835,10.0,2.7,ml,32.0,252.0,1.602,1.13,us,us7000jk7e,2023-03-15T20:25:06.040Z,"154 km W of Ferndale, California",earthquake,8.39,2.017,0.046,62.0,reviewed,us,us
 2023-03-15T14:22:14.235Z,39.599,-119.8443,10.6,0.9,ml,6.0,127.09,0.028,0.156,nn,nn00857045,2023-03-15T20:11:53.960Z,"2 km SW of Golden Valley, Nevada",earthquake,,2.0,0.72,3.0,reviewed,nn,nn
 2023-03-15T04:22:53.232Z,31.61346752,-104.1069436,8.381018066,1.8,ml,48.0,52.0,0.03881467261,0.2,tx,tx2023fdsk,2023-03-15T20:21:29.631Z,"44 km NW of Toyah, Texas",earthquake,0.4515303153,0.5177029606,0.0,7.0,reviewed,tx,tx
+2023-03-15T20:34:29.280Z,33.4896667,-116.5578333,7.71,0.94,ml,20.0,79.0,0.03741,0.24,ci,ci40185271,2023-03-15T20:38:00.761Z,"13km SE of Anza, CA",earthquake,0.4,0.7,0.313,12.0,automatic,ci,ci
+2023-03-15T20:31:13.820Z,38.8248329,-122.7981644,2.72,1.03,md,17.0,58.0,0.009413,0.01,nc,nc73857375,2023-03-15T20:32:51.165Z,"6km NW of The Geysers, CA",earthquake,0.3,0.49,0.3,16.0,automatic,nc,nc
