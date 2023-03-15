@@ -4272,3 +4272,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T21:28:45.410Z,38.8356667,-122.8073349,2.23,0.7,md,12.0,61.0,0.01244,0.01,nc,nc73857410,2023-03-15T21:30:21.624Z,"8km WNW of Cobb, CA",earthquake,0.33,0.74,0.18,12.0,automatic,nc,nc
 2023-03-15T21:28:43.037Z,37.5125,-117.7847,7.2,2.6,ml,17.0,195.84,0.301,0.3296,nn,nn00857057,2023-03-15T21:30:12.921Z,Nevada,earthquake,,0.9,0.9,12.0,automatic,nn,nn
 2023-03-15T21:24:24.687Z,58.1728,-155.4036,1.2,1.0,ml,,,,0.88,ak,ak0233eqezc4,2023-03-15T21:26:36.179Z,"87 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-15T21:28:04.250Z,17.9441666666667,-66.9541666666667,7.12,2.3,md,11.0,214.0,0.05153,0.1,pr,pr71400193,2023-03-15T21:43:45.940Z,Puerto Rico region,earthquake,0.53,0.23,0.056697222072438,4.0,reviewed,pr,pr
+2023-03-15T21:25:41.184Z,4.6784,126.9147,70.536,5.3,mww,117.0,28.0,2.722,0.67,us,us7000jk9p,2023-03-15T21:41:27.040Z,"179 km ESE of Sarangani, Philippines",earthquake,7.48,5.819,0.062,25.0,reviewed,us,us
