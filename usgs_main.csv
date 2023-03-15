@@ -4047,3 +4047,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T06:35:03.941Z,59.3559,-153.1457,84.8,2.1,ml,,,,0.42,ak,ak0233ehjsje,2023-03-15T06:37:23.762Z,"69 km W of Nanwalek, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-03-15T06:34:14.250Z,38.836834,-122.7903366,1.76,0.68,md,7.0,77.0,0.01232,0.01,nc,nc73857050,2023-03-15T06:35:50.650Z,"6km WNW of Cobb, CA",earthquake,0.59,2.12,0.28,8.0,automatic,nc,nc
 2023-03-15T06:32:01.713Z,58.1254,-155.484,24.3,1.1,ml,,,,2.06,ak,ak0233ehj57v,2023-03-15T06:34:12.924Z,"87 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-03-15T06:51:52.210Z,38.8170013,-122.8079987,3.06,1.06,md,26.0,40.0,0.006587,0.02,nc,nc73857055,2023-03-15T06:53:30.659Z,"6km NW of The Geysers, CA",earthquake,0.21,0.42,0.25,26.0,automatic,nc,nc
+2023-03-15T06:36:26.610Z,18.5519,-106.8189,10.0,4.5,mb,56.0,129.0,5.398,1.08,us,us7000jk0l,2023-03-15T06:52:37.040Z,"212 km SW of José María Morelos, Mexico",earthquake,9.62,1.91,0.048,129.0,reviewed,us,us
