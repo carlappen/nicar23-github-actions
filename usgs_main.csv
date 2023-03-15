@@ -4316,3 +4316,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T23:43:08.076Z,58.1483,-153.4624,63.9,2.3,ml,,,,0.45,ak,ak0233erpvvb,2023-03-15T23:45:52.927Z,"34 km WNW of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-15T23:31:50.400Z,51.8466666666667,-178.093833333333,3.65,1.83,ml,4.0,236.0,,0.05,av,av91807116,2023-03-15T23:43:45.430Z,"100 km W of Adak, Alaska",earthquake,0.49,0.33,0.197558077380886,5.0,reviewed,av,av
 2023-03-15T23:09:01.820Z,51.8698333333333,-177.982833333333,3.69,1.2,ml,4.0,132.0,,0.18,av,av91094483,2023-03-15T23:39:28.470Z,"92 km W of Adak, Alaska",earthquake,0.6,0.79,0.11486689009983,4.0,reviewed,av,av
+2023-03-15T23:52:36.770Z,36.023,-117.812,1.6,1.5,ml,13.0,136.0,0.04051,0.15,ci,ci40185311,2023-03-15T23:56:09.175Z,"12km E of Coso Junction, CA",earthquake,0.28,0.33,0.102,14.0,automatic,ci,ci
+2023-03-15T11:13:07.400Z,51.8751666666667,-177.9945,4.38,1.27,ml,4.0,159.0,,0.18,av,av91806501,2023-03-15T23:56:48.500Z,"93 km W of Adak, Alaska",earthquake,0.95,1.58,0.132419780292997,4.0,reviewed,av,av
