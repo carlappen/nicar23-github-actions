@@ -4140,3 +4140,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T12:54:07.839Z,37.4965,-118.0041,13.336,2.7,ml,26.0,45.0,0.346,0.58,us,us7000jk43,2023-03-15T13:09:06.040Z,"19 km SSE of Dyer, Nevada",earthquake,1.28,7.127,0.047,59.0,reviewed,us,us
 2023-03-15T02:32:17.790Z,36.542,-89.6591666666667,6.6,1.72,md,29.0,50.0,0.01436,0.07,nm,nm60514126,2023-03-15T13:02:20.010Z,"4 km WNW of Marston, Missouri",earthquake,0.24,0.39,0.136833632796258,20.0,reviewed,nm,nm
 2023-03-14T22:44:00.280Z,44.494,-111.0383333,12.36,1.35,ml,15.0,138.0,0.1204,0.16,uu,uu60534051,2023-03-15T13:37:45.350Z,"19 km SSE of West Yellowstone, Montana",earthquake,0.54,1.44,0.246,2.0,reviewed,uu,uu
+2023-03-14T20:35:57.589Z,51.8637,-178.0802,5.0,2.7,ml,15.0,98.0,0.039,0.61,us,us7000jjxv,2023-03-15T13:50:04.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.65,1.574,0.081,20.0,reviewed,us,us
