@@ -4055,3 +4055,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T07:03:57.300Z,38.8064995,-122.8271637,2.53,0.43,md,7.0,128.0,0.002841,0.01,nc,nc73857060,2023-03-15T07:20:11.812Z,"7km WNW of The Geysers, CA",earthquake,0.55,1.89,0.3,8.0,automatic,nc,nc
 2023-03-15T06:27:08.490Z,34.6115,32.4795,10.0,4.2,mb,35.0,154.0,0.783,1.08,us,us7000jk0j,2023-03-15T07:15:06.713Z,"15 km S of Koloni, Cyprus",earthquake,6.61,1.962,0.141,14.0,reviewed,us,us
 2023-03-14T17:45:49.960Z,19.1761666666667,-155.48,33.16,1.81,md,12.0,159.0,,0.07,hv,hv73339712,2023-03-15T07:01:51.410Z,"2 km S of Pāhala, Hawaii",earthquake,0.85,1.28,0.0530460163329702,5.0,reviewed,hv,hv
+2023-03-15T07:31:27.549Z,64.7149,-149.0396,9.4,2.2,ml,,,,0.88,ak,ak0233ei4f3m,2023-03-15T07:33:20.919Z,"13 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
