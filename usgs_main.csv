@@ -4041,3 +4041,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T05:27:11.763Z,59.8387,-151.4477,66.4,1.6,ml,,,,0.34,ak,ak0233egwnt4,2023-03-15T05:28:52.955Z,"9 km ENE of Nikolaevsk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-15T05:42:15.270Z,36.6933327,-121.3270035,3.98,2.21,md,21.0,128.0,0.02109,0.06,nc,nc73857035,2023-03-15T05:43:50.827Z,"11km S of Tres Pinos, CA",earthquake,0.33,0.59,0.16,22.0,automatic,nc,nc
 2023-03-15T05:36:08.177Z,62.191,-148.7286,25.3,1.8,ml,,,,0.45,ak,ak0233egykz5,2023-03-15T05:37:45.919Z,"46 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-15T06:16:57.560Z,17.9763333333333,-66.941,14.82,2.49,md,12.0,176.0,0.05878,0.13,pr,pr71399693,2023-03-15T06:28:15.110Z,"2 km WSW of Fuig, Puerto Rico",earthquake,0.39,0.61,0.0439001709083313,5.0,reviewed,pr,pr
+2023-03-15T06:14:27.510Z,33.5391667,-116.783,9.28,1.05,ml,40.0,54.0,0.0304,0.19,ci,ci40185079,2023-03-15T06:24:47.780Z,"10km W of Anza, CA",earthquake,0.23,0.55,0.145,26.0,automatic,ci,ci
+2023-03-15T06:11:15.309Z,62.9244,-148.8987,63.6,1.7,ml,,,,0.35,ak,ak0233eheo8a,2023-03-15T06:12:45.095Z,"52 km S of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
