@@ -4274,3 +4274,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-15T21:24:24.687Z,58.1728,-155.4036,1.2,1.0,ml,,,,0.88,ak,ak0233eqezc4,2023-03-15T21:26:36.179Z,"87 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-15T21:28:04.250Z,17.9441666666667,-66.9541666666667,7.12,2.3,md,11.0,214.0,0.05153,0.1,pr,pr71400193,2023-03-15T21:43:45.940Z,Puerto Rico region,earthquake,0.53,0.23,0.056697222072438,4.0,reviewed,pr,pr
 2023-03-15T21:25:41.184Z,4.6784,126.9147,70.536,5.3,mww,117.0,28.0,2.722,0.67,us,us7000jk9p,2023-03-15T21:41:27.040Z,"179 km ESE of Sarangani, Philippines",earthquake,7.48,5.819,0.062,25.0,reviewed,us,us
+2023-03-15T21:44:05.320Z,37.5131683,-117.9538345,-0.42,3.79,ml,29.0,158.0,0.3851,0.09,nc,nc73857425,2023-03-15T21:54:21.533Z,"16km N of Deep Springs, CA",earthquake,0.35,3.14,0.282,32.0,reviewed,nc,nc
+2023-03-15T21:36:00.860Z,17.9635,-66.9618333333333,6.3,2.23,md,5.0,194.0,0.07864,0.12,pr,pr71400208,2023-03-15T21:54:44.550Z,"5 km WSW of Fuig, Puerto Rico",earthquake,1.02,0.47,0.164614732437932,4.0,reviewed,pr,pr
+2023-03-15T08:11:37.550Z,58.2488333333333,-155.554666666667,6.99,0.34,ml,9.0,186.0,,0.08,av,av91806311,2023-03-15T21:52:07.570Z,"81 km SE of King Salmon, Alaska",earthquake,0.38,0.71,0.187343482708087,10.0,reviewed,av,av
