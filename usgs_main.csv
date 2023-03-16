@@ -4385,3 +4385,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T03:52:54.310Z,58.1691666666667,-155.3555,0.23,-0.38,ml,6.0,183.0,,0.07,av,av91807341,2023-03-16T04:30:58.460Z,"85 km NW of Karluk, Alaska",earthquake,0.28,2.12,0.163259066761818,6.0,reviewed,av,av
 2023-03-16T03:24:17.940Z,56.8576666666667,-158.059166666667,-3.2,0.5,ml,4.0,268.0,,0.1,av,av91094553,2023-03-16T04:26:08.030Z,"36 km ESE of Port Heiden, Alaska",earthquake,1.43,1.66,0.141649931762055,3.0,reviewed,av,av
 2023-03-16T03:20:23.300Z,51.836,-178.091166666667,-1.8,1.16,ml,4.0,223.0,,0.27,av,av91094543,2023-03-16T04:21:25.570Z,"100 km W of Adak, Alaska",earthquake,1.1,2.68,0.380239019929511,4.0,reviewed,av,av
+2023-03-16T04:25:07.290Z,18.0525,-65.7965,14.54,2.23,md,7.0,166.0,0.1021,0.33,pr,pr71400308,2023-03-16T04:39:44.450Z,"6 km ENE of El Negro, Puerto Rico",earthquake,1.2,1.04,0.186688582937392,3.0,reviewed,pr,pr
