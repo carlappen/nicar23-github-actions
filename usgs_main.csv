@@ -4502,3 +4502,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T15:36:52.740Z,60.0435,-153.070666666667,6.21,-0.1,ml,4.0,122.0,,0.33,av,av91808021,2023-03-16T16:47:40.160Z,Southern Alaska,earthquake,1.38,2.09,0.2413122063933,4.0,reviewed,av,av
 2023-03-16T15:18:50.330Z,51.8566666666667,-178.0435,-1.8,1.85,ml,5.0,147.0,,0.21,av,av91807991,2023-03-16T16:28:47.200Z,"97 km W of Adak, Alaska",earthquake,0.53,1.41,0.310587009709126,5.0,reviewed,av,av
 2023-03-16T01:59:45.684Z,32.00444338,-103.8200908,8.702368164,2.8,ml,30.0,37.0,0.04323884728,0.2,tx,tx2023ffje,2023-03-16T16:36:09.717Z,"34 km SE of Malaga, New Mexico",earthquake,0.6171158925999999,0.8488387121,0.1,18.0,reviewed,tx,tx
+2023-03-16T16:51:20.730Z,34.4685,-117.944,9.08,1.16,ml,22.0,38.0,0.02167,0.17,ci,ci40185583,2023-03-16T16:54:52.510Z,"5km SW of Pearblossom, CA",earthquake,0.27,0.48,0.152,23.0,automatic,ci,ci
+2023-03-16T16:48:13.260Z,34.1583333,-118.566,25.24,1.42,ml,8.0,144.0,0.1754,0.13,ci,ci40185575,2023-03-16T16:51:58.781Z,"2km SW of Tarzana, CA",earthquake,0.74,1.54,0.267,20.0,automatic,ci,ci
+2023-03-16T07:23:19.392Z,50.1799,178.7321,16.8,3.0,ml,,,,0.57,ak,ak0233g5m2pj,2023-03-16T16:57:03.725Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,8.1,,,reviewed,ak,ak
+2023-03-16T05:42:34.020Z,59.7162,-150.631,41.3,1.4,ml,,,,0.34,ak,ak0233g4j8kq,2023-03-16T16:51:19.091Z,"24 km SE of Fox River, Alaska",earthquake,,0.4,,,reviewed,ak,ak
