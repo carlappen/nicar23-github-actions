@@ -4600,3 +4600,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T17:29:46.153Z,31.6008,-104.4034,5.0,2.6,ml,26.0,65.0,0.459,1.06,us,us7000jkik,2023-03-16T21:43:37.040Z,"63 km S of Whites City, New Mexico",earthquake,3.94,1.967,0.057,40.0,reviewed,us,us
 2023-03-16T17:27:43.157Z,-23.7448,-179.5309,552.731,4.8,mb,26.0,107.0,4.753,0.51,us,us7000jkil,2023-03-16T21:37:46.040Z,south of the Fiji Islands,earthquake,11.16,12.674,0.135,17.0,reviewed,us,us
 2023-03-16T02:50:06.038Z,51.8205,-178.0806,10.396,2.3,ml,13.0,119.0,0.031,0.69,us,us7000jkc5,2023-03-16T21:44:21.040Z,"99 km W of Adak, Alaska",earthquake,1.76,1.505,0.128,16.0,reviewed,us,us
+2023-03-16T21:46:54.375Z,63.192,-148.8971,0.0,1.4,ml,,,,0.56,ak,ak0233ge33vh,2023-03-16T21:48:40.189Z,"22 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-16T20:58:58.560Z,33.3958333,-116.3751667,5.17,0.52,ml,14.0,87.0,0.06422,0.13,ci,ci37521477,2023-03-16T21:47:15.691Z,"16km N of Borrego Springs, CA",earthquake,0.34,1.28,0.148,7.0,reviewed,ci,ci
+2023-03-16T20:44:32.760Z,51.8626666666667,-178.098166666667,2.61,0.83,ml,4.0,214.0,,0.08,av,av91808326,2023-03-16T21:48:43.790Z,"100 km W of Adak, Alaska",earthquake,0.52,1.21,0.198161103288831,4.0,reviewed,av,av
+2023-03-16T02:33:38.070Z,37.502,-117.9835,1.0,1.7,ml,9.0,145.35,0.38,0.1713,nn,nn00857089,2023-03-16T21:52:13.199Z,"19 km SSE of Dyer, Nevada",earthquake,,4.5,0.97,6.0,reviewed,nn,nn
