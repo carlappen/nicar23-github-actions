@@ -4422,3 +4422,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T07:22:01.122Z,58.1597,-155.3902,1.4,1.0,ml,,,,0.84,ak,ak0233g5ls40,2023-03-16T07:23:32.693Z,"86 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-03-16T07:20:59.970Z,36.7635002,-121.3636703,9.78,2.08,md,29.0,84.0,0.05761,0.09,nc,nc73857645,2023-03-16T07:29:34.942Z,"5km SW of Tres Pinos, CA",earthquake,0.27,0.56,0.23,29.0,automatic,nc,nc
 2023-03-16T07:39:40.688Z,64.8342,-147.7954,24.1,0.9,ml,,,,0.44,ak,ak0233g5pic4,2023-03-16T07:41:49.508Z,"2 km S of College, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-16T07:44:32.598Z,61.8788,-150.9921,68.8,1.8,ml,,,,0.46,ak,ak0233g5qkaj,2023-03-16T07:47:04.581Z,Southern Alaska,earthquake,,0.6,,,automatic,ak,ak
