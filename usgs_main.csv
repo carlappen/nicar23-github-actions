@@ -4423,3 +4423,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T07:20:59.970Z,36.7635002,-121.3636703,9.78,2.08,md,29.0,84.0,0.05761,0.09,nc,nc73857645,2023-03-16T07:29:34.942Z,"5km SW of Tres Pinos, CA",earthquake,0.27,0.56,0.23,29.0,automatic,nc,nc
 2023-03-16T07:39:40.688Z,64.8342,-147.7954,24.1,0.9,ml,,,,0.44,ak,ak0233g5pic4,2023-03-16T07:41:49.508Z,"2 km S of College, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-16T07:44:32.598Z,61.8788,-150.9921,68.8,1.8,ml,,,,0.46,ak,ak0233g5qkaj,2023-03-16T07:47:04.581Z,Southern Alaska,earthquake,,0.6,,,automatic,ak,ak
+2023-03-16T08:28:37.940Z,35.8286667,-117.6175,5.55,0.87,ml,13.0,213.0,0.1214,0.22,ci,ci40185407,2023-03-16T08:32:15.062Z,"20km WNW of Searles Valley, CA",earthquake,0.97,2.8,0.154,7.0,automatic,ci,ci
+2023-03-16T08:20:33.720Z,63.1944,-151.3392,0.0,1.5,ml,,,,0.6,ak,ak0233g66us1,2023-03-16T08:22:42.324Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-16T08:12:51.050Z,35.7529984,-121.2436676,6.07,1.82,md,24.0,183.0,0.1017,0.09,nc,nc73857675,2023-03-16T08:27:11.196Z,"13km NNW of San Simeon, CA",earthquake,0.39,0.99,0.15,13.0,automatic,nc,nc
+2023-03-16T08:06:48.090Z,39.4196663,-123.2740021,6.45,1.51,md,8.0,87.0,0.06956,0.05,nc,nc73857670,2023-03-16T08:31:13.216Z,"7km E of Willits, CA",earthquake,0.37,1.32,0.11,5.0,automatic,nc,nc
+2023-03-16T07:45:41.610Z,17.956,-66.9543333333333,6.88,2.43,md,14.0,204.0,0.04638,0.11,pr,pr71400408,2023-03-16T07:56:33.380Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.45,0.19,0.140151539976255,7.0,reviewed,pr,pr
+2023-03-16T07:45:13.200Z,17.9696666666667,-66.9641666666667,5.98,1.71,md,5.0,184.0,0.0762,0.09,pr,pr71400418,2023-03-16T08:22:27.650Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.99,0.62,0.121122939216699,4.0,reviewed,pr,pr
