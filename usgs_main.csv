@@ -4633,3 +4633,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T22:57:43.210Z,51.876,-178.145333333333,6.16,1.13,ml,4.0,251.0,,0.23,av,av91094683,2023-03-16T23:29:23.430Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.26,1.81,0.262949692700393,4.0,reviewed,av,av
 2023-03-16T21:52:18.650Z,17.9513333333333,-66.957,6.77,1.38,md,3.0,211.0,0.07767,0.03,pr,pr71400518,2023-03-16T23:27:19.630Z,"5 km WSW of Guánica, Puerto Rico",earthquake,1.73,0.96,0.0590006296579291,3.0,reviewed,pr,pr
 2023-03-16T07:42:55.682Z,40.5567,-119.776,12.3,1.2,ml,4.0,322.0,0.388,0.127,nn,nn00857110,2023-03-16T23:28:27.224Z,"36 km W of Empire, Nevada",earthquake,,4.2,0.27,2.0,reviewed,nn,nn
+2023-03-16T23:19:28.980Z,51.8618333333333,-178.083333333333,4.09,1.06,ml,4.0,201.0,,0.17,av,av91808451,2023-03-16T23:42:44.500Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.74,1.27,0.209063564665914,4.0,reviewed,av,av
+2023-03-16T10:42:33.096Z,39.4113,-119.854,9.0,0.4,ml,8.0,81.52,0.072,0.1188,nn,nn00857111,2023-03-16T23:37:47.993Z,"12 km SSE of Mogul, Nevada",earthquake,,2.0,0.44,5.0,reviewed,nn,nn
