@@ -4401,3 +4401,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T04:31:31.240Z,51.8591666666667,-178.087666666667,3.64,1.28,ml,5.0,208.0,,0.1,av,av91807391,2023-03-16T05:00:25.760Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.5,0.43,0.162805786479017,5.0,reviewed,av,av
 2023-03-16T04:22:34.950Z,51.8523333333333,-178.081166666667,3.34,1.23,ml,4.0,208.0,,0.2,av,av91807371,2023-03-16T04:57:33.880Z,"99 km W of Adak, Alaska",earthquake,0.83,1.25,0.143804112436359,4.0,reviewed,av,av
 2023-03-15T15:32:26.715Z,3.1508,123.3339,485.287,4.0,mb,43.0,84.0,3.257,0.54,us,us7000jk4l,2023-03-16T05:00:15.040Z,"249 km NW of Manado, Indonesia",earthquake,9.02,9.298,0.098,28.0,reviewed,us,us
+2023-03-16T05:25:03.748Z,62.7327,-148.8329,60.3,1.7,ml,,,,0.55,ak,ak0233g4fk92,2023-03-16T05:26:59.995Z,"72 km ENE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-16T04:25:20.410Z,17.9483333333333,-66.9581666666667,6.6,3.06,md,20.0,207.0,0.05278,0.13,pr,pr71400303,2023-03-16T05:28:41.350Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.47,0.21,0.211806536664933,9.0,reviewed,pr,pr
