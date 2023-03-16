@@ -4635,3 +4635,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T07:42:55.682Z,40.5567,-119.776,12.3,1.2,ml,4.0,322.0,0.388,0.127,nn,nn00857110,2023-03-16T23:28:27.224Z,"36 km W of Empire, Nevada",earthquake,,4.2,0.27,2.0,reviewed,nn,nn
 2023-03-16T23:19:28.980Z,51.8618333333333,-178.083333333333,4.09,1.06,ml,4.0,201.0,,0.17,av,av91808451,2023-03-16T23:42:44.500Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.74,1.27,0.209063564665914,4.0,reviewed,av,av
 2023-03-16T10:42:33.096Z,39.4113,-119.854,9.0,0.4,ml,8.0,81.52,0.072,0.1188,nn,nn00857111,2023-03-16T23:37:47.993Z,"12 km SSE of Mogul, Nevada",earthquake,,2.0,0.44,5.0,reviewed,nn,nn
+2023-03-16T23:52:38.520Z,38.8258324,-122.8138351,2.02,0.25,md,10.0,76.0,0.003815,0.02,nc,nc73857905,2023-03-16T23:54:17.856Z,"7km NW of The Geysers, CA",earthquake,0.32,0.99,0.15,11.0,automatic,nc,nc
