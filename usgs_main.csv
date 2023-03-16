@@ -4462,3 +4462,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T11:51:13.910Z,33.4866667,-116.5665,7.38,1.13,ml,47.0,67.0,0.03089,0.17,ci,ci40185471,2023-03-16T12:02:13.430Z,"12km SE of Anza, CA",earthquake,0.19,0.4,0.163,25.0,automatic,ci,ci
 2023-03-16T11:47:15.128Z,38.4857,45.0727,10.0,5.2,mww,88.0,33.0,1.128,0.99,us,us7000jkel,2023-03-16T12:38:46.832Z,Northwestern Iran,earthquake,5.32,1.846,0.063,24.0,reviewed,us,us
 2023-03-15T23:42:42.290Z,36.2096666666667,-89.4701666666667,8.14,1.92,md,21.0,43.0,0.04516,0.05,nm,nm60514171,2023-03-16T12:26:11.460Z,southeastern Missouri,earthquake,0.17,0.33,0.124803424988121,17.0,reviewed,nm,nm
+2023-03-16T13:22:05.821Z,60.2535,-152.7926,13.3,2.0,ml,,,,1.18,ak,ak0233g96dxn,2023-03-16T13:24:39.461Z,"66 km WNW of Ninilchik, Alaska",earthquake,,2.4,,,automatic,ak,ak
+2023-03-16T07:46:09.390Z,44.8028333,-110.854,6.8,0.63,md,8.0,188.0,0.1168,0.1,uu,uu60534206,2023-03-16T13:39:31.960Z,"22 km SSW of Mammoth, Wyoming",earthquake,1.05,3.32,0.246,5.0,reviewed,uu,uu
+2023-03-16T00:32:01.030Z,36.13866667,-96.8345,5.69,1.01,ml,35.0,74.0,0.1079788109,0.2,ok,ok2023ffgh,2023-03-16T13:31:29.375Z,"11 km WSW of Quay, Oklahoma",earthquake,,0.6,0.28,16.0,reviewed,ok,ok
+2023-03-15T18:29:43.210Z,36.2901666666667,-89.472,5.61,1.07,md,6.0,128.0,0.01081,0.06,nm,nm60500523,2023-03-16T13:25:50.060Z,"3 km NNE of Ridgely, Tennessee",earthquake,0.34,0.47,0.0948610404878112,6.0,reviewed,nm,nm
+2023-03-15T13:46:11.509Z,36.95483333,-97.37983333,7.3,1.54,ml,52.0,119.0,0.09718092979,0.46,ok,ok2023fekz,2023-03-16T13:15:48.505Z,"5 km NW of Braman, Oklahoma",earthquake,,1.1,0.26,25.0,reviewed,ok,ok
