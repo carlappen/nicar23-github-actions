@@ -4618,3 +4618,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T22:32:11.570Z,51.859,-178.083166666667,-1.8,1.26,ml,4.0,205.0,,0.23,av,av91808416,2023-03-16T22:45:46.770Z,"99 km W of Adak, Alaska",earthquake,0.81,1.63,0.227283967921551,4.0,reviewed,av,av
 2023-03-16T21:30:48.710Z,19.602,-65.4026,10.0,3.61,md,7.0,288.0,1.3,0.09,pr,pr2023075003,2023-03-16T22:43:11.352Z,"137 km NNE of Vieques, Puerto Rico",earthquake,3.31,4.34,0.0,1.0,reviewed,pr,pr
 2023-03-16T20:37:11.478Z,42.2229,-119.421,0.0,2.9,ml,5.0,116.87,0.617,0.1517,nn,nn00857106,2023-03-16T22:45:01.306Z,Oregon,earthquake,,0.0,0.74,5.0,reviewed,nn,nn
+2023-03-16T20:37:11.770Z,42.1935,-119.39433333333334,9.31,2.92,ml,11.0,182.0,0.3772,0.21,uw,uw61902762,2023-03-16T22:48:24.530Z,"48 km ESE of Plush, Oregon",earthquake,0.74,2.04,0.2336081171694348,6.0,reviewed,uw,uw
