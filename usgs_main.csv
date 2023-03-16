@@ -4416,3 +4416,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T06:52:25.970Z,38.7931671,-122.8221664,1.74,0.76,md,9.0,102.0,0.01005,0.02,nc,nc73857640,2023-03-16T06:54:01.918Z,"6km WNW of The Geysers, CA",earthquake,0.39,0.91,0.15,10.0,automatic,nc,nc
 2023-03-16T06:40:31.400Z,17.9535,-66.965,6.57,2.33,md,12.0,207.0,0.05678,0.08,pr,pr71400403,2023-03-16T06:52:56.100Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.58,0.22,0.149977873346484,3.0,reviewed,pr,pr
 2023-03-16T06:29:45.150Z,17.9585,-66.9513333333333,7.27,2.73,md,17.0,202.0,0.04286,0.21,pr,pr71400378,2023-03-16T06:46:58.440Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.58,0.27,0.0353476996922757,8.0,reviewed,pr,pr
+2023-03-16T07:10:38.426Z,59.4189,-152.4992,86.9,2.0,ml,,,,0.43,ak,ak0233g5jaea,2023-03-16T07:12:15.719Z,Southern Alaska,earthquake,,0.7,,,automatic,ak,ak
+2023-03-16T07:02:05.142Z,57.3456,-154.7812,26.8,3.2,ml,,,,0.2,ak,ak0233g5hi3m,2023-03-16T07:03:53.740Z,"Kodiak Island region, Alaska",earthquake,,0.4,,,automatic,ak,ak
