@@ -4485,3 +4485,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T14:46:18.749Z,56.1128,-116.6129,9.809,4.8,mb,72.0,41.0,1.784,0.7,us,us7000jkf9,2023-03-16T15:28:35.817Z,"Alberta, Canada",earthquake,5.89,4.347,0.029,366.0,reviewed,us,us
 2023-03-16T14:03:58.429Z,5.3547,-77.565,25.14,4.6,mb,36.0,114.0,2.19,0.79,us,us7000jkf1,2023-03-16T15:29:22.040Z,near the west coast of Colombia,earthquake,4.67,5.437,0.065,70.0,reviewed,us,us
 2023-03-16T11:58:21.820Z,17.8608333333333,-66.8903333333333,12.94,2.19,md,6.0,251.0,0.1141,0.11,pr,pr71400453,2023-03-16T15:25:53.250Z,"12 km S of Guánica, Puerto Rico",earthquake,0.97,0.51,0.0894306543924164,5.0,reviewed,pr,pr
+2023-03-16T14:51:26.866Z,1.8181,127.3533,119.851,4.3,mb,21.0,147.0,1.039,0.62,us,us7000jkfc,2023-03-16T15:33:29.040Z,"73 km W of Tobelo, Indonesia",earthquake,10.7,8.877,0.142,14.0,reviewed,us,us
