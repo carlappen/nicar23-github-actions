@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-17T08:33:48.398Z,65.5719,-152.0208,13.3,2.2,ml,,,,0.79,ak,ak0233htt0qf,2023-03-17T08:36:37.493Z,"44 km N of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-17T08:30:23.970Z,34.9035,-119.4675,9.4,0.65,ml,11,81,0.05769,0.17,ci,ci40185855,2023-03-17T08:33:56.931Z,"18km SSW of Maricopa, CA",earthquake,0.61,1.03,0.085,7,automatic,ci,ci
 2023-03-17T08:19:48.146Z,60.3399,-152.6407,108.6,1.9,ml,,,,0.36,ak,ak0233htq0ou,2023-03-17T08:21:33.983Z,"62 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-17T08:16:05.999Z,43.6578,-128.1969,10,4.3,mb,44,208,2.185,1.02,us,us7000jkrv,2023-03-17T08:30:53.040Z,"off the coast of Oregon",earthquake,4.25,1.965,0.105,26,reviewed,us,us
+2023-03-17T08:16:05.999Z,43.6578,-128.1969,10,4.3,mb,44,208,2.185,1.02,us,us7000jkrv,2023-03-17T08:39:57.654Z,"off the coast of Oregon",earthquake,4.25,1.965,0.105,26,reviewed,us,us
 2023-03-17T08:10:39.070Z,35.3695,-117.854,0.82,1.38,ml,22,87,0.1021,0.2,ci,ci40185847,2023-03-17T08:14:20.916Z,"20km W of Johannesburg, CA",earthquake,0.28,0.51,0.114,23,automatic,ci,ci
 2023-03-17T08:02:46.018Z,60.0143,-148.0006,0,1.9,ml,,,,0.65,ak,ak0233htmdcp,2023-03-17T08:04:54.441Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-17T07:58:52.520Z,38.8320007,-122.8186646,1.81,0.68,md,12,83,0.0109,0.01,nc,nc73858065,2023-03-17T08:16:13.660Z,"8km NW of The Geysers, CA",earthquake,0.3,0.82,0.15,13,automatic,nc,nc
@@ -45,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T03:49:56.340Z,34.02,-116.738,18.34,1.16,ml,32,48,0.05989,0.2,ci,ci40185783,2023-03-17T04:00:58.460Z,"12km NNE of Cabazon, CA",earthquake,0.35,0.58,0.216,28,automatic,ci,ci
 2023-03-17T03:44:13.240Z,38.7519989,-122.7099991,0.82,0.83,md,8,128,0.01506,0.03,nc,nc73858005,2023-03-17T05:30:10.691Z,"3km SSW of Anderson Springs, CA",earthquake,0.38,0.59,0.41,6,automatic,nc,nc
 2023-03-17T03:40:16.863Z,31.6299,-104.4732,5.737,2.7,ml,22,67,0.045,0.26,us,us7000jkqf,2023-03-17T03:53:51.040Z,"61 km S of Whites City, New Mexico",earthquake,2.21,1.727,0.077,49,reviewed,us,us
-2023-03-17T03:38:28.042Z,4.941,125.4914,178.641,4.5,mb,16,116,2.117,1.19,us,us7000jkql,2023-03-17T04:19:44.040Z,"51 km S of Sarangani, Philippines",earthquake,10.68,9.594,0.191,8,reviewed,us,us
+2023-03-17T03:38:28.042Z,4.941,125.4914,178.641,4.5,mb,16,116,2.117,1.19,us,us7000jkql,2023-03-17T04:19:44.040Z,"Pulau-Pulau Sangihe, Indonesia",earthquake,10.68,9.594,0.191,8,reviewed,us,us
 2023-03-17T03:38:03.191Z,62.7771,-149.519,0,1.6,ml,,,,0.63,ak,ak0233hqutsv,2023-03-17T03:39:53.826Z,"47 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-17T03:33:15.323Z,52.5639,-169.9892,44.76,4.2,mb,20,179,0.801,0.78,us,us7000jkqe,2023-03-17T04:04:47.040Z,"86 km WSW of Nikolski, Alaska",earthquake,12.56,11.622,0.158,11,reviewed,us,us
 2023-03-17T03:26:18.310Z,19.2768,-67.8263,96,4.41,md,20,252,0.9435,0.58,pr,pr2023076000,2023-03-17T06:32:53.736Z,"98 km NE of Punta Cana, Dominican Republic",earthquake,4.97,7.42,0.1,17,reviewed,pr,pr
@@ -242,6 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T08:56:34.200Z,38.7946663,-122.7971649,1,0.84,md,13,81,0.007377,0.03,nc,nc73857695,2023-03-16T09:30:14.590Z,"4km WNW of The Geysers, CA",earthquake,0.23,0.53,0.25,13,automatic,nc,nc
 2023-03-16T08:53:06.440Z,58.189,-155.2695,2.51,-0.03,ml,9,141,,0.06,av,av91807611,2023-03-16T17:33:45.840Z,"84 km NW of Karluk, Alaska",earthquake,0.23,0.47,0.372696547001137,9,reviewed,av,av
 2023-03-16T08:45:02.003Z,58.4461,-150.4944,28.7,2,ml,,,,0.81,ak,ak0233g6c6a4,2023-03-16T17:01:45.616Z,"126 km SE of Port Graham, Alaska",earthquake,,1.6,,,reviewed,ak,ak
-2023-03-16T08:38:35.120Z,38.7680016,-122.7241669,1.54,1.06,md,11,85,0.006422,0.03,nc,nc73857685,2023-03-16T09:06:14.431Z,"3km WSW of Anderson Springs, CA",earthquake,0.59,0.66,0.2,10,automatic,nc,nc
-2023-03-16T08:36:56.310Z,17.9391666666667,-66.9648333333333,7.09,2.65,md,9,223,0.06277,0.08,pr,pr71400423,2023-03-16T10:18:58.507Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.47,0.34,0.0053169056823581,5,reviewed,pr,pr
-2023-03-16T08:34:45.269Z,37.5063,-117.9805,2.1,1.6,ml,10,144.58,0.382,0.1826,nn,nn00857091,2023-03-16T22:04:43.789Z,"19 km SSE of Dyer, Nevada",earthquake,,3.2,0.5,8,reviewed,nn,nn
