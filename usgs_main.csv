@@ -4827,3 +4827,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T19:37:03.020Z,19.4009990692139,-155.259170532227,0.409999996423721,1.93,ml,10.0,94.0,,0.109999999,hv,hv73342477,2023-03-17T19:42:33.910Z,"5 km SSW of Volcano, Hawaii",earthquake,0.28,0.430000007,0.54,8.0,automatic,hv,hv
 2023-03-17T19:36:07.630Z,19.4086666107178,-155.26350402832,1.6599999666214,2.00999999,md,12.0,113.0,,0.289999992,hv,hv73342472,2023-03-17T19:39:02.470Z,"4 km SW of Volcano, Hawaii",earthquake,0.48,0.800000012,1.13,6.0,automatic,hv,hv
 2023-03-17T06:30:38.914Z,38.8385,-119.6353,3.1,0.2,ml,3.0,286.67,0.059,0.0987,nn,nn00857147,2023-03-17T19:46:00.292Z,"2 km S of Carter Springs, Nevada",earthquake,,7.6,0.0,1.0,reviewed,nn,nn
+2023-03-17T19:50:52.330Z,36.7436676,-121.6021652,-0.22,1.89,md,13.0,104.0,0.03634,0.06,nc,nc73858270,2023-03-17T19:52:28.289Z,"7km ESE of Prunedale, CA",earthquake,0.26,1.22,0.16,11.0,automatic,nc,nc
+2023-03-17T19:46:11.470Z,59.7483,-152.4362,92.2,2.0,ml,,,,0.35,ak,ak0233i0fhuj,2023-03-17T19:48:17.417Z,"34 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-17T08:29:09.838Z,39.3557,-119.8293,0.6,0.5,ml,5.0,191.79,0.045,0.2189,nn,nn00857148,2023-03-17T19:52:16.623Z,"16 km WNW of Virginia City, Nevada",earthquake,,12.3,0.44,3.0,reviewed,nn,nn
