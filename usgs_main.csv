@@ -4671,3 +4671,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T02:33:01.030Z,51.8496666666667,-178.079833333333,3.26,1.4,ml,5.0,208.0,,0.15,av,av91808641,2023-03-17T03:09:46.040Z,"99 km W of Adak, Alaska",earthquake,0.66,0.51,0.214083688523045,5.0,reviewed,av,av
 2023-03-17T02:13:40.920Z,51.8898333333333,-177.962333333333,3.77,1.01,ml,4.0,186.0,,0.03,av,av91808631,2023-03-17T03:06:33.280Z,"91 km W of Adak, Alaska",earthquake,0.38,0.42,0.194311486814439,4.0,reviewed,av,av
 2023-03-17T01:59:45.026Z,38.5468,73.1539,10.0,4.5,mb,21.0,197.0,1.406,0.57,us,us7000jkph,2023-03-17T02:54:23.040Z,"82 km WNW of Murghob, Tajikistan",earthquake,5.64,1.965,0.135,16.0,reviewed,us,us
+2023-03-17T03:12:41.600Z,58.077,-154.447,5.03,1.08,ml,5.0,299.0,,0.1,av,av91808691,2023-03-17T03:32:28.850Z,"56 km N of Karluk, Alaska",earthquake,0.83,31.61,0.36717416237208,5.0,reviewed,av,av
