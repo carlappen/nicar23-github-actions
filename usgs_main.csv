@@ -4775,3 +4775,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T01:28:08.170Z,35.9411666666667,-84.187,21.01,1.83,md,11.0,119.0,0.1786,0.21,se,se60514281,2023-03-17T13:40:28.800Z,"6 km NNW of Farragut, Tennessee",earthquake,0.55,1.14,0.0557355681692886,8.0,reviewed,se,se
 2023-03-17T13:23:29.544Z,18.4724,120.3667,26.295,4.9,mb,73.0,79.0,4.375,0.61,us,us7000jku5,2023-03-17T13:42:18.040Z,"22 km W of Davila, Philippines",earthquake,8.56,5.433,0.057,96.0,reviewed,us,us
 2023-03-16T17:54:58.141Z,1.7939,126.3028,44.562,4.6,mb,83.0,106.0,1.47,0.83,us,us7000jkip,2023-03-17T13:43:03.040Z,"151 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,7.11,7.156,0.066,69.0,reviewed,us,us
+2023-03-17T14:18:47.159Z,37.2075,-117.1459,0.8,0.8,ml,8.0,183.85,0.275,0.1313,nn,nn00857132,2023-03-17T14:19:58.420Z,"47 km NW of Beatty, Nevada",earthquake,,51.7,0.9,6.0,automatic,nn,nn
+2023-03-17T14:15:13.660Z,19.2320003509521,-155.382171630859,30.7000007629395,1.73,ml,37.0,148.0,,0.129999995,hv,hv73342282,2023-03-17T14:20:43.700Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.75,0.819999993,0.67,4.0,automatic,hv,hv
+2023-03-17T14:08:51.340Z,34.6176667,-116.6523333,5.06,0.88,ml,10.0,78.0,0.03483,0.18,ci,ci40185959,2023-03-17T14:12:28.389Z,"35km NE of Lucerne Valley, CA",earthquake,0.64,1.06,0.139,7.0,automatic,ci,ci
+2023-03-16T19:59:14.281Z,36.3108,34.3864,10.0,4.3,mb,57.0,57.0,1.598,1.01,us,us7000jkk9,2023-03-17T14:22:56.724Z,"27 km SE of Kızkalesi, Turkey",earthquake,5.47,1.924,0.119,20.0,reviewed,us,us
