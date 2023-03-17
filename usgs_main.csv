@@ -4773,3 +4773,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T11:53:26.239Z,36.533,-98.962,7.66,0.64,ml,18.0,106.0,0.04229170093,0.09,ok,ok2023fhyg,2023-03-17T13:04:29.237Z,"9 km SW of Waynoka, Oklahoma",earthquake,,0.3,0.25,5.0,reviewed,ok,ok
 2023-03-17T13:32:30.810Z,38.8279991,-122.7991638,2.13,0.23,md,10.0,83.0,0.009683,0.01,nc,nc73858155,2023-03-17T13:34:06.805Z,"7km W of Cobb, CA",earthquake,0.43,0.86,0.14,10.0,automatic,nc,nc
 2023-03-17T01:28:08.170Z,35.9411666666667,-84.187,21.01,1.83,md,11.0,119.0,0.1786,0.21,se,se60514281,2023-03-17T13:40:28.800Z,"6 km NNW of Farragut, Tennessee",earthquake,0.55,1.14,0.0557355681692886,8.0,reviewed,se,se
+2023-03-17T13:23:29.544Z,18.4724,120.3667,26.295,4.9,mb,73.0,79.0,4.375,0.61,us,us7000jku5,2023-03-17T13:42:18.040Z,"22 km W of Davila, Philippines",earthquake,8.56,5.433,0.057,96.0,reviewed,us,us
+2023-03-16T17:54:58.141Z,1.7939,126.3028,44.562,4.6,mb,83.0,106.0,1.47,0.83,us,us7000jkip,2023-03-17T13:43:03.040Z,"151 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,7.11,7.156,0.066,69.0,reviewed,us,us
