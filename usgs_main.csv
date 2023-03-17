@@ -4675,3 +4675,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T03:44:13.240Z,38.7519989,-122.7099991,0.82,0.83,md,8.0,128.0,0.01506,0.03,nc,nc73858005,2023-03-17T03:45:51.540Z,"3km SSW of Anderson Springs, CA",earthquake,0.38,0.59,0.41,6.0,automatic,nc,nc
 2023-03-17T03:38:03.191Z,62.7771,-149.519,0.0,1.6,ml,,,,0.63,ak,ak0233hqutsv,2023-03-17T03:39:53.826Z,"47 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-17T03:26:21.791Z,19.0803,-67.685,39.631,4.5,mb,46.0,56.0,0.817,0.59,us,us7000jkq8,2023-03-17T03:44:07.615Z,"89 km NW of San Antonio, Puerto Rico",earthquake,3.43,8.195,0.078,48.0,reviewed,us,us
+2023-03-17T03:52:32.325Z,62.5708,-151.3262,88.0,2.1,ml,,,,0.6,ak,ak0233hqxw1s,2023-03-17T03:54:45.114Z,"30 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-17T03:52:22.643Z,62.2651,-148.2661,37.5,1.7,ml,,,,0.43,ak,ak0233hqxvbs,2023-03-17T03:53:55.839Z,"53 km N of Chickaloon, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2023-03-17T03:49:56.340Z,34.02,-116.738,18.34,1.16,ml,32.0,48.0,0.05989,0.2,ci,ci40185783,2023-03-17T03:53:31.927Z,"12km NNE of Cabazon, CA",earthquake,0.35,0.58,0.216,28.0,automatic,ci,ci
+2023-03-17T03:40:16.863Z,31.6299,-104.4732,5.737,2.7,ml,22.0,67.0,0.045,0.26,us,us7000jkqf,2023-03-17T03:53:51.040Z,"61 km S of Whites City, New Mexico",earthquake,2.21,1.727,0.077,49.0,reviewed,us,us
