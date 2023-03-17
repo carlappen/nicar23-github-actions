@@ -4800,3 +4800,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T17:01:58.600Z,18.0048333333333,-67.0096666666667,8.23,2.45,md,11.0,121.0,0.04818,0.28,pr,pr71400663,2023-03-17T17:21:48.610Z,Mona Passage,earthquake,0.52,1.64,0.254679849793544,7.0,reviewed,pr,pr
 2023-03-17T16:57:40.870Z,35.694,-117.5966667,0.37,1.34,ml,23.0,63.0,0.1252,0.17,ci,ci40186039,2023-03-17T17:16:10.588Z,"11km NE of Ridgecrest, CA",earthquake,0.24,0.54,0.149,15.0,automatic,ci,ci
 2023-03-17T11:59:30.358Z,37.291,-114.7733,0.0,1.9,ml,13.0,99.87,0.249,0.2077,nn,nn00857125,2023-03-17T17:17:27.866Z,"35 km ESE of Alamo, Nevada",earthquake,,0.0,0.55,12.0,reviewed,nn,nn
+2023-03-17T17:42:43.610Z,38.833168,-122.8083344,2.37,0.7,md,12.0,58.0,0.009853,0.01,nc,nc73858210,2023-03-17T17:44:18.492Z,"8km W of Cobb, CA",earthquake,0.38,0.93,0.08,12.0,automatic,nc,nc
+2023-03-17T17:36:05.714Z,60.4786,-152.4827,92.2,1.4,ml,,,,0.4,ak,ak0233hz6h17,2023-03-17T17:38:07.468Z,"65 km WSW of Salamatof, Alaska",earthquake,,1.0,,,automatic,ak,ak
