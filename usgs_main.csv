@@ -4692,3 +4692,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T03:25:54.970Z,56.9011666666667,-158.124333333333,-3.2,1.75,ml,4.0,221.0,,0.21,av,av91808701,2023-03-17T04:31:39.440Z,"31 km E of Port Heiden, Alaska",earthquake,0.93,2.47,0.159299206114258,12.0,reviewed,av,av
 2023-03-17T04:40:33.732Z,64.6995,-147.5617,6.7,1.7,ml,,,,0.72,ak,ak0233hrgr71,2023-03-17T04:42:52.944Z,"11 km S of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-17T03:55:09.370Z,51.8648333333333,-178.133833333333,5.34,1.07,ml,5.0,241.0,,0.12,av,av91094743,2023-03-17T04:35:25.950Z,"103 km W of Adak, Alaska",earthquake,0.56,0.65,0.285145162770831,5.0,reviewed,av,av
+2023-03-17T04:50:38.330Z,33.0428352,-116.4140015,8.43,1.19,ml,18.0,92.0,0.03993,0.16,ci,ci40185791,2023-03-17T04:52:43.636Z,"18km ESE of Julian, CA",earthquake,0.36,1.04,0.262,2.0,automatic,ci,ci
+2023-03-17T04:47:42.613Z,59.0952,-136.7871,4.1,2.1,ml,,,,1.15,ak,ak0233hri9yk,2023-03-17T04:50:34.447Z,"56 km SW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-17T04:08:04.420Z,51.8823333333333,-177.943166666667,2.87,1.28,ml,5.0,187.0,,0.08,av,av91094748,2023-03-17T04:49:53.850Z,"90 km W of Adak, Alaska",earthquake,0.43,0.86,0.101611274453092,5.0,reviewed,av,av
