@@ -4672,3 +4672,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T02:13:40.920Z,51.8898333333333,-177.962333333333,3.77,1.01,ml,4.0,186.0,,0.03,av,av91808631,2023-03-17T03:06:33.280Z,"91 km W of Adak, Alaska",earthquake,0.38,0.42,0.194311486814439,4.0,reviewed,av,av
 2023-03-17T01:59:45.026Z,38.5468,73.1539,10.0,4.5,mb,21.0,197.0,1.406,0.57,us,us7000jkph,2023-03-17T02:54:23.040Z,"82 km WNW of Murghob, Tajikistan",earthquake,5.64,1.965,0.135,16.0,reviewed,us,us
 2023-03-17T03:12:41.600Z,58.077,-154.447,5.03,1.08,ml,5.0,299.0,,0.1,av,av91808691,2023-03-17T03:32:28.850Z,"56 km N of Karluk, Alaska",earthquake,0.83,31.61,0.36717416237208,5.0,reviewed,av,av
+2023-03-17T03:44:13.240Z,38.7519989,-122.7099991,0.82,0.83,md,8.0,128.0,0.01506,0.03,nc,nc73858005,2023-03-17T03:45:51.540Z,"3km SSW of Anderson Springs, CA",earthquake,0.38,0.59,0.41,6.0,automatic,nc,nc
+2023-03-17T03:38:03.191Z,62.7771,-149.519,0.0,1.6,ml,,,,0.63,ak,ak0233hqutsv,2023-03-17T03:39:53.826Z,"47 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-17T03:26:21.791Z,19.0803,-67.685,39.631,4.5,mb,46.0,56.0,0.817,0.59,us,us7000jkq8,2023-03-17T03:44:07.615Z,"89 km NW of San Antonio, Puerto Rico",earthquake,3.43,8.195,0.078,48.0,reviewed,us,us
