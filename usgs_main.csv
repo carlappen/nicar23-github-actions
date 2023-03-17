@@ -4690,3 +4690,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T03:33:15.323Z,52.5639,-169.9892,44.76,4.2,mb,20.0,179.0,0.801,0.78,us,us7000jkqe,2023-03-17T04:04:47.040Z,"86 km WSW of Nikolski, Alaska",earthquake,12.56,11.622,0.158,11.0,reviewed,us,us
 2023-03-17T03:26:18.310Z,19.2768,-67.8263,96.0,4.41,md,20.0,252.0,0.9435,0.58,pr,pr2023076000,2023-03-17T04:24:11.441Z,"98 km NE of Punta Cana, Dominican Republic",earthquake,4.97,7.42,0.1,17.0,reviewed,pr,pr
 2023-03-17T03:25:54.970Z,56.9011666666667,-158.124333333333,-3.2,1.75,ml,4.0,221.0,,0.21,av,av91808701,2023-03-17T04:31:39.440Z,"31 km E of Port Heiden, Alaska",earthquake,0.93,2.47,0.159299206114258,12.0,reviewed,av,av
+2023-03-17T04:40:33.732Z,64.6995,-147.5617,6.7,1.7,ml,,,,0.72,ak,ak0233hrgr71,2023-03-17T04:42:52.944Z,"11 km S of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-17T03:55:09.370Z,51.8648333333333,-178.133833333333,5.34,1.07,ml,5.0,241.0,,0.12,av,av91094743,2023-03-17T04:35:25.950Z,"103 km W of Adak, Alaska",earthquake,0.56,0.65,0.285145162770831,5.0,reviewed,av,av
