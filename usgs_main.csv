@@ -4744,3 +4744,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T10:47:51.296Z,-6.1026,147.4907,62.09,4.9,mb,69.0,44.0,3.297,0.7,us,us7000jktc,2023-03-17T11:08:35.040Z,"63 km NW of Finschhafen, Papua New Guinea",earthquake,8.58,6.515,0.069,66.0,reviewed,us,us
 2023-03-17T10:39:39.732Z,30.7834,96.0546,10.0,5.1,mb,78.0,38.0,9.866,0.71,us,us7000jktb,2023-03-17T10:59:27.040Z,"114 km WSW of Qamdo, China",earthquake,6.41,1.912,0.05,131.0,reviewed,us,us
 2023-03-17T11:22:33.180Z,19.2556667327881,-155.403671264648,30.4899997711182,1.91,ml,39.0,126.0,,0.159999996,hv,hv73342132,2023-03-17T11:28:05.270Z,"9 km NE of Pāhala, Hawaii",earthquake,0.64,0.75999999,0.3,4.0,automatic,hv,hv
+2023-03-17T11:35:00.930Z,38.814167,-122.8130035,2.57,0.75,md,8.0,76.0,0.009494,0.01,nc,nc73858105,2023-03-17T11:36:37.376Z,"6km NW of The Geysers, CA",earthquake,0.76,1.65,0.08,8.0,automatic,nc,nc
