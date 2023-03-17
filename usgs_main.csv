@@ -4718,3 +4718,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T06:04:49.850Z,51.8735,-178.145,5.88,1.86,ml,8.0,128.0,,0.19,av,av91808881,2023-03-17T07:11:21.820Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.74,0.89,0.308599719485798,9.0,reviewed,av,av
 2023-03-17T07:22:32.131Z,18.8831,-65.1049,47.758,3.3,ml,20.0,193.0,0.546,0.49,us,us7000jkrk,2023-03-17T07:30:40.040Z,"62 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.27,21.843,0.06,36.0,reviewed,us,us
 2023-03-17T07:37:06.769Z,56.8938,-157.856,10.0,2.3,ml,,,,0.73,ak,ak0233ht8cs4,2023-03-17T07:39:06.435Z,"47 km E of Port Heiden, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-17T07:46:37.578Z,61.7558,-150.641,44.7,1.8,ml,,,,0.4,ak,ak0233htaclk,2023-03-17T07:49:13.292Z,"24 km NNW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-03-17T07:44:51.460Z,35.5559998,-121.5254974,-0.3,2.63,md,46.0,223.0,0.3281,0.35,nc,nc73858060,2023-03-17T07:51:14.506Z,"32km WSW of San Simeon, CA",earthquake,1.33,3.2,0.1,43.0,automatic,nc,nc
+2023-03-17T07:22:31.650Z,18.9523,-64.9905,50.0,3.79,md,17.0,264.0,0.5996,0.35,pr,pr2023076001,2023-03-17T07:49:49.994Z,"67 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.69,6.78,0.24,9.0,reviewed,pr,pr
