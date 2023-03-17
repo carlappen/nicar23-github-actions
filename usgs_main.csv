@@ -4813,3 +4813,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T02:50:06.860Z,37.5876667,-118.9191667,8.74,0.56,md,8.0,279.0,0.0246,0.01,nc,nc73857975,2023-03-17T19:02:10.501Z,"8km SE of Mammoth Lakes, CA",earthquake,0.77,0.98,0.225,8.0,reviewed,nc,nc
 2023-03-17T02:20:13.917Z,38.8833,-119.6275,2.5,0.2,ml,4.0,245.15,0.018,0.0826,nn,nn00857143,2023-03-17T19:14:57.149Z,"2 km NNE of Carter Springs, Nevada",earthquake,,3.4,0.0,1.0,reviewed,nn,nn
 2023-03-17T01:39:07.532Z,38.8834,-119.6268,1.7,0.1,ml,4.0,245.84,0.017,0.1028,nn,nn00857142,2023-03-17T19:11:50.080Z,"2 km NNE of Carter Springs, Nevada",earthquake,,7.6,0.0,1.0,reviewed,nn,nn
+2023-03-17T19:22:03.710Z,35.0498333,-118.3203333,0.07,1.55,ml,24.0,39.0,0.06161,0.33,ci,ci40186111,2023-03-17T19:27:22.958Z,"13km W of Mojave, CA",earthquake,0.53,31.61,0.253,33.0,automatic,ci,ci
+2023-03-17T06:08:10.109Z,38.4991,-119.534,6.9,2.1,ml,9.0,93.14,0.075,0.1751,nn,nn00857144,2023-03-17T19:21:10.930Z,"5 km WSW of Walker, California",earthquake,,2.6,1.09,2.0,reviewed,nn,nn
+2023-03-17T03:40:16.852Z,31.65733986,-104.4590669,7.622631836000001,2.7,ml,51.0,66.0,0.02308098571,0.3,tx,tx2023fhhz,2023-03-17T19:23:11.026Z,"58 km S of Whites City, New Mexico",earthquake,0.9305590834000002,0.8755868046,0.0,7.0,reviewed,tx,tx
