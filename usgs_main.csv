@@ -4804,3 +4804,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T17:36:05.714Z,60.4786,-152.4827,92.2,1.4,ml,,,,0.4,ak,ak0233hz6h17,2023-03-17T17:38:07.468Z,"65 km WSW of Salamatof, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-03-17T18:24:44.090Z,32.9396667,-116.2448333,12.64,0.69,ml,13.0,120.0,0.05143,0.17,ci,ci40186079,2023-03-17T18:28:19.915Z,"25km SSW of Ocotillo Wells, CA",earthquake,0.39,0.8,0.219,5.0,automatic,ci,ci
 2023-03-17T18:21:59.070Z,33.5326667,-116.7276667,3.9,0.5,ml,17.0,155.0,0.03362,0.15,ci,ci40186071,2023-03-17T18:25:37.458Z,"6km WSW of Anza, CA",earthquake,0.31,0.44,0.076,16.0,automatic,ci,ci
+2023-03-17T18:32:02.545Z,62.2111,-152.0319,6.3,1.4,ml,,,,0.96,ak,ak0233hzr1k0,2023-03-17T18:35:15.661Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
