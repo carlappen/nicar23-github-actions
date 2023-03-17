@@ -4788,3 +4788,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T15:02:15.450Z,38.7815018,-122.725502,1.38,1.05,md,13.0,80.0,0.008941,0.02,nc,nc73858165,2023-03-17T15:20:12.344Z,"3km E of The Geysers, CA",earthquake,0.27,0.59,0.07,11.0,automatic,nc,nc
 2023-03-17T13:56:04.248Z,14.4992,119.946,40.074,4.9,mb,51.0,102.0,8.779,0.78,us,us7000jku9,2023-03-17T15:23:39.038Z,"39 km WSW of Sabang, Philippines",earthquake,10.83,2.325,0.054,106.0,reviewed,us,us
 2023-03-16T17:37:03.000Z,36.38416667,-97.653,7.0,1.29,ml,34.0,65.0,0.142172101,0.25,ok,ok2023fgoc,2023-03-17T15:25:55.111Z,"5 km NE of Fairmont, Oklahoma",earthquake,,0.8,0.25,7.0,reviewed,ok,ok
+2023-03-17T15:31:07.356Z,-38.0795,176.6167,10.0,4.8,mb,25.0,130.0,0.607,1.14,us,us7000jkus,2023-03-17T15:51:03.040Z,"7 km WNW of Kawerau, New Zealand",earthquake,5.05,1.92,0.154,13.0,reviewed,us,us
