@@ -4659,3 +4659,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T18:35:09.487Z,39.1128,-119.7312,8.1,1.2,ml,5.0,135.18,0.105,0.1497,nn,nn00857116,2023-03-17T00:08:47.069Z,"5 km ENE of Indian Hills, Nevada",earthquake,,6.2,0.79,2.0,reviewed,nn,nn
 2023-03-16T17:30:46.870Z,39.4141,-119.7419,10.2,1.1,ml,3.0,292.83,0.03,0.2061,nn,nn00857115,2023-03-17T00:05:41.048Z,"13 km S of Sparks, Nevada",earthquake,,4.4,0.62,2.0,reviewed,nn,nn
 2023-03-16T14:27:57.729Z,38.902,-119.6309,10.0,0.8,ml,7.0,130.42,0.189,0.092,nn,nn00857114,2023-03-16T23:59:28.974Z,"4 km NNE of Carter Springs, Nevada",earthquake,,7.1,0.94,3.0,reviewed,nn,nn
+2023-03-17T02:45:09.751Z,61.4887,-146.6518,31.8,1.5,ml,,,,0.54,ak,ak0233hqawpr,2023-03-17T02:47:13.505Z,"43 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-17T01:56:48.640Z,58.1903333333333,-155.263833333333,2.69,-0.12,ml,8.0,139.0,,0.05,av,av91808606,2023-03-17T02:51:09.220Z,"84 km NW of Karluk, Alaska",earthquake,0.24,0.42,0.245649523082978,8.0,reviewed,av,av
