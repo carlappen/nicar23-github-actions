@@ -4863,3 +4863,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T16:06:20.888Z,31.67245173,-104.3989209,9.833520508,2.4,ml,28.0,66.0,0.03258619547,0.2,tx,tx2023figp,2023-03-17T21:19:05.701Z,"55 km S of Whites City, New Mexico",earthquake,0.9544956531,0.9315678531,0.2,15.0,reviewed,tx,tx
 2023-03-17T14:40:36.200Z,40.526,-124.336,16.16,1.58,md,23.0,214.0,0.05039,0.14,nc,nc73858160,2023-03-17T21:08:00.805Z,"8km SW of Ferndale, CA",earthquake,0.6,0.36,0.131,14.0,reviewed,nc,nc
 2023-03-17T02:27:43.492Z,36.7176,-115.5334,0.0,0.8,ml,5.0,336.98,0.338,0.1785,nn,nn00857154,2023-03-17T21:19:05.874Z,"20 km NE of Indian Springs, Nevada",earthquake,,0.0,0.07,2.0,reviewed,nn,nn
+2023-03-17T21:27:38.693Z,61.9836,-149.6056,44.0,1.7,ml,,,,0.73,ak,ak0233i1icjx,2023-03-17T21:29:41.584Z,"23 km SSE of Susitna North, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-17T19:38:49.960Z,19.4041666666667,-155.2665,0.35,1.68,ml,13.0,93.0,,0.07,hv,hv73342487,2023-03-17T21:25:28.840Z,"5 km SW of Volcano, Hawaii",earthquake,0.2,0.36,0.63,8.0,reviewed,hv,hv
+2023-03-17T09:14:27.242Z,37.5385,-117.966,0.0,0.6,ml,5.0,240.5,0.398,0.0069,nn,nn00857156,2023-03-17T21:31:30.984Z,"16 km SSE of Dyer, Nevada",earthquake,,10.1,0.75,3.0,reviewed,nn,nn
+2023-03-17T07:28:34.242Z,37.432,-117.4898,6.8,0.1,ml,9.0,133.07,0.235,0.2086,nn,nn00857155,2023-03-17T21:28:24.006Z,"38 km SW of Goldfield, Nevada",earthquake,,3.3,1.32,6.0,reviewed,nn,nn
