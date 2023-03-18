@@ -5128,3 +5128,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T20:35:47.110Z,17.9388,-66.959,6.0,3.1,md,16.0,219.0,0.0877,0.1,pr,pr2023077000,2023-03-18T20:59:28.258Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.67,0.24,0.1,10.0,reviewed,pr,pr
 2023-03-18T20:30:07.619Z,-23.1182,-68.9075,97.39,4.6,mwr,41.0,81.0,0.691,0.88,us,us7000jl58,2023-03-18T21:03:57.040Z,"73 km S of Calama, Chile",earthquake,5.01,5.888,,,reviewed,us,guc
 2023-03-18T21:35:05.123Z,64.5045,-147.1766,8.9,1.2,ml,,,,0.31,ak,ak0233jp3c6o,2023-03-18T21:36:44.391Z,"13 km W of Salcha, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-03-18T21:46:29.217Z,37.6452,-117.5147,0.0,1.5,ml,9.0,204.08,0.805,0.1576,nn,nn00857202,2023-03-18T21:47:45.941Z,"16 km SE of Silver Peak, Nevada",earthquake,,58.6,1.01,7.0,automatic,nn,nn
+2023-03-18T21:13:08.560Z,51.8685,-178.1195,5.98,0.9,ml,4.0,229.0,,0.15,av,av91094883,2023-03-18T21:42:38.670Z,"102 km W of Adak, Alaska",earthquake,0.87,1.12,0.0954350360288752,4.0,reviewed,av,av
+2023-03-18T03:01:09.355Z,-19.265,-179.1251,482.171,4.6,mb,49.0,54.0,4.141,0.98,us,us7000jl0d,2023-03-18T21:50:54.040Z,Fiji region,earthquake,11.66,7.188,0.031,317.0,reviewed,us,us
