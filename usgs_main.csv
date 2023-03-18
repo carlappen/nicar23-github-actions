@@ -5001,3 +5001,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T10:21:31.494Z,61.9076,-151.606,87.0,1.6,ml,,,,0.35,ak,ak0233jigmjh,2023-03-18T10:23:34.255Z,Southern Alaska,earthquake,,0.6,,,automatic,ak,ak
 2023-03-18T10:03:24.362Z,64.4857,-149.4001,16.1,1.4,ml,,,,0.26,ak,ak0233jicr3o,2023-03-18T10:05:04.820Z,"16 km WSW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-18T09:25:31.288Z,37.8271,36.3781,4.91,4.3,mb,31.0,51.0,0.248,0.28,us,us7000jl20,2023-03-18T10:17:26.040Z,"23 km SSW of Göksun, Turkey",earthquake,3.79,5.001,0.16,11.0,reviewed,us,us
+2023-03-18T10:46:06.250Z,38.8198318,-122.7628326,1.94,0.76,md,10.0,119.0,0.01198,0.04,nc,nc73858575,2023-03-18T10:47:45.001Z,"4km W of Cobb, CA",earthquake,0.48,0.96,0.24,10.0,automatic,nc,nc
+2023-03-18T10:44:44.470Z,38.8186684,-122.7621689,1.88,2.06,md,45.0,54.0,0.01325,0.06,nc,nc73858570,2023-03-18T10:47:52.660Z,"3km W of Cobb, CA",earthquake,0.17,0.27,0.16,41.0,automatic,nc,nc
+2023-03-18T10:05:20.615Z,-7.0637,155.625,10.0,4.8,mb,41.0,93.0,4.473,0.59,us,us7000jl26,2023-03-18T10:40:29.040Z,"84 km S of Panguna, Papua New Guinea",earthquake,8.98,1.873,0.083,44.0,reviewed,us,us
