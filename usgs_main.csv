@@ -4959,3 +4959,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T05:03:48.010Z,19.404167175293,-155.289993286133,2.94000005722046,1.80999994,md,9.0,152.0,,0.310000002,hv,hv73342907,2023-03-18T05:06:37.240Z,"7 km SW of Volcano, Hawaii",earthquake,1.08,0.75999999,1.91999996,4.0,automatic,hv,hv
 2023-03-18T04:52:19.010Z,33.5615,-116.6478333,12.99,1.35,ml,48.0,38.0,0.01532,0.18,ci,ci40186295,2023-03-18T05:03:25.810Z,"2km ENE of Anza, CA",earthquake,0.22,0.34,0.244,25.0,automatic,ci,ci
 2023-03-18T03:41:46.738Z,-10.2488,-73.6824,56.084,4.4,mb,19.0,111.0,2.683,0.43,us,us7000jl0l,2023-03-18T04:55:50.040Z,"120 km NE of Puerto Ocopa, Peru",earthquake,9.15,6.853,0.149,13.0,reviewed,us,us
+2023-03-18T05:14:29.689Z,37.9741,36.4482,6.974,4.4,mb,52.0,48.0,0.402,0.7,us,us7000jl0z,2023-03-18T05:30:09.040Z,"6 km SW of Göksun, Turkey",earthquake,4.84,4.855,0.09,36.0,reviewed,us,us
