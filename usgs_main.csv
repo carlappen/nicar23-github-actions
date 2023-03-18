@@ -4991,3 +4991,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T08:23:35.550Z,19.1891670227051,-155.488006591797,32.8300018310547,1.91,ml,40.0,76.0,,0.129999995,hv,hv73343017,2023-03-18T08:29:06.000Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.69,0.920000017,5.21,3.0,automatic,hv,hv
 2023-03-18T08:08:14.073Z,56.9057,-158.049,0.0,2.9,ml,,,,0.48,ak,ak0233jh6xof,2023-03-18T08:10:06.446Z,"35 km E of Port Heiden, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-18T07:57:43.166Z,37.3321,-117.6972,3.2,0.5,ml,8.0,171.44,0.107,0.3336,nn,nn00857175,2023-03-18T07:59:51.564Z,"47 km S of Silver Peak, Nevada",earthquake,,3.8,0.85,5.0,automatic,nn,nn
+2023-03-18T08:50:13.630Z,38.8180008,-122.7963333,2.28,1.3,md,27.0,34.0,0.01005,0.02,nc,nc73858545,2023-03-18T08:51:49.450Z,"6km NW of The Geysers, CA",earthquake,0.2,0.4,0.16,27.0,automatic,nc,nc
+2023-03-18T08:42:56.560Z,38.7879982,-122.7675018,1.96,1.11,md,17.0,79.0,0.014,0.02,nc,nc73858540,2023-03-18T08:44:34.180Z,"2km NW of The Geysers, CA",earthquake,0.26,0.55,0.14,18.0,automatic,nc,nc
