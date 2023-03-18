@@ -4947,3 +4947,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T03:57:53.570Z,34.0998333,-116.3986667,8.52,0.93,ml,24.0,67.0,0.0313,0.27,ci,ci40186287,2023-03-18T04:01:30.492Z,"4km ESE of Yucca Valley, CA",earthquake,0.54,0.9,0.153,22.0,automatic,ci,ci
 2023-03-18T03:57:16.440Z,38.7991676,-122.7730026,1.32,0.74,md,13.0,75.0,0.01049,0.02,nc,nc73858425,2023-03-18T04:15:11.832Z,"3km NNW of The Geysers, CA",earthquake,0.3,0.45,0.09,14.0,automatic,nc,nc
 2023-03-18T03:44:10.637Z,-30.4146,-176.6294,10.0,5.0,mb,31.0,126.0,1.605,1.15,us,us7000jl0m,2023-03-18T04:02:47.040Z,Kermadec Islands region,earthquake,12.63,1.896,0.088,45.0,reviewed,us,us
+2023-03-18T00:14:24.147Z,37.1937,-104.749,5.895,2.3,ml,9.0,88.0,0.077,0.44,us,us7000jkzk,2023-03-18T04:33:07.040Z,Colorado,earthquake,1.51,1.899,0.094,15.0,reviewed,us,us
+2023-03-17T20:54:10.706Z,-38.024,176.588,7.628,3.7,ml,14.0,143.0,0.666,0.67,us,us7000jl0v,2023-03-18T04:39:25.039Z,"12 km NW of Kawerau, New Zealand",earthquake,3.46,7.782,0.148,6.0,reviewed,us,us
