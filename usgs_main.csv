@@ -4949,3 +4949,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T03:44:10.637Z,-30.4146,-176.6294,10.0,5.0,mb,31.0,126.0,1.605,1.15,us,us7000jl0m,2023-03-18T04:02:47.040Z,Kermadec Islands region,earthquake,12.63,1.896,0.088,45.0,reviewed,us,us
 2023-03-18T00:14:24.147Z,37.1937,-104.749,5.895,2.3,ml,9.0,88.0,0.077,0.44,us,us7000jkzk,2023-03-18T04:33:07.040Z,Colorado,earthquake,1.51,1.899,0.094,15.0,reviewed,us,us
 2023-03-17T20:54:10.706Z,-38.024,176.588,7.628,3.7,ml,14.0,143.0,0.666,0.67,us,us7000jl0v,2023-03-18T04:39:25.039Z,"12 km NW of Kawerau, New Zealand",earthquake,3.46,7.782,0.148,6.0,reviewed,us,us
+2023-03-18T04:45:54.790Z,61.6066,-147.6937,22.6,2.0,ml,,,,0.63,ak,ak0233jf17w7,2023-03-18T04:47:41.906Z,"22 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-18T04:31:18.708Z,22.2244,-108.6706,10.0,4.5,mb,41.0,171.0,1.869,0.98,us,us7000jl0w,2023-03-18T04:46:32.040Z,"138 km SE of La Playa, Mexico",earthquake,8.94,1.924,0.035,237.0,reviewed,us,us
+2023-03-18T02:39:07.339Z,31.972,-102.3153,5.0,2.3,mb_lg,30.0,42.0,0.201,0.56,us,us7000jl0c,2023-03-18T04:51:17.040Z,"8 km SE of Gardendale, Texas",earthquake,1.14,1.98,0.128,17.0,reviewed,us,us
+2023-03-18T00:42:04.647Z,-43.7444,172.926,11.529,4.3,ml,15.0,201.0,0.201,0.76,us,us7000jkzt,2023-03-18T04:50:12.471Z,"33 km SE of Christchurch, New Zealand",earthquake,3.03,5.576,0.066,30.0,reviewed,us,us
+2023-03-17T23:53:13.680Z,51.8621666666667,-178.090166666667,1.27,1.48,ml,4.0,207.0,,0.28,av,av91810016,2023-03-18T04:46:42.230Z,"100 km W of Adak, Alaska",earthquake,1.07,3.4,0.220224111403314,4.0,reviewed,av,av
+2023-03-17T23:44:53.450Z,58.1805,-155.2945,0.78,-0.61,ml,6.0,157.0,,0.05,av,av91810011,2023-03-18T04:43:14.670Z,Alaska Peninsula,earthquake,0.22,1.07,0.273417737063306,6.0,reviewed,av,av
