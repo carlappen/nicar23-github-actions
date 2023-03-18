@@ -5015,3 +5015,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T10:53:57.080Z,17.9343333333333,-66.9575,6.62,2.77,md,33.0,207.0,0.05984,0.16,pr,pr71400703,2023-03-18T11:31:10.150Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.39,0.2,0.193353467671789,13.0,reviewed,pr,pr
 2023-03-18T11:44:40.170Z,38.7911682,-122.7805023,2.96,1.05,md,28.0,80.0,0.006133,0.03,nc,nc73858615,2023-03-18T11:46:15.320Z,"3km NW of The Geysers, CA",earthquake,0.24,0.42,0.26,27.0,automatic,nc,nc
 2023-03-18T11:50:26.220Z,36.6016655,-121.2036667,9.15,0.81,md,4.0,183.0,0.03332,0.0,nc,nc73858625,2023-03-18T11:52:05.918Z,"10km NW of Pinnacles, CA",earthquake,0.87,1.08,0.06,4.0,automatic,nc,nc
+2023-03-18T12:46:40.940Z,38.8349991,-122.8048325,2.26,0.77,md,11.0,75.0,0.01182,0.03,nc,nc73858650,2023-03-18T12:48:15.620Z,"7km WNW of Cobb, CA",earthquake,0.37,0.86,0.25,11.0,automatic,nc,nc
+2023-03-18T12:30:49.596Z,60.5198,-151.1881,61.2,2.0,ml,,,,0.38,ak,ak0233jjpglb,2023-03-18T12:33:02.776Z,"5 km SE of Kenai, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-18T12:16:10.139Z,62.6342,-149.3837,51.1,2.3,ml,,,,0.83,ak,ak0233jjmdhx,2023-03-18T12:54:23.040Z,"42 km ENE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-03-18T11:58:48.980Z,38.8330002,-122.8069992,2.23,0.22,md,8.0,97.0,0.009887,0.0,nc,nc73858630,2023-03-18T12:19:10.603Z,"7km W of Cobb, CA",earthquake,0.5,1.33,0.14,8.0,automatic,nc,nc
