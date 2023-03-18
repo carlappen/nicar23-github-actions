@@ -5123,3 +5123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T20:10:55.180Z,51.8505,-178.0805,4.49,1.66,ml,6.0,136.0,,0.15,av,av91811136,2023-03-18T20:32:47.820Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.51,0.69,0.248980241482234,6.0,reviewed,av,av
 2023-03-18T20:40:35.680Z,37.6373329,-118.7945023,7.82,1.57,md,14.0,104.0,0.03285,0.02,nc,nc73858860,2023-03-18T20:42:11.933Z,"13km NW of Toms Place, CA",earthquake,0.52,0.8,0.12,14.0,automatic,nc,nc
 2023-03-18T20:48:34.665Z,62.1927,-145.6959,0.0,1.6,ml,,,,1.07,ak,ak0233jokr62,2023-03-18T20:50:47.928Z,"12 km NW of Glennallen, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-18T20:57:40.092Z,62.7016,-149.3473,60.7,1.6,ml,,,,0.92,ak,ak0233jomp15,2023-03-18T20:59:44.702Z,"47 km NE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-03-18T20:51:49.060Z,51.8625,-178.078833333333,-1.8,1.02,ml,4.0,194.0,,0.16,av,av91094878,2023-03-18T21:18:45.230Z,"99 km W of Adak, Alaska",earthquake,0.53,1.63,0.214747368795852,4.0,reviewed,av,av
+2023-03-18T20:35:47.110Z,17.9388,-66.959,6.0,3.1,md,16.0,219.0,0.0877,0.1,pr,pr2023077000,2023-03-18T20:59:28.258Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.67,0.24,0.1,10.0,reviewed,pr,pr
+2023-03-18T20:30:07.619Z,-23.1182,-68.9075,97.39,4.6,mwr,41.0,81.0,0.691,0.88,us,us7000jl58,2023-03-18T21:03:57.040Z,"73 km S of Calama, Chile",earthquake,5.01,5.888,,,reviewed,us,guc
