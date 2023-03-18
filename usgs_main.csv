@@ -5137,3 +5137,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T21:41:47.960Z,51.8521666666667,-178.046833333333,-1.8,1.49,ml,5.0,159.0,,0.14,av,av91811216,2023-03-18T21:57:05.160Z,"97 km W of Adak, Alaska",earthquake,0.4,0.98,0.319294983700874,5.0,reviewed,av,av
 2023-03-18T21:41:39.710Z,51.8538333333333,-178.054833333333,-1.8,1.04,ml,4.0,173.0,,0.27,av,av91094888,2023-03-18T21:58:40.870Z,"97 km W of Adak, Alaska",earthquake,0.79,1.81,0.20748198771094,4.0,reviewed,av,av
 2023-03-18T21:35:01.590Z,51.844,-178.0585,3.13,2.18,ml,10.0,129.0,,0.22,av,av91811206,2023-03-18T21:54:49.310Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.56,0.34,0.247605364470138,10.0,reviewed,av,av
+2023-03-18T22:37:37.920Z,33.8601667,-117.9258333,14.44,1.47,ml,10.0,122.0,0.1179,0.32,ci,ci40186679,2023-03-18T22:41:25.991Z,"2km S of Fullerton, CA",earthquake,1.32,1.8,0.34,19.0,automatic,ci,ci
