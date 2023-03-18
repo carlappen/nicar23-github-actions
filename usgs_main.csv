@@ -5031,3 +5031,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T14:39:47.427Z,37.3297,-117.6903,0.0,2.0,ml,15.0,174.6,0.103,0.3105,nn,nn00857190,2023-03-18T14:41:15.345Z,"47 km S of Silver Peak, Nevada",earthquake,,13.1,0.89,11.0,automatic,nn,nn
 2023-03-18T14:32:48.434Z,37.6763,-117.6532,8.6,1.9,ml,11.0,119.91,0.403,0.3236,nn,nn00857187,2023-03-18T14:34:14.531Z,"8 km S of Silver Peak, Nevada",earthquake,,0.7,0.8,9.0,automatic,nn,nn
 2023-03-18T14:49:34.047Z,61.8744,-149.2895,5.6,2.4,ml,,,,0.88,ak,ak0233jl0d7g,2023-03-18T14:51:23.620Z,"14 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-18T15:29:17.522Z,68.9561,-144.8175,0.0,3.1,ml,,,,0.67,ak,ak0233jlhhje,2023-03-18T15:33:30.713Z,"97 km NNE of Arctic Village, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2023-03-18T10:31:33.110Z,51.843,-178.088,4.98,2.54,ml,9.0,134.0,,0.14,av,av91810551,2023-03-18T15:34:32.380Z,"100 km W of Adak, Alaska",earthquake,0.52,0.29,0.274121246662341,9.0,reviewed,av,av
