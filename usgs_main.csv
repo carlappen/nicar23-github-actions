@@ -5121,3 +5121,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T04:26:37.160Z,51.8398333333333,-178.0805,3.83,1.36,ml,5.0,215.0,,0.12,av,av91094873,2023-03-18T20:17:01.100Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.67,0.42,0.21312334666601,5.0,reviewed,av,av
 2023-03-18T20:26:54.250Z,38.7910004,-122.7594986,2.21,0.69,md,6.0,173.0,0.01941,0.01,nc,nc73858850,2023-03-18T20:28:31.189Z,"2km N of The Geysers, CA",earthquake,0.59,2.26,0.35,8.0,automatic,nc,nc
 2023-03-18T20:10:55.180Z,51.8505,-178.0805,4.49,1.66,ml,6.0,136.0,,0.15,av,av91811136,2023-03-18T20:32:47.820Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.51,0.69,0.248980241482234,6.0,reviewed,av,av
+2023-03-18T20:40:35.680Z,37.6373329,-118.7945023,7.82,1.57,md,14.0,104.0,0.03285,0.02,nc,nc73858860,2023-03-18T20:42:11.933Z,"13km NW of Toms Place, CA",earthquake,0.52,0.8,0.12,14.0,automatic,nc,nc
