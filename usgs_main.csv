@@ -5041,3 +5041,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T15:51:42.413Z,29.9218,141.7433,33.695,4.4,mb,29.0,129.0,3.585,0.45,us,us7000jl38,2023-03-18T16:21:52.040Z,"Izu Islands, Japan region",earthquake,11.74,5.454,0.13,17.0,reviewed,us,us
 2023-03-18T15:41:44.548Z,-33.333,-68.4423,48.406,5.0,mb,37.0,92.0,1.593,0.61,us,us7000jl36,2023-03-18T16:20:11.004Z,"28 km S of San Martín, Argentina",earthquake,3.88,9.829,0.046,150.0,reviewed,us,us
 2023-03-18T16:30:45.393Z,2.3196,128.7848,10.442,4.9,mb,38.0,79.0,2.091,0.86,us,us7000jl3d,2023-03-18T16:47:26.040Z,"Halmahera, Indonesia",earthquake,5.32,4.909,0.087,42.0,reviewed,us,us
+2023-03-18T16:52:07.040Z,33.2468338,-115.7959976,7.98,3.55,mw,106.0,45.0,0.13,0.22,ci,ci40186543,2023-03-18T16:57:26.000Z,"13km SSW of Bombay Beach, CA",earthquake,0.2,0.97,,4.0,automatic,ci,ci
