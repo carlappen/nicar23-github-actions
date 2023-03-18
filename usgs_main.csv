@@ -5030,3 +5030,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T14:23:06.910Z,37.5105019,-117.9775009,2.27,3.8,mw,34.0,116.0,0.3682,0.12,nc,nc73858675,2023-03-18T14:33:50.040Z,"15km N of Deep Springs, CA",earthquake,0.42,4.16,,3.0,reviewed,nc,nc
 2023-03-18T14:39:47.427Z,37.3297,-117.6903,0.0,2.0,ml,15.0,174.6,0.103,0.3105,nn,nn00857190,2023-03-18T14:41:15.345Z,"47 km S of Silver Peak, Nevada",earthquake,,13.1,0.89,11.0,automatic,nn,nn
 2023-03-18T14:32:48.434Z,37.6763,-117.6532,8.6,1.9,ml,11.0,119.91,0.403,0.3236,nn,nn00857187,2023-03-18T14:34:14.531Z,"8 km S of Silver Peak, Nevada",earthquake,,0.7,0.8,9.0,automatic,nn,nn
+2023-03-18T14:49:34.047Z,61.8744,-149.2895,5.6,2.4,ml,,,,0.88,ak,ak0233jl0d7g,2023-03-18T14:51:23.620Z,"14 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
