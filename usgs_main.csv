@@ -5138,3 +5138,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T21:41:39.710Z,51.8538333333333,-178.054833333333,-1.8,1.04,ml,4.0,173.0,,0.27,av,av91094888,2023-03-18T21:58:40.870Z,"97 km W of Adak, Alaska",earthquake,0.79,1.81,0.20748198771094,4.0,reviewed,av,av
 2023-03-18T21:35:01.590Z,51.844,-178.0585,3.13,2.18,ml,10.0,129.0,,0.22,av,av91811206,2023-03-18T21:54:49.310Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.56,0.34,0.247605364470138,10.0,reviewed,av,av
 2023-03-18T22:37:37.920Z,33.8601667,-117.9258333,14.44,1.47,ml,10.0,122.0,0.1179,0.32,ci,ci40186679,2023-03-18T22:41:25.991Z,"2km S of Fullerton, CA",earthquake,1.32,1.8,0.34,19.0,automatic,ci,ci
+2023-03-18T22:52:42.710Z,38.8123322,-122.8294983,1.58,0.51,md,7.0,78.0,0.003468,0.01,nc,nc73858915,2023-03-18T22:54:22.744Z,"7km WNW of The Geysers, CA",earthquake,0.5,0.94,0.13,6.0,automatic,nc,nc
+2023-03-18T22:46:14.959Z,61.4498,-150.1688,31.7,1.6,ml,,,,0.68,ak,ak0233jpr5fb,2023-03-18T22:48:28.066Z,"13 km SW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
