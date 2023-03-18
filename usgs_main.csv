@@ -5141,3 +5141,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T22:52:42.710Z,38.8123322,-122.8294983,1.58,0.51,md,7.0,78.0,0.003468,0.01,nc,nc73858915,2023-03-18T22:54:22.744Z,"7km WNW of The Geysers, CA",earthquake,0.5,0.94,0.13,6.0,automatic,nc,nc
 2023-03-18T22:46:14.959Z,61.4498,-150.1688,31.7,1.6,ml,,,,0.68,ak,ak0233jpr5fb,2023-03-18T22:48:28.066Z,"13 km SW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-18T23:15:21.780Z,19.2001667022705,-155.139007568359,35.4700012207031,1.77999997,md,34.0,219.0,,0.109999999,hv,hv73343592,2023-03-18T23:18:37.250Z,"Island of Hawaii, Hawaii",earthquake,0.86,0.930000007,0.889999986,3.0,automatic,hv,hv
+2023-03-18T23:14:46.048Z,-18.1178,-178.0417,552.905,4.8,mb,27.0,99.0,3.789,0.69,us,us7000jl5y,2023-03-18T23:31:56.040Z,"279 km E of Levuka, Fiji",earthquake,9.63,16.434,0.121,21.0,reviewed,us,us
+2023-03-18T23:09:59.015Z,37.1658,-104.7419,5.607,3.1,ml,16.0,67.0,0.055,0.57,us,us7000jl5u,2023-03-18T23:31:35.196Z,"4 km NNE of Segundo, Colorado",earthquake,2.62,5.521,0.043,72.0,reviewed,us,us
