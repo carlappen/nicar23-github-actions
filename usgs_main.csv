@@ -5119,3 +5119,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T19:45:44.820Z,51.8578333333333,-178.0865,3.16,0.91,ml,4.0,208.0,,0.11,av,av91094868,2023-03-18T20:09:51.900Z,"100 km W of Adak, Alaska",earthquake,0.56,0.94,0.266231405060778,4.0,reviewed,av,av
 2023-03-18T19:35:56.402Z,31.68685297,-104.5094233,4.691918945,2.4,ml,20.0,175.0,0.01971592396,0.2,tx,tx2023fkiw,2023-03-18T20:06:58.536Z,"55 km SSW of Whites City, New Mexico",earthquake,1.240169484,0.777750275,0.2,13.0,reviewed,tx,tx
 2023-03-18T04:26:37.160Z,51.8398333333333,-178.0805,3.83,1.36,ml,5.0,215.0,,0.12,av,av91094873,2023-03-18T20:17:01.100Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.67,0.42,0.21312334666601,5.0,reviewed,av,av
+2023-03-18T20:26:54.250Z,38.7910004,-122.7594986,2.21,0.69,md,6.0,173.0,0.01941,0.01,nc,nc73858850,2023-03-18T20:28:31.189Z,"2km N of The Geysers, CA",earthquake,0.59,2.26,0.35,8.0,automatic,nc,nc
+2023-03-18T20:10:55.180Z,51.8505,-178.0805,4.49,1.66,ml,6.0,136.0,,0.15,av,av91811136,2023-03-18T20:32:47.820Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.51,0.69,0.248980241482234,6.0,reviewed,av,av
