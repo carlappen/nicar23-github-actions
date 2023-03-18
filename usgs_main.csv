@@ -5084,3 +5084,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T13:56:18.560Z,51.8423333333333,-178.0995,4.21,2.02,ml,6.0,136.0,,0.07,av,av91810711,2023-03-18T18:37:51.330Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.45,0.57,0.308782564677769,7.0,reviewed,av,av
 2023-03-18T03:16:43.700Z,51.8521666666667,-178.091,3.85,1.26,ml,6.0,130.0,,0.21,av,av91810146,2023-03-18T18:40:15.330Z,"100 km W of Adak, Alaska",earthquake,0.7,0.45,0.225356297805425,6.0,reviewed,av,av
 2023-03-18T02:32:17.540Z,51.8595,-178.102166666667,3.72,2.09,ml,11.0,107.0,,0.15,av,av91810101,2023-03-18T18:32:23.960Z,"101 km W of Adak, Alaska",earthquake,0.5,0.34,0.149634257299191,10.0,reviewed,av,av
+2023-03-18T16:33:32.116Z,22.2289,-108.5305,10.0,4.4,mb,86.0,112.0,5.364,0.84,us,us7000jl3e,2023-03-18T18:50:47.040Z,"149 km SE of La Playa, Mexico",earthquake,10.01,1.905,0.047,132.0,reviewed,us,us
+2023-03-18T12:45:44.050Z,51.8586666666667,-178.103166666667,2.15,1.01,ml,5.0,219.0,,0.24,av,av91094808,2023-03-18T18:44:07.920Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.98,2.15,0.246397373452617,5.0,reviewed,av,av
