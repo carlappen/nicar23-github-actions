@@ -5327,3 +5327,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T14:12:30.690Z,10.7736,-86.4849,32.828,4.5,mb,31.0,187.0,1.142,0.65,us,us7000jl9c,2023-03-19T18:42:56.040Z,off the coast of Costa Rica,earthquake,6.26,9.821,0.06,82.0,reviewed,us,us
 2023-03-19T13:39:30.041Z,31.6462,-104.3357,7.634,2.8,ml,22.0,110.0,0.143,0.2,us,us7000jl9b,2023-03-19T18:48:40.040Z,"58 km S of Whites City, New Mexico",earthquake,1.12,5.304,0.06,38.0,reviewed,us,us
 2023-03-19T19:00:48.641Z,62.6,-151.3426,80.6,1.4,ml,,,,0.28,ak,ak0233lb8erk,2023-03-19T19:02:24.667Z,"31 km WNW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-19T19:16:42.960Z,38.8116684,-122.8290024,1.73,0.75,md,12.0,61.0,0.0028,0.03,nc,nc73859370,2023-03-19T19:18:18.404Z,"7km WNW of The Geysers, CA",earthquake,0.33,0.5,0.31,14.0,automatic,nc,nc
+2023-03-19T19:08:36.840Z,17.9566666666667,-66.8673333333333,18.09,2.46,md,6.0,205.0,0.02152,0.05,pr,pr71400848,2023-03-19T19:25:35.570Z,"3 km SE of Maria Antonia, Puerto Rico",earthquake,0.56,0.58,0.0785544137961938,4.0,reviewed,pr,pr
+2023-03-19T15:32:51.077Z,51.1052,-179.8535,13.9,2.7,ml,,,,0.45,ak,ak0233l91nec,2023-03-19T19:21:50.940Z,"239 km WSW of Adak, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2023-03-19T02:35:25.460Z,37.6395,-118.7928333,8.98,0.11,md,8.0,235.0,0.0342,0.03,nc,nc73859005,2023-03-19T19:26:10.516Z,"13km NW of Toms Place, CA",earthquake,0.9,0.76,0.201,8.0,reviewed,nc,nc
