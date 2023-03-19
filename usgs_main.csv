@@ -5213,3 +5213,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T05:58:58.300Z,33.5318333,-116.5705,10.4,0.48,ml,16.0,68.0,0.04553,0.13,ci,ci40186855,2023-03-19T06:02:27.367Z,"10km ESE of Anza, CA",earthquake,0.25,0.35,0.12,10.0,automatic,ci,ci
 2023-03-19T05:53:39.184Z,61.9384,-150.3948,30.4,1.9,ml,,,,0.62,ak,ak0233l37oim,2023-03-19T05:55:32.606Z,"28 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-19T05:06:50.590Z,46.898,-121.93983333333334,6.59,0.11,ml,17.0,132.0,0.005949,0.1,uw,uw61903277,2023-03-19T06:32:14.970Z,"17 km NNE of Ashford, Washington",earthquake,0.28,0.5,0.1046577333550203,14.0,reviewed,uw,uw
+2023-03-19T06:41:45.869Z,58.2523,-155.2113,0.5,0.7,ml,,,,0.66,ak,ak0233l3qk1m,2023-03-19T06:43:24.811Z,"88 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-03-19T06:35:24.260Z,38.8166656,-122.795166,2.2,1.09,md,19.0,69.0,0.008686,0.02,nc,nc73859125,2023-03-19T06:37:01.909Z,"6km NW of The Geysers, CA",earthquake,0.25,0.44,0.23,17.0,automatic,nc,nc
