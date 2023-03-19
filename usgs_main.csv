@@ -5313,3 +5313,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T17:23:00.490Z,32.7746658,-115.4376678,10.72,1.89,ml,26.0,73.0,0.03152,0.3,ci,ci40187167,2023-03-19T17:25:20.541Z,"7km SW of Holtville, CA",earthquake,0.6,0.9,0.24,17.0,automatic,ci,ci
 2023-03-19T17:06:36.969Z,64.822,-147.4557,15.5,1.1,ml,,,,0.24,ak,ak0233la2sy8,2023-03-19T17:08:38.616Z,"4 km ENE of Badger, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-19T17:29:18.904Z,59.6133,-151.904,57.2,2.0,ml,,,,0.87,ak,ak0233la7p0d,2023-03-19T17:32:24.470Z,"18 km SSW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-19T17:07:30.389Z,38.0041,73.2209,18.582,4.5,mb,64.0,90.0,3.325,0.67,us,us7000jlb0,2023-03-19T17:48:25.040Z,"67 km WSW of Murghob, Tajikistan",earthquake,8.55,4.58,0.076,51.0,reviewed,us,us
