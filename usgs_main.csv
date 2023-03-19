@@ -5245,3 +5245,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T09:10:56.729Z,62.8731,-148.4079,55.9,2.3,ml,,,,0.53,ak,ak0233l5c8i0,2023-03-19T09:12:42.038Z,"63 km SSE of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-03-19T09:10:14.692Z,62.92,-151.3124,115.3,2.2,ml,,,,0.11,ak,ak0233l5c599,2023-03-19T09:12:02.785Z,"54 km NNW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-03-19T09:00:16.343Z,37.5648,-117.2866,3.4,1.2,ml,12.0,158.34,0.572,0.3674,nn,nn00857219,2023-03-19T09:01:37.888Z,"16 km SSW of Goldfield, Nevada",earthquake,,5.6,0.88,7.0,automatic,nn,nn
+2023-03-19T09:21:06.050Z,59.8273,-152.7719,88.3,2.5,ml,,,,0.4,ak,ak0233l5ehgt,2023-03-19T09:23:01.646Z,"53 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
