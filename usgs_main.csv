@@ -5228,3 +5228,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T06:54:15.317Z,61.4398,-150.1512,32.5,1.9,ml,,,,0.61,ak,ak0233l3t9zv,2023-03-19T06:57:49.051Z,"12 km NW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-19T07:18:42.950Z,38.7953339,-122.7608337,2.51,0.72,md,7.0,151.0,0.02238,0.02,nc,nc73859160,2023-03-19T07:20:20.927Z,"2km N of The Geysers, CA",earthquake,0.54,2.31,0.06,9.0,automatic,nc,nc
 2023-03-19T07:17:12.520Z,32.7806667,-115.9855,11.15,0.68,ml,10.0,99.0,0.04361,0.18,ci,ci40186895,2023-03-19T07:20:47.008Z,"5km N of Ocotillo, CA",earthquake,0.58,0.8,0.095,6.0,automatic,ci,ci
+2023-03-19T07:31:26.340Z,38.822834,-122.767334,2.05,1.25,md,15.0,111.0,0.007887,0.02,nc,nc73859165,2023-03-19T07:33:00.815Z,"4km W of Cobb, CA",earthquake,0.28,0.48,0.22,17.0,automatic,nc,nc
