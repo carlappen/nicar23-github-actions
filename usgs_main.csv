@@ -5302,3 +5302,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T15:06:27.280Z,59.6095,-151.907,65.4,5.4,mww,,,,0.49,ak,ak0233l8vwxa,2023-03-19T15:24:53.723Z,"19 km SSW of Anchor Point, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-03-19T14:56:55.324Z,60.3935,-143.0083,6.9,1.8,ml,,,,1.16,ak,ak0233l8l9cs,2023-03-19T14:58:43.574Z,"115 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-18T21:42:38.843Z,-38.0279,176.687,11.001,3.6,ml,7.0,143.0,0.63,0.26,us,us7000jl5i,2023-03-19T15:09:53.952Z,"8 km N of Kawerau, New Zealand",earthquake,2.93,7.752,0.148,6.0,reviewed,us,us
+2023-03-19T15:41:33.625Z,36.9796,-116.1133,11.7,0.4,ml,11.0,120.0,0.066,0.135,nn,nn00857240,2023-03-19T15:42:21.324Z,"58 km E of Beatty, Nevada",earthquake,,1.1,0.27,7.0,automatic,nn,nn
