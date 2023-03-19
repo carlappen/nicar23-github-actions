@@ -5326,3 +5326,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T05:23:03.370Z,33.9823333,-118.7816667,12.65,0.31,ml,4.0,262.0,0.0304,0.04,ci,ci40186847,2023-03-19T18:35:04.255Z,"4km SE of Malibu, CA",earthquake,0.67,0.36,0.236,2.0,reviewed,ci,ci
 2023-03-19T14:12:30.690Z,10.7736,-86.4849,32.828,4.5,mb,31.0,187.0,1.142,0.65,us,us7000jl9c,2023-03-19T18:42:56.040Z,off the coast of Costa Rica,earthquake,6.26,9.821,0.06,82.0,reviewed,us,us
 2023-03-19T13:39:30.041Z,31.6462,-104.3357,7.634,2.8,ml,22.0,110.0,0.143,0.2,us,us7000jl9b,2023-03-19T18:48:40.040Z,"58 km S of Whites City, New Mexico",earthquake,1.12,5.304,0.06,38.0,reviewed,us,us
+2023-03-19T19:00:48.641Z,62.6,-151.3426,80.6,1.4,ml,,,,0.28,ak,ak0233lb8erk,2023-03-19T19:02:24.667Z,"31 km WNW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
