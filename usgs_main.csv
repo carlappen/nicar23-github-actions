@@ -5270,3 +5270,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T11:35:57.450Z,38.8955002,-122.8338318,3.43,2.46,md,48.0,43.0,0.02458,0.07,nc,nc73859235,2023-03-19T11:38:52.285Z,"9km S of Kelseyville, CA",earthquake,0.17,0.45,0.15,53.0,automatic,nc,nc
 2023-03-19T11:34:10.300Z,36.6448326,-121.2531662,3.91,2.17,md,25.0,136.0,0.06046,0.08,nc,nc73859240,2023-03-19T11:39:25.388Z,"16km NW of Pinnacles, CA",earthquake,0.28,1.35,0.17,26.0,automatic,nc,nc
 2023-03-19T10:59:09.474Z,72.9273,6.6231,10.0,4.1,mb,27.0,89.0,5.805,0.54,us,us7000jl8m,2023-03-19T11:31:47.040Z,Norwegian Sea,earthquake,4.24,1.928,0.157,11.0,reviewed,us,us
+2023-03-19T11:57:31.370Z,36.5873337,-121.1425018,4.12,1.84,md,10.0,160.0,0.03789,0.06,nc,nc73859250,2023-03-19T11:59:06.627Z,"6km N of Pinnacles, CA",earthquake,0.53,0.54,0.12,9.0,automatic,nc,nc
+2023-03-19T11:50:15.614Z,36.9952,-116.1025,16.0,0.5,ml,16.0,139.87,0.073,0.2851,nn,nn00857226,2023-03-19T11:50:50.152Z,"59 km E of Beatty, Nevada",earthquake,,1.2,0.98,11.0,automatic,nn,nn
