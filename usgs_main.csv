@@ -5284,3 +5284,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T12:54:24.779Z,38.0476,36.5123,9.765,4.3,mb,52.0,48.0,0.367,0.57,us,us7000jl95,2023-03-19T13:12:29.040Z,"3 km NNE of Göksun, Turkey",earthquake,4.08,5.489,0.104,26.0,reviewed,us,us
 2023-03-19T13:36:41.455Z,59.352,-153.2776,97.2,2.0,ml,,,,0.27,ak,ak0233l7vicx,2023-03-19T13:38:32.611Z,"67 km SE of Pedro Bay, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-03-19T13:30:39.890Z,34.4948333,-118.9678333,12.52,1.12,ml,14.0,119.0,0.04494,0.27,ci,ci40187071,2023-03-19T13:34:18.214Z,"12km NNW of Fillmore, CA",earthquake,0.7,1.27,0.165,18.0,automatic,ci,ci
+2023-03-19T13:37:35.930Z,38.777832,-122.7573318,0.58,1.79,md,24.0,84.0,0.01699,0.07,nc,nc73859265,2023-03-19T13:39:12.711Z,"0km NW of The Geysers, CA",earthquake,0.24,0.42,0.18,25.0,automatic,nc,nc
+2023-03-19T13:29:28.428Z,31.68071941,-104.3257777,7.57121582,3.2,ml,21.0,84.0,0.05269373376,0.2,tx,tx2023flsl,2023-03-19T13:43:40.962Z,"55 km S of Whites City, New Mexico",earthquake,1.07802508,1.1171417290000003,0.1,13.0,reviewed,tx,tx
