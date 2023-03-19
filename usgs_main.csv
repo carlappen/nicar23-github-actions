@@ -5246,3 +5246,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T09:10:14.692Z,62.92,-151.3124,115.3,2.2,ml,,,,0.11,ak,ak0233l5c599,2023-03-19T09:12:02.785Z,"54 km NNW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-03-19T09:00:16.343Z,37.5648,-117.2866,3.4,1.2,ml,12.0,158.34,0.572,0.3674,nn,nn00857219,2023-03-19T09:01:37.888Z,"16 km SSW of Goldfield, Nevada",earthquake,,5.6,0.88,7.0,automatic,nn,nn
 2023-03-19T09:21:06.050Z,59.8273,-152.7719,88.3,2.5,ml,,,,0.4,ak,ak0233l5ehgt,2023-03-19T09:23:01.646Z,"53 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-19T09:49:08.830Z,33.536,-116.728,4.4,0.64,ml,23.0,56.0,0.03033,0.14,ci,ci40186959,2023-03-19T09:52:39.433Z,"6km WSW of Anza, CA",earthquake,0.21,0.34,0.122,17.0,automatic,ci,ci
+2023-03-19T09:44:18.250Z,38.7888336,-122.7470016,0.9,0.79,md,8.0,159.0,0.009784,0.04,nc,nc73859185,2023-03-19T09:45:56.753Z,"2km NNE of The Geysers, CA",earthquake,0.47,0.91,0.23,7.0,automatic,nc,nc
