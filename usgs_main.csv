@@ -5381,3 +5381,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T23:35:05.470Z,38.8325005,-122.8059998,2.39,0.77,md,13.0,95.0,0.009633,0.02,nc,nc73859460,2023-03-19T23:36:45.080Z,"7km W of Cobb, CA",earthquake,0.38,0.82,0.15,13.0,automatic,nc,nc
 2023-03-19T21:03:46.680Z,37.6508333,-118.8536667,2.98,0.08,md,8.0,132.0,0.01909,0.02,nc,nc73859410,2023-03-19T23:43:26.585Z,"11km E of Mammoth Lakes, CA",earthquake,0.38,1.25,0.205,8.0,reviewed,nc,nc
 2023-03-19T13:49:55.520Z,37.6318333,-118.8691667,2.24,0.02,md,9.0,93.0,0.01374,0.02,nc,nc73859270,2023-03-19T23:39:25.053Z,"10km E of Mammoth Lakes, CA",earthquake,0.41,0.96,0.277,9.0,reviewed,nc,nc
+2023-03-19T23:52:48.248Z,63.0595,-151.4294,0.0,1.3,ml,,,,1.24,ak,ak0233ldxae0,2023-03-19T23:55:21.145Z,"55 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-19T23:50:29.692Z,36.9697,-116.1316,0.0,1.1,ml,22.0,119.17,0.071,0.2795,nn,nn00857243,2023-03-19T23:51:29.161Z,"56 km E of Beatty, Nevada",earthquake,,2.7,0.98,18.0,automatic,nn,nn
+2023-03-19T23:14:01.050Z,51.8628333333333,-178.081,0.17,1.41,ml,4.0,196.0,,0.28,av,av91812691,2023-03-19T23:46:47.490Z,"99 km W of Adak, Alaska",earthquake,0.93,15.51,0.181523863644877,4.0,reviewed,av,av
