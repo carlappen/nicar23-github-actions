@@ -5368,3 +5368,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T03:39:41.050Z,51.8428333333333,-178.081666666667,5.44,0.67,ml,3.0,233.0,,0.05,av,av91811571,2023-03-19T22:01:03.060Z,"99 km W of Adak, Alaska",earthquake,0.53,0.82,0.338429907558879,3.0,reviewed,av,av
 2023-03-19T03:24:48.160Z,51.8395,-178.096333333333,6.22,0.74,ml,3.0,249.0,,0.01,av,av91811561,2023-03-19T21:59:01.420Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.26,0.75,0.347705615981981,3.0,reviewed,av,av
 2023-03-19T03:15:36.860Z,51.8616666666667,-178.1395,8.31,0.32,ml,3.0,257.0,,0.03,av,av91811551,2023-03-19T21:55:34.420Z,"103 km W of Adak, Alaska",earthquake,0.65,0.57,0.398766783072718,3.0,reviewed,av,av
+2023-03-19T22:18:37.467Z,-2.8054,128.1633,10.0,4.8,mb,37.0,62.0,2.435,0.9,us,us7000jlc5,2023-03-19T22:34:09.040Z,"98 km N of Ambon, Indonesia",earthquake,6.46,1.878,0.098,32.0,reviewed,us,us
