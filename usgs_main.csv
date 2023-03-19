@@ -5175,3 +5175,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T02:55:05.728Z,-3.3525,146.7397,10.0,4.7,mb,21.0,75.0,5.476,1.16,us,us7000jl6i,2023-03-19T03:23:41.040Z,"157 km SSW of Lorengau, Papua New Guinea",earthquake,12.59,1.924,0.166,12.0,reviewed,us,us
 2023-03-19T02:51:45.790Z,19.15016746521,-155.47233581543,33.1300010681152,2.13000011,md,37.0,167.0,,0.129999995,hv,hv73343722,2023-03-19T02:57:16.500Z,"5 km S of Pāhala, Hawaii",earthquake,0.93,1.20000005,1.44000006,17.0,automatic,hv,hv
 2023-03-19T02:45:30.934Z,-3.4046,146.6817,10.0,4.9,mb,34.0,120.0,5.98,1.01,us,us7000jl6g,2023-03-19T03:01:40.040Z,"165 km SSW of Lorengau, Papua New Guinea",earthquake,11.92,1.9,0.119,22.0,reviewed,us,us
+2023-03-19T03:30:55.330Z,35.6578333,-117.5773333,10.04,0.63,ml,10.0,136.0,0.1451,0.15,ci,ci40186759,2023-03-19T03:34:34.312Z,"10km ENE of Ridgecrest, CA",earthquake,0.56,1.11,0.057,6.0,automatic,ci,ci
+2023-03-19T03:09:03.449Z,-3.4672,146.5067,10.0,4.7,mb,25.0,71.0,5.69,0.78,us,us7000jl6k,2023-03-19T03:27:52.040Z,"179 km SSW of Lorengau, Papua New Guinea",earthquake,10.52,1.906,0.13,20.0,reviewed,us,us
