@@ -5370,3 +5370,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T03:15:36.860Z,51.8616666666667,-178.1395,8.31,0.32,ml,3.0,257.0,,0.03,av,av91811551,2023-03-19T21:55:34.420Z,"103 km W of Adak, Alaska",earthquake,0.65,0.57,0.398766783072718,3.0,reviewed,av,av
 2023-03-19T22:18:37.467Z,-2.8054,128.1633,10.0,4.8,mb,37.0,62.0,2.435,0.9,us,us7000jlc5,2023-03-19T22:34:09.040Z,"98 km N of Ambon, Indonesia",earthquake,6.46,1.878,0.098,32.0,reviewed,us,us
 2023-03-19T22:51:03.225Z,64.6815,-150.8519,9.5,1.0,ml,,,,0.62,ak,ak0233ldbjle,2023-03-19T22:54:26.681Z,"37 km SSW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-19T23:20:09.841Z,65.0474,-150.189,7.3,1.4,ml,,,,0.8,ak,ak0233ldqcho,2023-03-19T23:22:47.824Z,"21 km ENE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-19T23:06:29.670Z,60.9563,-151.5236,67.4,1.5,ml,,,,0.68,ak,ak0233ldne0n,2023-03-19T23:08:08.264Z,"Kenai Peninsula, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2023-03-19T23:05:05.007Z,63.4022,158.2287,10.0,5.0,mb,105.0,75.0,5.243,0.75,us,us7000jlca,2023-03-19T23:22:05.040Z,"158 km NE of Omsukchan, Russia",earthquake,7.92,1.854,0.032,330.0,reviewed,us,us
+2023-03-19T22:57:20.680Z,17.9655,-66.8616666666667,17.22,2.51,md,12.0,200.0,0.01925,0.18,pr,pr71400868,2023-03-19T23:12:06.740Z,"3 km ESE of Maria Antonia, Puerto Rico",earthquake,0.52,0.69,0.113156521815362,7.0,reviewed,pr,pr
+2023-03-19T21:40:35.900Z,17.4415,-68.8423333333333,76.07,3.67,md,7.0,344.0,1.744,0.08,pr,pr71400858,2023-03-19T23:05:32.750Z,"106 km SSW of Boca de Yuma, Dominican Republic",earthquake,2.84,7.18,0.071914776986022,2.0,reviewed,pr,pr
