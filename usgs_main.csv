@@ -5187,3 +5187,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T04:33:15.026Z,62.1572,-150.7668,60.6,2.0,ml,,,,0.31,ak,ak0233l2hwq6,2023-03-19T04:35:22.775Z,"33 km WSW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-19T04:09:26.979Z,21.9828,-108.8152,10.0,4.2,mb,23.0,247.0,1.989,1.38,us,us7000jl6s,2023-03-19T04:37:25.040Z,"148 km SE of La Playa, Mexico",earthquake,10.74,1.997,0.115,21.0,reviewed,us,us
 2023-03-18T08:50:29.255Z,5.0766,127.2819,93.803,4.1,mb,23.0,120.0,2.605,0.43,us,us7000jl1x,2023-03-19T04:32:46.040Z,"187 km SE of Pondaguitan, Philippines",earthquake,10.39,5.575,0.145,13.0,reviewed,us,us
+2023-03-19T04:42:15.830Z,38.7823334,-122.742836,0.01,0.99,md,11.0,78.0,0.02133,0.01,nc,nc73859035,2023-03-19T04:43:50.988Z,"1km ENE of The Geysers, CA",earthquake,0.27,0.9,0.25,10.0,automatic,nc,nc
+2023-03-19T04:42:12.657Z,37.5072,-117.5905,14.0,0.6,ml,9.0,190.56,0.781,0.1256,nn,nn00857212,2023-03-19T04:43:26.231Z,"27 km S of Silver Peak, Nevada",earthquake,,1.1,1.05,6.0,automatic,nn,nn
+2023-03-19T00:36:25.230Z,46.87766666666667,-121.94083333333332,9.06,0.09,ml,14.0,121.0,0.01373,0.1,uw,uw61903262,2023-03-19T04:48:40.430Z,"14 km NNE of Ashford, Washington",earthquake,0.34,0.52,0.1472304540412413,10.0,reviewed,uw,uw
