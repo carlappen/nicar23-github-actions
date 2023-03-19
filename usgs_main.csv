@@ -5324,3 +5324,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T18:37:08.450Z,38.828167,-122.8036652,1.59,1.03,md,19.0,45.0,0.006911,0.01,nc,nc73859355,2023-03-19T18:38:42.361Z,"7km NW of The Geysers, CA",earthquake,0.21,0.44,0.27,21.0,automatic,nc,nc
 2023-03-19T18:33:23.610Z,19.1348323822021,-155.375,28.3099994659424,1.97000003,md,37.0,184.0,,0.140000001,hv,hv73344257,2023-03-19T18:36:41.080Z,"Island of Hawaii, Hawaii",earthquake,0.68,0.930000007,1.60000002,10.0,automatic,hv,hv
 2023-03-19T05:23:03.370Z,33.9823333,-118.7816667,12.65,0.31,ml,4.0,262.0,0.0304,0.04,ci,ci40186847,2023-03-19T18:35:04.255Z,"4km SE of Malibu, CA",earthquake,0.67,0.36,0.236,2.0,reviewed,ci,ci
+2023-03-19T14:12:30.690Z,10.7736,-86.4849,32.828,4.5,mb,31.0,187.0,1.142,0.65,us,us7000jl9c,2023-03-19T18:42:56.040Z,off the coast of Costa Rica,earthquake,6.26,9.821,0.06,82.0,reviewed,us,us
+2023-03-19T13:39:30.041Z,31.6462,-104.3357,7.634,2.8,ml,22.0,110.0,0.143,0.2,us,us7000jl9b,2023-03-19T18:48:40.040Z,"58 km S of Whites City, New Mexico",earthquake,1.12,5.304,0.06,38.0,reviewed,us,us
