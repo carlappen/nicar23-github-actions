@@ -5282,3 +5282,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T13:03:44.440Z,38.8366661,-122.8046646,1.3,0.96,md,20.0,57.0,0.01132,0.06,nc,nc73859260,2023-03-19T13:24:12.423Z,"7km WNW of Cobb, CA",earthquake,0.22,0.45,0.3,20.0,automatic,nc,nc
 2023-03-19T13:00:58.230Z,32.7538333,-115.422,11.86,1.34,ml,16.0,75.0,0.05543,0.3,ci,ci40187055,2023-03-19T13:04:32.870Z,"8km SSW of Holtville, CA",earthquake,0.68,1.03,0.17,15.0,automatic,ci,ci
 2023-03-19T12:54:24.779Z,38.0476,36.5123,9.765,4.3,mb,52.0,48.0,0.367,0.57,us,us7000jl95,2023-03-19T13:12:29.040Z,"3 km NNE of Göksun, Turkey",earthquake,4.08,5.489,0.104,26.0,reviewed,us,us
+2023-03-19T13:36:41.455Z,59.352,-153.2776,97.2,2.0,ml,,,,0.27,ak,ak0233l7vicx,2023-03-19T13:38:32.611Z,"67 km SE of Pedro Bay, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-19T13:30:39.890Z,34.4948333,-118.9678333,12.52,1.12,ml,14.0,119.0,0.04494,0.27,ci,ci40187071,2023-03-19T13:34:18.214Z,"12km NNW of Fillmore, CA",earthquake,0.7,1.27,0.165,18.0,automatic,ci,ci
