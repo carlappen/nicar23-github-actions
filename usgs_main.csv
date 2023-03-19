@@ -5267,3 +5267,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T11:18:50.839Z,36.9849,-116.1156,10.7,0.3,ml,12.0,122.56,0.071,0.2111,nn,nn00857223,2023-03-19T11:19:59.281Z,"57 km E of Beatty, Nevada",earthquake,,1.1,0.25,8.0,automatic,nn,nn
 2023-03-19T11:15:27.590Z,34.6751667,-118.9896667,1.66,1.36,ml,6.0,213.0,0.1612,0.05,ci,ci40187023,2023-03-19T11:19:00.942Z,"17km SSW of Frazier Park, CA",earthquake,0.76,1.38,0.393,10.0,automatic,ci,ci
 2023-03-19T11:10:11.251Z,37.2403,-104.4403,12.186,3.8,mwr,62.0,49.0,0.104,1.04,us,us7000jl8p,2023-03-19T11:26:11.604Z,"2 km NE of El Moro, Colorado",earthquake,3.62,7.359,0.052,36.0,reviewed,us,us
+2023-03-19T11:35:57.450Z,38.8955002,-122.8338318,3.43,2.46,md,48.0,43.0,0.02458,0.07,nc,nc73859235,2023-03-19T11:38:52.285Z,"9km S of Kelseyville, CA",earthquake,0.17,0.45,0.15,53.0,automatic,nc,nc
+2023-03-19T11:34:10.300Z,36.6448326,-121.2531662,3.91,2.17,md,25.0,136.0,0.06046,0.08,nc,nc73859240,2023-03-19T11:39:25.388Z,"16km NW of Pinnacles, CA",earthquake,0.28,1.35,0.17,26.0,automatic,nc,nc
+2023-03-19T10:59:09.474Z,72.9273,6.6231,10.0,4.1,mb,27.0,89.0,5.805,0.54,us,us7000jl8m,2023-03-19T11:31:47.040Z,Norwegian Sea,earthquake,4.24,1.928,0.157,11.0,reviewed,us,us
