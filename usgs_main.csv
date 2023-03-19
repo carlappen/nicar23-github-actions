@@ -5310,3 +5310,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T16:31:09.761Z,61.1527,-151.3687,70.5,1.8,ml,,,,0.38,ak,ak0233l9mo5c,2023-03-19T16:33:52.511Z,"15 km W of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-19T16:12:04.050Z,19.1354999542236,-155.386840820312,31.4099998474121,1.83000004,md,37.0,182.0,,0.119999997,hv,hv73344197,2023-03-19T16:15:17.540Z,"12 km SE of Pāhala, Hawaii",earthquake,0.58,1.01999998,1.37,8.0,automatic,hv,hv
 2023-03-19T15:16:04.540Z,19.142,-66.5631666666667,38.22,3.19,md,21.0,257.0,0.6621,0.13,pr,pr71400818,2023-03-19T16:04:04.000Z,"75 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.67,2.95,0.104786153070571,15.0,reviewed,pr,pr
+2023-03-19T17:23:00.490Z,32.7746658,-115.4376678,10.72,1.89,ml,26.0,73.0,0.03152,0.3,ci,ci40187167,2023-03-19T17:25:20.541Z,"7km SW of Holtville, CA",earthquake,0.6,0.9,0.24,17.0,automatic,ci,ci
+2023-03-19T17:06:36.969Z,64.822,-147.4557,15.5,1.1,ml,,,,0.24,ak,ak0233la2sy8,2023-03-19T17:08:38.616Z,"4 km ENE of Badger, Alaska",earthquake,,0.4,,,automatic,ak,ak
