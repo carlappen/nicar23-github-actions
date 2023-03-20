@@ -5536,3 +5536,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T20:11:30.059Z,31.60232126,-104.535728,8.316748047,2.515205134,mlv,33.0,75.0,0.07277968442,0.3,tx,tx2023fmfs,2023-03-20T15:25:26.864Z,"65 km SSW of Whites City, New Mexico",earthquake,1.612071786,1.099602898,0.2412829,20.0,reviewed,tx,tx
 2023-03-19T15:59:39.664Z,55.8839,-152.3105,10.0,2.9,ml,,,,0.63,ak,ak0233l97awe,2023-03-20T15:24:24.513Z,"159 km SSE of Old Harbor, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2023-03-19T15:55:02.712Z,53.487,-165.7083,24.7,1.6,ml,,,,0.35,ak,ak0233l96d6n,2023-03-20T15:24:24.304Z,"69 km SE of Unalaska, Alaska",earthquake,,2.0,,,reviewed,ak,ak
+2023-03-20T15:30:35.670Z,38.8250008,-122.8016663,2.79,0.67,md,9.0,86.0,0.00676,0.0,nc,nc73859825,2023-03-20T15:32:10.175Z,"7km NW of The Geysers, CA",earthquake,0.54,1.19,0.23,10.0,automatic,nc,nc
+2023-03-20T15:24:59.780Z,39.3263333,-122.8896667,-0.86,1.58,md,13.0,136.0,0.1907,0.16,nc,nc73859810,2023-03-20T15:39:14.661Z,"11km SSE of Lake Pillsbury, CA",earthquake,0.47,1.8,0.128,12.0,reviewed,nc,nc
