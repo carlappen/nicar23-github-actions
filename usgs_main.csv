@@ -5448,3 +5448,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T05:48:41.655Z,57.3477,-156.1851,80.8,1.7,ml,,,,0.42,ak,ak0233mqpymd,2023-03-20T05:50:47.536Z,"75 km ESE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-20T06:29:41.179Z,59.4481,-144.7259,10.8,3.0,ml,,,,0.68,ak,ak0233mr7bgd,2023-03-20T06:31:57.061Z,"134 km SSE of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-20T05:56:12.760Z,58.4857,-154.8119,250.0,1.2,ml,,,,1.13,ak,ak0233mqrm4c,2023-03-20T06:01:29.910Z,"104 km NNW of Karluk, Alaska",earthquake,,10.5,,,automatic,ak,ak
+2023-03-20T06:44:22.944Z,62.2372,-148.5406,14.4,1.2,ml,,,,0.59,ak,ak0233mrahx2,2023-03-20T06:46:26.472Z,"49 km N of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
