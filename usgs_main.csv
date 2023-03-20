@@ -5495,3 +5495,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T10:34:42.530Z,18.582,-66.691,26.0,3.46,md,19.0,214.0,0.1925,0.21,pr,pr2023079000,2023-03-20T11:16:32.803Z,"12 km NNE of Arecibo, Puerto Rico",earthquake,0.79,1.32,0.1,18.0,reviewed,pr,pr
 2023-03-20T11:42:18.450Z,38.8339996,-122.8099976,1.8,0.77,md,13.0,100.0,0.01059,0.01,nc,nc73859750,2023-03-20T11:43:54.868Z,"8km W of Cobb, CA",earthquake,0.34,0.74,0.48,14.0,automatic,nc,nc
 2023-03-20T11:33:28.240Z,31.8543333,-116.1368333,19.55,2.3,ml,8.0,82.0,0.2197,0.18,ci,ci40187479,2023-03-20T11:37:11.659Z,"43km ENE of Maneadero, B.C., MX",earthquake,0.57,1.94,0.164,17.0,automatic,ci,ci
+2023-03-20T11:43:40.140Z,38.7888336,-122.751503,3.44,0.74,md,14.0,82.0,0.01283,0.02,nc,nc73859755,2023-03-20T11:45:14.937Z,"1km NNE of The Geysers, CA",earthquake,0.34,0.85,0.36,14.0,automatic,nc,nc
