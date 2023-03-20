@@ -5489,3 +5489,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T10:03:58.429Z,61.1239,-151.5518,68.9,1.7,ml,,,,0.38,ak,ak0233mtfipu,2023-03-20T10:06:31.485Z,"23 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-20T10:39:08.290Z,34.8778333,-119.0265,12.33,1.25,ml,19.0,62.0,0.08434,0.21,ci,ci40187471,2023-03-20T10:42:46.082Z,"10km NW of Frazier Park, CA",earthquake,0.42,0.77,0.232,16.0,automatic,ci,ci
 2023-03-20T10:35:53.679Z,36.9836,-116.1152,11.3,0.5,ml,16.0,121.94,0.07,0.1807,nn,nn00857259,2023-03-20T10:36:26.976Z,California-Nevada border region,earthquake,,1.1,1.05,11.0,automatic,nn,nn
+2023-03-20T11:06:18.080Z,37.2333336,-121.6653366,3.77,1.65,md,16.0,68.0,0.02635,0.05,nc,nc73859740,2023-03-20T11:19:11.000Z,"12km N of Morgan Hill, CA",earthquake,0.23,0.5,0.15,12.0,automatic,nc,nc
+2023-03-20T10:54:31.610Z,19.3951663970947,-155.417831420898,7.59000015258789,2.15,ml,35.0,66.0,,0.159999996,hv,hv73344742,2023-03-20T11:00:03.150Z,"20 km WSW of Volcano, Hawaii",earthquake,0.32,0.680000007,2.38,15.0,automatic,hv,hv
+2023-03-20T10:54:31.590Z,36.6888351,-121.3573303,1.96,1.94,md,23.0,56.0,0.02052,0.15,nc,nc73859735,2023-03-20T11:08:10.936Z,"12km SSW of Tres Pinos, CA",earthquake,0.31,0.72,0.18,21.0,automatic,nc,nc
+2023-03-20T10:34:42.530Z,18.582,-66.691,26.0,3.46,md,19.0,214.0,0.1925,0.21,pr,pr2023079000,2023-03-20T11:16:32.803Z,"12 km NNE of Arecibo, Puerto Rico",earthquake,0.79,1.32,0.1,18.0,reviewed,pr,pr
