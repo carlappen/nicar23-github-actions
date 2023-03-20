@@ -5529,3 +5529,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T15:32:50.717Z,51.073,-179.9082,23.928,2.9,ml,10.0,235.0,0.583,0.64,us,us7000jlbc,2023-03-20T14:22:53.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,6.33,10.191,0.148,10.0,reviewed,us,us
 2023-03-19T15:16:59.520Z,36.43416667,-96.9385,7.56,1.26,ml,55.0,58.0,0.03059399641,0.21,ok,ok2023flvz,2023-03-20T14:16:05.138Z,"16 km NW of Pawnee, Oklahoma",earthquake,,0.3,0.23,7.0,reviewed,ok,ok
 2023-03-20T14:36:01.330Z,33.1808333,-115.9565,4.25,1.0,ml,13.0,212.0,0.01926,0.29,ci,ci40187567,2023-03-20T14:39:40.523Z,"13km S of Salton City, CA",earthquake,1.4,0.82,0.168,15.0,automatic,ci,ci
+2023-03-20T15:27:51.005Z,60.6067,-150.8194,33.9,1.4,ml,,,,0.45,ak,ak0233mwjtcy,2023-03-20T15:30:37.956Z,"8 km NNW of Sterling, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-20T15:26:27.650Z,38.8356667,-122.8176651,2.06,0.78,md,11.0,64.0,0.01361,0.02,nc,nc73859815,2023-03-20T15:28:05.386Z,"8km W of Cobb, CA",earthquake,0.37,1.25,0.18,13.0,automatic,nc,nc
+2023-03-20T14:17:28.980Z,18.0015,-66.9533333333333,7.01,2.27,md,5.0,140.0,0.07525,0.14,pr,pr71400933,2023-03-20T15:04:04.430Z,"4 km WNW of Fuig, Puerto Rico",earthquake,1.24,0.92,0.143004220882557,5.0,reviewed,pr,pr
+2023-03-20T13:39:54.605Z,-18.2976,-70.4684,79.536,4.3,mb,30.0,143.0,0.14,0.54,us,us7000jlf6,2023-03-20T14:57:04.040Z,"near the coast of Tarapaca, Chile",earthquake,6.72,4.005,0.116,21.0,reviewed,us,us
+2023-03-19T20:11:30.059Z,31.60232126,-104.535728,8.316748047,2.515205134,mlv,33.0,75.0,0.07277968442,0.3,tx,tx2023fmfs,2023-03-20T15:25:26.864Z,"65 km SSW of Whites City, New Mexico",earthquake,1.612071786,1.099602898,0.2412829,20.0,reviewed,tx,tx
+2023-03-19T15:59:39.664Z,55.8839,-152.3105,10.0,2.9,ml,,,,0.63,ak,ak0233l97awe,2023-03-20T15:24:24.513Z,"159 km SSE of Old Harbor, Alaska",earthquake,,0.0,,,reviewed,ak,ak
+2023-03-19T15:55:02.712Z,53.487,-165.7083,24.7,1.6,ml,,,,0.35,ak,ak0233l96d6n,2023-03-20T15:24:24.304Z,"69 km SE of Unalaska, Alaska",earthquake,,2.0,,,reviewed,ak,ak
