@@ -5520,3 +5520,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T16:42:41.650Z,44.808,-110.9713333,7.79,2.31,ml,20.0,147.0,0.05462,0.11,uu,uu60534591,2023-03-20T13:12:29.590Z,"17 km ENE of Hebgen Lake Estates, Montana",earthquake,0.39,0.47,0.246,5.0,reviewed,uu,uu
 2023-03-19T16:36:46.679Z,36.6335,-98.9335,6.19,1.57,ml,42.0,76.0,0.001799646848,0.25,ok,ok2023flyq,2023-03-20T13:44:21.398Z,"7 km NW of Waynoka, Oklahoma",earthquake,,0.5,0.21,4.0,reviewed,ok,ok
 2023-03-19T15:05:26.210Z,38.4735,-112.8546667,0.06,-0.83,md,6.0,174.0,0.0156,0.07,uu,uu60534581,2023-03-20T13:40:17.070Z,"16 km ENE of Milford, Utah",earthquake,0.71,31.61,0.447,3.0,reviewed,uu,uu
+2023-03-20T13:52:14.723Z,59.4605,-152.7449,68.8,1.8,ml,,,,0.86,ak,ak0233mvi88w,2023-03-20T13:54:55.835Z,"48 km WNW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
