@@ -5454,3 +5454,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T06:56:24.400Z,33.5715,-116.6371667,13.06,0.68,ml,17.0,83.0,0.007324,0.13,ci,ci40187383,2023-03-20T06:59:56.980Z,"4km ENE of Anza, CA",earthquake,0.4,0.6,0.422,8.0,automatic,ci,ci
 2023-03-20T06:54:25.020Z,38.8381653,-122.7925034,1.93,0.21,md,7.0,125.0,0.001704,0.01,nc,nc73859620,2023-03-20T07:10:14.432Z,"6km WNW of Cobb, CA",earthquake,0.56,1.51,0.13,8.0,automatic,nc,nc
 2023-03-20T05:08:32.859Z,-15.2541,-177.3645,384.199,4.3,mb,32.0,70.0,1.192,0.79,us,us7000jld7,2023-03-20T06:59:16.040Z,"131 km SE of Alo, Wallis and Futuna",earthquake,11.22,6.879,0.064,70.0,reviewed,us,us
+2023-03-20T07:28:45.790Z,34.8448333,-116.331,3.1,2.6,ml,22.0,69.0,0.01574,0.16,ci,ci40187399,2023-03-20T07:32:26.583Z,"21km NW of Ludlow, CA",earthquake,0.27,0.53,0.167,25.0,automatic,ci,ci
+2023-03-20T07:08:26.407Z,29.8863,142.4074,10.0,4.9,mb,72.0,134.0,3.907,0.5,us,us7000jlde,2023-03-20T07:31:44.040Z,"Izu Islands, Japan region",earthquake,10.21,1.89,0.069,66.0,reviewed,us,us
