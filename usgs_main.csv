@@ -5512,3 +5512,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T12:06:19.109Z,36.0816,142.316,10.0,4.6,mb,36.0,162.0,3.349,0.35,us,us7000jleh,2023-03-20T12:22:28.040Z,"139 km ENE of Hasaki, Japan",earthquake,6.88,1.866,0.129,18.0,reviewed,us,us
 2023-03-20T12:03:24.940Z,38.7991676,-122.7946701,3.12,1.11,md,26.0,51.0,0.007975,0.03,nc,nc73859760,2023-03-20T12:28:11.447Z,"4km NW of The Geysers, CA",earthquake,0.25,0.42,0.13,24.0,automatic,nc,nc
 2023-03-20T11:57:15.766Z,-56.0832,-27.8543,133.403,5.1,mb,59.0,46.0,5.266,0.54,us,us7000jlef,2023-03-20T12:13:01.040Z,South Sandwich Islands region,earthquake,10.69,6.846,0.064,78.0,reviewed,us,us
+2023-03-20T13:20:07.680Z,38.8171654,-122.82267,2.21,1.77,md,34.0,48.0,0.009721,0.03,nc,nc73859775,2023-03-20T13:32:10.848Z,"7km NW of The Geysers, CA",earthquake,0.16,0.29,0.12,35.0,automatic,nc,nc
+2023-03-20T13:17:25.519Z,61.613,-150.1193,31.7,1.6,ml,,,,0.81,ak,ak0233mvar0n,2023-03-20T13:19:13.911Z,"13 km NW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-20T13:09:18.430Z,34.0111667,-118.3613333,8.65,1.89,ml,48.0,44.0,0.01753,0.25,ci,ci40187535,2023-03-20T13:24:10.941Z,"1km NE of Baldwin Hills, CA",earthquake,0.3,0.6,0.224,26.0,automatic,ci,ci
+2023-03-20T13:02:56.825Z,59.8584,-152.8866,108.9,2.0,ml,,,,0.77,ak,ak0233mv7loy,2023-03-20T13:06:07.858Z,"59 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-20T00:37:31.990Z,33.9998333,-117.1636667,15.01,0.9,ml,35.0,83.0,0.05287,0.17,ci,ci40187271,2023-03-20T13:19:52.295Z,"6km SSE of Redlands, CA",quarry blast,0.21,0.37,0.147,14.0,reviewed,ci,ci
+2023-03-19T16:42:41.650Z,44.808,-110.9713333,7.79,2.31,ml,20.0,147.0,0.05462,0.11,uu,uu60534591,2023-03-20T13:12:29.590Z,"17 km ENE of Hebgen Lake Estates, Montana",earthquake,0.39,0.47,0.246,5.0,reviewed,uu,uu
