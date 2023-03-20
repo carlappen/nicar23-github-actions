@@ -5528,3 +5528,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T14:02:15.362Z,45.0762,23.0866,10.0,4.9,mb,91.0,30.0,1.155,0.9,us,us7000jlf8,2023-03-20T14:27:30.605Z,"3 km WSW of Arcani, Romania",earthquake,5.67,1.87,0.064,77.0,reviewed,us,us
 2023-03-19T15:32:50.717Z,51.073,-179.9082,23.928,2.9,ml,10.0,235.0,0.583,0.64,us,us7000jlbc,2023-03-20T14:22:53.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,6.33,10.191,0.148,10.0,reviewed,us,us
 2023-03-19T15:16:59.520Z,36.43416667,-96.9385,7.56,1.26,ml,55.0,58.0,0.03059399641,0.21,ok,ok2023flvz,2023-03-20T14:16:05.138Z,"16 km NW of Pawnee, Oklahoma",earthquake,,0.3,0.23,7.0,reviewed,ok,ok
+2023-03-20T14:36:01.330Z,33.1808333,-115.9565,4.25,1.0,ml,13.0,212.0,0.01926,0.29,ci,ci40187567,2023-03-20T14:39:40.523Z,"13km S of Salton City, CA",earthquake,1.4,0.82,0.168,15.0,automatic,ci,ci
