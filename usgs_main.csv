@@ -5563,3 +5563,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T23:56:13.870Z,56.8823333333333,-157.983,3.94,0.21,ml,4.0,297.0,,0.3,av,av91094953,2023-03-20T17:15:26.180Z,"39 km E of Port Heiden, Alaska",earthquake,1.66,4.6,0.0885064158645662,3.0,reviewed,av,av
 2023-03-19T23:11:56.970Z,56.8795,-158.139,2.86,0.39,ml,4.0,157.0,,0.21,av,av91094948,2023-03-20T17:05:21.920Z,"30 km ESE of Port Heiden, Alaska",earthquake,0.82,1.37,0.438785696132395,4.0,reviewed,av,av
 2023-03-20T05:40:02.320Z,47.25183333333333,-122.26216666666669,23.08,0.89,ml,15.0,124.0,0.06845,0.22,uw,uw61903492,2023-03-20T17:34:09.630Z,"1 km SSW of Pacific, Washington",earthquake,1.46,0.89,0.0867783490274292,8.0,reviewed,uw,uw
+2023-03-20T17:44:02.663Z,37.2949,-117.6719,2.8,0.9,ml,9.0,168.52,0.065,0.2643,nn,nn00857275,2023-03-20T17:45:07.761Z,"51 km S of Silver Peak, Nevada",earthquake,,3.1,1.29,6.0,automatic,nn,nn
+2023-03-20T06:36:38.860Z,47.281,-122.2725,4.6,0.54,ml,18.0,244.0,0.2396,0.3,uw,uw61903502,2023-03-20T17:43:27.760Z,"0 km ENE of Lakeland South, Washington",earthquake,1.19,19.15,0.1322975510478563,5.0,reviewed,uw,uw
