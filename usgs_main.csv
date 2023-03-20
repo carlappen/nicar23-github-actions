@@ -5437,3 +5437,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T02:54:36.100Z,45.330333333333336,-121.6925,5.61,0.27,ml,10.0,135.0,0.0137,0.14,uw,uw61903487,2023-03-20T04:21:18.560Z,"5 km ENE of Government Camp, Oregon",earthquake,0.38,0.5,0.0740149023436697,7.0,reviewed,uw,uw
 2023-03-20T02:25:57.710Z,46.826,-121.918,9.29,1.21,ml,28.0,97.0,0.02639,0.12,uw,uw61903482,2023-03-20T04:12:25.490Z,"11 km NE of Ashford, Washington",earthquake,0.26,0.33,0.1459071267774514,17.0,reviewed,uw,uw
 2023-03-19T13:54:46.290Z,46.8745,-121.747,0.5,0.14,ml,9.0,171.0,0.01073,0.1,uw,uw61903362,2023-03-20T04:30:30.810Z,"25 km ENE of Ashford, Washington",earthquake,0.39,0.71,0.1473639284199811,6.0,reviewed,uw,uw
+2023-03-20T04:51:36.880Z,38.8431664,-122.8151703,1.16,1.47,md,23.0,77.0,0.01313,0.02,nc,nc73859595,2023-03-20T04:53:14.643Z,"8km WNW of Cobb, CA",earthquake,0.22,0.34,0.12,25.0,automatic,nc,nc
