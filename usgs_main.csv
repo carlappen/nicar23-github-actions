@@ -5458,3 +5458,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T07:08:26.407Z,29.8863,142.4074,10.0,4.9,mb,72.0,134.0,3.907,0.5,us,us7000jlde,2023-03-20T07:31:44.040Z,"Izu Islands, Japan region",earthquake,10.21,1.89,0.069,66.0,reviewed,us,us
 2023-03-20T07:27:51.970Z,17.768,-67.1961666666667,13.21,1.91,md,6.0,312.0,0.2471,0.15,pr,pr71400903,2023-03-20T07:41:05.850Z,"22 km S of Pole Ojea, Puerto Rico",earthquake,1.0,0.57,0.102790911276063,3.0,reviewed,pr,pr
 2023-03-20T07:09:18.762Z,10.8318,-86.4619,41.433,4.4,mb,33.0,157.0,1.116,0.32,us,us7000jldd,2023-03-20T07:36:44.040Z,"79 km SW of San Juan del Sur, Nicaragua",earthquake,4.4,11.488,0.071,57.0,reviewed,us,us
+2023-03-20T07:51:58.670Z,32.9158325,-116.2494965,9.52,1.56,ml,19.0,96.0,0.05956,0.16,ci,ci40187407,2023-03-20T07:54:19.871Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.37,1.01,0.506,11.0,automatic,ci,ci
+2023-03-20T07:42:28.119Z,41.7731,-125.9891,12.725,2.8,ml,25.0,257.0,1.58,0.33,us,us7000jldk,2023-03-20T07:51:46.040Z,"143 km WSW of Pistol River, Oregon",earthquake,3.18,8.834,0.039,88.0,reviewed,us,us
+2023-03-20T07:28:44.720Z,17.9378333333333,-66.9576666666667,6.41,1.75,md,6.0,222.0,0.05784,0.09,pr,pr71400908,2023-03-20T07:51:04.880Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.82,0.3,0.0486779253968603,3.0,reviewed,pr,pr
