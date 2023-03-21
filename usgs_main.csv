@@ -5727,3 +5727,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T01:47:19.570Z,56.9198333333333,-158.030333333333,3.3,0.37,ml,4.0,280.0,,0.07,av,av91095233,2023-03-21T03:38:33.350Z,"36 km E of Port Heiden, Alaska",earthquake,1.23,1.45,0.496651909805381,4.0,reviewed,av,av
 2023-03-21T01:41:49.220Z,56.863,-158.1905,0.21,0.91,ml,5.0,120.0,,0.17,av,av91095228,2023-03-21T03:36:16.680Z,"28 km ESE of Port Heiden, Alaska",earthquake,0.99,3.02,0.529822390609512,5.0,reviewed,av,av
 2023-03-21T00:06:09.050Z,37.604,-121.7228333,5.99,1.06,md,16.0,61.0,0.09229,0.05,nc,nc73860020,2023-03-21T03:38:01.665Z,"10km SSE of Livermore, CA",earthquake,0.28,1.13,0.302,16.0,reviewed,nc,nc
+2023-03-21T03:46:24.749Z,60.9321,-150.1304,34.5,1.7,ml,,,,0.26,ak,ak0233od1z62,2023-03-21T03:47:41.184Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
