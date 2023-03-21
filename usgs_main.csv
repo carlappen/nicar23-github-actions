@@ -5765,3 +5765,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T07:47:12.333Z,36.7546,-116.2241,6.4,-0.5,ml,12.0,90.21,0.025,0.1049,nn,nn00857300,2023-03-21T07:47:40.761Z,"50 km ESE of Beatty, Nevada",earthquake,,0.8,1.14,5.0,automatic,nn,nn
 2023-03-21T08:24:38.233Z,63.1048,-150.5367,57.9,1.5,ml,,,,0.76,ak,ak0233ofwghb,2023-03-21T08:26:35.242Z,"68 km N of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-03-21T08:15:16.890Z,32.3961667,-115.2345,8.45,1.89,ml,17.0,54.0,0.06401,0.26,ci,ci40187847,2023-03-21T08:18:56.378Z,"6km NW of Delta, B.C., MX",earthquake,0.54,1.69,0.172,16.0,automatic,ci,ci
+2023-03-21T08:46:19.098Z,58.1201,-155.3031,25.1,0.5,ml,,,,0.65,ak,ak0233og14r9,2023-03-21T08:50:23.132Z,"79 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-21T08:40:50.250Z,19.3483333587646,-155.137496948242,4.6399998664856,1.81,ml,35.0,95.0,,0.150000006,hv,hv73345387,2023-03-21T08:46:21.380Z,"12 km S of Fern Forest, Hawaii",earthquake,0.55,1.12,0.4,3.0,automatic,hv,hv
