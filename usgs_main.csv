@@ -5777,3 +5777,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T09:00:48.047Z,-7.6531,127.5578,164.825,4.4,mb,30.0,65.0,3.866,1.42,us,us7000jlll,2023-03-21T09:15:50.040Z,"114 km NNE of Lospalos, Timor Leste",earthquake,8.96,9.199,0.112,23.0,reviewed,us,us
 2023-03-21T09:26:24.470Z,33.6273333,-117.2701667,15.89,0.89,ml,16.0,114.0,0.06646,0.19,ci,ci40187863,2023-03-21T09:29:57.830Z,"3km NNE of Wildomar, CA",earthquake,0.44,0.88,0.236,15.0,automatic,ci,ci
 2023-03-21T09:38:46.180Z,38.8031654,-122.7786636,4.35,0.59,md,7.0,160.0,0.01232,0.01,nc,nc73860205,2023-03-21T09:40:19.948Z,"4km NW of The Geysers, CA",earthquake,0.88,1.98,0.3,9.0,automatic,nc,nc
+2023-03-21T09:46:02.689Z,57.3039,-152.7773,164.2,2.5,ml,,,,1.0,ak,ak0233ogmj3g,2023-03-21T09:48:50.687Z,"33 km ENE of Old Harbor, Alaska",earthquake,,4.0,,,automatic,ak,ak
