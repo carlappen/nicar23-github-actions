@@ -5786,3 +5786,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T09:54:05.820Z,38.8349991,-122.7799988,8.2,0.26,md,7.0,99.0,0.008096,0.05,nc,nc73860210,2023-03-21T10:11:14.275Z,"5km WNW of Cobb, CA",earthquake,1.7,7.54,0.17,8.0,automatic,nc,nc
 2023-03-21T11:10:49.890Z,38.8263321,-122.8054962,2.64,0.83,md,13.0,70.0,0.004625,0.01,nc,nc73860230,2023-03-21T11:12:24.649Z,"7km NW of The Geysers, CA",earthquake,0.34,0.99,0.25,13.0,automatic,nc,nc
 2023-03-21T11:26:38.170Z,35.7531662,-120.3421631,6.89,1.09,md,12.0,208.0,0.01985,0.14,nc,nc73860235,2023-03-21T11:28:14.820Z,"5km NW of Cholame, CA",earthquake,1.17,0.79,0.07,4.0,automatic,nc,nc
+2023-03-21T11:39:07.900Z,19.163,-155.4925,31.41,1.48,md,16.0,166.0,,0.12,hv,hv73345477,2023-03-21T11:48:37.950Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.76,0.89,0.0478489544348228,9.0,reviewed,hv,hv
+2023-03-21T11:38:48.772Z,62.1705,-145.6585,19.7,1.7,ml,,,,1.25,ak,ak0233ohrs4t,2023-03-21T11:41:02.373Z,"8 km NW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
