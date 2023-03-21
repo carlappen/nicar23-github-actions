@@ -5928,3 +5928,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T20:47:16.745Z,58.1745,-154.7486,89.8,1.1,ml,,,,0.11,ak,ak0233on6jk7,2023-03-21T20:52:48.457Z,"69 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-21T20:46:00.220Z,33.5336667,-116.7278333,4.2,0.83,ml,25.0,48.0,0.03262,0.19,ci,ci40187999,2023-03-21T20:49:35.534Z,"6km WSW of Anza, CA",earthquake,0.26,0.5,0.144,14.0,automatic,ci,ci
 2023-03-21T19:13:41.571Z,51.8666,-178.0991,5.908,2.6,ml,8.0,124.0,0.05,0.3,us,us7000jlsw,2023-03-21T20:53:17.040Z,"100 km W of Adak, Alaska",earthquake,0.99,2.7,0.148,6.0,reviewed,us,us
+2023-03-21T21:16:35.299Z,65.0606,-146.9853,7.6,1.4,ml,,,,0.7,ak,ak0233onldf3,2023-03-21T21:19:08.727Z,northern Alaska,earthquake,,1.0,,,automatic,ak,ak
+2023-03-21T21:07:53.600Z,33.5313333,-116.7286667,5.38,0.92,ml,25.0,41.0,0.03473,0.19,ci,ci40188047,2023-03-21T21:11:22.856Z,"6km WSW of Anza, CA",earthquake,0.27,0.78,0.186,14.0,automatic,ci,ci
+2023-03-21T21:05:40.660Z,33.5058333,-116.8723333,15.53,1.11,ml,14.0,115.0,0.1259,0.18,ci,ci40188039,2023-03-21T21:09:16.062Z,"7km N of Aguanga, CA",earthquake,0.75,1.45,0.285,21.0,automatic,ci,ci
+2023-03-21T20:49:21.328Z,28.46,-43.7159,10.0,5.0,mb,66.0,117.0,26.894,0.52,us,us7000jltd,2023-03-21T21:09:23.040Z,northern Mid-Atlantic Ridge,earthquake,9.45,1.889,0.053,111.0,reviewed,us,us
+2023-03-21T20:46:54.052Z,28.437,-43.6415,10.0,5.0,mb,75.0,123.0,31.991,0.64,us,us7000jlte,2023-03-21T21:17:45.040Z,northern Mid-Atlantic Ridge,earthquake,12.98,1.895,0.069,67.0,reviewed,us,us
+2023-03-21T20:41:08.237Z,28.6061,-43.6155,10.0,4.9,mb,102.0,82.0,23.987,0.62,us,us7000jltc,2023-03-21T21:04:01.040Z,northern Mid-Atlantic Ridge,earthquake,11.56,1.866,0.044,164.0,reviewed,us,us
