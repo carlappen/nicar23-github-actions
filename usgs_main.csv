@@ -5775,3 +5775,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T09:08:29.517Z,60.157,-150.4099,30.8,2.1,ml,,,,0.94,ak,ak0233ogefyf,2023-03-21T09:10:54.364Z,"43 km SSE of Funny River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-21T09:08:00.660Z,38.8341675,-122.8190002,2.05,0.62,md,6.0,122.0,0.01282,0.01,nc,nc73860200,2023-03-21T09:22:11.967Z,"8km NW of The Geysers, CA",earthquake,0.58,1.67,0.2,8.0,automatic,nc,nc
 2023-03-21T09:00:48.047Z,-7.6531,127.5578,164.825,4.4,mb,30.0,65.0,3.866,1.42,us,us7000jlll,2023-03-21T09:15:50.040Z,"114 km NNE of Lospalos, Timor Leste",earthquake,8.96,9.199,0.112,23.0,reviewed,us,us
+2023-03-21T09:26:24.470Z,33.6273333,-117.2701667,15.89,0.89,ml,16.0,114.0,0.06646,0.19,ci,ci40187863,2023-03-21T09:29:57.830Z,"3km NNE of Wildomar, CA",earthquake,0.44,0.88,0.236,15.0,automatic,ci,ci
