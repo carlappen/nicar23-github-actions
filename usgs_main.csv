@@ -5846,3 +5846,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T05:04:29.812Z,37.5024,-117.9714,0.0,2.4,ml,12.0,76.08,0.032,0.1692,nn,nn00857295,2023-03-21T16:37:45.124Z,California-Nevada border region,earthquake,,2.2,0.59,8.0,reviewed,nn,nn
 2023-03-21T03:46:12.394Z,53.6648,-166.7152,68.2,2.0,ml,,,,0.25,ak,ak0233od1yxj,2023-03-21T16:41:32.373Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-03-21T02:52:55.136Z,57.2889,-155.4661,77.1,1.9,ml,,,,0.24,ak,ak0233ochv2f,2023-03-21T16:38:07.041Z,"68 km WSW of Karluk, Alaska",earthquake,,1.0,,,reviewed,ak,ak
+2023-03-21T16:45:43.250Z,19.1673336029053,-155.482498168945,32.9199981689453,1.87,md,27.0,159.0,,0.119999997,hv,hv73345617,2023-03-21T16:49:00.730Z,"3 km S of Pāhala, Hawaii",earthquake,0.67,1.12,1.38999999,6.0,automatic,hv,hv
+2023-03-21T16:42:10.450Z,36.1263333,-118.0098333,13.5,1.49,ml,9.0,76.0,0.1258,0.27,ci,ci40187943,2023-03-21T16:45:53.936Z,"11km NNW of Coso Junction, CA",earthquake,0.89,2.23,0.414,7.0,automatic,ci,ci
