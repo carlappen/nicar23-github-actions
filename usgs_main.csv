@@ -5788,3 +5788,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T11:26:38.170Z,35.7531662,-120.3421631,6.89,1.09,md,12.0,208.0,0.01985,0.14,nc,nc73860235,2023-03-21T11:28:14.820Z,"5km NW of Cholame, CA",earthquake,1.17,0.79,0.07,4.0,automatic,nc,nc
 2023-03-21T11:39:07.900Z,19.163,-155.4925,31.41,1.48,md,16.0,166.0,,0.12,hv,hv73345477,2023-03-21T11:48:37.950Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.76,0.89,0.0478489544348228,9.0,reviewed,hv,hv
 2023-03-21T11:38:48.772Z,62.1705,-145.6585,19.7,1.7,ml,,,,1.25,ak,ak0233ohrs4t,2023-03-21T11:41:02.373Z,"8 km NW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-21T12:50:15.390Z,38.7929993,-122.7656631,1.63,1.04,md,15.0,69.0,0.008922,0.02,nc,nc73860240,2023-03-21T12:51:50.140Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.48,0.12,14.0,automatic,nc,nc
+2023-03-21T12:35:35.067Z,62.2005,-145.6813,23.9,1.2,ml,,,,0.47,ak,ak0233oicjj6,2023-03-21T12:37:53.098Z,"12 km NW of Glennallen, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-21T12:23:14.376Z,63.1527,-149.2281,73.7,1.5,ml,,,,0.67,ak,ak0233oi9xcd,2023-03-21T12:25:09.011Z,"30 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-21T12:11:27.060Z,33.487,-116.4976667,8.97,0.83,ml,10.0,114.0,0.08769,0.09,ci,ci40187879,2023-03-21T12:15:04.581Z,"18km ESE of Anza, CA",earthquake,0.32,1.11,0.169,4.0,automatic,ci,ci
+2023-03-21T11:58:23.826Z,59.7396,-152.4618,69.8,1.9,ml,,,,0.81,ak,ak0233ohw0j2,2023-03-21T12:01:01.342Z,Southern Alaska,earthquake,,0.6,,,automatic,ak,ak
+2023-03-21T11:57:32.896Z,60.6443,-147.4695,16.5,2.1,ml,,,,0.47,ak,ak0233ohvtih,2023-03-21T11:59:26.327Z,"49 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-21T11:57:20.950Z,35.6316667,-117.4878333,0.33,1.68,ml,20.0,118.0,0.1464,0.2,ci,ci40187871,2023-03-21T12:01:01.570Z,"17km SSW of Searles Valley, CA",earthquake,0.54,31.61,0.141,23.0,automatic,ci,ci
+2023-03-21T10:29:03.370Z,17.9476666666667,-66.8526666666667,12.63,2.04,md,6.0,210.0,0.03718,0.13,pr,pr71400983,2023-03-21T12:12:11.360Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,1.04,0.51,0.0251242469115831,5.0,reviewed,pr,pr
+2023-03-21T09:50:44.350Z,36.5473333333333,-89.5748333333333,6.92,2.05,md,33.0,64.0,0.02772,0.08,nm,nm60514821,2023-03-21T12:19:06.300Z,"3 km SE of Howardville, Missouri",earthquake,0.31,0.5,0.132588633619,31.0,reviewed,nm,nm
+2023-03-20T22:54:26.680Z,38.7361666666667,-82.4283333333333,5.29,2.49,md,11.0,113.0,0.7722,0.31,se,se60500543,2023-03-21T12:50:35.880Z,"16 km SSW of Rio Grande, Ohio",earthquake,0.82,3.67,0.0657377025280708,10.0,reviewed,se,se
