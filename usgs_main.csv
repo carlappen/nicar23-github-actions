@@ -5910,3 +5910,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T18:31:53.480Z,58.1661666666667,-155.342833333333,-2.2,0.41,ml,8.0,185.0,,0.05,av,av91814606,2023-03-21T19:37:41.320Z,"84 km NW of Karluk, Alaska",earthquake,0.24,1.53,0.282454361664429,8.0,reviewed,av,av
 2023-03-21T11:04:32.675Z,39.1182,-119.6415,9.6,0.7,ml,5.0,134.06,0.044,0.0634,nn,nn00857337,2023-03-21T19:43:30.255Z,"10 km NE of Johnson Lane, Nevada",earthquake,,2.7,1.05,2.0,reviewed,nn,nn
 2023-03-21T10:54:01.124Z,38.8662,-119.6114,2.1,0.2,ml,3.0,296.88,0.028,0.0229,nn,nn00857336,2023-03-21T19:37:16.717Z,California-Nevada border region,earthquake,,3.6,0.0,1.0,reviewed,nn,nn
+2023-03-21T19:36:10.800Z,17.9743333333333,-66.9593333333333,6.96,1.4,md,3.0,178.0,0.07622,0.05,pr,pr71401008,2023-03-21T19:50:58.180Z,"4 km WSW of Fuig, Puerto Rico",earthquake,1.8,0.91,0.0444798705552258,3.0,reviewed,pr,pr
+2023-03-21T19:32:45.297Z,-2.4976,140.7035,32.758,4.5,mb,28.0,110.0,8.456,0.63,us,us7000jlsm,2023-03-21T19:53:58.040Z,"4 km NNW of Jayapura, Indonesia",earthquake,7.82,5.714,0.111,24.0,reviewed,us,us
+2023-03-21T15:37:33.640Z,58.1723333333333,-155.325333333333,1.48,0.21,ml,7.0,173.0,,0.05,av,av91814501,2023-03-21T19:50:22.510Z,"84 km NW of Karluk, Alaska",earthquake,0.23,0.45,0.274229299145452,7.0,reviewed,av,av
+2023-03-21T11:30:49.886Z,39.1134,-119.6639,8.9,0.9,ml,4.0,138.02,0.056,0.0595,nn,nn00857338,2023-03-21T19:46:37.449Z,"8 km NE of Johnson Lane, Nevada",earthquake,,4.7,1.02,2.0,reviewed,nn,nn
