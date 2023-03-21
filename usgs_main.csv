@@ -5816,3 +5816,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T14:30:46.234Z,64.8979,-149.1169,18.5,1.1,ml,,,,0.91,ak,ak0233ojid0v,2023-03-21T14:32:22.021Z,"30 km SSE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-21T14:43:10.400Z,19.5081672668457,-155.471832275391,0.699999988079071,1.72000003,md,23.0,72.0,,0.200000003,hv,hv73345577,2023-03-21T14:46:17.460Z,"26 km WNW of Volcano, Hawaii",earthquake,0.42,1.98000002,0.980000019,3.0,automatic,hv,hv
 2023-03-21T14:42:21.058Z,36.4872,-116.3063,13.0,0.8,ml,14.0,200.37,0.04,0.1469,nn,nn00857301,2023-03-21T14:43:13.890Z,"42 km NW of Pahrump, Nevada",earthquake,,1.6,0.19,8.0,automatic,nn,nn
+2023-03-21T14:54:55.540Z,33.3206667,-116.329,13.09,1.06,ml,26.0,75.0,0.0905,0.27,ci,ci40187895,2023-03-21T14:58:30.982Z,"8km NNE of Borrego Springs, CA",earthquake,0.44,1.26,0.21,22.0,automatic,ci,ci
