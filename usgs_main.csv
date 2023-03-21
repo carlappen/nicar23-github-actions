@@ -5746,3 +5746,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T05:42:33.260Z,38.7464981,-122.6975021,1.38,1.16,md,9.0,142.0,0.02169,0.02,nc,nc73860140,2023-03-21T05:44:10.425Z,"3km S of Anderson Springs, CA",earthquake,0.35,0.58,0.16,8.0,automatic,nc,nc
 2023-03-21T05:39:46.290Z,38.7451668,-122.6966629,0.96,1.03,md,8.0,144.0,0.02307,0.02,nc,nc73860130,2023-03-21T05:41:25.680Z,"3km S of Anderson Springs, CA",earthquake,0.59,0.88,0.19,9.0,automatic,nc,nc
 2023-03-21T05:34:52.718Z,59.2418,-153.6516,107.0,1.7,ml,,,,0.24,ak,ak0233oe6bxz,2023-03-21T05:37:10.862Z,"59 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-21T05:51:24.433Z,63.1892,-148.8292,54.6,1.8,ml,,,,0.27,ak,ak0233oe9wxn,2023-03-21T05:54:00.273Z,"23 km SSE of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-03-21T05:44:24.289Z,59.0873,-151.9345,42.0,1.9,ml,,,,0.26,ak,ak0233oe8ews,2023-03-21T05:46:34.018Z,"Kenai Peninsula, Alaska",earthquake,,3.9,,,automatic,ak,ak
