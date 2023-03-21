@@ -5762,3 +5762,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T07:05:55.860Z,38.7574997,-122.7246704,2.62,0.95,md,7.0,148.0,0.00409,0.02,nc,nc73860175,2023-03-21T07:17:11.188Z,"3km SW of Anderson Springs, CA",earthquake,0.56,1.11,0.22,8.0,automatic,nc,nc
 2023-03-21T07:02:48.802Z,37.5694,-117.8398,4.8,1.1,ml,8.0,216.16,0.37,0.3093,nn,nn00857299,2023-03-21T07:04:10.173Z,"22 km ESE of Dyer, Nevada",earthquake,,1.1,1.06,5.0,automatic,nn,nn
 2023-03-21T06:56:56.474Z,69.1154,-53.3743,10.0,4.4,mb,64.0,42.0,2.367,0.61,us,us7000jllc,2023-03-21T07:28:45.040Z,"49 km NNW of Aasiaat, Greenland",earthquake,6.95,1.897,0.061,76.0,reviewed,us,us
+2023-03-21T07:47:12.333Z,36.7546,-116.2241,6.4,-0.5,ml,12.0,90.21,0.025,0.1049,nn,nn00857300,2023-03-21T07:47:40.761Z,"50 km ESE of Beatty, Nevada",earthquake,,0.8,1.14,5.0,automatic,nn,nn
