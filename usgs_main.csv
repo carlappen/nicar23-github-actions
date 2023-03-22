@@ -6102,3 +6102,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T16:00:31.218Z,-23.4797,-66.5108,209.976,6.5,mww,97.0,33.0,1.622,1.55,us,us7000jlxu,2023-03-22T16:38:37.362Z,"84 km NNW of San Antonio de los Cobres, Argentina",earthquake,7.58,6.025,0.059,28.0,reviewed,us,us
 2023-03-22T15:56:45.010Z,46.815333333333335,-121.94083333333332,8.65,0.25,ml,11.0,179.0,0.02697,0.08,uw,uw61904182,2023-03-22T16:37:21.420Z,"9 km NE of Ashford, Washington",earthquake,0.68,0.5,0.092152771960594,7.0,reviewed,uw,uw
 2023-03-22T11:36:08.006Z,40.0957,-119.7286,15.7,1.7,ml,14.0,113.08,0.075,0.149,nn,nn00857345,2023-03-22T16:20:14.413Z,"19 km NW of Sutcliffe, Nevada",earthquake,,1.1,0.27,7.0,reviewed,nn,nn
+2023-03-22T16:39:04.490Z,38.8431664,-122.8359985,1.68,0.28,md,12.0,91.0,0.004588,0.02,nc,nc73860650,2023-03-22T16:40:42.481Z,"10km WNW of Cobb, CA",earthquake,0.3,0.55,0.17,12.0,automatic,nc,nc
