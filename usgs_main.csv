@@ -6147,3 +6147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T20:26:17.170Z,38.831501,-122.8008347,1.59,0.71,md,9.0,87.0,0.01071,0.01,nc,nc73860720,2023-03-22T20:27:52.221Z,"7km W of Cobb, CA",earthquake,0.46,1.04,0.21,8.0,automatic,nc,nc
 2023-03-22T20:07:44.018Z,39.4523,69.9525,5.644,5.9,mb,120.0,33.0,1.43,0.79,us,us7000jm0r,2023-03-22T20:34:43.603Z,"51 km NNW of Novobod, Tajikistan",earthquake,6.85,4.129,0.028,464.0,reviewed,us,us
 2023-03-22T06:00:00.700Z,46.851333333333336,-121.75766666666668,1.5,0.24,ml,19.0,80.0,0.0231,0.1,uw,uw61904142,2023-03-22T20:33:36.670Z,"23 km ENE of Ashford, Washington",earthquake,0.23,0.44,0.1841851671770464,7.0,reviewed,uw,uw
+2023-03-22T20:40:01.759Z,63.1251,-144.3455,6.1,1.8,ml,,,,0.53,ak,ak0233qaocvj,2023-03-22T20:41:41.694Z,"36 km NW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-22T20:35:27.540Z,33.4978333,-116.5816667,9.06,0.93,ml,17.0,71.0,0.0177,0.16,ci,ci40188399,2023-03-22T20:39:11.095Z,"11km SE of Anza, CA",earthquake,0.29,0.48,0.175,14.0,automatic,ci,ci
+2023-03-22T20:23:45.527Z,-8.8081,123.1543,110.2,5.1,mb,75.0,56.0,0.922,0.69,us,us7000jm0w,2023-03-22T20:41:14.040Z,"105 km ESE of Maumere, Indonesia",earthquake,7.66,6.65,0.065,77.0,reviewed,us,us
+2023-03-22T19:58:35.670Z,51.855,-178.079833333333,2.89,1.59,ml,5.0,205.0,,0.17,av,av91815976,2023-03-22T20:38:10.560Z,"99 km W of Adak, Alaska",earthquake,0.66,1.13,0.177524411126612,5.0,reviewed,av,av
