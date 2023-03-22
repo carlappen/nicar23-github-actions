@@ -6095,3 +6095,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T15:01:58.121Z,61.6232,-148.1575,25.1,1.5,ml,,,,0.88,ak,ak0233q7gy9w,2023-03-22T15:04:07.687Z,"25 km SE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-22T14:50:33.977Z,47.4002,6.8651,9.025,4.2,mb,34.0,87.0,0.84,0.96,us,us7000jlxj,2023-03-22T15:25:32.355Z,France,earthquake,2.54,5.625,0.263,4.0,reviewed,us,us
 2023-03-22T15:18:49.522Z,-23.5608,-66.5151,211.935,5.3,mww,105.0,34.0,1.646,1.32,us,us7000jlxp,2023-03-22T15:37:21.040Z,"Jujuy, Argentina",earthquake,7.46,5.111,0.047,43.0,reviewed,us,us
+2023-03-22T15:46:52.480Z,38.7874985,-122.7649994,0.86,0.28,md,8.0,117.0,0.01879,0.02,nc,nc73860620,2023-03-22T15:48:27.000Z,"1km NNW of The Geysers, CA",earthquake,0.33,2.03,0.05,8.0,automatic,nc,nc
