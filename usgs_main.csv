@@ -6043,3 +6043,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T06:15:17.790Z,62.5572,-148.7932,51.4,1.8,ml,,,,0.63,ak,ak0233q26yqr,2023-03-22T06:18:02.319Z,"68 km E of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-03-22T06:35:32.623Z,60.755,-150.6987,56.4,2.1,ml,,,,0.23,ak,ak0233q2ba7i,2023-03-22T06:36:55.694Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-22T06:36:37.210Z,17.9953333333333,-66.8208333333333,15.83,2.33,md,8.0,175.0,0.05915,0.26,pr,pr71401083,2023-03-22T06:47:08.740Z,"0 km NW of Indios, Puerto Rico",earthquake,0.86,1.53,0.11464185303052,5.0,reviewed,pr,pr
+2023-03-22T07:12:04.720Z,38.8378334,-122.7931671,0.94,0.82,md,8.0,86.0,0.002278,0.04,nc,nc73860505,2023-03-22T07:13:42.480Z,"6km WNW of Cobb, CA",earthquake,0.38,0.93,0.26,10.0,automatic,nc,nc
+2023-03-22T06:52:22.630Z,34.0271667,-117.2341667,12.73,1.5,ml,44.0,86.0,0.09383,0.18,ci,ci40188231,2023-03-22T06:56:03.973Z,"3km SE of Loma Linda, CA",earthquake,0.26,0.53,0.173,26.0,automatic,ci,ci
+2023-03-22T06:51:36.105Z,55.4645,-157.7681,155.7,2.8,ml,,,,0.97,ak,ak0233q2epxm,2023-03-22T06:54:16.659Z,"99 km ESE of Perryville, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-03-22T06:49:20.269Z,62.1336,-145.6248,21.4,2.1,ml,,,,0.73,ak,ak0233q2e9a2,2023-03-22T06:51:06.586Z,"4 km WNW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
