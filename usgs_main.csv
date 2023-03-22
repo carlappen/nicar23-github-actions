@@ -6198,3 +6198,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T17:31:13.573Z,51.8536,-178.1749,0.0,2.1,ml,,,,0.21,ak,ak0233q8u4xp,2023-03-22T23:33:59.926Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2023-03-22T14:00:46.410Z,46.1965,-122.1945,0.37,0.5,ml,18.0,65.0,0.004143,0.15,uw,uw61904167,2023-03-22T23:34:11.700Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.2,0.3186790890388706,12.0,reviewed,uw,uw
 2023-03-22T08:12:59.640Z,56.85,-158.020166666667,-2.8,1.91,ml,5.0,265.0,,0.12,av,av91815371,2023-03-22T23:34:19.650Z,"38 km ESE of Port Heiden, Alaska",earthquake,0.85,1.95,0.461821860617096,7.0,reviewed,av,av
+2023-03-22T23:25:31.200Z,47.6415,-120.28416666666666,4.61,-0.06,ml,7.0,102.0,0.04499,0.07,uw,uw61904292,2023-03-22T23:40:10.410Z,"6 km SW of Entiat, Washington",earthquake,0.3,0.63,0.1128666393299788,3.0,reviewed,uw,uw
+2023-03-22T23:21:16.770Z,17.9388333333333,-66.9948333333333,4.41,2.48,md,6.0,231.0,0.056,0.08,pr,pr71401133,2023-03-22T23:44:33.930Z,"6 km SE of La Parguera, Puerto Rico",earthquake,0.55,0.32,0.0431795806591149,5.0,reviewed,pr,pr
+2023-03-22T03:38:08.790Z,59.3603333333333,-153.429,-1.17,0.55,ml,4.0,182.0,,0.09,av,av91815071,2023-03-22T23:44:07.800Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.17,0.51,0.119173852963915,4.0,reviewed,av,av
