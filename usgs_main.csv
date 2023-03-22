@@ -6066,3 +6066,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T11:13:46.610Z,38.8046684,-122.8006668,-0.09,1.08,md,8.0,74.0,0.005331,0.04,nc,nc73860550,2023-03-22T11:15:22.133Z,"5km NW of The Geysers, CA",earthquake,0.35,1.32,0.22,9.0,automatic,nc,nc
 2023-03-22T11:09:01.896Z,61.5718,-141.4279,0.0,1.8,ml,,,,0.78,ak,ak0233q54t8t,2023-03-22T11:10:48.757Z,"81 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-22T11:25:01.490Z,38.8264999,-122.821167,1.7,0.97,md,17.0,67.0,0.009203,0.02,nc,nc73860555,2023-03-22T11:26:37.251Z,"8km NW of The Geysers, CA",earthquake,0.26,0.46,0.25,17.0,automatic,nc,nc
+2023-03-22T11:32:33.500Z,19.1800003051758,-155.383331298828,30.1200008392334,2.43000007,md,19.0,196.0,,0.100000001,hv,hv73346202,2023-03-22T11:35:52.050Z,"10 km ESE of Pāhala, Hawaii",earthquake,1.06,1.50999999,1.21000004,3.0,automatic,hv,hv
