@@ -6163,3 +6163,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T21:25:49.350Z,38.7915001,-122.7613297,1.89,0.96,md,13.0,78.0,0.02085,0.02,nc,nc73860760,2023-03-22T21:27:26.511Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.61,0.2,12.0,automatic,nc,nc
 2023-03-22T21:23:54.270Z,38.786499,-122.7669983,1.48,0.72,md,8.0,130.0,0.01521,0.02,nc,nc73860755,2023-03-22T21:25:31.682Z,"1km NW of The Geysers, CA",earthquake,0.42,0.72,0.26,9.0,automatic,nc,nc
 2023-03-22T17:29:52.473Z,37.0507,-116.171,8.6,0.0,ml,11.0,66.62,0.055,0.1411,nn,nn00857370,2023-03-22T21:26:16.479Z,Nevada,earthquake,,1.6,0.9,8.0,reviewed,nn,nn
+2023-03-22T11:47:38.240Z,19.8473333333333,-155.616833333333,7.76,2.03,md,29.0,143.0,,0.29,hv,hv73346217,2023-03-22T21:44:40.240Z,"Island of Hawaii, Hawaii",earthquake,0.61,0.54,0.0942846808256201,12.0,reviewed,hv,hv
