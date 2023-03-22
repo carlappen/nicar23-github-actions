@@ -6070,3 +6070,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T11:42:27.540Z,38.8426666,-122.8255005,1.99,0.99,md,18.0,96.0,0.008798,0.02,nc,nc73860565,2023-03-22T11:44:01.674Z,"9km WNW of Cobb, CA",earthquake,0.27,0.57,0.27,18.0,automatic,nc,nc
 2023-03-22T11:39:21.554Z,61.1286,-150.0918,36.7,2.5,ml,,,,0.47,ak,ak0233q5ba8r,2023-03-22T11:41:13.831Z,"14 km SW of Anchorage, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-22T11:37:54.840Z,37.8025017,-122.1678314,9.12,1.23,md,11.0,103.0,0.02252,0.03,nc,nc73860560,2023-03-22T11:39:32.361Z,"5km SW of Moraga, CA",earthquake,0.36,0.73,0.33,7.0,automatic,nc,nc
+2023-03-22T11:53:21.784Z,62.8387,-147.1733,28.6,1.8,ml,,,,0.69,ak,ak0233q5eaaa,2023-03-22T11:55:26.413Z,"69 km NNW of Lake Louise, Alaska",earthquake,,0.2,,,automatic,ak,ak
