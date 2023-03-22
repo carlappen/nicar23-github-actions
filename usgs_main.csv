@@ -6047,3 +6047,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T06:52:22.630Z,34.0271667,-117.2341667,12.73,1.5,ml,44.0,86.0,0.09383,0.18,ci,ci40188231,2023-03-22T06:56:03.973Z,"3km SE of Loma Linda, CA",earthquake,0.26,0.53,0.173,26.0,automatic,ci,ci
 2023-03-22T06:51:36.105Z,55.4645,-157.7681,155.7,2.8,ml,,,,0.97,ak,ak0233q2epxm,2023-03-22T06:54:16.659Z,"99 km ESE of Perryville, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-03-22T06:49:20.269Z,62.1336,-145.6248,21.4,2.1,ml,,,,0.73,ak,ak0233q2e9a2,2023-03-22T06:51:06.586Z,"4 km WNW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-22T07:45:09.330Z,39.3764992,-122.9078369,3.43,2.7,md,23.0,89.0,0.1706,0.13,nc,nc73860520,2023-03-22T07:46:46.046Z,"6km SE of Lake Pillsbury, CA",earthquake,0.32,1.95,0.21,19.0,automatic,nc,nc
