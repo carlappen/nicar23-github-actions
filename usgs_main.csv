@@ -6089,3 +6089,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T13:57:45.410Z,61.476,-151.6366,71.0,1.4,ml,,,,0.26,ak,ak0233q6m26l,2023-03-22T13:59:37.200Z,"47 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-22T14:34:05.582Z,58.1888,-137.3575,16.6,3.9,ml,,,,0.74,ak,ak0233q72h6o,2023-03-22T14:40:55.665Z,"59 km W of Elfin Cove, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-22T14:16:46.540Z,-30.2645,-177.3161,10.0,5.5,mb,53.0,67.0,1.129,0.96,us,us7000jlxe,2023-03-22T14:40:57.313Z,"Kermadec Islands, New Zealand",earthquake,8.17,1.879,0.047,159.0,reviewed,us,us
+2023-03-22T14:54:47.634Z,62.1538,-145.5707,20.0,2.2,ml,,,,0.84,ak,ak0233q76ut7,2023-03-22T14:56:39.086Z,"5 km NNW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
