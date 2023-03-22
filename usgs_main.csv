@@ -6151,3 +6151,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T20:35:27.540Z,33.4978333,-116.5816667,9.06,0.93,ml,17.0,71.0,0.0177,0.16,ci,ci40188399,2023-03-22T20:39:11.095Z,"11km SE of Anza, CA",earthquake,0.29,0.48,0.175,14.0,automatic,ci,ci
 2023-03-22T20:23:45.527Z,-8.8081,123.1543,110.2,5.1,mb,75.0,56.0,0.922,0.69,us,us7000jm0w,2023-03-22T20:41:14.040Z,"105 km ESE of Maumere, Indonesia",earthquake,7.66,6.65,0.065,77.0,reviewed,us,us
 2023-03-22T19:58:35.670Z,51.855,-178.079833333333,2.89,1.59,ml,5.0,205.0,,0.17,av,av91815976,2023-03-22T20:38:10.560Z,"99 km W of Adak, Alaska",earthquake,0.66,1.13,0.177524411126612,5.0,reviewed,av,av
+2023-03-22T20:51:52.820Z,32.8451667,-115.4676667,6.88,1.66,ml,12.0,98.0,0.04345,0.3,ci,ci40188407,2023-03-22T20:55:26.798Z,"9km WNW of Holtville, CA",earthquake,0.97,1.46,0.206,20.0,automatic,ci,ci
+2023-03-22T17:18:49.909Z,35.741,-104.8264,5.0,2.5,ml,8.0,172.0,1.059,1.09,us,us7000jlyb,2023-03-22T20:50:28.040Z,"15 km ESE of Watrous, New Mexico",earthquake,3.44,1.933,0.081,20.0,reviewed,us,us
+2023-03-22T08:12:59.590Z,56.8501666666667,-158.0215,-3.2,1.93,ml,6.0,262.0,,0.1,av,av91095593,2023-03-22T20:51:40.930Z,"38 km ESE of Port Heiden, Alaska",earthquake,0.62,1.17,0.474194225995343,6.0,reviewed,av,av
