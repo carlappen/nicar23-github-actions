@@ -6083,3 +6083,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T13:30:01.670Z,38.8274994,-122.8036652,1.79,0.8,md,8.0,72.0,0.00647,0.02,nc,nc73860590,2023-03-22T13:31:36.183Z,"7km NW of The Geysers, CA",earthquake,0.41,0.94,0.19,10.0,automatic,nc,nc
 2023-03-22T08:43:10.740Z,40.709,-112.0698333,8.9,0.65,md,11.0,88.0,0.02507,0.19,uu,uu60534796,2023-03-22T13:34:53.020Z,"2 km E of Magna, Utah",earthquake,0.59,1.05,0.236,5.0,reviewed,uu,uu
 2023-03-22T13:50:44.160Z,32.9821667,-115.5366667,7.86,2.3,ml,28.0,89.0,0.06763,0.29,ci,ci40188295,2023-03-22T13:54:31.775Z,"1km WNW of Brawley, CA",earthquake,0.43,1.09,0.2,26.0,automatic,ci,ci
+2023-03-22T14:24:02.360Z,33.6026649,-116.7288361,16.62,1.45,ml,26.0,69.0,0.03076,0.18,ci,ci40188303,2023-03-22T14:26:31.906Z,"7km NW of Anza, CA",earthquake,0.36,0.67,0.233,4.0,automatic,ci,ci
+2023-03-22T14:16:10.870Z,38.8481674,-122.8174973,2.01,0.74,md,10.0,88.0,0.007932,0.02,nc,nc73860600,2023-03-22T14:17:46.497Z,"9km WNW of Cobb, CA",earthquake,0.38,0.99,0.45,12.0,automatic,nc,nc
+2023-03-22T14:00:34.681Z,59.9596,-151.8405,5.9,1.8,ml,,,,1.16,ak,ak0233q6v958,2023-03-22T14:02:25.474Z,"6 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-22T13:57:45.410Z,61.476,-151.6366,71.0,1.4,ml,,,,0.26,ak,ak0233q6m26l,2023-03-22T13:59:37.200Z,"47 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
