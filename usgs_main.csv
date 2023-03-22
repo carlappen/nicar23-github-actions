@@ -6113,3 +6113,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T09:33:02.640Z,17.9605,-66.9573333333333,7.86,1.92,md,3.0,199.0,0.07571,0.01,pr,pr71401103,2023-03-22T17:08:37.780Z,"5 km SW of Fuig, Puerto Rico",earthquake,2.99,0.37,0.0187243607101035,3.0,reviewed,pr,pr
 2023-03-22T07:24:27.370Z,61.2772,-147.5873,27.0,1.2,ml,,,,1.06,ak,ak0233q2uct2,2023-03-22T17:21:45.072Z,Southern Alaska,earthquake,,42.1,,,reviewed,ak,ak
 2023-03-22T00:28:10.938Z,40.2104,-119.8236,0.4,0.6,ml,3.0,249.74,0.081,0.0643,nn,nn00857359,2023-03-22T17:06:35.236Z,"27 km ENE of Herlong, California",earthquake,,45.5,0.27,2.0,reviewed,nn,nn
+2023-03-22T15:18:51.480Z,58.2183333333333,-155.067666666667,31.44,0.04,ml,6.0,145.0,,0.08,av,av91815611,2023-03-22T17:33:39.440Z,"80 km NNW of Karluk, Alaska",earthquake,0.69,0.82,0.248975756304313,6.0,reviewed,av,av
