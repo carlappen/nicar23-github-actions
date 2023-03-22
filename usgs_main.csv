@@ -6024,3 +6024,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T03:19:15.896Z,33.3323,137.7834,342.335,4.2,mb,53.0,75.0,1.382,0.74,us,us7000jlvi,2023-03-22T03:32:40.040Z,"146 km SSW of Ōyama, Japan",earthquake,9.14,6.881,0.087,37.0,reviewed,us,us
 2023-03-22T01:49:25.180Z,51.8575,-178.083833333333,0.13,1.16,ml,4.0,207.0,,0.19,av,av91095488,2023-03-22T03:25:18.100Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.77,31.61,0.156493476217329,4.0,reviewed,av,av
 2023-03-22T03:40:24.455Z,62.1476,-150.3188,45.4,3.6,ml,,,,0.57,ak,ak0233q0k1av,2023-03-22T03:42:14.550Z,"19 km SSW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-22T03:52:11.950Z,33.9031677,-118.3180008,12.77,1.99,ml,16.0,95.0,0.02007,0.33,ci,ci40188207,2023-03-22T03:55:52.015Z,"2km NNW of Gardena, CA",earthquake,1.13,1.14,0.276,24.0,automatic,ci,ci
+2023-03-22T03:42:20.100Z,17.9253333333333,-66.0108333333333,12.27,2.58,md,6.0,234.0,0.09975,0.07,pr,pr71401068,2023-03-22T03:52:08.050Z,"6 km SSW of Lamboglia, Puerto Rico",earthquake,0.75,0.46,0.0871542271470345,3.0,reviewed,pr,pr
