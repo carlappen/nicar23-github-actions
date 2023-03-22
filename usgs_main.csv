@@ -6059,3 +6059,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T08:56:14.070Z,33.594,-116.7973333,9.75,0.69,ml,17.0,94.0,0.02774,0.21,ci,ci40188247,2023-03-22T08:59:55.339Z,"12km WNW of Anza, CA",earthquake,0.45,1.22,0.082,7.0,automatic,ci,ci
 2023-03-22T08:23:46.525Z,40.2813,142.9317,35.548,4.3,mb,32.0,137.0,1.511,0.94,us,us7000jlwl,2023-03-22T09:11:29.040Z,"near the east coast of Honshu, Japan",earthquake,8.6,5.5,0.111,23.0,reviewed,us,us
 2023-03-22T09:59:13.115Z,58.1075,-137.5433,16.0,3.8,ml,,,,0.72,ak,ak0233q48os9,2023-03-22T10:24:59.040Z,Southeastern Alaska,earthquake,,0.5,,,reviewed,ak,ak
+2023-03-22T10:39:11.470Z,35.8703333,-117.6958333,8.7,1.73,ml,17.0,82.0,0.08335,0.15,ci,ci40188255,2023-03-22T10:42:42.889Z,"20km ESE of Little Lake, CA",earthquake,0.33,0.75,0.178,18.0,automatic,ci,ci
