@@ -6058,3 +6058,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T09:13:30.483Z,62.1312,-151.1237,67.8,1.3,ml,,,,0.23,ak,ak0233q3yv3s,2023-03-22T09:15:45.297Z,"21 km NE of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-22T08:56:14.070Z,33.594,-116.7973333,9.75,0.69,ml,17.0,94.0,0.02774,0.21,ci,ci40188247,2023-03-22T08:59:55.339Z,"12km WNW of Anza, CA",earthquake,0.45,1.22,0.082,7.0,automatic,ci,ci
 2023-03-22T08:23:46.525Z,40.2813,142.9317,35.548,4.3,mb,32.0,137.0,1.511,0.94,us,us7000jlwl,2023-03-22T09:11:29.040Z,"near the east coast of Honshu, Japan",earthquake,8.6,5.5,0.111,23.0,reviewed,us,us
+2023-03-22T09:59:13.115Z,58.1075,-137.5433,16.0,3.8,ml,,,,0.72,ak,ak0233q48os9,2023-03-22T10:24:59.040Z,Southeastern Alaska,earthquake,,0.5,,,reviewed,ak,ak
