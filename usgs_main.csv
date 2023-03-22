@@ -6094,3 +6094,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T15:25:24.320Z,35.6824989,-117.5471649,7.63,2.26,ml,28.0,83.0,0.09918,0.16,ci,ci40188311,2023-03-22T15:28:56.150Z,"14km ENE of Ridgecrest, CA",earthquake,0.33,1.05,0.302,27.0,automatic,ci,ci
 2023-03-22T15:01:58.121Z,61.6232,-148.1575,25.1,1.5,ml,,,,0.88,ak,ak0233q7gy9w,2023-03-22T15:04:07.687Z,"25 km SE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-22T14:50:33.977Z,47.4002,6.8651,9.025,4.2,mb,34.0,87.0,0.84,0.96,us,us7000jlxj,2023-03-22T15:25:32.355Z,France,earthquake,2.54,5.625,0.263,4.0,reviewed,us,us
+2023-03-22T15:18:49.522Z,-23.5608,-66.5151,211.935,5.3,mww,105.0,34.0,1.646,1.32,us,us7000jlxp,2023-03-22T15:37:21.040Z,"Jujuy, Argentina",earthquake,7.46,5.111,0.047,43.0,reviewed,us,us
