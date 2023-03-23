@@ -6355,3 +6355,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T05:34:13.470Z,36.8638333,-113.4263333,21.16,1.23,md,8.0,234.0,0.2078,0.08,uu,uu60534876,2023-03-23T13:24:46.790Z,Arizona,earthquake,0.98,1.07,0.373,5.0,reviewed,uu,uu
 2023-03-23T02:24:47.880Z,36.4075,-96.88366667,6.75,0.75,ml,32.0,76.0,0.03689276038,0.25,ok,ok2023fsen,2023-03-23T13:09:18.034Z,"10 km NW of Pawnee, Oklahoma",earthquake,,0.5,0.21,13.0,reviewed,ok,ok
 2023-03-22T20:05:51.649Z,36.20816667,-95.859,0.0,1.33,ml,37.0,116.0,0.3023406704,0.44,ok,ok2023frsa,2023-03-23T13:26:36.316Z,Oklahoma,quarry blast,,0.5,0.11,4.0,reviewed,ok,ok
+2023-03-23T13:41:15.330Z,38.8376656,-122.7945023,1.86,0.38,md,7.0,122.0,0.003331,0.01,nc,nc73861020,2023-03-23T13:42:53.583Z,"6km WNW of Cobb, CA",earthquake,0.61,1.49,0.3,8.0,automatic,nc,nc
+2023-03-22T20:39:34.630Z,34.38933333,-96.86666667,0.0,1.56,ml,23.0,158.0,0.3437325479,0.29,ok,ok2023frtd,2023-03-23T13:38:26.443Z,"4 km WSW of Mill Creek, Oklahoma",quarry blast,,0.5,0.28,4.0,reviewed,ok,ok
