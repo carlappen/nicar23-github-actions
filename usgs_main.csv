@@ -6361,3 +6361,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T13:49:58.510Z,38.8361664,-122.8160019,1.46,0.28,md,8.0,67.0,0.01357,0.01,nc,nc73861030,2023-03-23T13:51:32.927Z,"8km W of Cobb, CA",earthquake,0.35,1.82,0.2,8.0,automatic,nc,nc
 2023-03-23T13:43:31.209Z,38.1823,-117.7598,11.6,2.5,ml,29.0,179.85,0.113,0.2558,nn,nn00857392,2023-03-23T13:45:06.720Z,"38 km SE of Mina, Nevada",earthquake,,0.3,0.86,16.0,automatic,nn,nn
 2023-03-23T09:53:00.860Z,31.1275,-116.675,10.04,3.94,ml,6.0,229.0,0.4297,0.14,ci,ci40188551,2023-03-23T13:50:07.153Z,"66km S of Maneadero, B.C., MX",earthquake,0.61,1.35,0.188,44.0,reviewed,ci,ci
+2023-03-23T13:55:11.007Z,61.9989,-149.7826,38.9,1.6,ml,,,,0.48,ak,ak0233ru4wl8,2023-03-23T13:59:06.540Z,"18 km S of Susitna North, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-03-23T09:09:10.260Z,44.4236667,-110.3008333,4.9,1.52,md,8.0,83.0,0.03379,0.08,uu,uu60534911,2023-03-23T14:13:05.100Z,"69 km ESE of West Yellowstone, Montana",earthquake,0.41,0.51,0.446,5.0,reviewed,uu,uu
+2023-03-23T09:01:45.500Z,44.6115,-110.6921667,8.52,0.54,md,7.0,131.0,0.03554,0.11,uu,uu60534906,2023-03-23T14:15:41.600Z,"33 km E of West Yellowstone, Montana",earthquake,0.83,0.92,0.424,6.0,reviewed,uu,uu
+2023-03-23T08:45:02.190Z,44.6393333,-110.7085,1.64,0.5,md,8.0,159.0,0.05773,0.12,uu,uu60534901,2023-03-23T14:17:47.340Z,Wyoming,earthquake,0.67,3.52,0.491,5.0,reviewed,uu,uu
