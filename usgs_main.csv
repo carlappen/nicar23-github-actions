@@ -6328,3 +6328,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T11:12:25.350Z,38.5448341,-122.5654984,8.12,1.35,md,14.0,112.0,0.1128,0.09,nc,nc73860980,2023-03-23T11:14:02.738Z,"4km SSE of Calistoga, CA",earthquake,0.35,1.55,0.15,10.0,automatic,nc,nc
 2023-03-23T11:02:04.810Z,35.7016667,-117.5038333,14.07,1.28,ml,17.0,79.0,0.201,0.16,ci,ci40188575,2023-03-23T11:05:38.553Z,"12km SW of Searles Valley, CA",earthquake,0.36,0.94,0.117,12.0,automatic,ci,ci
 2023-03-23T10:50:29.800Z,39.2971649,-122.8883362,6.68,1.57,md,10.0,149.0,0.1768,0.11,nc,nc73860965,2023-03-23T11:03:10.831Z,"14km SSE of Lake Pillsbury, CA",earthquake,0.46,3.31,0.12,6.0,automatic,nc,nc
+2023-03-23T11:21:02.377Z,58.0891,-138.1692,1.0,3.0,ml,,,,0.85,ak,ak0233rsqqd9,2023-03-23T11:23:00.477Z,"108 km W of Elfin Cove, Alaska",earthquake,,0.4,,,automatic,ak,ak
