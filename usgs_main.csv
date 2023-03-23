@@ -6388,3 +6388,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T16:00:38.367Z,37.5369,-117.9212,4.1,1.5,ml,10.0,210.54,0.374,0.2238,nn,nn00857398,2023-03-23T16:02:12.653Z,California-Nevada border region,earthquake,,0.8,0.85,8.0,automatic,nn,nn
 2023-03-23T15:58:13.750Z,33.5326667,-116.7291667,4.13,0.87,ml,32.0,41.0,0.03335,0.18,ci,ci40188631,2023-03-23T16:01:53.616Z,"6km WSW of Anza, CA",earthquake,0.22,0.48,0.125,20.0,automatic,ci,ci
 2023-03-22T22:54:09.477Z,32.0675444,-103.7397188,7.879711914,1.9,ml,29.0,61.0,0.07228284733,0.2,tx,tx2023frxo,2023-03-23T16:04:35.875Z,New Mexico,earthquake,0.939571773,1.168123299,0.0,7.0,reviewed,tx,tx
+2023-03-23T16:45:33.727Z,36.9249,-115.3445,1.7,1.1,ml,10.0,315.26,0.525,0.2612,nn,nn00857399,2023-03-23T16:46:33.567Z,"49 km NE of Indian Springs, Nevada",earthquake,,26.9,1.19,6.0,automatic,nn,nn
