@@ -6368,3 +6368,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T14:56:13.480Z,38.8256683,-122.7979965,2.54,1.66,md,31.0,55.0,0.009703,0.02,nc,nc73861045,2023-03-23T14:57:47.379Z,"6km NW of The Geysers, CA",earthquake,0.2,0.36,0.18,30.0,automatic,nc,nc
 2023-03-23T14:50:07.445Z,63.8014,-147.6622,8.4,1.9,ml,,,,0.48,ak,ak0233rup9c8,2023-03-23T14:51:50.906Z,"62 km E of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-23T14:48:56.930Z,19.1873340606689,-155.391006469727,29.8700008392334,2.1099999,md,10.0,227.0,,0.119999997,hv,hv73347282,2023-03-23T14:52:02.340Z,"Island of Hawaii, Hawaii",earthquake,1.64,2.05999994,1.25999999,3.0,automatic,hv,hv
+2023-03-23T15:13:51.700Z,38.8226662,-122.8041687,2.86,0.79,md,11.0,69.0,0.00467,0.02,nc,nc73861070,2023-03-23T15:15:27.463Z,"6km NW of The Geysers, CA",earthquake,0.34,1.59,0.16,11.0,automatic,nc,nc
+2023-03-23T15:10:29.820Z,38.8223343,-122.8046646,3.03,1.0,md,20.0,42.0,0.004356,0.02,nc,nc73861065,2023-03-23T15:12:07.533Z,"6km NW of The Geysers, CA",earthquake,0.26,0.59,0.16,22.0,automatic,nc,nc
+2023-03-23T15:06:18.707Z,56.8899,-157.8001,8.1,2.4,ml,,,,0.81,ak,ak0233rv1ab2,2023-03-23T15:08:22.638Z,Alaska Peninsula,earthquake,,0.5,,,automatic,ak,ak
+2023-03-23T15:03:04.440Z,38.8223343,-122.8041687,3.09,0.42,md,8.0,82.0,0.004733,0.01,nc,nc73861050,2023-03-23T15:20:10.308Z,"6km NW of The Geysers, CA",earthquake,0.48,1.8,0.3,10.0,automatic,nc,nc
+2023-03-23T14:53:30.149Z,35.91633333,-95.15466667,0.0,1.42,ml,48.0,106.0,0.5173984688,0.52,ok,ok2023ftdf,2023-03-23T15:02:53.463Z,"2 km SSW of Hulbert, Oklahoma",quarry blast,,0.6,0.23,13.0,reviewed,ok,ok
