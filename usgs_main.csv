@@ -6469,3 +6469,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T18:36:45.253Z,29.9884,141.8759,28.242,4.6,mb,103.0,93.0,3.58,0.69,us,us7000jm8j,2023-03-23T21:22:17.040Z,"Izu Islands, Japan region",earthquake,7.97,4.049,0.049,126.0,reviewed,us,us
 2023-03-23T13:27:35.560Z,19.1428333333333,-155.448333333333,31.36,1.7,md,28.0,219.0,,0.15,hv,hv73347247,2023-03-23T21:18:03.340Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.55,0.66,0.13816902244641,13.0,reviewed,hv,hv
 2023-03-23T11:53:25.290Z,19.1478333333333,-155.363,29.39,1.74,md,29.0,226.0,,0.11,hv,hv73347207,2023-03-23T21:25:35.880Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.57,0.83,0.131966510824678,14.0,reviewed,hv,hv
+2023-03-23T21:29:05.030Z,33.3453333,-116.8461667,8.39,1.28,ml,39.0,43.0,0.1314,0.21,ci,ci40188783,2023-03-23T21:32:39.839Z,"2km SE of Palomar Observatory, CA",earthquake,0.23,1.21,0.126,26.0,automatic,ci,ci
