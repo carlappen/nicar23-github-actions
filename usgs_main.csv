@@ -6311,3 +6311,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T08:52:27.880Z,19.1413326263428,-155.490661621094,31.1200008392334,2.49,ml,15.0,254.0,,0.0799999982,hv,hv73347082,2023-03-23T08:57:58.260Z,"Island of Hawaii, Hawaii",earthquake,1.95,1.35000002,2.9,10.0,automatic,hv,hv
 2023-03-23T08:52:23.040Z,38.8214989,-122.7981644,2.66,0.84,md,17.0,56.0,0.009494,0.01,nc,nc73860930,2023-03-23T09:15:11.183Z,"6km NW of The Geysers, CA",earthquake,0.31,0.59,0.22,17.0,automatic,nc,nc
 2023-03-23T08:51:36.080Z,38.8230019,-122.800499,3.15,0.77,md,9.0,114.0,0.00749,0.01,nc,nc73860925,2023-03-23T09:09:11.150Z,"6km NW of The Geysers, CA",earthquake,1.0,1.44,0.36,12.0,automatic,nc,nc
+2023-03-23T09:31:26.560Z,38.8321648,-122.8171692,1.66,0.88,md,9.0,83.0,0.01036,0.01,nc,nc73860940,2023-03-23T09:32:59.155Z,"8km NW of The Geysers, CA",earthquake,0.4,1.32,0.09,2.0,automatic,nc,nc
+2023-03-23T09:29:49.999Z,39.0129,-119.6623,10.9,1.4,ml,10.0,122.47,0.09,0.0933,nn,nn00857391,2023-03-23T09:31:01.263Z,"6 km SE of Johnson Lane, Nevada",earthquake,,0.7,0.31,6.0,automatic,nn,nn
+2023-03-23T09:21:37.494Z,62.2529,-152.0143,0.0,1.6,ml,,,,0.76,ak,ak0233rrjxwa,2023-03-23T09:24:12.743Z,"43 km NW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
