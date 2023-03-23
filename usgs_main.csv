@@ -6248,3 +6248,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T02:42:54.580Z,51.869,-177.975833333333,5.98,1.54,ml,4.0,129.0,,0.14,av,av91816426,2023-03-23T03:07:23.020Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.55,1.27,0.144217421191735,4.0,reviewed,av,av
 2023-03-23T01:43:20.814Z,40.4529,20.7007,13.951,4.9,mb,67.0,36.0,0.784,0.82,us,us7000jm2z,2023-03-23T03:24:05.040Z,"12 km N of Ersekë, Albania",earthquake,3.28,4.072,0.06,87.0,reviewed,us,us
 2023-03-23T03:24:54.750Z,38.8346672,-122.8014984,1.75,1.22,md,16.0,63.0,0.009479,0.01,nc,nc73860855,2023-03-23T03:26:31.767Z,"7km WNW of Cobb, CA",earthquake,0.22,0.46,0.23,15.0,automatic,nc,nc
+2023-03-23T03:41:33.110Z,19.1735000610352,-155.371337890625,27.5499992370605,1.78999996,md,32.0,196.0,,0.109999999,hv,hv73346757,2023-03-23T03:44:50.300Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.85,1.09000003,1.58000004,10.0,automatic,hv,hv
+2023-03-23T03:39:02.898Z,59.6757,-148.792,0.0,2.5,ml,,,,0.88,ak,ak0233ro34gh,2023-03-23T03:41:48.048Z,"57 km SE of Lowell Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-23T03:38:53.860Z,36.6928329,-121.3496704,5.14,3.36,ml,56.0,47.0,0.01482,0.27,nc,nc73860860,2023-03-23T03:44:05.932Z,"11km SSW of Tres Pinos, CA",earthquake,0.34,0.91,0.239,29.0,automatic,nc,nc
