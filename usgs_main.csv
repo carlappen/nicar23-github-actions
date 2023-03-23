@@ -6459,3 +6459,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T20:28:07.380Z,38.7610016,-122.7269974,1.0,1.06,md,8.0,109.0,0.001772,0.03,nc,nc73861200,2023-03-23T20:29:44.560Z,"3km SE of The Geysers, CA",earthquake,0.44,0.6,0.16,7.0,automatic,nc,nc
 2023-03-23T20:27:37.490Z,38.7616653,-122.7275009,1.65,1.2,md,9.0,139.0,0.002065,0.02,nc,nc73861190,2023-03-23T20:29:14.523Z,"3km SE of The Geysers, CA",earthquake,0.53,0.38,0.17,7.0,automatic,nc,nc
 2023-03-23T20:25:09.910Z,38.788166,-122.7256699,1.93,1.05,md,9.0,91.0,0.009944,0.02,nc,nc73861185,2023-03-23T20:26:44.159Z,"3km ENE of The Geysers, CA",earthquake,0.36,0.89,0.34,9.0,automatic,nc,nc
+2023-03-23T20:44:48.210Z,63.2081,-149.2124,73.4,1.8,ml,,,,0.79,ak,ak0233ry8nth,2023-03-23T20:46:54.737Z,"24 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
