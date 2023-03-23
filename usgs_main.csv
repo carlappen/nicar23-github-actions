@@ -6499,3 +6499,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T15:35:30.022Z,36.3881,-116.1584,6.6,0.7,ml,8.0,273.16,0.119,0.1217,nn,nn00857422,2023-03-23T22:47:36.452Z,"25 km NW of Pahrump, Nevada",earthquake,,5.1,1.37,3.0,reviewed,nn,nn
 2023-03-23T07:31:18.980Z,51.8526666666667,-178.079166666667,2.97,1.41,ml,4.0,206.0,,0.15,av,av91816666,2023-03-23T22:56:29.520Z,"99 km W of Adak, Alaska",earthquake,0.68,1.07,0.1826278002763,4.0,reviewed,av,av
 2023-03-23T07:20:58.800Z,51.8626666666667,-178.074166666667,-1.8,1.29,ml,5.0,188.0,,0.16,av,av91816661,2023-03-23T22:52:38.340Z,"99 km W of Adak, Alaska",earthquake,0.5,1.21,0.236157379549358,5.0,reviewed,av,av
+2023-03-23T23:06:21.037Z,57.0565,-155.9359,19.6,2.1,ml,,,,0.36,ak,ak0233rzsrbr,2023-03-23T23:07:50.745Z,"101 km ESE of Ugashik, Alaska",earthquake,,4.6,,,automatic,ak,ak
+2023-03-23T23:03:32.586Z,59.7271,-153.3158,113.9,2.6,ml,,,,0.81,ak,ak0233rzs52i,2023-03-23T23:05:41.631Z,"44 km E of Pedro Bay, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-23T23:02:27.959Z,61.0166,-147.775,19.2,2.1,ml,,,,0.57,ak,ak0233rzrwzv,2023-03-23T23:04:30.193Z,"56 km ENE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
