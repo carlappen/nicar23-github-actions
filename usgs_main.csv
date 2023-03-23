@@ -6314,3 +6314,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T09:31:26.560Z,38.8321648,-122.8171692,1.66,0.88,md,9.0,83.0,0.01036,0.01,nc,nc73860940,2023-03-23T09:32:59.155Z,"8km NW of The Geysers, CA",earthquake,0.4,1.32,0.09,2.0,automatic,nc,nc
 2023-03-23T09:29:49.999Z,39.0129,-119.6623,10.9,1.4,ml,10.0,122.47,0.09,0.0933,nn,nn00857391,2023-03-23T09:31:01.263Z,"6 km SE of Johnson Lane, Nevada",earthquake,,0.7,0.31,6.0,automatic,nn,nn
 2023-03-23T09:21:37.494Z,62.2529,-152.0143,0.0,1.6,ml,,,,0.76,ak,ak0233rrjxwa,2023-03-23T09:24:12.743Z,"43 km NW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-23T09:50:11.810Z,35.5113333,-118.357,1.24,1.78,ml,25.0,61.0,0.1785,0.18,ci,ci40188543,2023-03-23T09:53:50.020Z,"15km SE of Bodfish, CA",earthquake,0.25,0.56,0.205,27.0,automatic,ci,ci
