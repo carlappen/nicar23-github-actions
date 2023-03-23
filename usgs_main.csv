@@ -6299,3 +6299,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T07:01:02.400Z,32.8908333,-116.2415,3.15,1.23,ml,25.0,91.0,0.08217,0.2,ci,ci40188527,2023-03-23T07:04:35.246Z,"28km ENE of Pine Valley, CA",earthquake,0.3,0.75,0.153,14.0,automatic,ci,ci
 2023-03-23T06:57:06.532Z,44.4544,-107.7213,10.378,2.8,ml,22.0,71.0,1.287,0.45,us,us7000jm4n,2023-03-23T07:09:47.040Z,"10 km SSE of Shell, Wyoming",earthquake,3.23,7.479,0.053,46.0,reviewed,us,us
 2023-03-23T06:56:44.930Z,19.2418327331543,-155.399993896484,28.5300006866455,1.83000004,md,30.0,135.0,,0.140000001,hv,hv73346932,2023-03-23T06:59:54.520Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.63,0.99000001,1.44000006,7.0,automatic,hv,hv
+2023-03-23T07:18:18.320Z,36.344,71.1837,89.845,4.3,mb,26.0,105.0,2.508,0.85,us,us7000jm4q,2023-03-23T07:35:22.040Z,"48 km SW of Ashkāsham, Afghanistan",earthquake,8.89,9.201,0.161,11.0,reviewed,us,us
