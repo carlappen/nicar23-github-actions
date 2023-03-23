@@ -6365,3 +6365,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T09:09:10.260Z,44.4236667,-110.3008333,4.9,1.52,md,8.0,83.0,0.03379,0.08,uu,uu60534911,2023-03-23T14:13:05.100Z,"69 km ESE of West Yellowstone, Montana",earthquake,0.41,0.51,0.446,5.0,reviewed,uu,uu
 2023-03-23T09:01:45.500Z,44.6115,-110.6921667,8.52,0.54,md,7.0,131.0,0.03554,0.11,uu,uu60534906,2023-03-23T14:15:41.600Z,"33 km E of West Yellowstone, Montana",earthquake,0.83,0.92,0.424,6.0,reviewed,uu,uu
 2023-03-23T08:45:02.190Z,44.6393333,-110.7085,1.64,0.5,md,8.0,159.0,0.05773,0.12,uu,uu60534901,2023-03-23T14:17:47.340Z,Wyoming,earthquake,0.67,3.52,0.491,5.0,reviewed,uu,uu
+2023-03-23T14:56:13.480Z,38.8256683,-122.7979965,2.54,1.66,md,31.0,55.0,0.009703,0.02,nc,nc73861045,2023-03-23T14:57:47.379Z,"6km NW of The Geysers, CA",earthquake,0.2,0.36,0.18,30.0,automatic,nc,nc
+2023-03-23T14:50:07.445Z,63.8014,-147.6622,8.4,1.9,ml,,,,0.48,ak,ak0233rup9c8,2023-03-23T14:51:50.906Z,"62 km E of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-23T14:48:56.930Z,19.1873340606689,-155.391006469727,29.8700008392334,2.1099999,md,10.0,227.0,,0.119999997,hv,hv73347282,2023-03-23T14:52:02.340Z,"Island of Hawaii, Hawaii",earthquake,1.64,2.05999994,1.25999999,3.0,automatic,hv,hv
