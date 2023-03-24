@@ -6718,3 +6718,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T15:00:16.579Z,62.0099,-149.7836,34.7,1.6,ml,,,,0.57,ak,ak0233tijcc9,2023-03-24T15:02:17.551Z,"17 km SSE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-24T05:10:08.310Z,37.4313333,-113.1156667,10.6,1.11,ml,6.0,179.0,0.0755,0.05,uu,uu60534991,2023-03-24T15:05:40.290Z,"13 km SSE of Kanarraville, Utah",earthquake,0.48,1.21,0.071,2.0,reviewed,uu,uu
 2023-03-24T04:57:57.760Z,37.4301667,-113.1148333,9.7,1.27,ml,8.0,180.0,0.07441,0.1,uu,uu60534986,2023-03-24T15:23:09.220Z,"13 km SSE of Kanarraville, Utah",earthquake,0.49,0.97,0.276,4.0,reviewed,uu,uu
+2023-03-24T00:43:45.060Z,44.1446667,-110.652,10.55,0.73,md,9.0,130.0,0.149,0.16,uu,uu60534981,2023-03-24T15:37:33.590Z,"53 km NE of Alta, Wyoming",earthquake,0.96,2.26,0.383,3.0,reviewed,uu,uu
