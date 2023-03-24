@@ -6579,3 +6579,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T04:17:14.259Z,64.9961,-147.7217,9.8,0.0,ml,,,,0.66,ak,ak0233tc336g,2023-03-24T04:38:11.223Z,"6 km NW of Fox, Alaska",earthquake,,1.7,,,reviewed,ak,ak
 2023-03-24T04:14:10.990Z,19.5201666666667,-155.471666666667,7.32,0.9,md,13.0,114.0,,0.06,hv,hv73347722,2023-03-24T04:40:19.840Z,"26 km WNW of Volcano, Hawaii",earthquake,0.31,0.97,0.0474334423923573,5.0,reviewed,hv,hv
 2023-03-24T03:48:45.350Z,19.5013333333333,-155.468833333333,6.44,1.87,md,23.0,109.0,,0.12,hv,hv73347682,2023-03-24T04:31:42.350Z,"25 km WNW of Volcano, Hawaii",earthquake,0.3,0.87,0.155874450318382,5.0,reviewed,hv,hv
+2023-03-24T04:25:26.072Z,29.9829,141.9136,4.574,5.4,mww,82.0,92.0,3.601,0.77,us,us7000jmc2,2023-03-24T04:49:37.688Z,"Izu Islands, Japan region",earthquake,9.93,4.233,0.089,12.0,reviewed,us,us
