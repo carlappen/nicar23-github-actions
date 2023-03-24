@@ -6612,3 +6612,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T07:46:09.290Z,38.4285011,-122.6406631,9.69,2.69,md,56.0,40.0,0.04297,0.13,nc,nc73861445,2023-03-24T07:47:46.340Z,"6km ESE of Santa Rosa, CA",earthquake,0.21,0.52,0.11,66.0,automatic,nc,nc
 2023-03-24T07:25:35.049Z,36.4291,140.3217,84.661,4.7,mwr,89.0,120.0,1.706,0.72,us,us7000jmct,2023-03-24T07:44:08.258Z,"near the east coast of Honshu, Japan",earthquake,3.65,6.256,0.086,13.0,reviewed,us,us
 2023-03-24T07:10:02.790Z,40.8647,48.2451,43.145,4.1,mb,46.0,107.0,2.458,0.76,us,us7000jmcr,2023-03-24T07:46:13.040Z,"11 km NE of İsmayıllı, Azerbaijan",earthquake,7.26,9.898,0.094,31.0,reviewed,us,us
+2023-03-24T07:52:31.390Z,19.4874992370605,-155.469161987305,-2.1800000667572,2.06999993,md,24.0,69.0,,0.230000004,hv,hv73347942,2023-03-24T07:55:42.710Z,"25 km WNW of Volcano, Hawaii",earthquake,0.58,0.400000006,1.85000002,6.0,automatic,hv,hv
+2023-03-24T07:40:38.430Z,18.0315,-66.2298333333333,14.35,2.95,md,15.0,146.0,0.1083,0.18,pr,pr71401363,2023-03-24T07:54:55.480Z,"3 km WSW of La Plena, Puerto Rico",earthquake,0.46,0.88,0.0710008541519263,9.0,reviewed,pr,pr
