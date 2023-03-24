@@ -6846,3 +6846,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T22:39:42.250Z,33.1848333,-116.4098333,10.28,1.57,ml,59.0,30.0,0.08337,0.24,ci,ci40189599,2023-03-24T22:43:20.553Z,"8km SSW of Borrego Springs, CA",earthquake,0.26,0.69,0.14,26.0,automatic,ci,ci
 2023-03-24T22:37:55.560Z,36.1834984,-120.7721634,2.47,1.89,md,17.0,139.0,0.04,0.13,nc,nc73861790,2023-03-24T22:39:32.582Z,"22km NNE of San Ardo, CA",earthquake,0.75,1.75,0.06,9.0,automatic,nc,nc
 2023-03-24T21:49:46.800Z,51.8568333333333,-178.084666666667,3.25,1.53,ml,5.0,207.0,,0.17,av,av91818101,2023-03-24T22:42:34.570Z,"99 km W of Adak, Alaska",earthquake,0.66,0.49,0.175619115938914,5.0,reviewed,av,av
+2023-03-24T22:21:05.160Z,58.1925,-155.332,1.59,-0.47,ml,4.0,236.0,,0.03,av,av91818116,2023-03-24T22:56:09.490Z,"86 km NW of Karluk, Alaska",earthquake,0.75,0.44,0.281436424197593,4.0,reviewed,av,av
+2023-03-24T22:10:57.090Z,51.8613333333333,-178.095166666667,3.08,1.16,ml,4.0,212.0,,0.07,av,av91818111,2023-03-24T22:53:28.050Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.49,1.0,0.128439622110344,4.0,reviewed,av,av
