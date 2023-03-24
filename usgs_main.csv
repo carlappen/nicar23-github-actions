@@ -6647,3 +6647,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T11:00:03.192Z,62.9023,-148.1087,56.1,1.4,ml,,,,1.24,ak,ak0233tg5kvz,2023-03-24T11:02:10.541Z,"69 km SE of Cantwell, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-03-24T11:26:48.060Z,38.8333321,-122.8168335,1.49,1.0,md,17.0,56.0,0.01124,0.01,nc,nc73861525,2023-03-24T11:28:21.896Z,"8km NW of The Geysers, CA",earthquake,0.23,0.62,0.11,17.0,automatic,nc,nc
 2023-03-24T11:18:22.570Z,38.8166656,-122.8249969,2.01,0.39,md,7.0,110.0,0.008444,0.01,nc,nc73861515,2023-03-24T11:19:56.228Z,"7km NW of The Geysers, CA",earthquake,0.59,1.73,0.18,8.0,automatic,nc,nc
+2023-03-24T11:36:23.560Z,33.1834984,-116.4073334,12.13,1.68,ml,61.0,31.0,0.08487,0.19,ci,ci40189087,2023-03-24T11:39:57.335Z,"9km SSW of Borrego Springs, CA",earthquake,0.21,0.81,0.577,5.0,automatic,ci,ci
