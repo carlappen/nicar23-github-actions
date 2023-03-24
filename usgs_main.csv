@@ -6791,3 +6791,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T11:27:41.190Z,51.8545,-178.089666666667,3.41,0.99,ml,4.0,212.0,,0.17,av,av91095878,2023-03-24T18:56:31.150Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.63,0.62,0.0595240639592294,4.0,reviewed,av,av
 2023-03-24T06:27:34.850Z,51.8615,-178.080166666667,3.34,1.01,ml,4.0,197.0,,0.27,av,av91817481,2023-03-24T19:05:48.650Z,"99 km W of Adak, Alaska",earthquake,2.14,0.88,0.176248146229406,4.0,reviewed,av,av
 2023-03-23T20:27:48.040Z,38.7615,-122.7246667,1.47,0.76,md,22.0,54.0,0.000178,0.03,nc,nc73861195,2023-03-24T19:02:07.386Z,"3km WSW of Anderson Springs, CA",earthquake,0.21,0.26,0.249,17.0,reviewed,nc,nc
+2023-03-24T19:31:11.181Z,36.0048,-114.9215,5.4,1.6,ml,10.0,256.04,0.535,0.5507,nn,nn00857456,2023-03-24T19:33:58.769Z,"6 km SE of Henderson, Nevada",earthquake,,3.8,0.38,4.0,automatic,nn,nn
+2023-03-24T19:29:23.644Z,60.0774,-151.2726,65.8,1.4,ml,,,,0.53,ak,ak0233tl3arx,2023-03-24T19:32:17.564Z,"Kenai Peninsula, Alaska",earthquake,,0.8,,,automatic,ak,ak
