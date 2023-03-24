@@ -6666,3 +6666,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T13:06:13.310Z,34.0905,-117.0336667,20.15,1.21,ml,13.0,104.0,0.2215,0.22,ci,ci40189103,2023-03-24T13:09:57.515Z,"6km N of Yucaipa, CA",earthquake,1.11,3.07,0.2,23.0,automatic,ci,ci
 2023-03-24T13:02:01.640Z,38.4264984,-122.637001,9.57,2.07,md,33.0,51.0,0.04245,0.1,nc,nc73861555,2023-03-24T13:08:12.340Z,"6km ESE of Santa Rosa, CA",earthquake,0.23,0.52,0.1,35.0,automatic,nc,nc
 2023-03-24T13:01:34.953Z,-20.2857,-176.5702,281.147,5.6,mww,88.0,36.0,1.552,1.1,us,us7000jme4,2023-03-24T13:25:39.599Z,"170 km NW of Haveluloto, Tonga",earthquake,9.48,5.107,0.073,18.0,reviewed,us,us
+2023-03-24T13:10:34.997Z,37.9773,37.526,10.0,4.4,mb,51.0,67.0,0.684,0.53,us,us7000jme6,2023-03-24T13:28:35.040Z,"7 km ENE of Nurhak, Turkey",earthquake,2.76,1.869,0.096,31.0,reviewed,us,us
+2023-03-23T22:03:18.400Z,36.4236666666667,-89.5308333333333,9.43,1.44,md,18.0,52.0,0.04686,0.06,nm,nm60515551,2023-03-24T13:29:04.150Z,"7 km NW of Tiptonville, Tennessee",earthquake,0.28,0.58,0.0683636606430276,9.0,reviewed,nm,nm
