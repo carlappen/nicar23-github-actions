@@ -6681,3 +6681,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T14:08:20.710Z,33.185,-116.4071667,11.26,1.11,ml,24.0,65.0,0.0834,0.18,ci,ci40189287,2023-03-24T14:11:53.041Z,"8km SSW of Borrego Springs, CA",earthquake,0.3,0.48,0.129,13.0,automatic,ci,ci
 2023-03-24T14:26:04.090Z,33.1813333,-116.4063333,10.69,1.14,ml,34.0,43.0,0.08711,0.23,ci,ci40189343,2023-03-24T14:29:44.664Z,"9km SSW of Borrego Springs, CA",earthquake,0.3,0.71,0.15,26.0,automatic,ci,ci
 2023-03-24T14:01:49.440Z,17.9478333333333,-66.9578333333333,7.44,2.34,md,3.0,215.0,0.07954,0.02,pr,pr71401388,2023-03-24T14:31:35.750Z,"5 km WSW of Guánica, Puerto Rico",earthquake,1.72,0.87,0.041746143950729,3.0,reviewed,pr,pr
+2023-03-24T14:38:11.570Z,33.1801682,-116.4085007,11.27,1.22,ml,35.0,68.0,0.08809,0.2,ci,ci40189351,2023-03-24T14:40:18.387Z,"9km SSW of Borrego Springs, CA",earthquake,0.32,0.57,0.255,5.0,automatic,ci,ci
