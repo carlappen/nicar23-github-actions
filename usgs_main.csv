@@ -6707,3 +6707,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T13:47:14.060Z,33.1823333,-116.4076667,11.48,1.73,ml,58.0,31.0,0.086,0.18,ci,ci40189143,2023-03-24T13:50:57.951Z,"9km SSW of Borrego Springs, CA",earthquake,0.2,0.41,0.183,24.0,automatic,ci,ci
 2023-03-24T13:46:12.330Z,33.1948333,-116.797,23.01,2.31,ml,14.0,73.0,0.3059,0.43,ci,ci40189135,2023-03-24T13:49:53.948Z,"6km SSW of Lake Henshaw, CA",earthquake,1.11,5.55,0.262,2.0,automatic,ci,ci
 2023-03-24T05:51:24.150Z,47.18416666666667,-121.87283333333332,16.11,0.9,ml,10.0,98.0,0.05596,0.16,uw,uw61904582,2023-03-24T14:52:27.100Z,"9 km ESE of Enumclaw, Washington",earthquake,0.53,0.94,0.1142893745647866,3.0,reviewed,uw,uw
+2023-03-24T15:24:58.880Z,64.1995,-148.0832,0.0,1.7,ml,,,,0.4,ak,ak0233tioksg,2023-03-24T15:27:07.602Z,"53 km E of Clear, Alaska, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-24T15:19:29.630Z,33.1835,-116.4013333,11.21,1.17,ml,19.0,75.0,0.08551,0.14,ci,ci40189367,2023-03-24T15:23:05.127Z,"8km SSW of Borrego Springs, CA",earthquake,0.32,0.47,0.343,8.0,automatic,ci,ci
+2023-03-24T15:15:52.840Z,35.7583351,-121.3000031,3.39,1.52,md,7.0,220.0,0.1412,0.04,nc,nc73861625,2023-03-24T15:26:12.043Z,"16km NW of San Simeon, CA",earthquake,0.82,1.9,0.13,7.0,automatic,nc,nc
+2023-03-24T15:14:42.903Z,63.2463,-151.1119,1.0,1.6,ml,,,,0.46,ak,ak0233timeea,2023-03-24T15:17:14.878Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-24T15:11:53.578Z,62.3417,-151.2456,77.9,1.6,ml,,,,0.65,ak,ak0233tils2l,2023-03-24T15:14:00.125Z,"30 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-24T15:10:35.359Z,64.9854,-147.3295,0.1,1.6,ml,,,,0.21,ak,ak0233tiliy7,2023-03-24T15:12:04.873Z,"13 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-24T15:07:01.310Z,19.3371658325195,-155.196166992188,0.439999997615814,1.95,ml,36.0,78.0,,0.25999999,hv,hv73348167,2023-03-24T15:12:32.130Z,"12 km SSE of Volcano, Hawaii",earthquake,0.35,0.370000005,0.42,4.0,automatic,hv,hv
+2023-03-24T15:04:04.130Z,33.1806679,-116.4111633,11.72,3.0,ml,96.0,17.0,0.08744,0.21,ci,ci40189359,2023-03-24T15:26:33.550Z,"9km SSW of Borrego Springs, CA",earthquake,0.19,0.76,0.348,22.0,automatic,ci,ci
+2023-03-24T15:00:16.579Z,62.0099,-149.7836,34.7,1.6,ml,,,,0.57,ak,ak0233tijcc9,2023-03-24T15:02:17.551Z,"17 km SSE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-24T05:10:08.310Z,37.4313333,-113.1156667,10.6,1.11,ml,6.0,179.0,0.0755,0.05,uu,uu60534991,2023-03-24T15:05:40.290Z,"13 km SSE of Kanarraville, Utah",earthquake,0.48,1.21,0.071,2.0,reviewed,uu,uu
+2023-03-24T04:57:57.760Z,37.4301667,-113.1148333,9.7,1.27,ml,8.0,180.0,0.07441,0.1,uu,uu60534986,2023-03-24T15:23:09.220Z,"13 km SSE of Kanarraville, Utah",earthquake,0.49,0.97,0.276,4.0,reviewed,uu,uu
