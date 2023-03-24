@@ -6621,3 +6621,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T08:13:18.310Z,38.8148346,-122.7914963,1.18,0.89,md,14.0,53.0,0.007474,0.02,nc,nc73861455,2023-03-24T08:27:11.558Z,"5km NW of The Geysers, CA",earthquake,0.24,0.56,0.17,15.0,automatic,nc,nc
 2023-03-24T08:08:37.230Z,38.8221664,-122.8024979,3.84,0.6,md,7.0,151.0,0.006044,0.01,nc,nc73861450,2023-03-24T08:25:11.393Z,"6km NW of The Geysers, CA",earthquake,0.72,2.59,0.19,8.0,automatic,nc,nc
 2023-03-24T07:56:22.780Z,32.4103333,-116.8656667,18.58,1.02,ml,9.0,291.0,0.2042,0.08,ci,ci40188991,2023-03-24T07:59:57.175Z,"18km ENE of Rosarito, B.C., MX",earthquake,0.43,0.52,0.15,5.0,automatic,ci,ci
+2023-03-24T08:34:52.770Z,35.7901649,-120.340332,9.34,1.19,md,15.0,114.0,0.01715,0.08,nc,nc73861470,2023-03-24T08:36:31.118Z,"9km NNW of Cholame, CA",earthquake,1.03,0.87,0.11,5.0,automatic,nc,nc
