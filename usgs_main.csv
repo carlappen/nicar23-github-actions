@@ -6833,3 +6833,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T21:51:56.285Z,63.5705,-147.3584,0.0,2.2,ml,,,,0.58,ak,ak0233tmeyjw,2023-03-24T21:54:02.382Z,"79 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-24T17:55:59.980Z,58.246,-155.049,2.44,0.01,ml,7.0,169.0,,0.1,av,av91817896,2023-03-24T21:54:28.410Z,"83 km NNW of Karluk, Alaska",earthquake,0.35,0.8,0.34963302435035,7.0,reviewed,av,av
 2023-03-24T05:54:50.130Z,19.237,-155.395833333333,32.25,1.46,md,21.0,199.0,,0.1,hv,hv73347837,2023-03-24T21:51:29.960Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.76,0.6,0.0913073696824565,9.0,reviewed,hv,hv
+2023-03-24T21:50:07.570Z,17.9621666666667,-66.9691666666667,9.1,2.15,md,6.0,195.0,0.05846,0.1,pr,pr71401463,2023-03-24T22:00:05.230Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.51,0.97,0.0132257722705891,3.0,reviewed,pr,pr
