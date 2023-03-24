@@ -6640,3 +6640,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T09:26:32.139Z,-2.588,138.7956,31.107,4.7,mb,47.0,125.0,6.548,0.63,us,us7000jmd7,2023-03-24T10:29:49.040Z,"204 km W of Abepura, Indonesia",earthquake,10.84,4.13,0.088,39.0,reviewed,us,us
 2023-03-24T10:38:09.220Z,33.7758333,-116.9295,12.36,0.82,ml,15.0,169.0,0.08865,0.16,ci,ci40189055,2023-03-24T10:41:45.429Z,"3km ESE of San Jacinto, CA",earthquake,0.51,0.65,0.189,15.0,automatic,ci,ci
 2023-03-24T10:24:54.960Z,17.9558333333333,-66.9495,6.7,2.61,md,10.0,204.0,0.04216,0.11,pr,pr71401373,2023-03-24T10:39:52.950Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.66,0.27,0.290678549730977,7.0,reviewed,pr,pr
+2023-03-24T10:55:55.980Z,33.7678337,-116.9363327,15.26,0.96,ml,16.0,169.0,0.08062,0.13,ci,ci40189063,2023-03-24T10:58:20.133Z,"3km SE of San Jacinto, CA",earthquake,0.57,0.54,0.169,6.0,automatic,ci,ci
