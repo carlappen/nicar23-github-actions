@@ -6608,3 +6608,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T07:01:51.890Z,33.9741667,-117.0523333,7.5,0.84,ml,14.0,94.0,0.1534,0.35,ci,ci40188983,2023-03-24T07:05:26.571Z,"2km S of Calimesa, CA",earthquake,0.85,6.99,0.183,17.0,automatic,ci,ci
 2023-03-24T04:36:09.670Z,19.2023,-66.6031,33.0,3.74,md,19.0,250.0,0.7289,0.35,pr,pr2023083000,2023-03-24T07:06:04.587Z,"81 km N of Arecibo, Puerto Rico",earthquake,1.54,9.83,0.07,16.0,reviewed,pr,pr
 2023-03-24T07:26:37.688Z,59.5619,-152.4761,79.6,1.9,ml,,,,0.22,ak,ak0233tdxhqw,2023-03-24T07:28:01.379Z,"38 km NW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-24T07:27:13.180Z,38.809166,-122.8251648,1.92,0.76,md,12.0,86.0,0.00315,0.02,nc,nc73861440,2023-03-24T07:28:50.636Z,"7km WNW of The Geysers, CA",earthquake,0.31,0.58,0.11,13.0,automatic,nc,nc
