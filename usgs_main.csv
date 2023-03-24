@@ -6729,3 +6729,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T16:30:06.710Z,63.2526,-150.4711,121.2,1.6,ml,,,,0.23,ak,ak0233tjb6nz,2023-03-24T16:32:23.033Z,Central Alaska,earthquake,,1.3,,,automatic,ak,ak
 2023-03-24T16:10:38.180Z,33.1826667,-116.4125,10.64,1.38,ml,49.0,31.0,0.08539,0.23,ci,ci40189407,2023-03-24T16:22:15.930Z,"9km SSW of Borrego Springs, CA",earthquake,0.25,0.64,0.168,24.0,automatic,ci,ci
 2023-03-24T11:49:39.700Z,46.205,-122.175,6.48,0.87,ml,10.0,120.0,0.01059,0.1,uw,uw61904597,2023-03-24T16:23:48.210Z,"38 km NNE of Amboy, Washington",earthquake,0.64,0.46,0.0810839927532134,9.0,reviewed,uw,uw
+2023-03-24T16:47:34.440Z,33.1836667,-116.4108333,10.33,1.46,ml,50.0,44.0,0.08447,0.24,ci,ci40189439,2023-03-24T16:51:11.796Z,"9km SSW of Borrego Springs, CA",earthquake,0.27,0.73,0.164,27.0,automatic,ci,ci
+2023-03-24T16:47:28.350Z,32.9845,-116.7245,28.72,1.21,ml,15.0,115.0,0.1382,0.32,ci,ci40189431,2023-03-24T16:50:59.162Z,"6km ESE of San Diego Country Estates, CA",earthquake,1.24,1.07,0.043,4.0,automatic,ci,ci
+2023-03-24T16:47:10.100Z,32.859,-116.8038333,28.64,1.15,ml,7.0,156.0,0.3335,0.12,ci,ci40189423,2023-03-24T16:50:53.268Z,"4km NW of Alpine, CA",earthquake,0.83,2.29,0.042,5.0,automatic,ci,ci
+2023-03-24T16:43:49.310Z,38.838501,-122.8078308,1.96,0.78,md,16.0,56.0,0.01366,0.01,nc,nc73861645,2023-03-24T16:45:28.374Z,"8km WNW of Cobb, CA",earthquake,0.26,0.56,0.18,17.0,automatic,nc,nc
+2023-03-24T16:19:28.738Z,31.67417272,-104.3814407,7.288427734,2.3,ml,18.0,57.0,0.04673769385,0.3,tx,tx2023fvbo,2023-03-24T16:46:09.756Z,"55 km S of Whites City, New Mexico",earthquake,1.246097017,1.479713166,0.2,13.0,reviewed,tx,tx
