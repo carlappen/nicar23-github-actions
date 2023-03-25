@@ -6917,3 +6917,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T00:20:29.280Z,51.8625,-177.9205,5.99,1.06,ml,4.0,173.0,,0.09,av,av91818181,2023-03-25T04:09:29.650Z,"88 km W of Adak, Alaska",earthquake,0.47,1.18,0.117150265501384,4.0,reviewed,av,av
 2023-03-25T00:07:41.840Z,58.1833333333333,-155.32,1.95,-0.3,ml,7.0,160.0,,0.09,av,av91818171,2023-03-25T04:07:28.730Z,"85 km NW of Karluk, Alaska",earthquake,0.26,0.46,0.322229602828996,6.0,reviewed,av,av
 2023-03-24T14:01:21.502Z,13.6784,-90.5296,57.001,4.2,mb,35.0,199.0,0.762,0.88,us,us7000jmfv,2023-03-25T04:28:42.040Z,"34 km SE of Iztapa, Guatemala",earthquake,8.34,11.206,0.113,22.0,reviewed,us,us
+2023-03-25T04:11:29.250Z,51.8611666666667,-178.069166666667,-1.8,1.66,ml,5.0,184.0,,0.24,av,av91818296,2023-03-25T04:39:11.460Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.73,1.4,0.26190431252114,5.0,reviewed,av,av
