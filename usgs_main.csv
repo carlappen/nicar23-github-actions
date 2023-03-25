@@ -7101,3 +7101,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T09:31:13.610Z,51.8641666666667,-178.091166666667,2.91,0.94,ml,4.0,206.0,,0.17,av,av91818506,2023-03-25T22:04:24.650Z,"100 km W of Adak, Alaska",earthquake,0.73,1.35,0.198902694084936,4.0,reviewed,av,av
 2023-03-25T07:48:32.420Z,51.866,-178.081333333333,-1.8,1.28,ml,4.0,193.0,,0.14,av,av91818441,2023-03-25T22:20:05.220Z,"99 km W of Adak, Alaska",earthquake,0.97,1.74,0.314293395321683,4.0,reviewed,av,av
 2023-03-25T22:25:22.876Z,60.1216,-152.704,108.8,2.3,ml,,,,0.38,ak,ak0233vae3ft,2023-03-25T22:35:15.040Z,"57 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-25T22:20:07.380Z,17.9225,-66.9768333333333,12.0,2.32,md,5.0,236.0,0.07933,0.12,pr,pr71401528,2023-03-25T22:39:21.870Z,Puerto Rico region,earthquake,1.1,0.48,0.184524537625863,4.0,reviewed,pr,pr
