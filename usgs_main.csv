@@ -6977,3 +6977,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T11:12:11.003Z,61.0095,-145.3096,20.6,2.0,ml,,,,0.33,ak,ak0233v3riks,2023-03-25T11:13:46.608Z,Southern Alaska,earthquake,,0.2,,,automatic,ak,ak
 2023-03-25T11:06:02.310Z,38.8243332,-122.7958298,0.97,0.29,md,6.0,106.0,0.01117,0.01,nc,nc73862030,2023-03-25T11:07:36.289Z,"6km NNW of The Geysers, CA",earthquake,0.72,2.64,0.09,5.0,automatic,nc,nc
 2023-03-25T07:18:48.290Z,41.2633333,-122.135,9.33,1.49,md,13.0,68.0,0.01461,0.06,nc,nc73861960,2023-03-25T11:09:30.639Z,"1km NNE of McCloud, CA",earthquake,0.3,0.42,0.178,16.0,reviewed,nc,nc
+2023-03-25T11:15:46.729Z,63.4913,-151.2946,1.8,1.6,ml,,,,0.36,ak,ak0233v3s8hc,2023-03-25T11:17:38.032Z,"22 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-24T20:01:46.700Z,38.7868333,-122.7638333,2.58,0.44,md,15.0,84.0,0.01414,0.02,nc,nc73861715,2023-03-25T11:22:29.222Z,"1km NNW of The Geysers, CA",earthquake,0.33,0.51,0.276,13.0,reviewed,nc,nc
