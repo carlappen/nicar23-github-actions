@@ -6967,3 +6967,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T09:04:19.220Z,40.3151665,-125.6999969,22.72,3.55,ml,22.0,326.0,1.132,0.24,nc,nc73861995,2023-03-25T09:13:52.375Z,"120km W of Petrolia, CA",earthquake,14.9,21.77,0.189,6.0,reviewed,nc,nc
 2023-03-25T09:26:21.360Z,33.4665,-116.4183333,5.35,1.01,ml,26.0,49.0,0.05708,0.24,ci,ci40189719,2023-03-25T09:30:10.603Z,"24km N of Borrego Springs, CA",earthquake,0.33,1.15,0.142,23.0,automatic,ci,ci
 2023-03-25T09:11:01.903Z,-5.2969,102.0212,26.453,4.4,mb,26.0,109.0,1.316,0.38,us,us7000jmnk,2023-03-25T09:28:34.040Z,"167 km S of Bengkulu, Indonesia",earthquake,7.5,6.617,0.139,16.0,reviewed,us,us
+2023-03-25T09:58:32.380Z,-21.0439,173.485,10.0,5.0,mww,38.0,120.0,5.418,0.61,us,us7000jmnp,2023-03-25T10:16:43.040Z,Vanuatu region,earthquake,7.22,1.873,0.078,16.0,reviewed,us,us
+2023-03-25T09:54:42.240Z,38.8356667,-122.8051682,1.81,0.68,md,9.0,108.0,0.0119,0.01,nc,nc73862020,2023-03-25T10:24:15.780Z,"7km WNW of Cobb, CA",earthquake,0.41,0.89,0.25,10.0,automatic,nc,nc
+2023-03-25T09:46:50.417Z,-20.3763,-177.8813,522.592,4.7,mb,71.0,42.0,2.627,0.65,us,us7000jmnm,2023-03-25T10:02:33.040Z,"290 km WNW of Haveluloto, Tonga",earthquake,11.16,7.949,0.033,282.0,reviewed,us,us
