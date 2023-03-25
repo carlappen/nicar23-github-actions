@@ -7044,3 +7044,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T06:21:27.690Z,56.9043333333333,-158.081666666667,-3.2,1.36,ml,4.0,252.0,,0.12,av,av91818366,2023-03-25T18:32:47.980Z,"33 km E of Port Heiden, Alaska",earthquake,1.26,2.52,0.129018134220864,7.0,reviewed,av,av
 2023-03-25T18:43:46.740Z,60.018,-152.6586,78.7,1.6,ml,,,,0.41,ak,ak0233v849rm,2023-03-25T18:45:29.310Z,"52 km W of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-03-25T18:37:17.030Z,33.0343333,-116.4078333,8.91,1.13,ml,31.0,84.0,0.0624,0.21,ci,ci40189879,2023-03-25T18:40:51.013Z,"19km ESE of Julian, CA",earthquake,0.29,0.84,0.154,23.0,automatic,ci,ci
+2023-03-25T17:50:17.300Z,51.8646666666667,-178.074666666667,-1.76,1.43,ml,4.0,186.0,,0.23,av,av91818931,2023-03-25T18:53:30.240Z,"99 km W of Adak, Alaska",earthquake,0.69,1.73,0.229512022761314,4.0,reviewed,av,av
