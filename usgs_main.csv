@@ -6903,3 +6903,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T03:28:50.534Z,61.7274,-149.7654,30.4,1.3,ml,,,,0.47,ak,ak0233uz3k8t,2023-03-25T03:30:34.206Z,"11 km NNE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-25T03:23:52.230Z,35.5018333,-118.3938333,7.87,1.65,ml,24.0,49.0,0.1734,0.12,ci,ci40189655,2023-03-25T03:27:27.585Z,"13km SE of Bodfish, CA",earthquake,0.2,0.97,0.157,26.0,automatic,ci,ci
 2023-03-24T20:26:16.750Z,37.5323333,-118.8585,2.08,0.25,md,8.0,309.0,0.06215,0.03,nc,nc73861730,2023-03-25T03:40:32.201Z,"16km SE of Mammoth Lakes, CA",earthquake,1.83,1.19,0.15,7.0,reviewed,nc,nc
+2023-03-25T03:39:29.568Z,58.1771,-155.2676,0.0,0.2,ml,,,,0.32,ak,ak0233uz5vi4,2023-03-25T03:46:12.948Z,"83 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-24T04:25:58.940Z,39.3751667,-122.9005,5.09,1.66,md,25.0,58.0,0.1763,0.16,nc,nc73861390,2023-03-25T03:53:36.295Z,"6km SE of Lake Pillsbury, CA",earthquake,0.32,1.79,0.188,22.0,reviewed,nc,nc
