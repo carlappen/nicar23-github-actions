@@ -6959,3 +6959,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T07:30:15.031Z,-22.9052,-68.8183,116.977,4.8,mb,93.0,65.0,0.591,1.01,us,us7000jmn5,2023-03-25T07:48:20.040Z,"50 km SSE of Calama, Chile",earthquake,7.69,5.114,0.058,92.0,reviewed,us,us
 2023-03-25T07:54:15.091Z,62.1632,-152.0746,105.6,2.9,ml,,,,0.48,ak,ak0233v1mskc,2023-03-25T07:56:06.840Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-25T07:53:35.451Z,58.4359,-155.4444,124.2,1.7,ml,,,,0.4,ak,ak0233v1mmcu,2023-03-25T07:56:23.379Z,"76 km ESE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-25T06:33:40.467Z,37.9055,36.1849,10.0,4.3,mb,23.0,149.0,0.349,1.14,us,us7000jmmu,2023-03-25T08:01:10.040Z,"12 km SE of Saimbeyli, Turkey",earthquake,1.82,1.907,0.16,11.0,reviewed,us,us
