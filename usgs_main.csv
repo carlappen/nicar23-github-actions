@@ -7003,3 +7003,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T14:48:16.900Z,33.6863333,-116.7291667,14.96,0.76,ml,28.0,40.0,0.02775,0.18,ci,ci40189759,2023-03-25T14:51:46.048Z,"6km S of Idyllwild, CA",earthquake,0.31,0.53,0.157,19.0,automatic,ci,ci
 2023-03-25T14:45:58.980Z,38.5699997,-122.6548309,15.54,1.28,md,9.0,231.0,0.1955,0.08,nc,nc73862085,2023-03-25T14:47:35.346Z,"7km W of Calistoga, CA",earthquake,2.65,3.87,0.1,2.0,automatic,nc,nc
 2023-03-25T14:43:54.065Z,62.7102,-151.2132,81.7,1.7,ml,,,,0.52,ak,ak0233v5qjwu,2023-03-25T14:46:08.941Z,Central Alaska,earthquake,,0.6,,,automatic,ak,ak
+2023-03-25T14:55:19.713Z,61.2532,-151.4226,66.4,2.4,ml,,,,0.3,ak,ak0233v5t1ur,2023-03-25T14:56:48.234Z,"22 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
