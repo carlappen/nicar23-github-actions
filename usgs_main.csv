@@ -6930,3 +6930,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T01:42:13.641Z,12.9976,-61.1454,10.0,3.5,ml,10.0,141.0,0.993,0.53,us,us7000jmmd,2023-03-25T05:13:30.543Z,"9 km E of Port Elizabeth, Saint Vincent and the Grenadines",earthquake,5.4,2.0,0.083,20.0,reviewed,us,us
 2023-03-24T13:14:40.960Z,36.7746667,-121.3021667,8.33,1.07,md,20.0,104.0,0.07595,0.07,nc,nc73861570,2023-03-25T05:14:52.567Z,"2km SE of Tres Pinos, CA",earthquake,0.23,0.52,0.216,18.0,reviewed,nc,nc
 2023-03-24T05:42:36.740Z,37.7216667,-121.9841667,8.08,0.96,md,20.0,131.0,0.066,0.06,nc,nc73861415,2023-03-25T05:09:11.931Z,"5km WNW of Dublin, CA",earthquake,0.29,0.36,0.201,12.0,reviewed,nc,nc
+2023-03-25T05:31:51.090Z,19.1478328704834,-155.358505249023,29.5300006866455,1.97000003,md,36.0,190.0,,0.129999995,hv,hv73348792,2023-03-25T05:34:56.630Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.7,0.850000024,0.819999993,17.0,automatic,hv,hv
+2023-03-25T05:27:34.724Z,63.3043,-145.1723,2.5,2.3,ml,,,,0.7,ak,ak0233v0a6io,2023-03-25T05:29:53.418Z,"32 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
