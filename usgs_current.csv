@@ -219,7 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T16:10:15.160Z,45.31666666666667,-121.84316666666666,5.78,0.63,ml,11,246,0.04521,0.11,uw,uw61904627,2023-03-24T17:44:04.090Z,"7 km WNW of Government Camp, Oregon",earthquake,0.45,0.57,0.0324814140361413,5,reviewed,uw,uw
 2023-03-24T16:09:16.941Z,59.7012,-153.7342,90.4,1.9,ml,,,,1.04,ak,ak0233tj6oyn,2023-03-24T17:50:09.716Z,"23 km ESE of Pedro Bay, Alaska",earthquake,,5.2,,,reviewed,ak,ak
 2023-03-24T16:03:57.580Z,45.3115,-121.82866666666666,6.37,0.32,ml,9,237,0.03395,0.06,uw,uw61904622,2023-03-25T01:26:04.370Z,"5 km W of Government Camp, Oregon",earthquake,0.37,0.62,0.14448633495669244,4,reviewed,uw,uw
-2023-03-24T15:51:51.184Z,63.0821,-150.6005,95.5,1.7,ml,,,,0.63,ak,ak0233tiucj2,2023-03-24T15:53:47.997Z,"65 km N of Petersville, Alaska",earthquake,,2.4,,,automatic,ak,ak
-2023-03-24T15:51:38.690Z,32.9749985,-115.892334,10.69,1.72,ml,48,85,0.08326,0.18,ci,ci40189399,2023-03-24T15:55:20.544Z,"26km WSW of Westmorland, CA",earthquake,0.34,0.68,0.211,18,automatic,ci,ci
-2023-03-24T15:45:14.300Z,33.7605,-116.9381667,13.85,1.25,ml,34,46,0.0742,0.2,ci,ci40189383,2023-03-24T15:48:57.580Z,"3km SE of San Jacinto, CA",earthquake,0.29,0.5,0.146,29,automatic,ci,ci
-2023-03-24T15:43:38.309Z,62.2688,-150.9413,74.2,2.7,ml,,,,0.57,ak,ak0233tisls7,2023-03-24T16:30:00.040Z,"26 km SSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
