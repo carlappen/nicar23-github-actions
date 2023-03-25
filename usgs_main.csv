@@ -7073,3 +7073,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T20:40:56.713Z,63.8536,-148.9252,9.5,1.4,ml,,,,0.63,ak,ak0233v9ailj,2023-03-25T20:42:48.333Z,"2 km E of Healy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-25T20:37:03.290Z,38.8351669,-122.807663,1.84,0.71,md,12.0,62.0,0.0119,0.01,nc,nc73862195,2023-03-25T20:38:39.403Z,"8km W of Cobb, CA",earthquake,0.33,0.7,0.35,14.0,automatic,nc,nc
 2023-03-25T20:33:48.160Z,38.8261681,-122.7841644,1.17,1.02,md,13.0,98.0,0.01193,0.02,nc,nc73862190,2023-03-25T20:35:24.381Z,"5km W of Cobb, CA",earthquake,0.37,0.58,0.16,14.0,automatic,nc,nc
+2023-03-25T20:48:48.020Z,19.2891674041748,-155.379333496094,-0.610000014305115,2.56,ml,40.0,129.0,,0.209999993,hv,hv73349267,2023-03-25T20:54:19.180Z,"14 km NE of Pāhala, Hawaii",earthquake,0.42,0.209999993,2.1,19.0,automatic,hv,hv
+2023-03-25T20:46:16.787Z,58.6354,-153.7663,68.5,1.8,ml,,,,0.69,ak,ak0233v9bpta,2023-03-25T20:48:31.722Z,"81 km NW of Aleneva, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-25T20:37:24.598Z,59.9052,-152.8404,90.1,1.6,ml,,,,0.48,ak,ak0233v99syz,2023-03-25T20:49:56.525Z,"58 km WNW of Anchor Point, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-03-25T19:13:32.329Z,32.6147,47.6789,10.0,4.8,mb,56.0,73.0,3.524,0.9,us,us7000jmqd,2023-03-25T20:44:47.040Z,"39 km ESE of Dehlorān, Iran",earthquake,7.26,1.834,0.058,91.0,reviewed,us,us
