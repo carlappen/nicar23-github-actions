@@ -7077,3 +7077,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T20:46:16.787Z,58.6354,-153.7663,68.5,1.8,ml,,,,0.69,ak,ak0233v9bpta,2023-03-25T20:48:31.722Z,"81 km NW of Aleneva, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-03-25T20:37:24.598Z,59.9052,-152.8404,90.1,1.6,ml,,,,0.48,ak,ak0233v99syz,2023-03-25T20:49:56.525Z,"58 km WNW of Anchor Point, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-03-25T19:13:32.329Z,32.6147,47.6789,10.0,4.8,mb,56.0,73.0,3.524,0.9,us,us7000jmqd,2023-03-25T20:44:47.040Z,"39 km ESE of Dehlorān, Iran",earthquake,7.26,1.834,0.058,91.0,reviewed,us,us
+2023-03-25T21:12:59.629Z,58.2422,-153.9562,62.8,1.6,ml,,,,0.29,ak,ak0233v9pydm,2023-03-25T21:15:11.554Z,"64 km WNW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-25T21:08:43.950Z,38.8433342,-122.7523346,10.37,0.98,md,13.0,213.0,0.0188,0.11,nc,nc73862205,2023-03-25T21:10:20.488Z,"4km NW of Cobb, CA",earthquake,1.78,1.17,0.31,12.0,automatic,nc,nc
+2023-03-25T20:35:11.170Z,51.853,-178.0935,3.11,2.04,ml,6.0,129.0,,0.25,av,av91819061,2023-03-25T21:11:25.120Z,"100 km W of Adak, Alaska",earthquake,0.73,0.94,0.190156177890577,6.0,reviewed,av,av
+2023-03-25T20:30:10.730Z,51.8581666666667,-178.0905,1.91,1.52,ml,5.0,211.0,,0.25,av,av91819046,2023-03-25T21:06:37.570Z,"100 km W of Adak, Alaska",earthquake,1.0,1.98,0.162952573445263,5.0,reviewed,av,av
+2023-03-25T20:27:14.942Z,51.8572,-178.0834,7.54,3.0,ml,14.0,104.0,0.036,0.58,us,us7000jmqx,2023-03-25T21:08:43.220Z,"99 km W of Adak, Alaska",earthquake,1.09,2.425,0.097,14.0,reviewed,us,us
+2023-03-25T19:57:56.941Z,-18.209,167.9743,35.1,4.8,mb,25.0,70.0,2.844,1.17,us,us7000jmqk,2023-03-25T20:56:44.040Z,"63 km SW of Port-Vila, Vanuatu",earthquake,9.0,7.244,0.138,19.0,reviewed,us,us
+2023-03-25T14:51:09.820Z,38.7898333,-122.745,0.55,0.39,md,9.0,149.0,0.009231,0.02,nc,nc73862090,2023-03-25T21:13:22.827Z,"2km NE of The Geysers, CA",earthquake,0.26,0.55,0.07,6.0,reviewed,nc,nc
