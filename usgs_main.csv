@@ -7102,3 +7102,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T07:48:32.420Z,51.866,-178.081333333333,-1.8,1.28,ml,4.0,193.0,,0.14,av,av91818441,2023-03-25T22:20:05.220Z,"99 km W of Adak, Alaska",earthquake,0.97,1.74,0.314293395321683,4.0,reviewed,av,av
 2023-03-25T22:25:22.876Z,60.1216,-152.704,108.8,2.3,ml,,,,0.38,ak,ak0233vae3ft,2023-03-25T22:35:15.040Z,"57 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-25T22:20:07.380Z,17.9225,-66.9768333333333,12.0,2.32,md,5.0,236.0,0.07933,0.12,pr,pr71401528,2023-03-25T22:39:21.870Z,Puerto Rico region,earthquake,1.1,0.48,0.184524537625863,4.0,reviewed,pr,pr
+2023-03-25T22:44:35.331Z,65.0202,-147.0326,5.0,1.3,ml,,,,1.15,ak,ak0233vai708,2023-03-25T22:47:27.503Z,"16 km N of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-25T22:21:14.420Z,18.0208333333333,-66.9423333333333,3.56,1.77,md,4.0,176.0,0.07534,0.08,pr,pr71401533,2023-03-25T22:53:38.650Z,"2 km S of Liborio Negron Torres, Puerto Rico",earthquake,1.24,1.39,0.132281733884868,3.0,reviewed,pr,pr
+2023-03-25T21:55:35.317Z,-16.012,-174.7621,10.113,4.6,mb,40.0,67.0,2.721,0.59,us,us7000jmr5,2023-03-25T22:47:14.040Z,"103 km W of Hihifo, Tonga",earthquake,8.33,4.538,0.087,40.0,reviewed,us,us
