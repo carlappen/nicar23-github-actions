@@ -7005,3 +7005,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T14:43:54.065Z,62.7102,-151.2132,81.7,1.7,ml,,,,0.52,ak,ak0233v5qjwu,2023-03-25T14:46:08.941Z,Central Alaska,earthquake,,0.6,,,automatic,ak,ak
 2023-03-25T14:55:19.713Z,61.2532,-151.4226,66.4,2.4,ml,,,,0.3,ak,ak0233v5t1ur,2023-03-25T14:56:48.234Z,"22 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-25T15:30:34.795Z,58.5577,-151.4889,150.2,2.0,ml,,,,0.7,ak,ak0233v695pz,2023-03-25T15:32:49.019Z,"90 km SSE of Port Graham, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-03-25T15:38:32.680Z,38.8269997,-122.7969971,2.62,0.76,md,20.0,40.0,0.01083,0.01,nc,nc73862100,2023-03-25T15:40:10.813Z,"6km W of Cobb, CA",earthquake,0.23,0.47,0.19,20.0,automatic,nc,nc
+2023-03-25T15:05:15.973Z,28.64776611,-98.26688879,3.00793457,2.9,ml,9.0,79.0,0.01821822343,0.1,tx,tx2023fwur,2023-03-25T15:39:17.365Z,"22 km NNW of Three Rivers, Texas",earthquake,1.401172497,1.806462714,0.2,7.0,reviewed,tx,tx
+2023-03-25T15:02:51.060Z,17.9486666666667,-66.8225,8.06,3.09,md,15.0,188.0,0.06006,0.2,pr,pr71401493,2023-03-25T15:41:31.330Z,"5 km S of Indios, Puerto Rico",earthquake,0.69,0.87,0.177928716308638,14.0,reviewed,pr,pr
