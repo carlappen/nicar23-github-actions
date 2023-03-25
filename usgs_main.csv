@@ -7016,3 +7016,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T15:08:55.430Z,17.978,-66.9573333333333,7.56,2.41,md,5.0,173.0,0.07437,0.07,pr,pr71401508,2023-03-25T15:53:03.260Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.92,0.36,0.133384025921089,4.0,reviewed,pr,pr
 2023-03-25T15:01:34.020Z,33.497,-116.7803333,3.68,0.91,ml,30.0,38.0,0.02269,0.17,ci,ci40189767,2023-03-25T15:05:13.954Z,"10km NE of Aguanga, CA",earthquake,0.21,0.52,0.128,20.0,automatic,ci,ci
 2023-03-25T13:57:40.567Z,32.7705,-39.7916,10.0,4.7,mb,32.0,120.0,12.676,0.59,us,us7000jmpa,2023-03-25T16:20:12.040Z,northern Mid-Atlantic Ridge,earthquake,8.37,1.805,0.101,30.0,reviewed,us,us
+2023-03-25T16:39:09.768Z,35.85469437,-97.18718719,5.847485065,1.83,ml,19.0,85.89547729,0.08523370326,0.4326772311,ok,ok2023fwxs,2023-03-25T16:41:46.834Z,"5 km ENE of Meridian, Oklahoma",earthquake,2.666723726,3.86936059,,15.0,automatic,ok,ok
