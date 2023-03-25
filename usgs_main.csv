@@ -6997,3 +6997,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T11:50:08.840Z,17.9675,-66.96,6.45,2.85,md,6.0,188.0,0.07722,0.07,pr,pr71401483,2023-03-25T12:18:23.030Z,"5 km WSW of Fuig, Puerto Rico",earthquake,1.23,0.89,0.0580313776645638,5.0,reviewed,pr,pr
 2023-03-25T13:26:40.143Z,62.3095,-151.0022,71.6,1.4,ml,,,,0.32,ak,ak0233v51g26,2023-03-25T13:28:25.556Z,"24 km SSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-24T21:47:36.700Z,35.9358333333333,-89.926,16.43,1.94,md,24.0,77.0,0.04358,0.03,nm,nm60515881,2023-03-25T13:26:26.770Z,"1 km NW of Blytheville, Arkansas",earthquake,0.48,0.42,0.0635421153131075,19.0,reviewed,nm,nm
+2023-03-25T13:38:17.030Z,38.8296661,-122.8006668,2.04,0.8,md,11.0,81.0,0.009654,0.02,nc,nc73862080,2023-03-25T13:39:54.617Z,"7km W of Cobb, CA",earthquake,0.32,1.08,0.32,13.0,automatic,nc,nc
