@@ -6957,3 +6957,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T07:42:18.769Z,60.4907,-146.7128,14.1,2.0,ml,,,,0.71,ak,ak0233v1k88k,2023-03-25T07:44:26.945Z,"41 km S of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-25T07:38:12.707Z,59.9656,-147.0436,0.7,2.6,ml,,,,0.86,ak,ak0233v1jcwm,2023-03-25T07:40:22.990Z,"55 km ESE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-25T07:30:15.031Z,-22.9052,-68.8183,116.977,4.8,mb,93.0,65.0,0.591,1.01,us,us7000jmn5,2023-03-25T07:48:20.040Z,"50 km SSE of Calama, Chile",earthquake,7.69,5.114,0.058,92.0,reviewed,us,us
+2023-03-25T07:54:15.091Z,62.1632,-152.0746,105.6,2.9,ml,,,,0.48,ak,ak0233v1mskc,2023-03-25T07:56:06.840Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-25T07:53:35.451Z,58.4359,-155.4444,124.2,1.7,ml,,,,0.4,ak,ak0233v1mmcu,2023-03-25T07:56:23.379Z,"76 km ESE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
