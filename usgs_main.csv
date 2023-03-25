@@ -7105,3 +7105,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T22:44:35.331Z,65.0202,-147.0326,5.0,1.3,ml,,,,1.15,ak,ak0233vai708,2023-03-25T22:47:27.503Z,"16 km N of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-25T22:21:14.420Z,18.0208333333333,-66.9423333333333,3.56,1.77,md,4.0,176.0,0.07534,0.08,pr,pr71401533,2023-03-25T22:53:38.650Z,"2 km S of Liborio Negron Torres, Puerto Rico",earthquake,1.24,1.39,0.132281733884868,3.0,reviewed,pr,pr
 2023-03-25T21:55:35.317Z,-16.012,-174.7621,10.113,4.6,mb,40.0,67.0,2.721,0.59,us,us7000jmr5,2023-03-25T22:47:14.040Z,"103 km W of Hihifo, Tonga",earthquake,8.33,4.538,0.087,40.0,reviewed,us,us
+2023-03-25T23:15:18.760Z,38.8171654,-122.8208313,2.59,0.83,md,15.0,56.0,0.01046,0.02,nc,nc73862245,2023-03-25T23:16:55.560Z,"7km NW of The Geysers, CA",earthquake,0.27,0.75,0.24,15.0,automatic,nc,nc
+2023-03-25T23:11:51.010Z,38.8268318,-122.8016663,1.7,0.48,md,11.0,77.0,0.00741,0.01,nc,nc73862240,2023-03-25T23:13:25.852Z,"7km NW of The Geysers, CA",earthquake,0.5,0.73,0.34,9.0,automatic,nc,nc
+2023-03-25T23:11:44.760Z,38.8273315,-122.8011703,1.83,0.85,md,11.0,75.0,0.007989,0.02,nc,nc73862235,2023-03-25T23:13:20.420Z,"7km NW of The Geysers, CA",earthquake,0.42,0.79,0.65,12.0,automatic,nc,nc
+2023-03-25T23:10:30.341Z,58.0532,-154.6849,34.8,0.9,ml,,,,0.25,ak,ak0233vawbvv,2023-03-25T23:13:49.420Z,"55 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-25T22:56:06.851Z,62.0204,-149.7905,39.8,1.4,ml,,,,0.56,ak,ak0233vakpf1,2023-03-25T22:57:58.062Z,"16 km SSE of Susitna North, Alaska",earthquake,,1.9,,,automatic,ak,ak
