@@ -7025,3 +7025,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T16:53:34.090Z,19.156665802002,-155.480834960938,30.7700004577637,2.29999995,md,32.0,132.0,,0.129999995,hv,hv73349112,2023-03-25T16:56:34.710Z,"5 km S of Pāhala, Hawaii",earthquake,0.59,1.0,1.64999998,7.0,automatic,hv,hv
 2023-03-25T16:56:09.630Z,33.5311667,-116.7288333,4.07,0.74,ml,23.0,41.0,0.03487,0.15,ci,ci40189807,2023-03-25T16:59:42.144Z,"6km WSW of Anza, CA",earthquake,0.23,0.46,0.148,17.0,automatic,ci,ci
 2023-03-25T16:56:08.870Z,33.1865,-117.1855,13.36,0.77,ml,14.0,91.0,0.162,0.35,ci,ci40189815,2023-03-25T16:59:50.472Z,"5km NNW of San Marcos, CA",earthquake,1.31,31.61,0.251,6.0,automatic,ci,ci
+2023-03-25T17:38:56.365Z,58.0256,-155.6062,40.4,1.1,ml,,,,0.78,ak,ak0233v7hsbo,2023-03-25T17:41:11.133Z,"85 km NW of Karluk, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-25T16:21:59.070Z,56.8918333333333,-158.074,-3.2,1.42,ml,4.0,257.0,,0.18,av,av91818861,2023-03-25T17:33:15.160Z,"34 km E of Port Heiden, Alaska",earthquake,1.21,2.22,0.12533780909444,10.0,reviewed,av,av
