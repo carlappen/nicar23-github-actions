@@ -6974,3 +6974,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T10:16:26.395Z,5.1035,125.4257,187.246,4.3,mb,29.0,108.0,1.959,0.9,us,us7000jmnr,2023-03-25T10:31:57.040Z,"33 km S of Sarangani, Philippines",earthquake,9.11,8.303,0.109,24.0,reviewed,us,us
 2023-03-25T10:43:46.448Z,64.6966,-147.5906,3.3,1.0,ml,,,,0.68,ak,ak0233v3cswk,2023-03-25T10:45:34.230Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
 2023-03-25T10:38:03.131Z,60.6278,-148.7394,20.0,1.6,ml,,,,0.46,ak,ak0233v3bmzd,2023-03-25T10:39:44.275Z,"16 km S of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-25T11:12:11.003Z,61.0095,-145.3096,20.6,2.0,ml,,,,0.33,ak,ak0233v3riks,2023-03-25T11:13:46.608Z,Southern Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-03-25T11:06:02.310Z,38.8243332,-122.7958298,0.97,0.29,md,6.0,106.0,0.01117,0.01,nc,nc73862030,2023-03-25T11:07:36.289Z,"6km NNW of The Geysers, CA",earthquake,0.72,2.64,0.09,5.0,automatic,nc,nc
+2023-03-25T07:18:48.290Z,41.2633333,-122.135,9.33,1.49,md,13.0,68.0,0.01461,0.06,nc,nc73861960,2023-03-25T11:09:30.639Z,"1km NNE of McCloud, CA",earthquake,0.3,0.42,0.178,16.0,reviewed,nc,nc
