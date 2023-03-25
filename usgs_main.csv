@@ -6918,3 +6918,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T00:07:41.840Z,58.1833333333333,-155.32,1.95,-0.3,ml,7.0,160.0,,0.09,av,av91818171,2023-03-25T04:07:28.730Z,"85 km NW of Karluk, Alaska",earthquake,0.26,0.46,0.322229602828996,6.0,reviewed,av,av
 2023-03-24T14:01:21.502Z,13.6784,-90.5296,57.001,4.2,mb,35.0,199.0,0.762,0.88,us,us7000jmfv,2023-03-25T04:28:42.040Z,"34 km SE of Iztapa, Guatemala",earthquake,8.34,11.206,0.113,22.0,reviewed,us,us
 2023-03-25T04:11:29.250Z,51.8611666666667,-178.069166666667,-1.8,1.66,ml,5.0,184.0,,0.24,av,av91818296,2023-03-25T04:39:11.460Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.73,1.4,0.26190431252114,5.0,reviewed,av,av
+2023-03-25T04:40:43.660Z,62.0716,-149.4805,59.9,1.4,ml,,,,0.73,ak,ak0233uzrjwu,2023-03-25T04:42:43.112Z,"21 km ESE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-03-25T04:38:26.110Z,34.142,-117.4091667,2.71,1.11,ml,23.0,63.0,0.0527,0.17,ci,ci40189679,2023-03-25T04:41:57.731Z,"5km NW of Rialto, CA",earthquake,0.29,0.51,0.138,30.0,automatic,ci,ci
+2023-03-25T04:32:11.250Z,35.4933333,-118.459,4.21,2.73,ml,38.0,29.0,0.1695,0.18,ci,ci40189671,2023-03-25T04:42:45.586Z,"11km SSE of Bodfish, CA",earthquake,0.21,1.06,0.211,25.0,automatic,ci,ci
+2023-03-25T03:42:35.220Z,51.8545,-178.079,3.65,1.23,ml,4.0,205.0,,0.19,av,av91095998,2023-03-25T04:47:09.890Z,"99 km W of Adak, Alaska",earthquake,0.84,0.74,0.304275006871323,4.0,reviewed,av,av
