@@ -7184,3 +7184,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T06:45:48.684Z,62.1433,-147.7803,20.5,1.4,ml,,,,1.27,ak,ak0233woiul0,2023-03-26T06:48:09.623Z,Central Alaska,earthquake,,1.4,,,automatic,ak,ak
 2023-03-26T06:38:37.828Z,63.3357,-145.5293,0.0,1.7,ml,,,,0.51,ak,ak0233wohbqe,2023-03-26T06:41:20.497Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
 2023-03-26T06:55:50.410Z,59.7214,-153.485,121.1,2.0,ml,,,,0.23,ak,ak0233wokzvl,2023-03-26T06:57:39.185Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
+2023-03-26T07:11:27.745Z,31.6471,-104.3549,8.793,3.2,ml,25.0,109.0,0.126,0.38,us,us7000jmtm,2023-03-26T07:18:38.040Z,"58 km S of Whites City, New Mexico",earthquake,1.93,8.38,0.06,62.0,reviewed,us,us
