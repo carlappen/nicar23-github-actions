@@ -7330,3 +7330,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T22:04:20.573Z,63.5239,-150.0721,141.3,1.4,ml,,,,0.23,ak,ak0233wxsxqh,2023-03-26T22:06:16.232Z,"57 km WNW of Cantwell, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2023-03-26T22:19:03.310Z,17.9576666666667,-66.906,9.38,2.49,md,8.0,203.0,0.03077,0.09,pr,pr71401698,2023-03-26T22:29:01.880Z,"1 km S of Guánica, Puerto Rico",earthquake,0.58,0.36,0.113833285723523,7.0,reviewed,pr,pr
 2023-03-26T22:38:31.830Z,39.3805008,-122.8974991,0.28,1.38,md,12.0,115.0,0.1788,0.13,nc,nc73862715,2023-03-26T22:40:08.682Z,"6km ESE of Lake Pillsbury, CA",earthquake,0.48,10.01,0.18,2.0,automatic,nc,nc
+2023-03-26T22:52:24.482Z,63.4919,-151.0937,6.7,1.4,ml,,,,0.53,ak,ak0233wy38eo,2023-03-26T22:54:31.662Z,"31 km E of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
