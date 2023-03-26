@@ -7174,3 +7174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T03:58:11.610Z,19.3243,-67.9091,30.0,3.73,md,14.0,269.0,0.9379,0.43,pr,pr2023085002,2023-03-26T05:15:38.764Z,"97 km NNE of Punta Cana, Dominican Republic",earthquake,3.19,27.91,0.07,7.0,reviewed,pr,pr
 2023-03-26T05:23:54.050Z,38.8380013,-122.8378296,1.98,1.12,md,9.0,119.0,0.001921,0.02,nc,nc73862405,2023-03-26T05:27:54.690Z,"10km NW of The Geysers, CA",earthquake,0.34,0.81,0.19,9.0,automatic,nc,nc
 2023-03-26T05:42:47.000Z,19.2964992523193,-155.242660522461,2.27999997138977,2.25,ml,36.0,105.0,,0.219999999,hv,hv73349432,2023-03-26T05:48:18.370Z,"16 km S of Volcano, Hawaii",earthquake,0.35,0.689999998,0.3,8.0,automatic,hv,hv
+2023-03-26T06:20:45.060Z,35.7896652,-116.8475037,0.28,3.46,ml,42.0,70.0,0.3653,0.14,ci,ci40189967,2023-03-26T06:28:23.553Z,"48km E of Trona, CA",earthquake,0.18,0.78,0.214,23.0,reviewed,ci,ci
+2023-03-26T06:17:17.229Z,62.2394,-148.761,23.9,1.8,ml,,,,0.6,ak,ak0233wocs3u,2023-03-26T06:19:39.497Z,"51 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-26T06:03:53.892Z,58.5244,-154.403,179.9,1.7,ml,,,,0.79,ak,ak0233wo9uwt,2023-03-26T06:06:32.646Z,"101 km WNW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-26T05:57:03.140Z,38.8371658,-122.7991638,2.07,0.22,md,9.0,69.0,0.006999,0.01,nc,nc73862420,2023-03-26T06:13:13.750Z,"7km WNW of Cobb, CA",earthquake,0.43,1.14,0.11,9.0,automatic,nc,nc
