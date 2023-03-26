@@ -7278,3 +7278,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T17:43:50.290Z,19.2446670532227,-155.373001098633,33.3199996948242,2.29,ml,37.0,179.0,,0.129999995,hv,hv73349777,2023-03-26T17:49:19.130Z,"Island of Hawaii, Hawaii",earthquake,0.65,1.07000005,0.35,4.0,automatic,hv,hv
 2023-03-26T17:43:10.470Z,33.7003333,-116.827,15.19,1.76,ml,63.0,21.0,0.07226,0.24,ci,ci40190279,2023-03-26T17:46:51.695Z,"8km SE of Valle Vista, CA",earthquake,0.26,0.47,0.166,26.0,automatic,ci,ci
 2023-03-26T17:26:41.429Z,-36.4586,-72.7522,43.109,4.7,mwr,101.0,67.0,0.456,0.93,us,us7000jmw0,2023-03-26T17:52:30.752Z,"25 km NE of Tomé, Chile",earthquake,5.01,5.401,0.053,34.0,reviewed,us,us
+2023-03-26T18:23:39.428Z,64.4042,-147.299,14.8,1.9,ml,,,,0.61,ak,ak0233wvjbdi,2023-03-26T18:25:27.287Z,"23 km SW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-26T18:21:08.260Z,38.7900009,-122.768837,1.52,0.88,md,13.0,78.0,0.01278,0.03,nc,nc73862635,2023-03-26T18:22:44.167Z,"2km NW of The Geysers, CA",earthquake,0.31,0.62,0.16,13.0,automatic,nc,nc
+2023-03-26T18:18:21.262Z,59.3697,-152.9962,76.7,1.8,ml,,,,0.42,ak,ak0233wvi7e6,2023-03-26T18:20:26.196Z,"61 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-26T18:05:01.390Z,38.751667,-122.7136688,1.31,0.84,md,8.0,126.0,0.01322,0.01,nc,nc73862630,2023-03-26T18:18:11.128Z,"3km SW of Anderson Springs, CA",earthquake,0.35,0.46,0.26,7.0,automatic,nc,nc
+2023-03-26T16:55:07.458Z,18.0747,-69.1432,92.495,2.9,ml,12.0,205.0,0.831,1.19,us,us7000jmw1,2023-03-26T18:17:24.040Z,"42 km SSW of La Romana, Dominican Republic",earthquake,11.39,17.998,0.085,18.0,reviewed,us,us
