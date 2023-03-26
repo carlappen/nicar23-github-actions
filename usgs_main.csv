@@ -7220,3 +7220,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T10:36:27.660Z,38.7980003,-122.815834,2.66,1.49,md,32.0,68.0,0.01389,0.04,nc,nc73862495,2023-03-26T10:39:41.184Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.37,0.18,29.0,automatic,nc,nc
 2023-03-26T11:01:00.550Z,35.7826667,-116.844,0.15,1.47,ml,13.0,101.0,0.373,0.16,ci,ci40190079,2023-03-26T11:04:43.688Z,"48km E of Trona, CA",earthquake,0.46,31.61,0.173,11.0,automatic,ci,ci
 2023-03-26T10:43:44.822Z,-7.5337,130.3732,24.189,4.9,mb,49.0,99.0,3.028,0.58,us,us7000jmu9,2023-03-26T11:00:52.040Z,"Kepulauan Tanimbar, Indonesia",earthquake,4.77,5.67,0.08,49.0,reviewed,us,us
+2023-03-26T11:24:30.630Z,36.2408333,-120.8131638,6.58,2.19,md,31.0,77.0,0.02667,0.13,nc,nc73862505,2023-03-26T11:26:08.457Z,"22km NE of San Lucas, CA",earthquake,0.33,0.52,0.2,26.0,automatic,nc,nc
+2023-03-26T11:21:12.320Z,61.7378,-151.412,70.7,1.1,ml,,,,0.21,ak,ak0233wrcsm8,2023-03-26T11:23:18.350Z,Southern Alaska,earthquake,,1.7,,,automatic,ak,ak
