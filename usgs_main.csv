@@ -7178,3 +7178,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T06:17:17.229Z,62.2394,-148.761,23.9,1.8,ml,,,,0.6,ak,ak0233wocs3u,2023-03-26T06:19:39.497Z,"51 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-26T06:03:53.892Z,58.5244,-154.403,179.9,1.7,ml,,,,0.79,ak,ak0233wo9uwt,2023-03-26T06:06:32.646Z,"101 km WNW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-26T05:57:03.140Z,38.8371658,-122.7991638,2.07,0.22,md,9.0,69.0,0.006999,0.01,nc,nc73862420,2023-03-26T06:13:13.750Z,"7km WNW of Cobb, CA",earthquake,0.43,1.14,0.11,9.0,automatic,nc,nc
+2023-03-26T06:37:49.440Z,38.8261681,-122.7911682,0.81,0.91,md,9.0,68.0,0.01503,0.01,nc,nc73862440,2023-03-26T06:39:27.621Z,"6km W of Cobb, CA",earthquake,0.3,1.22,0.34,9.0,automatic,nc,nc
+2023-03-26T06:36:31.829Z,35.22925186,-97.75517273,2.110833406,1.83,ml,14.0,46.9711647,0.009007656947,0.7540483045,ok,ok2023fxzi,2023-03-26T06:37:48.748Z,"1 km WSW of Bridge Creek, Oklahoma",earthquake,2.823692965,2.501981032,,10.0,automatic,ok,ok
+2023-03-26T06:08:49.070Z,17.9338333333333,-66.9175,13.89,2.77,md,10.0,218.0,0.05483,0.15,pr,pr71401603,2023-03-26T06:31:10.200Z,Puerto Rico region,earthquake,0.91,0.44,0.14056182254814,6.0,reviewed,pr,pr
