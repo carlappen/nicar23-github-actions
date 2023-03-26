@@ -7286,3 +7286,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T18:32:51.352Z,64.7252,-147.3683,12.2,2.0,ml,,,,0.53,ak,ak0233wvl9qn,2023-03-26T18:34:42.113Z,"3 km SSW of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-26T18:29:51.480Z,33.7646667,-116.9326667,12.53,1.0,ml,24.0,58.0,0.07774,0.21,ci,ci40190295,2023-03-26T18:33:26.419Z,"3km SE of San Jacinto, CA",earthquake,0.33,0.66,0.12,25.0,automatic,ci,ci
 2023-03-26T18:29:15.438Z,62.2286,-151.1954,78.3,1.7,ml,,,,0.15,ak,ak0233wvkjtj,2023-03-26T18:31:15.012Z,"28 km NNE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-26T18:42:25.309Z,65.4988,-149.3109,11.8,1.2,ml,,,,0.62,ak,ak0233wvncvq,2023-03-26T18:45:46.306Z,"35 km W of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-26T18:41:18.672Z,63.3146,-151.5047,11.6,1.4,ml,,,,0.63,ak,ak0233wvn4nv,2023-03-26T18:43:15.108Z,"27 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
