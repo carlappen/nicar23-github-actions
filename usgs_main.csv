@@ -7300,3 +7300,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T18:32:44.790Z,17.9426,-66.9536,14.0,3.37,md,18.0,200.0,0.0812,0.14,pr,pr2023085006,2023-03-26T19:14:38.390Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.55,0.45,0.14,8.0,reviewed,pr,pr
 2023-03-26T19:21:55.274Z,60.9834,-152.4678,131.9,1.4,ml,,,,0.34,ak,ak0233ww4crr,2023-03-26T19:24:19.155Z,"71 km WNW of Nikiski, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-03-26T19:26:31.634Z,60.2905,-152.1772,77.0,1.6,ml,,,,0.66,ak,ak0233ww5diz,2023-03-26T19:29:11.672Z,"38 km NW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-26T19:44:12.361Z,58.1781,-155.2452,0.0,0.3,ml,,,,0.57,ak,ak0233ww96xg,2023-03-26T19:45:29.492Z,"82 km NW of Karluk, Alaska",earthquake,,5.0,,,automatic,ak,ak
+2023-03-26T17:58:11.238Z,18.7744,-101.6282,88.986,4.2,mb,111.0,149.0,0.947,0.7,us,us7000jmw6,2023-03-26T19:44:29.040Z,"5 km SSW of Poturo, Mexico",earthquake,7.4,4.505,0.058,84.0,reviewed,us,us
