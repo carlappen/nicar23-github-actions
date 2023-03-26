@@ -7215,3 +7215,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T09:56:17.820Z,33.5325,-116.7303333,2.21,0.29,ml,13.0,143.0,0.03333,0.17,ci,ci40190071,2023-03-26T09:59:52.978Z,"6km WSW of Anza, CA",earthquake,0.34,0.34,0.091,6.0,automatic,ci,ci
 2023-03-26T09:56:12.370Z,38.8416672,-122.8099976,2.1,0.22,md,11.0,70.0,0.01569,0.01,nc,nc73862480,2023-03-26T10:14:14.102Z,"8km WNW of Cobb, CA",earthquake,0.36,0.99,0.13,11.0,automatic,nc,nc
 2023-03-26T09:52:15.080Z,34.0463333,-117.0868333,8.83,1.09,ml,30.0,56.0,0.02384,0.19,ci,ci40190063,2023-03-26T09:55:58.766Z,"4km WNW of Yucaipa, CA",earthquake,0.26,0.65,0.146,28.0,automatic,ci,ci
+2023-03-26T10:32:17.580Z,38.8359985,-122.793663,2.52,0.96,md,9.0,58.0,0.003537,0.02,nc,nc73862490,2023-03-26T10:33:52.896Z,"6km WNW of Cobb, CA",earthquake,0.47,1.47,0.31,12.0,automatic,nc,nc
+2023-03-26T10:31:30.154Z,61.3045,-150.0815,35.1,2.5,ml,,,,0.47,ak,ak0233wqtjjr,2023-03-26T10:33:22.964Z,"8 km SW of Point MacKenzie, Alaska",earthquake,,1.6,,,automatic,ak,ak
