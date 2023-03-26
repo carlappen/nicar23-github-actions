@@ -7331,3 +7331,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T22:19:03.310Z,17.9576666666667,-66.906,9.38,2.49,md,8.0,203.0,0.03077,0.09,pr,pr71401698,2023-03-26T22:29:01.880Z,"1 km S of Guánica, Puerto Rico",earthquake,0.58,0.36,0.113833285723523,7.0,reviewed,pr,pr
 2023-03-26T22:38:31.830Z,39.3805008,-122.8974991,0.28,1.38,md,12.0,115.0,0.1788,0.13,nc,nc73862715,2023-03-26T22:40:08.682Z,"6km ESE of Lake Pillsbury, CA",earthquake,0.48,10.01,0.18,2.0,automatic,nc,nc
 2023-03-26T22:52:24.482Z,63.4919,-151.0937,6.7,1.4,ml,,,,0.53,ak,ak0233wy38eo,2023-03-26T22:54:31.662Z,"31 km E of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-26T23:17:36.077Z,59.6148,-153.5277,120.0,1.8,ml,,,,0.5,ak,ak0233wyh6up,2023-03-26T23:19:48.913Z,"37 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-26T23:12:30.510Z,32.545,-115.2395,22.01,2.26,ml,28.0,52.0,0.1368,0.32,ci,ci40190351,2023-03-26T23:16:17.769Z,"11km ESE of Puebla, B.C., MX",earthquake,0.56,1.46,0.195,26.0,automatic,ci,ci
+2023-03-26T23:12:29.950Z,32.5099983,-115.2228317,24.34,2.61,ml,25.0,194.0,0.1139,0.24,ci,ci40190343,2023-03-26T23:14:35.623Z,"14km ESE of Puebla, B.C., MX",earthquake,1.02,1.38,0.56,6.0,automatic,ci,ci
+2023-03-26T23:07:40.470Z,38.8313332,-122.8168335,1.84,0.37,md,11.0,82.0,0.009524,0.01,nc,nc73862730,2023-03-26T23:21:11.777Z,"8km NW of The Geysers, CA",earthquake,0.32,0.98,0.27,13.0,automatic,nc,nc
+2023-03-26T23:03:22.514Z,61.8249,-148.8545,19.4,1.3,ml,,,,0.73,ak,ak0233wye5rv,2023-03-26T23:05:18.718Z,"7 km NW of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-26T22:55:57.460Z,38.7869987,-122.7675018,1.97,1.06,md,15.0,79.0,0.01491,0.03,nc,nc73862720,2023-03-26T23:12:13.713Z,"1km NW of The Geysers, CA",earthquake,0.31,0.55,0.31,14.0,automatic,nc,nc
