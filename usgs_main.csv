@@ -7248,3 +7248,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T14:12:47.920Z,33.5578333,-116.4063333,7.73,0.55,ml,11.0,99.0,0.06795,0.1,ci,ci40190247,2023-03-26T14:16:20.355Z,"15km SW of La Quinta, CA",earthquake,0.31,0.67,0.321,3.0,automatic,ci,ci
 2023-03-26T14:02:45.960Z,38.8346672,-122.7903366,1.76,1.02,md,11.0,85.0,0.003736,0.01,nc,nc73862540,2023-03-26T14:19:13.613Z,"6km WNW of Cobb, CA",earthquake,0.31,0.53,0.27,13.0,automatic,nc,nc
 2023-03-26T13:51:34.920Z,34.5653333,-118.1443333,6.41,0.97,ml,17.0,60.0,0.03547,0.15,ci,ci40190239,2023-03-26T14:06:03.856Z,"4km WSW of Palmdale, CA",earthquake,0.28,0.53,0.091,18.0,reviewed,ci,ci
+2023-03-26T14:39:39.672Z,61.4395,-146.7711,19.8,1.4,ml,,,,0.8,ak,ak0233wt90fj,2023-03-26T14:41:55.055Z,"41 km NNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
