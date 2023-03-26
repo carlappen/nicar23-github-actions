@@ -7173,3 +7173,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T04:43:49.523Z,21.5254,121.4208,10.0,4.4,mb,33.0,123.0,1.324,0.57,us,us7000jmt2,2023-03-26T05:03:01.040Z,"87 km SE of Hengchun, Taiwan",earthquake,6.23,1.896,0.12,21.0,reviewed,us,us
 2023-03-26T03:58:11.610Z,19.3243,-67.9091,30.0,3.73,md,14.0,269.0,0.9379,0.43,pr,pr2023085002,2023-03-26T05:15:38.764Z,"97 km NNE of Punta Cana, Dominican Republic",earthquake,3.19,27.91,0.07,7.0,reviewed,pr,pr
 2023-03-26T05:23:54.050Z,38.8380013,-122.8378296,1.98,1.12,md,9.0,119.0,0.001921,0.02,nc,nc73862405,2023-03-26T05:27:54.690Z,"10km NW of The Geysers, CA",earthquake,0.34,0.81,0.19,9.0,automatic,nc,nc
+2023-03-26T05:42:47.000Z,19.2964992523193,-155.242660522461,2.27999997138977,2.25,ml,36.0,105.0,,0.219999999,hv,hv73349432,2023-03-26T05:48:18.370Z,"16 km S of Volcano, Hawaii",earthquake,0.35,0.689999998,0.3,8.0,automatic,hv,hv
