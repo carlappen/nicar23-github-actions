@@ -7152,3 +7152,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T18:35:07.270Z,51.86,-178.086833333333,1.84,0.83,ml,4.0,207.0,,0.28,av,av91818961,2023-03-26T03:33:14.810Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.14,2.46,0.166929568907764,4.0,reviewed,av,av
 2023-03-25T18:30:52.090Z,51.8571666666667,-178.0835,-1.78,0.61,ml,4.0,207.0,,0.28,av,av91818951,2023-03-26T03:30:19.830Z,"99 km W of Adak, Alaska",earthquake,2.26,1.98,0.123685967924266,4.0,reviewed,av,av
 2023-03-26T03:43:26.020Z,38.841835,-122.8389969,1.96,1.1,md,20.0,89.0,0.004245,0.02,nc,nc73862370,2023-03-26T03:45:02.548Z,"10km NW of The Geysers, CA",earthquake,0.22,0.46,0.16,21.0,automatic,nc,nc
+2023-03-26T03:54:14.443Z,59.4769,-152.8309,89.5,1.8,ml,,,,0.28,ak,ak0233wmsf6n,2023-03-26T03:56:15.917Z,"53 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-25T08:24:59.730Z,47.515166666666666,-122.0595,23.9,1.17,ml,15.0,87.0,0.1739,0.14,uw,uw61904737,2023-03-26T03:47:59.230Z,"2 km SW of Issaquah, Washington",earthquake,0.39,1.13,0.1178410438304562,4.0,reviewed,uw,uw
