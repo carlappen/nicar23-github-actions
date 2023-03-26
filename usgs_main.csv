@@ -7186,3 +7186,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T06:55:50.410Z,59.7214,-153.485,121.1,2.0,ml,,,,0.23,ak,ak0233wokzvl,2023-03-26T06:57:39.185Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
 2023-03-26T07:11:27.745Z,31.6471,-104.3549,8.793,3.2,ml,25.0,109.0,0.126,0.38,us,us7000jmtm,2023-03-26T07:18:38.040Z,"58 km S of Whites City, New Mexico",earthquake,1.93,8.38,0.06,62.0,reviewed,us,us
 2023-03-26T07:26:34.950Z,34.0946655,-118.1821671,9.37,1.72,ml,52.0,36.0,0.03524,0.19,ci,ci40189975,2023-03-26T07:28:41.842Z,"3km SSE of Highland Park, CA",earthquake,0.27,0.49,0.248,30.0,automatic,ci,ci
+2023-03-26T07:34:52.970Z,38.8376656,-122.8356705,1.75,0.74,md,6.0,98.0,0.0009331,0.01,nc,nc73862445,2023-03-26T07:36:26.928Z,"10km NW of The Geysers, CA",earthquake,0.52,0.78,0.47,7.0,automatic,nc,nc
+2023-03-26T07:11:27.633Z,31.63829301,-104.3496446,6.697143555000001,3.3,ml,29.0,71.0,0.07250576178,0.3,tx,tx2023fyan,2023-03-26T07:37:19.985Z,western Texas,earthquake,1.2403122520000005,1.272505356,0.1,22.0,reviewed,tx,tx
