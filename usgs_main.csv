@@ -7283,3 +7283,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T18:18:21.262Z,59.3697,-152.9962,76.7,1.8,ml,,,,0.42,ak,ak0233wvi7e6,2023-03-26T18:20:26.196Z,"61 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-26T18:05:01.390Z,38.751667,-122.7136688,1.31,0.84,md,8.0,126.0,0.01322,0.01,nc,nc73862630,2023-03-26T18:18:11.128Z,"3km SW of Anderson Springs, CA",earthquake,0.35,0.46,0.26,7.0,automatic,nc,nc
 2023-03-26T16:55:07.458Z,18.0747,-69.1432,92.495,2.9,ml,12.0,205.0,0.831,1.19,us,us7000jmw1,2023-03-26T18:17:24.040Z,"42 km SSW of La Romana, Dominican Republic",earthquake,11.39,17.998,0.085,18.0,reviewed,us,us
+2023-03-26T18:32:51.352Z,64.7252,-147.3683,12.2,2.0,ml,,,,0.53,ak,ak0233wvl9qn,2023-03-26T18:34:42.113Z,"3 km SSW of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-26T18:29:51.480Z,33.7646667,-116.9326667,12.53,1.0,ml,24.0,58.0,0.07774,0.21,ci,ci40190295,2023-03-26T18:33:26.419Z,"3km SE of San Jacinto, CA",earthquake,0.33,0.66,0.12,25.0,automatic,ci,ci
+2023-03-26T18:29:15.438Z,62.2286,-151.1954,78.3,1.7,ml,,,,0.15,ak,ak0233wvkjtj,2023-03-26T18:31:15.012Z,"28 km NNE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
