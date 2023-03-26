@@ -7165,3 +7165,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T17:16:55.650Z,51.8615,-178.070166666667,-1.8,0.97,ml,4.0,184.0,,0.26,av,av91818881,2023-03-26T04:01:04.460Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.76,1.76,0.297992264210752,4.0,reviewed,av,av
 2023-03-25T15:54:07.780Z,58.2401666666667,-155.143333333333,-2.17,-0.5,ml,5.0,217.0,,0.05,av,av91818831,2023-03-26T04:10:33.550Z,"85 km NNW of Karluk, Alaska",earthquake,0.54,2.44,0.180789472541925,5.0,reviewed,av,av
 2023-03-25T05:59:38.030Z,46.85666666666667,-121.757,1.26,0.38,ml,18.0,92.0,0.02209,0.09,uw,uw61904732,2023-03-26T04:02:37.580Z,"23 km ENE of Ashford, Washington",earthquake,0.26,0.44,0.0640714645074422,6.0,reviewed,uw,uw
+2023-03-26T04:31:12.719Z,61.7512,-150.3888,11.3,1.6,ml,,,,0.58,ak,ak0233wn8wkn,2023-03-26T04:33:04.900Z,Southern Alaska,earthquake,,0.2,,,automatic,ak,ak
