@@ -7202,3 +7202,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T08:30:54.980Z,33.6261667,-116.6751667,12.88,0.96,ml,27.0,89.0,0.06878,0.16,ci,ci40190055,2023-03-26T08:34:27.103Z,"8km N of Anza, CA",earthquake,0.27,0.43,0.171,24.0,automatic,ci,ci
 2023-03-26T08:30:41.820Z,38.8404999,-122.8761673,2.45,0.68,md,10.0,86.0,0.005914,0.02,nc,nc73862460,2023-03-26T08:32:17.145Z,"12km NW of The Geysers, CA",earthquake,0.37,0.5,0.3,12.0,automatic,nc,nc
 2023-03-26T08:29:38.160Z,33.6283333,-116.6803333,13.19,0.78,ml,23.0,90.0,0.07244,0.07,ci,ci40190047,2023-03-26T08:33:20.829Z,"8km N of Anza, CA",earthquake,0.17,0.28,0.217,15.0,automatic,ci,ci
+2023-03-26T08:38:37.712Z,19.0632,-67.7803,13.715,3.0,ml,18.0,186.0,0.789,0.48,us,us7000jmtw,2023-03-26T08:43:27.040Z,"84 km NE of Punta Cana, Dominican Republic",earthquake,4.41,9.454,0.062,34.0,reviewed,us,us
