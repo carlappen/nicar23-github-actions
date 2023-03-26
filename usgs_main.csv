@@ -7183,3 +7183,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T06:08:49.070Z,17.9338333333333,-66.9175,13.89,2.77,md,10.0,218.0,0.05483,0.15,pr,pr71401603,2023-03-26T06:31:10.200Z,Puerto Rico region,earthquake,0.91,0.44,0.14056182254814,6.0,reviewed,pr,pr
 2023-03-26T06:45:48.684Z,62.1433,-147.7803,20.5,1.4,ml,,,,1.27,ak,ak0233woiul0,2023-03-26T06:48:09.623Z,Central Alaska,earthquake,,1.4,,,automatic,ak,ak
 2023-03-26T06:38:37.828Z,63.3357,-145.5293,0.0,1.7,ml,,,,0.51,ak,ak0233wohbqe,2023-03-26T06:41:20.497Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-03-26T06:55:50.410Z,59.7214,-153.485,121.1,2.0,ml,,,,0.23,ak,ak0233wokzvl,2023-03-26T06:57:39.185Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
