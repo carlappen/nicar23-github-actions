@@ -7241,3 +7241,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T12:38:18.234Z,17.6217,120.6868,45.529,4.6,mb,56.0,127.0,5.183,0.39,us,us7000jmuv,2023-03-26T13:02:26.040Z,"3 km E of Tayum, Philippines",earthquake,10.36,8.409,0.067,67.0,reviewed,us,us
 2023-03-26T13:41:34.210Z,33.1823349,-116.4113312,11.13,0.99,ml,30.0,73.0,0.08577,0.2,ci,ci40190223,2023-03-26T13:43:40.115Z,"9km SSW of Borrego Springs, CA",earthquake,0.33,0.55,0.243,5.0,automatic,ci,ci
 2023-03-26T13:41:02.620Z,33.1783333,-116.413,10.23,1.38,ml,44.0,41.0,0.08969,0.27,ci,ci40190215,2023-03-26T13:44:36.894Z,"9km SSW of Borrego Springs, CA",earthquake,0.3,0.86,0.196,25.0,automatic,ci,ci
+2023-03-26T13:46:50.490Z,35.7161667,-117.563,2.18,1.6,ml,20.0,67.0,0.1545,0.21,ci,ci40190231,2023-03-26T13:50:24.488Z,"15km NE of Ridgecrest, CA",earthquake,0.34,1.41,0.206,19.0,automatic,ci,ci
