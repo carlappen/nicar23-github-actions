@@ -7130,3 +7130,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T23:58:05.670Z,61.2526,-147.0016,0.0,2.1,ml,,,,0.62,ak,ak0233vb6kd3,2023-03-26T00:00:21.294Z,"37 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-25T23:57:13.042Z,37.3756,-117.3536,1.5,1.7,ml,14.0,209.09,0.326,0.2703,nn,nn00857500,2023-03-25T23:58:27.253Z,"38 km SSW of Goldfield, Nevada",earthquake,,34.3,0.92,9.0,automatic,nn,nn
 2023-03-25T23:29:05.309Z,-18.2083,168.0275,35.0,4.8,mb,44.0,58.0,2.857,0.63,us,us7000jmra,2023-03-25T23:57:28.040Z,"60 km SSW of Port-Vila, Vanuatu",earthquake,7.53,1.92,0.088,40.0,reviewed,us,us
+2023-03-26T02:48:07.147Z,64.3977,-148.0803,0.0,1.7,ml,,,,0.53,ak,ak0233wm5o3u,2023-03-26T02:50:07.667Z,"47 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-26T02:47:23.260Z,38.8323326,-122.8193359,2.13,0.59,md,10.0,71.0,0.01149,0.01,nc,nc73862325,2023-03-26T02:49:01.862Z,"8km NW of The Geysers, CA",earthquake,0.36,0.9,0.37,10.0,automatic,nc,nc
+2023-03-26T02:40:23.208Z,58.1218,-155.575,28.0,0.7,ml,,,,0.98,ak,ak0233wm3zm8,2023-03-26T02:42:06.329Z,"89 km SE of King Salmon, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2023-03-26T02:37:13.700Z,33.9958333,-118.297,14.02,1.45,ml,14.0,168.0,0.02493,0.19,ci,ci40189927,2023-03-26T02:41:06.755Z,"5km E of View Park-Windsor Hills, CA",earthquake,0.59,0.73,0.362,35.0,automatic,ci,ci
+2023-03-26T02:17:48.517Z,15.1751,-94.2646,59.411,4.2,mb,22.0,227.0,2.326,0.81,us,us7000jmsd,2023-03-26T02:51:29.040Z,"near the coast of Oaxaca, Mexico",earthquake,13.12,13.142,0.108,25.0,reviewed,us,us
+2023-03-26T01:25:40.470Z,51.8506666666667,-178.080666666667,3.43,2.18,ml,6.0,136.0,,0.17,av,av91819406,2023-03-26T02:47:09.980Z,"99 km W of Adak, Alaska",earthquake,0.57,0.39,0.196745091169232,6.0,reviewed,av,av
+2023-03-26T00:54:00.390Z,51.863,-178.081166666667,2.69,1.0,ml,4.0,196.0,,0.25,av,av91096093,2023-03-26T02:49:38.110Z,"99 km W of Adak, Alaska",earthquake,0.93,1.75,0.175684962110892,4.0,reviewed,av,av
+2023-03-26T00:41:06.700Z,19.1575,-67.9486,72.0,3.93,md,16.0,262.0,0.7756,0.45,pr,pr2023085001,2023-03-26T02:50:30.492Z,"79 km NE of Punta Cana, Dominican Republic",earthquake,3.95,6.79,0.07,7.0,reviewed,pr,pr
+2023-03-26T00:39:52.628Z,-22.4089,-66.2018,267.943,4.6,mb,60.0,76.0,1.904,0.65,us,us7000jmrn,2023-03-26T01:01:46.040Z,"62 km WNW of Abra Pampa, Argentina",earthquake,7.38,7.957,0.06,82.0,reviewed,us,us
+2023-03-25T23:44:43.010Z,51.8625,-178.0695,-1.8,1.06,ml,4.0,182.0,,0.26,av,av91819301,2023-03-26T02:51:10.670Z,"98 km W of Adak, Alaska",earthquake,1.18,1.72,0.276774887066968,4.0,reviewed,av,av
