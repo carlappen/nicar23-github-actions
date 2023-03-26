@@ -7264,3 +7264,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T15:10:25.320Z,18.8783333333333,-64.9356666666667,3.04,3.36,md,17.0,268.0,0.5235,0.4,pr,pr71401658,2023-03-26T16:06:46.650Z,Virgin Islands region,earthquake,2.29,2.02,0.169437568054573,15.0,reviewed,pr,pr
 2023-03-26T13:14:32.905Z,36.4356,71.1775,117.67,4.4,mb,38.0,76.0,2.57,0.79,us,us7000jmuz,2023-03-26T16:34:07.040Z,"42 km SW of Ashkāsham, Afghanistan",earthquake,7.19,8.976,0.115,22.0,reviewed,us,us
 2023-03-26T14:33:04.402Z,38.3522,141.6744,66.429,4.5,mb,51.0,100.0,2.479,0.98,us,us7000jmvh,2023-03-26T16:45:23.040Z,"33 km ESE of Ishinomaki, Japan",earthquake,3.25,6.973,0.064,72.0,reviewed,us,us
+2023-03-26T17:17:17.128Z,36.7607,-115.679,0.0,0.7,ml,11.0,157.99,0.248,0.2558,nn,nn00857513,2023-03-26T17:17:49.741Z,"21 km N of Indian Springs, Nevada",earthquake,,71.9,0.21,7.0,automatic,nn,nn
+2023-03-26T17:00:49.223Z,60.0853,-152.7049,91.8,1.4,ml,,,,0.49,ak,ak0233wusz22,2023-03-26T17:03:12.094Z,"56 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-26T16:58:18.500Z,19.2628326416016,-155.38883972168,31.3099994659424,1.83000004,md,28.0,183.0,,0.119999997,hv,hv73349747,2023-03-26T17:01:26.190Z,"11 km NE of Pāhala, Hawaii",earthquake,1.08,1.44000006,0.649999976,7.0,automatic,hv,hv
+2023-03-26T16:57:18.498Z,61.1801,-148.13,67.4,1.4,ml,,,,2.26,ak,ak0233wujow9,2023-03-26T16:58:57.208Z,"52 km SE of Knik River, Alaska",earthquake,,1.1,,,automatic,ak,ak
