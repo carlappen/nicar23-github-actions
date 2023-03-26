@@ -7208,3 +7208,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T08:57:09.252Z,62.2184,-149.4708,16.7,1.3,ml,,,,0.44,ak,ak0233wps7cd,2023-03-26T08:59:25.075Z,"20 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-26T09:22:09.290Z,38.8294983,-122.8551636,2.45,0.58,md,8.0,125.0,0.01484,0.01,nc,nc73862470,2023-03-26T09:23:43.492Z,"10km NW of The Geysers, CA",earthquake,0.41,1.42,0.31,8.0,automatic,nc,nc
 2023-03-26T08:38:38.390Z,19.0578,-67.8865,93.0,3.82,md,22.0,182.0,0.7354,0.92,pr,pr2023085003,2023-03-26T09:28:43.536Z,"75 km NE of Punta Cana, Dominican Republic",earthquake,5.09,7.34,0.14,17.0,reviewed,pr,pr
+2023-03-26T09:47:54.160Z,38.838665,-122.8261642,1.47,0.64,md,9.0,94.0,0.007281,0.01,nc,nc73862475,2023-03-26T09:49:27.725Z,"9km WNW of Cobb, CA",earthquake,0.4,0.95,0.2,8.0,automatic,nc,nc
