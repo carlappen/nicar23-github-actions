@@ -7254,3 +7254,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T14:46:53.700Z,38.8019981,-122.7718353,0.97,1.28,md,14.0,76.0,0.009572,0.03,nc,nc73862565,2023-03-26T14:48:27.320Z,"3km NNW of The Geysers, CA",earthquake,0.24,0.42,0.21,15.0,automatic,nc,nc
 2023-03-26T14:44:20.847Z,63.8373,-149.303,112.3,1.8,ml,,,,0.48,ak,ak0233wta1k1,2023-03-26T14:46:40.182Z,"16 km W of Healy, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-03-26T14:42:24.020Z,33.1813333,-116.4096667,10.76,0.96,ml,26.0,64.0,0.08686,0.21,ci,ci40190263,2023-03-26T14:46:03.784Z,"9km SSW of Borrego Springs, CA",earthquake,0.32,0.77,0.213,16.0,automatic,ci,ci
+2023-03-26T15:19:16.187Z,62.1541,-145.6327,20.5,2.0,ml,,,,0.9,ak,ak0233wtq3wi,2023-03-26T15:20:55.020Z,Central Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-03-26T14:55:21.040Z,38.8258324,-122.7959976,2.32,1.05,md,25.0,37.0,0.01126,0.03,nc,nc73862575,2023-03-26T15:14:10.926Z,"6km W of Cobb, CA",earthquake,0.21,0.41,0.27,26.0,automatic,nc,nc
