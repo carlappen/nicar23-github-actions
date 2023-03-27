@@ -7551,3 +7551,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T20:33:36.380Z,33.526,-116.7258333,5.38,0.73,ml,26.0,62.0,0.04045,0.18,ci,ci40190615,2023-03-27T20:37:17.249Z,"6km WSW of Anza, CA",earthquake,0.31,0.59,0.131,16.0,automatic,ci,ci
 2023-03-27T20:30:49.144Z,36.7225,-116.275,8.0,0.4,ml,18.0,67.39,0.039,0.195,nn,nn00857543,2023-03-27T20:31:29.325Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.89,12.0,automatic,nn,nn
 2023-03-27T02:24:42.450Z,51.8628333333333,-178.083,-1.8,1.07,ml,5.0,199.0,,0.2,av,av91820851,2023-03-27T20:28:29.870Z,"99 km W of Adak, Alaska",earthquake,0.62,1.61,0.209860128740082,5.0,reviewed,av,av
+2023-03-27T20:44:32.530Z,38.814167,-122.8246689,2.35,0.9,md,16.0,71.0,0.006357,0.02,nc,nc73863165,2023-03-27T20:46:10.322Z,"7km NW of The Geysers, CA",earthquake,0.29,0.73,0.17,18.0,automatic,nc,nc
+2023-03-27T01:04:58.590Z,51.8545,-178.082333333333,3.97,1.82,ml,5.0,207.0,,0.16,av,av91820781,2023-03-27T20:46:35.800Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.74,0.55,0.218483376675557,5.0,reviewed,av,av
+2023-03-26T22:17:10.877Z,-16.5556,-74.586,10.0,4.3,mb,20.0,153.0,4.435,0.67,us,us7000jmx3,2023-03-27T20:42:41.040Z,"87 km SSW of Atiquipa, Peru",earthquake,10.13,1.87,0.217,6.0,reviewed,us,us
