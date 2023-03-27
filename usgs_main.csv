@@ -7378,3 +7378,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T02:53:43.417Z,-22.7695,171.7227,10.385,5.0,mb,47.0,101.0,3.952,0.94,us,us7000jmyb,2023-03-27T03:09:14.040Z,southeast of the Loyalty Islands,earthquake,10.18,4.85,0.093,37.0,reviewed,us,us
 2023-03-27T03:37:59.380Z,38.7989998,-122.7543335,1.79,1.29,md,24.0,95.0,0.004505,0.03,nc,nc73862815,2023-03-27T03:39:35.628Z,"2km N of The Geysers, CA",earthquake,0.25,0.4,0.21,24.0,automatic,nc,nc
 2023-03-27T03:29:06.960Z,19.0095,-65.038,12.07,3.26,md,6.0,277.0,0.6582,0.22,pr,pr71401708,2023-03-27T03:41:57.550Z,"74 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.2,3.29,0.0216891460649729,3.0,reviewed,pr,pr
+2023-03-27T03:54:18.380Z,38.8358345,-122.8085022,2.13,0.7,md,12.0,57.0,0.01248,0.01,nc,nc73862820,2023-03-27T03:55:54.533Z,"8km WNW of Cobb, CA",earthquake,0.31,0.95,0.5,13.0,automatic,nc,nc
