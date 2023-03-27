@@ -7597,3 +7597,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T22:42:03.073Z,37.3595,-117.6786,15.9,1.7,ml,12.0,170.7,0.792,0.2775,nn,nn00857552,2023-03-27T22:43:28.173Z,"44 km S of Silver Peak, Nevada",earthquake,,1.0,1.05,7.0,automatic,nn,nn
 2023-03-27T22:39:19.170Z,19.1718330383301,-155.482330322266,33.4199981689453,1.85000002,md,29.0,93.0,,0.150000006,hv,hv73350742,2023-03-27T22:42:33.010Z,"3 km S of Pāhala, Hawaii",earthquake,0.87,1.63,1.38999999,6.0,automatic,hv,hv
 2023-03-27T04:13:26.740Z,51.8525,-178.052,-1.8,0.42,ml,4.0,169.0,,0.14,av,av91096153,2023-03-27T22:37:12.030Z,"97 km W of Adak, Alaska",earthquake,0.45,1.21,0.538919290069998,4.0,reviewed,av,av
+2023-03-27T04:49:35.340Z,51.8496666666667,-178.0365,0.11,1.07,ml,4.0,135.0,,0.18,av,av91821031,2023-03-27T22:48:18.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.61,31.61,0.156842687878281,4.0,reviewed,av,av
