@@ -7427,3 +7427,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T10:20:08.971Z,60.3491,-143.4918,1.2,2.5,ml,,,,0.67,ak,ak0233yeahke,2023-03-27T10:21:59.465Z,"124 km SSW of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-27T10:07:05.239Z,62.0702,-150.3187,34.5,1.5,ml,,,,0.54,ak,ak0233ye7oxn,2023-03-27T10:14:46.985Z,"26 km WSW of Susitna North, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2023-03-27T09:57:33.500Z,38.8131676,-122.8278351,2.01,0.77,md,12.0,78.0,0.00442,0.02,nc,nc73862965,2023-03-27T10:13:15.708Z,"7km WNW of The Geysers, CA",earthquake,0.28,0.6,0.3,15.0,automatic,nc,nc
+2023-03-27T10:35:00.689Z,62.1762,-152.0525,100.5,1.4,ml,,,,1.06,ak,ak0233yedoms,2023-03-27T10:36:43.180Z,"39 km WNW of Skwentna, Alaska",earthquake,,1.0,,,automatic,ak,ak
