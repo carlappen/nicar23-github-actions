@@ -7433,3 +7433,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T11:03:51.390Z,35.7346667,-117.7356667,7.28,1.86,ml,26.0,54.0,0.04392,0.16,ci,ci40190479,2023-03-27T11:14:50.110Z,"12km NE of Inyokern, CA",earthquake,0.25,0.61,0.216,26.0,automatic,ci,ci
 2023-03-27T10:57:52.680Z,19.6753330230713,-156.044494628906,5.8600001335144,1.88,md,26.0,283.0,,0.370000005,hv,hv73350297,2023-03-27T11:01:26.940Z,"6 km NW of Kailua-Kona, Hawaii",earthquake,1.83,0.910000026,1.64999998,6.0,automatic,hv,hv
 2023-03-27T11:24:31.039Z,62.9615,-149.6967,68.8,1.4,ml,,,,0.51,ak,ak0233yewtpb,2023-03-27T11:26:29.084Z,"60 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-27T11:43:12.910Z,38.8263321,-122.8018341,2.53,0.79,md,17.0,48.0,0.007073,0.01,nc,nc73862980,2023-03-27T11:44:49.756Z,"7km NW of The Geysers, CA",earthquake,0.26,0.53,0.17,17.0,automatic,nc,nc
