@@ -7509,3 +7509,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T15:10:05.520Z,17.9315,-66.9566,16.0,2.23,md,6.0,227.0,0.0888,0.05,pr,pr2023086000,2023-03-27T18:36:12.113Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.71,0.55,0.01,3.0,reviewed,pr,pr
 2023-03-27T12:02:00.250Z,58.2616666666667,-155.154,5.63,3.76,ml,9.0,108.0,,0.16,av,av91821431,2023-03-27T18:07:48.220Z,Alaska Peninsula,earthquake,0.37,0.67,0.0872264499824951,2.0,reviewed,av,av
 2023-03-27T12:01:39.050Z,58.2448333333333,-155.138833333333,2.51,-1.16,ml,5.0,150.0,,0.03,av,av91096098,2023-03-27T18:14:11.400Z,"85 km NNW of Karluk, Alaska",earthquake,0.29,1.17,0.159983477810054,5.0,reviewed,av,av
+2023-03-27T18:48:59.550Z,33.402,-116.395,1.91,0.58,ml,13.0,79.0,0.08166,0.21,ci,ci40190591,2023-03-27T18:52:34.336Z,"16km N of Borrego Springs, CA",earthquake,0.42,0.82,0.048,7.0,automatic,ci,ci
+2023-03-27T18:43:36.580Z,33.4,-116.3803333,2.57,0.76,ml,17.0,62.0,0.07008,0.22,ci,ci40190583,2023-03-27T18:47:09.687Z,"16km N of Borrego Springs, CA",earthquake,0.4,0.95,0.119,10.0,automatic,ci,ci
+2023-03-27T08:37:46.560Z,37.5235,-118.4753333,7.67,1.0,md,18.0,81.0,0.08589,0.06,nc,nc73862935,2023-03-27T18:51:11.827Z,"16km NNW of Dixon Lane-Meadow Creek, CA",earthquake,0.35,1.05,0.169,15.0,reviewed,nc,nc
