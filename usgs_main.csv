@@ -7517,3 +7517,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T03:07:13.200Z,51.8516666666667,-178.080333333333,3.36,2.22,ml,5.0,208.0,,0.16,av,av91096103,2023-03-27T19:05:56.900Z,"99 km W of Adak, Alaska",earthquake,0.69,0.47,0.302043002022899,5.0,reviewed,av,av
 2023-03-27T03:07:08.420Z,53.8766666666667,-166.568833333333,5.45,0.45,ml,9.0,109.0,,0.15,av,av91820941,2023-03-27T18:57:02.620Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.38,0.8,0.167347745599401,7.0,reviewed,av,av
 2023-03-26T19:54:40.090Z,54.0016666666667,-166.0355,-1.28,0.63,ml,6.0,303.0,,0.25,av,av91820486,2023-03-27T19:11:26.460Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,1.57,1.57,0.255834837077035,6.0,reviewed,av,av
+2023-03-27T19:20:08.170Z,38.7871666,-122.7666702,1.86,0.91,md,15.0,80.0,0.01766,0.03,nc,nc73863135,2023-03-27T19:21:45.308Z,"1km NW of The Geysers, CA",earthquake,0.27,0.55,0.21,13.0,automatic,nc,nc
+2023-03-27T19:14:10.171Z,63.3548,-150.0654,117.4,1.2,ml,,,,0.23,ak,ak0233yjm3rt,2023-03-27T19:19:41.268Z,"55 km W of Cantwell, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-03-27T19:13:13.551Z,58.2488,-155.1818,2.6,0.0,ml,,,,0.38,ak,ak0233yjlwbf,2023-03-27T19:19:34.165Z,"87 km NNW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-03-26T19:52:47.870Z,56.8998333333333,-158.112833333333,-3.2,0.92,ml,4.0,229.0,,0.18,av,av91820481,2023-03-27T19:23:59.970Z,"31 km E of Port Heiden, Alaska",earthquake,1.75,2.27,0.109886225173885,4.0,reviewed,av,av
