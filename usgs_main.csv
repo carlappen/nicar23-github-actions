@@ -7370,3 +7370,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T02:32:02.240Z,38.7915001,-122.7614975,2.1,0.78,md,13.0,76.0,0.009218,0.02,nc,nc73862790,2023-03-27T02:44:10.991Z,"2km NNW of The Geysers, CA",earthquake,0.3,0.71,0.29,13.0,automatic,nc,nc
 2023-03-27T02:29:21.602Z,-17.8319,-178.213,466.766,5.5,mww,94.0,33.0,3.505,0.66,us,us7000jmy4,2023-03-27T02:48:09.187Z,"262 km E of Levuka, Fiji",earthquake,9.79,5.679,0.089,12.0,reviewed,us,us
 2023-03-27T02:42:37.872Z,-26.154,178.5166,630.659,4.5,mb,34.0,73.0,4.406,0.94,us,us7000jmy9,2023-03-27T02:57:28.040Z,south of the Fiji Islands,earthquake,11.89,7.558,0.112,23.0,reviewed,us,us
+2023-03-27T03:22:33.890Z,33.7584991,-116.9363327,15.29,1.25,ml,44.0,50.0,0.05594,0.21,ci,ci40190399,2023-03-27T03:26:01.213Z,"4km SE of San Jacinto, CA",earthquake,0.33,0.48,0.137,10.0,automatic,ci,ci
+2023-03-27T03:17:28.545Z,62.4015,-149.7298,63.6,1.0,ml,,,,0.28,ak,ak0233ya3unq,2023-03-27T03:20:22.660Z,"19 km ESE of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-03-27T03:15:59.150Z,38.7611656,-122.7268295,2.03,1.81,md,38.0,69.0,0.02265,0.06,nc,nc73862810,2023-03-27T03:19:00.205Z,"3km SE of The Geysers, CA",earthquake,0.24,0.41,0.2,38.0,automatic,nc,nc
+2023-03-27T03:08:57.740Z,38.8186684,-122.7851639,1.96,0.22,md,7.0,102.0,0.006436,0.02,nc,nc73862805,2023-03-27T03:22:11.229Z,"5km NNW of The Geysers, CA",earthquake,0.94,1.95,0.09,7.0,automatic,nc,nc
+2023-03-27T02:56:06.731Z,-5.5666,146.923,186.972,4.6,mb,36.0,92.0,3.821,0.77,us,us7000jmyc,2023-03-27T03:17:34.040Z,"128 km N of Lae, Papua New Guinea",earthquake,12.04,7.874,0.101,29.0,reviewed,us,us
+2023-03-27T02:53:43.417Z,-22.7695,171.7227,10.385,5.0,mb,47.0,101.0,3.952,0.94,us,us7000jmyb,2023-03-27T03:09:14.040Z,southeast of the Loyalty Islands,earthquake,10.18,4.85,0.093,37.0,reviewed,us,us
