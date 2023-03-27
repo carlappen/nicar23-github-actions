@@ -7396,3 +7396,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T04:53:13.028Z,43.3548,-126.8521,10.0,4.0,mb,50.0,192.0,1.557,0.78,us,us7000jmyr,2023-03-27T05:13:23.857Z,"200 km W of Bandon, Oregon",earthquake,3.49,1.994,0.139,14.0,reviewed,us,us
 2023-03-27T04:50:00.624Z,53.5347,-170.5969,204.207,4.2,mb,41.0,130.0,1.189,0.81,us,us7000jmyq,2023-03-27T05:20:12.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,12.61,11.996,0.079,45.0,reviewed,us,us
 2023-03-27T04:39:16.340Z,18.8155,-155.160333333333,7.79,4.12,ml,27.0,276.0,,0.14,hv,hv73350092,2023-03-27T05:04:10.709Z,"52 km ESE of Naalehu, Hawaii",earthquake,0.68,0.58,0.111735783636589,25.0,reviewed,hv,hv
+2023-03-27T05:50:19.256Z,60.2997,-151.4246,58.8,1.2,ml,,,,0.48,ak,ak0233ybhrs5,2023-03-27T05:52:08.981Z,"Kenai Peninsula, Alaska",earthquake,,2.3,,,automatic,ak,ak
