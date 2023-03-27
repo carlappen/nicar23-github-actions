@@ -7512,3 +7512,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T18:48:59.550Z,33.402,-116.395,1.91,0.58,ml,13.0,79.0,0.08166,0.21,ci,ci40190591,2023-03-27T18:52:34.336Z,"16km N of Borrego Springs, CA",earthquake,0.42,0.82,0.048,7.0,automatic,ci,ci
 2023-03-27T18:43:36.580Z,33.4,-116.3803333,2.57,0.76,ml,17.0,62.0,0.07008,0.22,ci,ci40190583,2023-03-27T18:47:09.687Z,"16km N of Borrego Springs, CA",earthquake,0.4,0.95,0.119,10.0,automatic,ci,ci
 2023-03-27T08:37:46.560Z,37.5235,-118.4753333,7.67,1.0,md,18.0,81.0,0.08589,0.06,nc,nc73862935,2023-03-27T18:51:11.827Z,"16km NNW of Dixon Lane-Meadow Creek, CA",earthquake,0.35,1.05,0.169,15.0,reviewed,nc,nc
+2023-03-27T19:02:44.021Z,64.9893,-151.2849,15.7,1.4,ml,,,,0.73,ak,ak0233yjjlsi,2023-03-27T19:05:51.097Z,"30 km W of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-27T03:07:52.240Z,51.854,-178.0725,3.37,2.12,ml,5.0,199.0,,0.15,av,av91096108,2023-03-27T19:08:18.600Z,"99 km W of Adak, Alaska",earthquake,0.59,0.4,0.234766031557041,5.0,reviewed,av,av
+2023-03-27T03:07:13.200Z,51.8516666666667,-178.080333333333,3.36,2.22,ml,5.0,208.0,,0.16,av,av91096103,2023-03-27T19:05:56.900Z,"99 km W of Adak, Alaska",earthquake,0.69,0.47,0.302043002022899,5.0,reviewed,av,av
+2023-03-27T03:07:08.420Z,53.8766666666667,-166.568833333333,5.45,0.45,ml,9.0,109.0,,0.15,av,av91820941,2023-03-27T18:57:02.620Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.38,0.8,0.167347745599401,7.0,reviewed,av,av
+2023-03-26T19:54:40.090Z,54.0016666666667,-166.0355,-1.28,0.63,ml,6.0,303.0,,0.25,av,av91820486,2023-03-27T19:11:26.460Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,1.57,1.57,0.255834837077035,6.0,reviewed,av,av
