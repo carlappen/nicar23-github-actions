@@ -7434,3 +7434,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T10:57:52.680Z,19.6753330230713,-156.044494628906,5.8600001335144,1.88,md,26.0,283.0,,0.370000005,hv,hv73350297,2023-03-27T11:01:26.940Z,"6 km NW of Kailua-Kona, Hawaii",earthquake,1.83,0.910000026,1.64999998,6.0,automatic,hv,hv
 2023-03-27T11:24:31.039Z,62.9615,-149.6967,68.8,1.4,ml,,,,0.51,ak,ak0233yewtpb,2023-03-27T11:26:29.084Z,"60 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-27T11:43:12.910Z,38.8263321,-122.8018341,2.53,0.79,md,17.0,48.0,0.007073,0.01,nc,nc73862980,2023-03-27T11:44:49.756Z,"7km NW of The Geysers, CA",earthquake,0.26,0.53,0.17,17.0,automatic,nc,nc
+2023-03-27T11:53:15.310Z,38.8334999,-122.8174973,1.85,0.96,md,15.0,65.0,0.01164,0.02,nc,nc73862990,2023-03-27T11:54:49.765Z,"8km NW of The Geysers, CA",earthquake,0.27,0.62,0.16,16.0,automatic,nc,nc
+2023-03-27T11:50:41.840Z,38.8356667,-122.8118362,2.08,0.71,md,11.0,75.0,0.01233,0.02,nc,nc73862985,2023-03-27T11:52:19.843Z,"8km W of Cobb, CA",earthquake,0.36,0.76,0.14,10.0,automatic,nc,nc
