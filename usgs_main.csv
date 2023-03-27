@@ -7388,3 +7388,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T03:55:27.160Z,34.0226667,-117.6063333,3.28,1.42,ml,44.0,31.0,0.04128,0.22,ci,ci40190415,2023-03-27T04:07:43.281Z,"4km SSE of Ontario, CA",earthquake,0.24,0.35,0.146,29.0,automatic,ci,ci
 2023-03-27T04:32:47.300Z,37.6308327,-118.9621658,4.94,0.53,md,10.0,162.0,0.03124,0.02,nc,nc73862850,2023-03-27T04:34:25.329Z,"2km ESE of Mammoth Lakes, CA",earthquake,0.78,2.32,0.11,9.0,automatic,nc,nc
 2023-03-27T04:22:18.302Z,-24.3046,-67.2997,180.766,4.1,mb,19.0,125.0,1.569,0.77,us,us7000jmyk,2023-03-27T04:36:49.040Z,"100 km W of San Antonio de los Cobres, Argentina",earthquake,10.22,9.932,0.234,5.0,reviewed,us,us
+2023-03-27T04:48:29.537Z,61.0771,-148.4409,15.2,1.4,ml,,,,0.64,ak,ak0233yavxjd,2023-03-27T04:50:36.796Z,"36 km NNE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-27T04:47:35.905Z,61.6517,-152.1716,116.6,1.7,ml,,,,0.45,ak,ak0233yavqba,2023-03-27T04:49:28.581Z,"55 km SW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-03-27T04:45:03.820Z,35.8195,-117.6358333,13.7,1.17,ml,12.0,158.0,0.1055,0.22,ci,ci40190431,2023-03-27T04:48:31.081Z,"22km WNW of Searles Valley, CA",earthquake,0.79,1.24,0.082,8.0,automatic,ci,ci
+2023-03-27T04:39:15.248Z,18.8381,-155.1649,20.782,4.4,ml,18.0,272.0,0.444,1.07,us,us7000jmyl,2023-03-27T04:50:54.272Z,"Hawaii region, Hawaii",earthquake,2.39,8.442,0.056,42.0,reviewed,us,us
