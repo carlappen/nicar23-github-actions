@@ -7416,3 +7416,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T07:56:35.407Z,60.7964,-150.0561,39.7,1.2,ml,,,,0.56,ak,ak0233ycpyj8,2023-03-27T07:58:33.646Z,"26 km WSW of Hope, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-27T07:55:52.710Z,61.5009,-146.6395,30.0,1.4,ml,,,,0.76,ak,ak0233ycps5j,2023-03-27T07:57:35.635Z,Southern Alaska,earthquake,,0.2,,,automatic,ak,ak
 2023-03-27T07:52:54.060Z,32.6063333,-115.7805,8.34,1.71,ml,20.0,82.0,0.06264,0.2,ci,ci40190455,2023-03-27T07:56:26.957Z,"19km W of Progreso, B.C., MX",earthquake,0.42,1.29,0.229,26.0,automatic,ci,ci
+2023-03-27T08:35:32.441Z,63.7949,-146.7249,8.6,1.5,ml,,,,0.35,ak,ak0233yd6vvg,2023-03-27T08:36:59.978Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
