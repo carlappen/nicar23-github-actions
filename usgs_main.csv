@@ -7369,3 +7369,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T02:43:21.769Z,62.9568,-148.2748,0.0,1.6,ml,,,,0.7,ak,ak0233y9nz5c,2023-03-27T02:45:34.228Z,"59 km SE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-27T02:32:02.240Z,38.7915001,-122.7614975,2.1,0.78,md,13.0,76.0,0.009218,0.02,nc,nc73862790,2023-03-27T02:44:10.991Z,"2km NNW of The Geysers, CA",earthquake,0.3,0.71,0.29,13.0,automatic,nc,nc
 2023-03-27T02:29:21.602Z,-17.8319,-178.213,466.766,5.5,mww,94.0,33.0,3.505,0.66,us,us7000jmy4,2023-03-27T02:48:09.187Z,"262 km E of Levuka, Fiji",earthquake,9.79,5.679,0.089,12.0,reviewed,us,us
+2023-03-27T02:42:37.872Z,-26.154,178.5166,630.659,4.5,mb,34.0,73.0,4.406,0.94,us,us7000jmy9,2023-03-27T02:57:28.040Z,south of the Fiji Islands,earthquake,11.89,7.558,0.112,23.0,reviewed,us,us
