@@ -7475,3 +7475,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T15:52:03.140Z,38.7873344,-122.770668,1.69,0.73,md,9.0,107.0,0.01469,0.02,nc,nc73863050,2023-03-27T15:53:40.544Z,"2km NW of The Geysers, CA",earthquake,0.35,0.69,0.13,8.0,automatic,nc,nc
 2023-03-27T15:49:15.660Z,19.2156658172607,-155.411163330078,36.4300003051758,2.21,ml,39.0,144.0,,0.129999995,hv,hv73350542,2023-03-27T15:54:46.120Z,"7 km E of Pāhala, Hawaii",earthquake,0.53,0.660000026,3.66,6.0,automatic,hv,hv
 2023-03-27T13:11:57.170Z,44.7193333,-111.1145,10.43,0.48,ml,11.0,122.0,0.06619,0.14,uu,uu60535196,2023-03-27T15:52:34.680Z,"6 km N of West Yellowstone, Montana",earthquake,0.64,1.33,0.313,2.0,reviewed,uu,uu
+2023-03-27T15:56:35.898Z,58.2567,-155.1032,1.2,0.9,ml,,,,0.33,ak,ak0233yhhfet,2023-03-27T15:58:45.508Z,Alaska Peninsula,earthquake,,1.5,,,automatic,ak,ak
