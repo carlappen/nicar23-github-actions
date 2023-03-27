@@ -7397,3 +7397,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T04:50:00.624Z,53.5347,-170.5969,204.207,4.2,mb,41.0,130.0,1.189,0.81,us,us7000jmyq,2023-03-27T05:20:12.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,12.61,11.996,0.079,45.0,reviewed,us,us
 2023-03-27T04:39:16.340Z,18.8155,-155.160333333333,7.79,4.12,ml,27.0,276.0,,0.14,hv,hv73350092,2023-03-27T05:04:10.709Z,"52 km ESE of Naalehu, Hawaii",earthquake,0.68,0.58,0.111735783636589,25.0,reviewed,hv,hv
 2023-03-27T05:50:19.256Z,60.2997,-151.4246,58.8,1.2,ml,,,,0.48,ak,ak0233ybhrs5,2023-03-27T05:52:08.981Z,"Kenai Peninsula, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2023-03-27T06:27:33.050Z,38.7546654,-122.7236633,3.03,0.76,md,9.0,157.0,0.00698,0.02,nc,nc73862890,2023-03-27T06:29:09.759Z,"4km SW of Anderson Springs, CA",earthquake,0.48,0.65,0.24,9.0,automatic,nc,nc
+2023-03-27T06:11:06.870Z,33.9183333,-116.801,17.82,1.74,ml,58.0,28.0,0.01479,0.17,ci,ci40190439,2023-03-27T06:21:57.890Z,"1km W of Cabazon, CA",earthquake,0.18,0.38,0.16,26.0,automatic,ci,ci
+2023-03-27T06:09:43.130Z,38.7988319,-122.8161697,3.24,0.76,md,9.0,84.0,0.01466,0.01,nc,nc73862870,2023-03-27T06:27:16.346Z,"6km WNW of The Geysers, CA",earthquake,0.38,1.38,0.25,10.0,automatic,nc,nc
