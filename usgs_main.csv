@@ -7467,3 +7467,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T03:17:25.680Z,48.29966666666667,-121.86866666666668,7.74,1.35,ml,10.0,103.0,0.1116,0.12,uw,uw61904972,2023-03-27T15:09:25.590Z,Washington,earthquake,0.3,0.65,0.0679220649242027,4.0,reviewed,uw,uw
 2023-03-26T19:34:16.740Z,44.7015,-111.005,7.49,1.95,ml,15.0,74.0,0.04349,0.18,uu,uu60535161,2023-03-27T14:58:07.210Z,"8 km ENE of West Yellowstone, Montana",earthquake,0.41,0.72,0.434,3.0,reviewed,uu,uu
 2023-03-27T15:31:29.100Z,36.1744995,-120.3148346,6.15,1.67,md,9.0,167.0,0.09094,0.1,nc,nc73863045,2023-03-27T15:33:04.162Z,"5km NE of Coalinga, CA",earthquake,0.61,0.89,0.32,4.0,automatic,nc,nc
+2023-03-27T15:41:30.556Z,61.5313,-150.3775,135.1,1.4,ml,,,,0.86,ak,ak0233yhe79b,2023-03-27T15:43:52.579Z,"7 km E of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-03-27T14:35:16.052Z,38.0716,36.5315,7.802,4.4,mwr,96.0,38.0,0.347,0.72,us,us7000jn0d,2023-03-27T15:45:08.040Z,"6 km NNE of Göksun, Turkey",earthquake,3.34,4.357,0.06,27.0,reviewed,us,us
