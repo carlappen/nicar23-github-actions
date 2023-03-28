@@ -7758,3 +7758,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T10:10:00.680Z,33.5551667,-116.4048333,7.21,0.13,ml,11.0,127.0,0.03616,0.09,ci,ci40190799,2023-03-28T10:13:37.929Z,"15km SW of La Quinta, CA",earthquake,0.27,0.48,0.083,5.0,automatic,ci,ci
 2023-03-28T10:08:13.980Z,32.9171667,-116.2906667,10.87,0.93,ml,22.0,64.0,0.03883,0.2,ci,ci40190791,2023-03-28T10:11:42.038Z,"25km ENE of Pine Valley, CA",earthquake,0.33,0.65,0.149,14.0,automatic,ci,ci
 2023-03-28T09:59:28.890Z,38.7591667,-122.7163315,1.7,1.12,md,7.0,117.0,0.007095,0.01,nc,nc73863460,2023-03-28T10:16:13.540Z,"3km SW of Anderson Springs, CA",earthquake,0.69,0.39,0.25,7.0,automatic,nc,nc
+2023-03-28T10:37:53.240Z,38.8153343,-122.8253326,2.37,0.9,md,12.0,66.0,0.007122,0.02,nc,nc73863470,2023-03-28T10:39:27.436Z,"7km NW of The Geysers, CA",earthquake,0.36,0.82,0.43,12.0,automatic,nc,nc
