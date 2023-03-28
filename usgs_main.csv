@@ -7957,3 +7957,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T23:31:20.970Z,38.8136673,-122.7860031,1.1,1.07,md,14.0,86.0,0.009229,0.03,nc,nc73863735,2023-03-28T23:32:56.997Z,"5km NNW of The Geysers, CA",earthquake,0.23,0.51,0.12,15.0,automatic,nc,nc
 2023-03-28T23:31:10.441Z,58.2462,-155.1868,0.0,0.2,ml,,,,0.44,ak,ak023409mtvo,2023-03-28T23:33:12.437Z,"87 km NNW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-03-28T23:26:34.650Z,35.0231667,-117.6433333,1.14,1.52,ml,19.0,134.0,0.09867,0.33,ci,ci40191039,2023-03-28T23:30:15.907Z,"3km NNE of Boron, CA",quarry blast,0.8,1.52,0.114,26.0,automatic,ci,ci
+2023-03-28T02:38:20.980Z,58.2833333333333,-154.976,3.73,0.62,ml,13.0,135.0,,0.2,av,av91822446,2023-03-28T23:44:43.810Z,"85 km NNW of Karluk, Alaska",earthquake,0.4,0.69,0.327975115003208,13.0,reviewed,av,av
