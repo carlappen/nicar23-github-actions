@@ -7747,3 +7747,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T06:52:25.950Z,16.9881,95.8827,10.0,3.5,ml,7.0,226.0,2.785,0.23,us,us6000k09e,2023-03-28T08:31:21.653Z,"26 km ESE of Nyaungdon, Myanmar",earthquake,5.7,2.0,0.115,10.0,reviewed,us,us
 2023-03-27T16:40:12.900Z,38.833,-122.7965,1.84,0.3,md,12.0,89.0,0.007231,0.01,nc,nc73863080,2023-03-28T08:27:10.861Z,"6km W of Cobb, CA",earthquake,0.41,0.75,0.241,12.0,reviewed,nc,nc
 2023-03-27T12:34:00.410Z,38.7878333,-122.7678333,2.87,0.04,md,15.0,126.0,0.01426,0.02,nc,nc73862995,2023-03-28T08:22:11.828Z,"2km NW of The Geysers, CA",earthquake,0.31,0.65,0.164,12.0,reviewed,nc,nc
+2023-03-28T08:40:51.660Z,38.8419991,-122.8793335,2.42,0.98,md,12.0,159.0,0.004957,0.03,nc,nc73863435,2023-03-28T08:42:26.228Z,"13km ENE of Cloverdale, CA",earthquake,0.41,0.5,0.37,12.0,automatic,nc,nc
