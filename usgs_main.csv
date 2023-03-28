@@ -7861,3 +7861,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T17:35:48.523Z,62.1992,-145.777,2.4,1.5,ml,,,,0.99,ak,ak023406361w,2023-03-28T17:37:36.395Z,"15 km NW of Glennallen, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-28T08:25:01.079Z,32.46551514,-102.0185071,8.583618164,2.5,ml,21.0,88.0,0.1436995489,0.1,tx,tx2023gbtz,2023-03-28T17:45:21.325Z,"29 km WSW of Ackerly, Texas",earthquake,0.5795254627,2.010046848,0.1,15.0,reviewed,tx,tx
 2023-03-28T05:34:55.507Z,37.5186,-117.9545,1.8,1.1,ml,6.0,140.07,0.377,0.1726,nn,nn00857572,2023-03-28T17:46:14.436Z,"19 km SSE of Dyer, Nevada",earthquake,,3.7,1.04,5.0,reviewed,nn,nn
+2023-03-28T06:09:13.883Z,37.3873,-116.8976,14.5,0.8,ml,6.0,313.76,0.281,0.1088,nn,nn00857574,2023-03-28T17:55:32.770Z,"46 km SE of Goldfield, Nevada",earthquake,,10.6,1.13,5.0,reviewed,nn,nn
