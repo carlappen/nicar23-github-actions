@@ -7737,3 +7737,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T06:03:11.670Z,37.5445,-118.8435,7.55,1.11,md,18.0,226.0,0.04686,0.04,nc,nc73863390,2023-03-28T07:26:51.728Z,"14km W of Toms Place, CA",earthquake,0.68,0.48,0.152,17.0,reviewed,nc,nc
 2023-03-27T23:09:39.820Z,37.481,-118.8386667,4.24,1.13,md,17.0,232.0,0.1091,0.03,nc,nc73863255,2023-03-28T07:24:20.458Z,"17km WSW of Toms Place, CA",earthquake,0.78,1.23,0.105,13.0,reviewed,nc,nc
 2023-03-27T23:02:08.110Z,37.4858333,-118.8383333,3.64,0.72,md,13.0,269.0,0.1043,0.05,nc,nc73863240,2023-03-28T07:21:19.983Z,"16km WSW of Toms Place, CA",earthquake,0.61,1.61,0.128,10.0,reviewed,nc,nc
+2023-03-28T07:34:41.664Z,59.3129,-152.8808,68.1,1.7,ml,,,,0.44,ak,ak0234004lra,2023-03-28T07:36:35.448Z,"54 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-27T22:55:47.560Z,38.7851667,-122.7731667,0.45,0.39,md,11.0,108.0,0.01403,0.02,nc,nc73863230,2023-03-28T07:41:23.904Z,"2km WNW of The Geysers, CA",earthquake,0.27,0.75,0.127,8.0,reviewed,nc,nc
