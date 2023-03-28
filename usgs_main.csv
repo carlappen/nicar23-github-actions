@@ -7723,3 +7723,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T05:51:29.047Z,18.3377,120.4505,29.196,5.3,mww,74.0,79.0,4.496,0.5,us,us6000k091,2023-03-28T06:09:37.040Z,"17 km W of Pasuquin, Philippines",earthquake,8.1,4.856,0.075,17.0,reviewed,us,us
 2023-03-28T04:31:48.284Z,-3.6524,139.1117,10.0,4.2,mb,24.0,125.0,6.89,0.52,us,us6000k08t,2023-03-28T06:04:24.040Z,"205 km SW of Abepura, Indonesia",earthquake,12.03,1.678,0.128,17.0,reviewed,us,us
 2023-03-28T06:34:32.300Z,38.8333321,-122.8181686,1.53,1.25,md,10.0,141.0,0.01177,0.01,nc,nc73863410,2023-03-28T06:36:11.573Z,"8km NW of The Geysers, CA",earthquake,0.39,0.64,0.38,9.0,automatic,nc,nc
+2023-03-28T06:42:08.761Z,61.5699,-151.4884,67.5,1.1,ml,,,,0.52,ak,ak0233zzktcc,2023-03-28T06:43:31.637Z,"47 km S of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
