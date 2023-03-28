@@ -7958,3 +7958,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T23:31:10.441Z,58.2462,-155.1868,0.0,0.2,ml,,,,0.44,ak,ak023409mtvo,2023-03-28T23:33:12.437Z,"87 km NNW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-03-28T23:26:34.650Z,35.0231667,-117.6433333,1.14,1.52,ml,19.0,134.0,0.09867,0.33,ci,ci40191039,2023-03-28T23:30:15.907Z,"3km NNE of Boron, CA",quarry blast,0.8,1.52,0.114,26.0,automatic,ci,ci
 2023-03-28T02:38:20.980Z,58.2833333333333,-154.976,3.73,0.62,ml,13.0,135.0,,0.2,av,av91822446,2023-03-28T23:44:43.810Z,"85 km NNW of Karluk, Alaska",earthquake,0.4,0.69,0.327975115003208,13.0,reviewed,av,av
+2023-03-28T23:50:48.593Z,57.9611,-153.8543,30.6,2.1,ml,,,,0.4,ak,ak023409qzff,2023-03-28T23:52:56.548Z,"Kodiak Island region, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-03-28T23:47:23.640Z,62.3398,-150.1983,24.5,1.3,ml,,,,0.47,ak,ak023409qacs,2023-03-28T23:49:21.091Z,"3 km NNE of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-28T14:13:25.720Z,19.2386666666667,-155.378666666667,30.41,1.58,md,31.0,151.0,,0.1,hv,hv73351407,2023-03-28T23:52:47.390Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.58,0.59,0.176100174083525,13.0,reviewed,hv,hv
