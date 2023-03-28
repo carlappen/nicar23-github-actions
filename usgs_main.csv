@@ -7906,3 +7906,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T09:03:16.619Z,36.9901,-116.2543,3.6,-0.2,ml,8.0,92.88,0.063,0.0996,nn,nn00857578,2023-03-28T19:31:22.816Z,"45 km E of Beatty, Nevada",earthquake,,3.4,1.06,7.0,reviewed,nn,nn
 2023-03-27T21:12:17.630Z,61.2908333333333,-152.333,2.19,-0.28,ml,6.0,133.0,,0.28,av,av91822096,2023-03-28T19:31:58.820Z,"68 km WNW of Tyonek, Alaska",earthquake,2.22,3.07,0.14068171209128,6.0,reviewed,av,av
 2023-03-27T20:46:28.910Z,58.2616666666667,-155.11,5.26,-0.56,ml,6.0,110.0,,0.17,av,av91822041,2023-03-28T19:31:26.620Z,"86 km NNW of Karluk, Alaska",earthquake,0.48,0.83,0.151512910991022,6.0,reviewed,av,av
+2023-03-28T15:53:17.831Z,38.8907,-119.6445,0.2,1.3,ml,6.0,136.04,0.028,0.1186,nn,nn00857580,2023-03-28T19:43:47.009Z,"3 km N of Carter Springs, Nevada",earthquake,,6.8,0.77,3.0,reviewed,nn,nn
