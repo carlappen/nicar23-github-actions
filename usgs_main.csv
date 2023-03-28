@@ -7922,3 +7922,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T17:57:21.079Z,36.5633,-115.2174,12.5,0.8,ml,6.0,189.73,0.076,0.1695,nn,nn00857584,2023-03-28T20:39:25.474Z,"38 km NNW of Nellis Air Force Base, Nevada",earthquake,,5.1,0.4,2.0,reviewed,nn,nn
 2023-03-28T00:53:08.800Z,60.0566666666667,-153.031333333333,1.53,-0.81,ml,5.0,257.0,,0.26,av,av91822376,2023-03-28T20:46:26.990Z,"67 km ENE of Pedro Bay, Alaska",earthquake,1.96,0.42,0.250598215545556,5.0,reviewed,av,av
 2023-03-28T00:33:37.830Z,53.88,-166.573,4.71,0.21,ml,6.0,165.0,,0.1,av,av91822356,2023-03-28T20:42:14.820Z,"2 km WSW of Dutch Harbor, Alaska",earthquake,0.55,0.96,0.131626806294994,6.0,reviewed,av,av
+2023-03-28T20:53:36.373Z,62.605,-151.4079,11.7,1.1,ml,,,,0.68,ak,ak023407zath,2023-03-28T20:56:07.410Z,"35 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
