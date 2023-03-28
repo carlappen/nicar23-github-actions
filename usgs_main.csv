@@ -7759,3 +7759,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T10:08:13.980Z,32.9171667,-116.2906667,10.87,0.93,ml,22.0,64.0,0.03883,0.2,ci,ci40190791,2023-03-28T10:11:42.038Z,"25km ENE of Pine Valley, CA",earthquake,0.33,0.65,0.149,14.0,automatic,ci,ci
 2023-03-28T09:59:28.890Z,38.7591667,-122.7163315,1.7,1.12,md,7.0,117.0,0.007095,0.01,nc,nc73863460,2023-03-28T10:16:13.540Z,"3km SW of Anderson Springs, CA",earthquake,0.69,0.39,0.25,7.0,automatic,nc,nc
 2023-03-28T10:37:53.240Z,38.8153343,-122.8253326,2.37,0.9,md,12.0,66.0,0.007122,0.02,nc,nc73863470,2023-03-28T10:39:27.436Z,"7km NW of The Geysers, CA",earthquake,0.36,0.82,0.43,12.0,automatic,nc,nc
+2023-03-28T11:14:04.487Z,56.9078,-158.0688,0.1,1.6,ml,,,,0.7,ak,ak023402dyzk,2023-03-28T11:15:58.835Z,Alaska Peninsula,earthquake,,1.1,,,automatic,ak,ak
+2023-03-28T11:11:58.068Z,62.1039,-148.8533,26.8,1.9,ml,,,,0.51,ak,ak023402dfz2,2023-03-28T11:13:34.952Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-03-28T11:08:26.590Z,35.5166667,-118.3943333,3.85,0.93,ml,13.0,148.0,0.1814,0.11,ci,ci40190807,2023-03-28T11:11:53.739Z,"12km SE of Bodfish, CA",earthquake,0.36,0.77,0.179,9.0,automatic,ci,ci
+2023-03-28T11:06:59.332Z,63.0054,-148.5074,59.9,1.8,ml,,,,0.46,ak,ak023402cdhp,2023-03-28T11:08:47.069Z,"48 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-28T10:52:20.982Z,62.1216,-150.3966,45.5,1.5,ml,,,,0.64,ak,ak0234020pv6,2023-03-28T10:54:14.820Z,"23 km SSW of Trapper Creek, Alaska",earthquake,,1.0,,,automatic,ak,ak
