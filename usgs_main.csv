@@ -7946,3 +7946,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T22:42:14.510Z,38.8406677,-122.8451691,2.22,0.73,md,8.0,175.0,0.01598,0.1,nc,nc73863720,2023-03-28T22:43:52.283Z,"10km NW of The Geysers, CA",earthquake,1.04,0.87,0.37,9.0,automatic,nc,nc
 2023-03-28T22:21:00.410Z,18.0931666666667,-66.8865,18.67,2.72,md,15.0,76.0,0.1177,0.27,pr,pr71401908,2023-03-28T22:38:26.360Z,"6 km NNE of Lluveras, Puerto Rico",earthquake,0.51,0.62,0.0454955263300021,9.0,reviewed,pr,pr
 2023-03-28T13:51:29.350Z,58.1691666666667,-155.401833333333,24.48,-0.31,ml,9.0,197.0,,0.14,av,av91096263,2023-03-28T22:39:56.930Z,"87 km NW of Karluk, Alaska",earthquake,0.72,0.76,0.221889865785348,8.0,reviewed,av,av
+2023-03-28T22:52:09.003Z,60.3466,-150.5821,36.8,2.3,ml,,,,0.33,ak,ak0234095w78,2023-03-28T22:54:21.387Z,"19 km SSE of Funny River, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-28T05:47:33.380Z,51.855,-178.048166666667,-1.8,2.01,ml,5.0,159.0,,0.23,av,av91096278,2023-03-28T22:51:08.110Z,"97 km W of Adak, Alaska",earthquake,0.61,1.5,0.223432990015177,5.0,reviewed,av,av
