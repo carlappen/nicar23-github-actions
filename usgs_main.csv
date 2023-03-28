@@ -7764,3 +7764,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T11:08:26.590Z,35.5166667,-118.3943333,3.85,0.93,ml,13.0,148.0,0.1814,0.11,ci,ci40190807,2023-03-28T11:11:53.739Z,"12km SE of Bodfish, CA",earthquake,0.36,0.77,0.179,9.0,automatic,ci,ci
 2023-03-28T11:06:59.332Z,63.0054,-148.5074,59.9,1.8,ml,,,,0.46,ak,ak023402cdhp,2023-03-28T11:08:47.069Z,"48 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-28T10:52:20.982Z,62.1216,-150.3966,45.5,1.5,ml,,,,0.64,ak,ak0234020pv6,2023-03-28T10:54:14.820Z,"23 km SSW of Trapper Creek, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-28T11:15:20.350Z,33.8755,-116.204,9.09,0.63,ml,14.0,72.0,0.05595,0.16,ci,ci40190815,2023-03-28T11:18:49.456Z,"17km N of Indio, CA",earthquake,0.35,0.9,0.159,8.0,automatic,ci,ci
