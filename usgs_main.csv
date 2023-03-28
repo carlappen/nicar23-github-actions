@@ -7724,3 +7724,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T04:31:48.284Z,-3.6524,139.1117,10.0,4.2,mb,24.0,125.0,6.89,0.52,us,us6000k08t,2023-03-28T06:04:24.040Z,"205 km SW of Abepura, Indonesia",earthquake,12.03,1.678,0.128,17.0,reviewed,us,us
 2023-03-28T06:34:32.300Z,38.8333321,-122.8181686,1.53,1.25,md,10.0,141.0,0.01177,0.01,nc,nc73863410,2023-03-28T06:36:11.573Z,"8km NW of The Geysers, CA",earthquake,0.39,0.64,0.38,9.0,automatic,nc,nc
 2023-03-28T06:42:08.761Z,61.5699,-151.4884,67.5,1.1,ml,,,,0.52,ak,ak0233zzktcc,2023-03-28T06:43:31.637Z,"47 km S of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-28T07:17:51.600Z,34.0498352,-116.3498306,7.98,1.01,ml,24.0,61.0,0.03854,0.09,ci,ci40190735,2023-03-28T07:19:56.342Z,"10km SSW of Joshua Tree, CA",earthquake,0.25,0.58,0.25,6.0,automatic,ci,ci
+2023-03-28T07:09:26.912Z,62.0525,-155.1617,0.0,1.4,ml,,,,0.83,ak,ak0233zzz7pv,2023-03-28T07:14:47.880Z,"78 km N of Lime Village, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-03-28T07:06:54.170Z,38.788166,-122.7490005,3.44,0.9,md,12.0,84.0,0.01078,0.02,nc,nc73863420,2023-03-28T07:19:11.393Z,"1km NNE of The Geysers, CA",earthquake,0.38,0.85,0.18,12.0,automatic,nc,nc
+2023-03-28T07:00:24.808Z,60.3858,-152.8949,110.1,1.6,ml,,,,0.34,ak,ak0233zzxa40,2023-03-28T07:02:14.070Z,"77 km WNW of Ninilchik, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-03-28T06:57:44.460Z,33.2321667,-116.0918333,8.73,1.01,ml,33.0,51.0,0.09942,0.24,ci,ci40190727,2023-03-28T07:01:24.155Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.31,1.0,0.138,21.0,automatic,ci,ci
+2023-03-28T06:53:35.070Z,38.8203316,-122.779335,2.42,1.0,md,9.0,102.0,0.007141,0.01,nc,nc73863415,2023-03-28T07:08:11.311Z,"5km W of Cobb, CA",earthquake,0.58,2.08,0.2,11.0,automatic,nc,nc
+2023-03-28T06:40:24.661Z,60.221,-153.0969,135.1,1.1,ml,,,,0.6,ak,ak0233zzkf4y,2023-03-28T06:54:24.741Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
+2023-03-28T04:43:47.760Z,37.5456667,-118.851,6.62,0.62,md,7.0,302.0,0.04758,0.04,nc,nc73863360,2023-03-28T07:13:18.973Z,"15km SE of Mammoth Lakes, CA",earthquake,3.89,3.97,0.27,7.0,reviewed,nc,nc
+2023-03-27T23:01:47.220Z,37.4795,-118.8378333,3.65,1.13,md,18.0,232.0,0.1106,0.04,nc,nc73863235,2023-03-28T07:17:49.132Z,"17km WSW of Toms Place, CA",earthquake,0.52,1.22,0.108,14.0,reviewed,nc,nc
