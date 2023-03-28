@@ -7813,3 +7813,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T15:32:58.472Z,61.2847,-146.8299,22.1,1.8,ml,,,,0.43,ak,ak023404vogn,2023-03-28T15:34:30.821Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
 2023-03-28T15:30:51.060Z,19.1784992218018,-155.350494384766,28.4500007629395,2.21,ml,36.0,182.0,,0.119999997,hv,hv73351472,2023-03-28T15:36:22.960Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.7,0.889999986,3.66,6.0,automatic,hv,hv
 2023-03-28T15:29:37.260Z,38.8341675,-122.7736664,1.74,1.95,md,25.0,68.0,0.004714,0.03,nc,nc73863590,2023-03-28T15:31:12.136Z,"5km WNW of Cobb, CA",earthquake,0.22,0.32,0.17,27.0,automatic,nc,nc
+2023-03-28T09:05:02.563Z,-2.6262,128.4726,10.0,4.1,mb,18.0,91.0,2.364,0.77,us,us6000k09l,2023-03-28T15:48:51.040Z,"93 km NNW of Amahai, Indonesia",earthquake,5.69,1.92,0.174,9.0,reviewed,us,us
