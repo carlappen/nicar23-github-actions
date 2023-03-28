@@ -7926,3 +7926,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T21:17:39.973Z,62.5554,-151.3424,89.0,1.2,ml,,,,0.56,ak,ak023408d0wa,2023-03-28T21:19:56.155Z,"30 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-28T21:12:20.120Z,61.5875,-147.9736,6.4,2.5,ml,,,,0.5,ak,ak023408bwt8,2023-03-28T21:13:59.561Z,"29 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-28T21:12:07.120Z,38.8348351,-122.878334,3.0,0.76,md,10.0,122.0,0.005237,0.02,nc,nc73863685,2023-03-28T21:13:42.227Z,"12km WNW of The Geysers, CA",earthquake,0.44,0.8,0.2,11.0,automatic,nc,nc
+2023-03-28T06:29:30.480Z,38.8088333,-122.8271667,0.79,0.38,md,11.0,65.0,0.001572,0.01,nc,nc73863405,2023-03-28T21:31:10.336Z,"7km WNW of The Geysers, CA",earthquake,0.26,0.83,0.48,11.0,reviewed,nc,nc
