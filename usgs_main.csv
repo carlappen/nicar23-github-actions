@@ -7784,3 +7784,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T04:04:10.330Z,45.92,-122.42866666666669,16.61,1.05,ml,9.0,240.0,0.01411,0.06,uw,uw61905402,2023-03-28T13:30:44.500Z,Washington,earthquake,0.31,0.61,0.1322508341930095,5.0,reviewed,uw,uw
 2023-03-28T13:36:58.781Z,62.0811,-149.84,52.3,1.1,ml,,,,0.76,ak,ak023403po41,2023-03-28T13:39:29.652Z,"8 km S of Susitna North, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-03-28T09:44:27.335Z,31.61882519,-103.9622535,6.093005371,2.6,ml,26.0,56.0,0.009889849274,0.2,tx,tx2023gbwo,2023-03-28T13:36:33.183Z,"35 km WSW of Mentone, Texas",earthquake,0.4045083797,0.6448193351,0.2,21.0,reviewed,tx,tx
+2023-03-28T12:54:01.794Z,-10.8856,166.845,10.0,5.0,mb,51.0,109.0,4.547,0.7,us,us6000k0bq,2023-03-28T13:48:47.040Z,"115 km E of Lata, Solomon Islands",earthquake,10.47,1.875,0.052,119.0,reviewed,us,us
+2023-03-28T01:01:13.910Z,45.93683333333333,-122.833,19.37,1.26,ml,19.0,63.0,0.07657,0.18,uw,uw61905377,2023-03-28T13:44:02.680Z,"1 km NE of Deer Island, Oregon",earthquake,0.38,0.6,0.1760327158300901,14.0,reviewed,uw,uw
