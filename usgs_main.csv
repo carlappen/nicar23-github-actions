@@ -7779,3 +7779,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T12:04:15.840Z,38.8284988,-122.8541641,1.65,1.26,md,17.0,77.0,0.00232,0.02,nc,nc73863495,2023-03-28T12:31:15.300Z,"10km NW of The Geysers, CA",earthquake,0.24,0.36,0.2,18.0,automatic,nc,nc
 2023-03-28T11:59:10.734Z,63.1975,-151.3189,10.8,1.2,ml,,,,0.68,ak,ak023402nmox,2023-03-28T12:00:53.687Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-28T10:30:28.881Z,43.267,-110.8435,11.046,2.8,ml,44.0,68.0,0.204,0.48,us,us6000k0a5,2023-03-28T12:50:50.814Z,Wyoming,earthquake,2.47,8.344,0.045,64.0,reviewed,us,us
+2023-03-28T13:24:10.980Z,35.6056667,-117.4066667,10.1,1.17,ml,15.0,80.0,0.08756,0.22,ci,ci40190863,2023-03-28T13:27:52.958Z,"18km S of Trona, CA",earthquake,0.55,1.36,0.115,11.0,automatic,ci,ci
+2023-03-28T08:35:24.250Z,44.4213333,-110.285,7.22,0.66,md,9.0,105.0,0.0295,0.12,uu,uu60535251,2023-03-28T13:22:57.480Z,"Yellowstone National Park, Wyoming",earthquake,0.43,0.67,0.123,4.0,reviewed,uu,uu
+2023-03-28T04:04:10.330Z,45.92,-122.42866666666669,16.61,1.05,ml,9.0,240.0,0.01411,0.06,uw,uw61905402,2023-03-28T13:30:44.500Z,Washington,earthquake,0.31,0.61,0.1322508341930095,5.0,reviewed,uw,uw
