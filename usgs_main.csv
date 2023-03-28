@@ -7916,3 +7916,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T19:31:28.710Z,33.7731667,-116.9255,13.05,0.54,ml,8.0,244.0,0.08588,0.06,ci,ci40190967,2023-03-28T20:22:34.964Z,"3km ESE of San Jacinto, CA",earthquake,0.57,0.65,0.212,2.0,reviewed,ci,ci
 2023-03-28T19:27:07.043Z,2.4101,128.7992,35.0,4.6,mb,42.0,91.0,2.168,0.43,us,us6000k0ex,2023-03-28T20:03:16.040Z,"Halmahera, Indonesia",earthquake,3.83,1.916,0.092,35.0,reviewed,us,us
 2023-03-28T17:38:14.173Z,41.5421,-118.7842,4.2,2.3,ml,4.0,155.81,0.899,0.1021,nn,nn00857582,2023-03-28T20:23:56.911Z,"51 km SSW of Denio, Nevada",earthquake,,16.6,0.16,4.0,reviewed,nn,nn
+2023-03-28T20:29:54.101Z,56.951,-156.1243,0.0,1.8,ml,,,,1.15,ak,ak023407u702,2023-03-28T20:31:55.639Z,"99 km SE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-28T17:50:15.366Z,41.5382,-118.8071,0.0,2.1,ml,3.0,199.4,0.905,0.1608,nn,nn00857583,2023-03-28T20:30:07.692Z,"52 km SSW of Denio, Nevada",earthquake,,0.0,0.09,2.0,reviewed,nn,nn
+2023-03-28T13:42:23.480Z,48.0995,-121.67233333333331,3.17,0.6900000000000001,md,5.0,107.0,0.151,0.08,uw,uw61905447,2023-03-28T20:26:56.800Z,"7 km E of Verlot, Washington",earthquake,0.37,7.35,0.0827240586630686,4.0,reviewed,uw,uw
