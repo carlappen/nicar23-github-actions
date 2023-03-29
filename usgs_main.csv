@@ -8031,3 +8031,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T03:36:05.540Z,33.4641667,-116.583,10.98,0.68,ml,25.0,101.0,0.03442,0.2,ci,ci40191047,2023-03-29T03:39:39.137Z,"13km SE of Anza, CA",earthquake,0.31,0.68,0.179,18.0,automatic,ci,ci
 2023-03-28T11:39:39.230Z,58.2318333333333,-155.180333333333,3.97,-0.35,ml,10.0,81.0,,0.07,av,av91822991,2023-03-29T03:45:51.070Z,"85 km NNW of Karluk, Alaska",earthquake,0.22,0.53,0.145368312273876,10.0,reviewed,av,av
 2023-03-28T11:33:23.630Z,51.8646666666667,-178.0785,-1.8,0.96,ml,4.0,191.0,,0.13,av,av91822981,2023-03-29T03:39:18.100Z,"99 km W of Adak, Alaska",earthquake,0.46,1.45,0.298855715636092,4.0,reviewed,av,av
+2023-03-29T03:52:41.200Z,38.8353348,-122.7893295,1.69,1.08,md,9.0,71.0,0.00317,0.0,nc,nc73863800,2023-03-29T03:54:16.838Z,"6km WNW of Cobb, CA",earthquake,0.56,1.2,0.2,9.0,automatic,nc,nc
+2023-03-29T03:47:20.105Z,60.1886,-152.1316,75.6,1.4,ml,,,,0.46,ak,ak02341lcyh6,2023-03-29T03:49:29.567Z,"30 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
