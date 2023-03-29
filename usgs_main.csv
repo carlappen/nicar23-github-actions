@@ -8394,3 +8394,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T22:43:15.282Z,61.3114,-151.4354,67.2,1.0,ml,,,,0.23,ak,ak02341wnc24,2023-03-29T22:45:34.576Z,"26 km NW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-29T22:39:05.910Z,56.9402,-158.1631,0.0,1.9,ml,,,,0.5,ak,ak02341wmg5b,2023-03-29T22:41:08.209Z,"28 km E of Port Heiden, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-29T22:27:10.460Z,44.7748333,-110.8713333,1.85,0.53,md,6.0,146.0,0.02006,0.04,uu,uu60535816,2023-03-29T22:41:08.640Z,"22 km NE of West Yellowstone, Montana",earthquake,1.78,0.91,0.304,6.0,reviewed,uu,uu
+2023-03-29T22:50:07.280Z,44.5246667,-110.38,2.1,0.65,md,8.0,121.0,0.03871,0.09,uu,uu60535836,2023-03-29T22:55:08.430Z,"56 km SSE of Mammoth, Wyoming",earthquake,0.26,6.99,0.3,6.0,reviewed,uu,uu
+2023-03-29T22:38:53.900Z,44.528,-110.376,3.92,1.74,md,10.0,74.0,0.037,0.15,uu,uu60033064,2023-03-29T22:52:31.640Z,"56 km SSE of Mammoth, Wyoming",earthquake,0.33,1.05,0.47,7.0,reviewed,uu,uu
+2023-03-29T22:38:26.670Z,44.5265,-110.3725,4.01,2.07,ml,17.0,55.0,0.03957,0.14,uu,uu60535826,2023-03-29T22:49:54.610Z,Wyoming,earthquake,0.29,0.55,0.336,2.0,reviewed,uu,uu
