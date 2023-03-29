@@ -8076,3 +8076,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T07:28:41.060Z,32.8731667,-115.4928333,6.42,1.16,ml,11.0,101.0,0.04917,0.15,ci,ci40191111,2023-03-29T07:32:09.191Z,"8km ENE of Imperial, CA",earthquake,0.63,0.94,0.164,11.0,automatic,ci,ci
 2023-03-29T07:23:17.460Z,32.8721667,-115.489,7.16,1.82,ml,18.0,97.0,0.0458,0.21,ci,ci40191103,2023-03-29T07:27:02.967Z,"8km ENE of Imperial, CA",earthquake,0.41,0.71,0.239,26.0,automatic,ci,ci
 2023-03-29T07:27:03.653Z,-18.4958,-175.4917,243.404,4.7,mb,48.0,39.0,1.423,1.44,us,us6000k0i4,2023-03-29T07:43:19.040Z,"160 km W of Neiafu, Tonga",earthquake,9.57,7.093,0.068,66.0,reviewed,us,us
+2023-03-29T07:48:22.120Z,31.6676667,-116.6721667,17.51,2.55,ml,6.0,198.0,0.08634,0.09,ci,ci40191127,2023-03-29T07:52:08.081Z,"11km WSW of Maneadero, B.C., MX",earthquake,1.08,0.84,0.169,17.0,automatic,ci,ci
+2023-03-29T07:43:46.170Z,33.4998333,-116.7818333,4.12,0.42,ml,16.0,127.0,0.01989,0.15,ci,ci40191119,2023-03-29T07:47:25.361Z,"10km NE of Aguanga, CA",earthquake,0.3,0.44,0.066,9.0,automatic,ci,ci
+2023-03-29T07:42:22.187Z,64.4323,-148.0629,13.5,1.2,ml,,,,0.47,ak,ak02341npmh6,2023-03-29T07:45:15.579Z,"44 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-29T07:38:53.484Z,-26.2273,178.4971,617.233,5.0,mb,41.0,84.0,4.367,1.0,us,us6000k0i7,2023-03-29T07:53:05.040Z,south of the Fiji Islands,earthquake,13.78,11.21,0.105,29.0,reviewed,us,us
