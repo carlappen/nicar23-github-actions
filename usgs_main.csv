@@ -8067,3 +8067,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T05:58:44.673Z,59.8495,-152.1542,89.1,1.2,ml,,,,0.12,ak,ak02341mm8gj,2023-03-29T06:01:02.213Z,"19 km WNW of Anchor Point, Alaska",earthquake,,3.4,,,automatic,ak,ak
 2023-03-29T05:07:53.777Z,51.8748,176.1558,29.0,3.7,ml,,,,1.22,ak,ak02341mbggs,2023-03-29T06:25:23.935Z,"229 km ESE of Attu Station, Alaska",earthquake,,2.4,,,reviewed,ak,ak
 2023-03-29T03:37:14.780Z,61.0735,-149.2416,26.6,1.0,ml,,,,0.46,ak,ak02341lasw6,2023-03-29T06:11:03.974Z,"15 km NNW of Girdwood, Alaska",earthquake,,1.3,,,reviewed,ak,ak
+2023-03-29T06:47:05.410Z,38.8443336,-122.8255005,1.78,0.72,md,11.0,107.0,0.009681,0.01,nc,nc73863860,2023-03-29T06:48:42.162Z,"9km WNW of Cobb, CA",earthquake,0.35,0.7,0.14,11.0,automatic,nc,nc
+2023-03-29T06:29:08.910Z,17.8973333333333,-67.0641666666667,6.14,2.43,md,4.0,273.0,0.07417,0.12,pr,pr71401963,2023-03-29T06:47:27.390Z,Puerto Rico region,earthquake,1.4,0.65,0.106127433557549,3.0,reviewed,pr,pr
