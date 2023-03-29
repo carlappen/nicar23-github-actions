@@ -8075,3 +8075,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T06:38:58.555Z,-14.041,-74.4411,89.479,4.7,mb,47.0,137.0,3.105,0.67,us,us6000k0hu,2023-03-29T07:01:49.040Z,"17 km SW of Sacsamarca, Peru",earthquake,10.0,9.461,0.084,43.0,reviewed,us,us
 2023-03-29T07:28:41.060Z,32.8731667,-115.4928333,6.42,1.16,ml,11.0,101.0,0.04917,0.15,ci,ci40191111,2023-03-29T07:32:09.191Z,"8km ENE of Imperial, CA",earthquake,0.63,0.94,0.164,11.0,automatic,ci,ci
 2023-03-29T07:23:17.460Z,32.8721667,-115.489,7.16,1.82,ml,18.0,97.0,0.0458,0.21,ci,ci40191103,2023-03-29T07:27:02.967Z,"8km ENE of Imperial, CA",earthquake,0.41,0.71,0.239,26.0,automatic,ci,ci
+2023-03-29T07:27:03.653Z,-18.4958,-175.4917,243.404,4.7,mb,48.0,39.0,1.423,1.44,us,us6000k0i4,2023-03-29T07:43:19.040Z,"160 km W of Neiafu, Tonga",earthquake,9.57,7.093,0.068,66.0,reviewed,us,us
