@@ -8057,3 +8057,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T14:02:10.340Z,51.8533333333333,-178.091666666667,3.68,2.22,ml,6.0,129.0,,0.19,av,av91823096,2023-03-29T05:13:19.640Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.64,0.4,0.218347957285768,6.0,reviewed,av,av
 2023-03-28T14:01:11.720Z,51.854,-178.087833333333,3.65,1.51,ml,5.0,211.0,,0.16,av,av91823091,2023-03-29T05:10:23.600Z,"100 km W of Adak, Alaska",earthquake,0.76,0.56,0.160321649507365,5.0,reviewed,av,av
 2023-03-28T13:39:51.080Z,53.8795,-166.5815,4.85,-0.55,ml,5.0,200.0,,0.06,av,av91823076,2023-03-29T04:54:05.200Z,"2 km WSW of Dutch Harbor, Alaska",earthquake,0.56,0.92,0.195963183691129,5.0,reviewed,av,av
+2023-03-29T05:31:23.600Z,33.8261667,-116.7266667,12.49,0.67,ml,17.0,104.0,0.05932,0.12,ci,ci40191071,2023-03-29T05:34:54.000Z,"10km N of Idyllwild, CA",earthquake,0.3,0.52,0.12,14.0,automatic,ci,ci
+2023-03-29T05:30:13.900Z,38.8351669,-122.8054962,0.37,1.16,md,15.0,64.0,0.01227,0.02,nc,nc73863845,2023-03-29T05:31:51.681Z,"7km WNW of Cobb, CA",earthquake,0.19,0.65,0.16,16.0,automatic,nc,nc
+2023-03-29T05:26:07.914Z,63.4277,-149.6667,96.1,1.4,ml,,,,0.25,ak,ak02341mfapj,2023-03-29T05:27:52.600Z,"35 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
