@@ -8389,3 +8389,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T22:36:09.660Z,37.598999,-122.4383316,7.06,1.5,md,13.0,74.0,0.02214,0.02,nc,nc73864165,2023-03-29T22:37:43.913Z,"4km SW of San Bruno, CA",earthquake,0.31,0.54,0.15,8.0,automatic,nc,nc
 2023-03-29T22:30:16.036Z,60.7099,-151.9569,88.1,1.2,ml,,,,0.22,ak,ak02341wkjhf,2023-03-29T22:31:55.997Z,"36 km WNW of Salamatof, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-03-29T02:15:54.400Z,36.727,71.2853,182.298,4.4,mb,24.0,75.0,2.642,0.48,us,us6000k0gv,2023-03-29T22:35:31.040Z,"Hindu Kush region, Afghanistan",earthquake,5.46,12.49,0.239,5.0,reviewed,us,us
+2023-03-29T22:44:03.770Z,38.8144989,-122.8148346,2.75,0.73,md,15.0,84.0,0.00963,0.02,nc,nc73864175,2023-03-29T22:45:38.842Z,"6km NW of The Geysers, CA",earthquake,0.29,0.85,0.14,15.0,automatic,nc,nc
+2023-03-29T22:43:56.910Z,38.8143349,-122.814003,2.89,0.6,md,9.0,175.0,0.009553,0.01,nc,nc73864170,2023-03-29T22:45:33.754Z,"6km NW of The Geysers, CA",earthquake,0.53,1.6,0.38,10.0,automatic,nc,nc
+2023-03-29T22:43:15.282Z,61.3114,-151.4354,67.2,1.0,ml,,,,0.23,ak,ak02341wnc24,2023-03-29T22:45:34.576Z,"26 km NW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-03-29T22:39:05.910Z,56.9402,-158.1631,0.0,1.9,ml,,,,0.5,ak,ak02341wmg5b,2023-03-29T22:41:08.209Z,"28 km E of Port Heiden, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-03-29T22:27:10.460Z,44.7748333,-110.8713333,1.85,0.53,md,6.0,146.0,0.02006,0.04,uu,uu60535816,2023-03-29T22:41:08.640Z,"22 km NE of West Yellowstone, Montana",earthquake,1.78,0.91,0.304,6.0,reviewed,uu,uu
