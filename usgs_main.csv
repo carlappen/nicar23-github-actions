@@ -8386,3 +8386,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T20:46:21.240Z,47.89533333333333,-122.72683333333332,-0.02,1.49,ml,22.0,55.0,0.1044,0.32,uw,uw61905767,2023-03-29T22:08:32.890Z,"4 km SW of Port Ludlow, Washington",earthquake,0.47,0.93,0.1658674794002946,13.0,reviewed,uw,uw
 2023-03-29T13:17:53.740Z,53.8738333333333,-166.563666666667,3.12,-0.18,ml,4.0,165.0,,0.05,av,av91096373,2023-03-29T22:00:12.760Z,"1 km W of Unalaska, Alaska",earthquake,0.7,1.12,0.301325072612578,4.0,reviewed,av,av
 2023-03-29T13:17:13.770Z,53.8746666666667,-166.564,3.88,0.48,ml,11.0,111.0,,0.08,av,av91824311,2023-03-29T21:58:04.760Z,"1 km W of Unalaska, Alaska",earthquake,0.28,0.67,0.22341511428608,12.0,reviewed,av,av
+2023-03-29T22:36:09.660Z,37.598999,-122.4383316,7.06,1.5,md,13.0,74.0,0.02214,0.02,nc,nc73864165,2023-03-29T22:37:43.913Z,"4km SW of San Bruno, CA",earthquake,0.31,0.54,0.15,8.0,automatic,nc,nc
+2023-03-29T22:30:16.036Z,60.7099,-151.9569,88.1,1.2,ml,,,,0.22,ak,ak02341wkjhf,2023-03-29T22:31:55.997Z,"36 km WNW of Salamatof, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-03-29T02:15:54.400Z,36.727,71.2853,182.298,4.4,mb,24.0,75.0,2.642,0.48,us,us6000k0gv,2023-03-29T22:35:31.040Z,"Hindu Kush region, Afghanistan",earthquake,5.46,12.49,0.239,5.0,reviewed,us,us
