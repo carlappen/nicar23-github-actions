@@ -8679,3 +8679,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T22:50:45.814Z,59.8748,-152.4161,76.1,1.8,ml,,,,0.4,ak,ak02343k88lh,2023-03-30T22:53:46.006Z,"34 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-30T21:22:13.538Z,56.7879,-157.222,2.3,2.1,ml,,,,0.66,ak,ak02343jgqdg,2023-03-30T22:49:40.527Z,"81 km S of Ugashik, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-03-30T00:11:51.770Z,61.5006666666667,-152.148166666667,4.34,0.08,ml,8.0,206.0,,0.15,av,av91824981,2023-03-30T22:52:57.860Z,"67 km SW of Skwentna, Alaska",earthquake,0.56,13.35,0.15952507957136,9.0,reviewed,av,av
+2023-03-30T23:07:26.650Z,33.5936667,-116.8068333,6.41,1.0,ml,38.0,38.0,0.03567,0.21,ci,ci39507906,2023-03-30T23:11:00.267Z,"13km WNW of Anza, CA",earthquake,0.25,0.51,0.122,28.0,automatic,ci,ci
+2023-03-30T22:58:52.034Z,58.3095,-154.942,3.1,1.6,ml,,,,0.48,ak,ak02343k9yta,2023-03-30T23:01:45.835Z,"87 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-30T22:55:37.918Z,60.7131,-151.4282,55.0,2.1,ml,,,,0.31,ak,ak02343k9akf,2023-03-30T23:07:46.040Z,"8 km WNW of Nikiski, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-03-30T20:24:35.623Z,39.404,-119.9093,7.1,0.7,ml,6.0,166.64,0.113,0.0768,nn,nn00857690,2023-03-30T23:05:17.705Z,"9 km E of Floriston, California",earthquake,,4.7,0.43,3.0,reviewed,nn,nn
+2023-03-30T02:41:58.360Z,51.8591666666667,-178.0465,-1.69,1.63,ml,5.0,151.0,,0.2,av,av91825111,2023-03-30T23:23:43.860Z,"97 km W of Adak, Alaska",earthquake,0.58,1.97,0.321020272624136,5.0,reviewed,av,av
+2023-03-30T01:33:36.890Z,53.8751666666667,-166.574166666667,5.33,1.39,ml,12.0,112.0,,0.18,av,av91825046,2023-03-30T23:15:45.490Z,"2 km W of Unalaska, Alaska",earthquake,0.37,0.73,0.240621862199609,16.0,reviewed,av,av
+2023-03-30T00:31:31.230Z,58.2695,-155.116833333333,4.82,-0.2,ml,10.0,92.0,,0.11,av,av91825001,2023-03-30T23:02:02.230Z,Alaska Peninsula,earthquake,0.3,0.46,0.209349404296706,10.0,reviewed,av,av
+2023-03-30T00:24:23.900Z,53.8735,-166.5635,5.65,1.4,ml,16.0,111.0,,0.12,av,av91824996,2023-03-30T22:57:35.020Z,"1 km W of Unalaska, Alaska",earthquake,0.32,0.46,0.183324216280753,15.0,reviewed,av,av
