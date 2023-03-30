@@ -8470,3 +8470,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T18:39:32.585Z,61.4832,-147.6183,15.4,2.1,ml,,,,1.29,ak,ak02341u8tvw,2023-03-30T03:44:06.802Z,Southern Alaska,earthquake,,1.4,,,reviewed,ak,ak
 2023-03-29T07:29:21.520Z,56.8498333333333,-158.023166666667,1.02,1.56,ml,4.0,262.0,,0.05,av,av91823966,2023-03-30T03:39:09.520Z,"38 km ESE of Port Heiden, Alaska",earthquake,0.59,0.6,0.138066610319055,7.0,reviewed,av,av
 2023-03-30T03:46:58.908Z,60.7767,-151.7304,70.3,3.0,ml,,,,0.24,ak,ak023438w68y,2023-03-30T03:48:20.131Z,"25 km WNW of Nikiski, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-03-30T04:18:21.440Z,38.8136673,-122.7948303,1.37,1.07,md,11.0,102.0,0.005703,0.03,nc,nc73864315,2023-03-30T04:19:58.081Z,"5km NW of The Geysers, CA",earthquake,0.32,0.66,0.28,12.0,automatic,nc,nc
+2023-03-30T04:12:58.440Z,33.9975,-116.8326667,10.23,1.57,ml,59.0,26.0,0.04287,0.19,ci,ci39507666,2023-03-30T04:25:46.650Z,"9km NNE of Banning, CA",earthquake,0.2,0.4,0.139,27.0,automatic,ci,ci
+2023-03-30T04:12:17.310Z,35.4628334,-120.7766647,5.76,1.85,md,16.0,104.0,0.08634,0.03,nc,nc73864310,2023-03-30T04:13:54.175Z,"10km WSW of Atascadero, CA",earthquake,0.21,0.76,0.16,10.0,automatic,nc,nc
+2023-03-30T04:04:33.480Z,38.8361664,-122.793663,2.05,1.03,md,14.0,70.0,0.003425,0.02,nc,nc73864300,2023-03-30T04:06:08.784Z,"6km WNW of Cobb, CA",earthquake,0.24,0.46,0.2,16.0,automatic,nc,nc
+2023-03-30T03:57:32.970Z,38.7588348,-122.7141647,1.76,1.06,md,11.0,119.0,0.008804,0.02,nc,nc73864285,2023-03-30T04:10:10.534Z,"3km SW of Anderson Springs, CA",earthquake,0.36,0.42,0.24,11.0,automatic,nc,nc
+2023-03-30T03:55:46.528Z,63.2979,-150.5097,128.4,1.4,ml,,,,0.45,ak,ak023438y2qk,2023-03-30T03:58:20.926Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-03-29T21:32:27.160Z,55.2168,-159.2165,15.0,1.9,ml,,,,0.58,ak,ak02341vzj5g,2023-03-30T04:30:18.470Z,"77 km S of Perryville, Alaska",earthquake,,2.8,,,reviewed,ak,ak
+2023-03-29T19:50:02.409Z,59.2928,-153.2158,63.6,1.1,ml,,,,0.42,ak,ak02341uwhug,2023-03-30T04:10:15.572Z,"74 km W of Nanwalek, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2023-03-29T19:41:03.138Z,63.2787,-150.5042,124.4,1.0,ml,,,,0.45,ak,ak02341uuflp,2023-03-30T03:57:28.043Z,"67 km ESE of Denali National Park, Alaska",earthquake,,1.0,,,reviewed,ak,ak
+2023-03-29T09:44:40.440Z,58.1775,-155.335166666667,1.72,0.08,ml,8.0,170.0,,0.06,av,av91824096,2023-03-30T04:12:51.580Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.42,0.236565222306049,9.0,reviewed,av,av
+2023-03-29T09:27:55.020Z,51.8643333333333,-178.073833333333,-1.8,0.83,ml,4.0,185.0,,0.21,av,av91824081,2023-03-30T04:08:47.270Z,"99 km W of Adak, Alaska",earthquake,0.63,1.59,0.268912730002479,4.0,reviewed,av,av
