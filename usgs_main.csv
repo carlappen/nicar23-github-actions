@@ -8627,3 +8627,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T20:14:20.787Z,31.65874535,-104.3110648,7.93112793,2.3,ml,45.0,68.0,0.041411569,0.2,tx,tx2023gemw,2023-03-30T19:45:11.600Z,"57 km S of Whites City, New Mexico",earthquake,0.8745184679,1.122550232,0.0,6.0,reviewed,tx,tx
 2023-03-30T19:47:55.640Z,38.8086662,-122.8215027,2.59,0.92,md,12.0,63.0,0.006,0.02,nc,nc73864560,2023-03-30T19:49:30.904Z,"7km WNW of The Geysers, CA",earthquake,0.36,0.89,0.25,14.0,automatic,nc,nc
 2023-03-30T11:23:23.325Z,56.1406,-152.1955,11.6,2.7,ml,,,,0.95,ak,ak02343dimk4,2023-03-30T19:48:07.864Z,"136 km SSE of Old Harbor, Alaska",earthquake,,5.8,,,reviewed,ak,ak
+2023-03-30T20:20:23.172Z,61.6418,-146.5921,23.2,1.9,ml,,,,0.72,ak,ak02343iuw5p,2023-03-30T20:22:17.608Z,"40 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-30T20:09:33.040Z,44.527,-110.3588333,3.92,2.47,ml,23.0,56.0,0.04509,0.17,uu,uu60535976,2023-03-30T20:24:01.560Z,"56 km SSE of Mammoth, Wyoming",earthquake,0.31,0.59,0.322,7.0,reviewed,uu,uu
+2023-03-30T19:59:35.730Z,32.5245,-115.6158333,8.94,1.92,ml,20.0,91.0,0.03189,0.16,ci,ci39507850,2023-03-30T20:21:17.453Z,"7km SSW of Progreso, B.C., MX",earthquake,0.3,0.46,0.184,21.0,reviewed,ci,ci
+2023-03-30T19:23:00.365Z,34.6472,25.1959,10.0,4.5,mb,93.0,94.0,0.687,0.81,us,us6000k0y7,2023-03-30T20:19:39.645Z,"40 km S of Pýrgos, Greece",earthquake,5.67,1.842,0.066,68.0,reviewed,us,us
+2023-03-30T18:47:08.840Z,51.9657,176.2433,38.514,4.3,mb,34.0,165.0,1.441,0.66,us,us6000k0y3,2023-03-30T19:58:22.040Z,"229 km ESE of Attu Station, Alaska",earthquake,8.49,9.528,0.059,83.0,reviewed,us,us
+2023-03-30T18:26:34.582Z,-35.7925,-73.6952,23.335,4.4,mb,27.0,186.0,1.037,1.01,us,us6000k0xp,2023-03-30T20:04:58.040Z,"113 km NW of Tomé, Chile",earthquake,6.82,5.447,0.219,6.0,reviewed,us,us
+2023-03-30T15:09:32.490Z,38.8098333,-122.8236667,2.29,-0.1,md,16.0,62.0,0.01357,0.02,nc,nc73864475,2023-03-30T20:15:50.952Z,"7km WNW of The Geysers, CA",earthquake,0.24,0.55,0.249,14.0,reviewed,nc,nc
+2023-03-30T14:43:03.268Z,53.8724,-166.5691,4.9,1.6,ml,,,,0.17,ak,ak02343ff2hz,2023-03-30T19:58:50.113Z,"2 km W of Unalaska, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2023-03-30T04:52:40.717Z,37.2878,-116.4095,11.4,0.3,ml,9.0,223.3,0.1,0.111,nn,nn00857680,2023-03-30T20:21:06.302Z,"52 km NE of Beatty, Nevada",earthquake,,2.2,0.95,6.0,reviewed,nn,nn
+2023-03-30T01:13:27.625Z,36.4732,-115.7942,9.7,0.8,ml,8.0,180.85,0.232,0.2035,nn,nn00857679,2023-03-30T20:11:48.481Z,"15 km SW of Indian Springs, Nevada",earthquake,,15.9,1.0,3.0,reviewed,nn,nn
