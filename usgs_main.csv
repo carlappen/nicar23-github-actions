@@ -8524,3 +8524,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T08:01:56.670Z,18.986,-65.0245,20.14,3.15,md,7.0,276.0,0.6335,0.11,pr,pr71402068,2023-03-30T08:15:23.540Z,"71 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,0.83,12.21,0.128576412937176,5.0,reviewed,pr,pr
 2023-03-30T08:45:43.420Z,19.2320003509521,-155.371826171875,32.3400001525879,2.39,ml,41.0,153.0,,0.129999995,hv,hv73352672,2023-03-30T08:51:13.200Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.52,0.620000005,2.65,12.0,automatic,hv,hv
 2023-03-30T08:24:53.020Z,7.9238,-74.7507,56.727,4.5,mb,75.0,64.0,1.887,0.89,us,us6000k0u3,2023-03-30T09:02:44.040Z,"14 km N of San Carlos, Colombia",earthquake,4.72,7.984,0.043,157.0,reviewed,us,us
+2023-03-30T09:23:32.524Z,65.3684,-150.0878,9.5,2.3,ml,,,,0.87,ak,ak02343cbsdg,2023-03-30T09:25:25.468Z,"15 km SSE of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
