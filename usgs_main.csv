@@ -8467,3 +8467,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T06:45:10.990Z,58.1633333333333,-155.295333333333,-0.26,-0.35,ml,5.0,177.0,,0.12,av,av91823891,2023-03-30T02:58:13.300Z,"82 km NW of Karluk, Alaska",earthquake,0.43,6.31,0.47910771085004,5.0,reviewed,av,av
 2023-03-30T03:30:34.490Z,33.6928333,-116.802,15.55,0.94,ml,34.0,34.0,0.07339,0.17,ci,ci39507658,2023-03-30T03:34:10.325Z,"9km SW of Idyllwild, CA",earthquake,0.27,0.43,0.12,22.0,automatic,ci,ci
 2023-03-29T07:14:12.940Z,58.2408333333333,-155.1465,-1.05,-0.43,ml,9.0,85.0,,0.13,av,av91823946,2023-03-30T03:31:41.460Z,"85 km NNW of Karluk, Alaska",earthquake,0.26,31.61,0.197298991714904,9.0,reviewed,av,av
+2023-03-29T18:39:32.585Z,61.4832,-147.6183,15.4,2.1,ml,,,,1.29,ak,ak02341u8tvw,2023-03-30T03:44:06.802Z,Southern Alaska,earthquake,,1.4,,,reviewed,ak,ak
+2023-03-29T07:29:21.520Z,56.8498333333333,-158.023166666667,1.02,1.56,ml,4.0,262.0,,0.05,av,av91823966,2023-03-30T03:39:09.520Z,"38 km ESE of Port Heiden, Alaska",earthquake,0.59,0.6,0.138066610319055,7.0,reviewed,av,av
