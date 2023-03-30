@@ -8613,3 +8613,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T18:11:00.490Z,18.0065,-66.7433333333333,13.84,2.69,md,7.0,183.0,0.1331,0.1,pr,pr71402098,2023-03-30T18:30:46.280Z,"2 km ESE of Magas Arriba, Puerto Rico",earthquake,0.83,0.66,0.0817866525755104,4.0,reviewed,pr,pr
 2023-03-29T19:46:40.730Z,56.9078333333333,-158.085,-3.2,0.92,ml,4.0,251.0,,0.22,av,av91824686,2023-03-30T18:36:05.380Z,"33 km E of Port Heiden, Alaska",earthquake,2.01,3.18,0.119292605820305,6.0,reviewed,av,av
 2023-03-30T18:43:06.879Z,61.544,-151.6674,86.8,1.0,ml,,,,0.29,ak,ak02343hsx5r,2023-03-30T18:45:07.745Z,"51 km SSW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-03-30T18:56:31.732Z,39.5138,-119.6669,0.1,1.7,ml,9.0,91.9,0.219,0.2675,nn,nn00857675,2023-03-30T18:58:37.644Z,"7 km ESE of Sparks, Nevada",earthquake,,22.8,0.23,6.0,automatic,nn,nn
