@@ -8590,3 +8590,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T13:13:42.280Z,35.24233333,-97.7765,7.0,1.44,ml,27.0,77.0,0.01799646848,0.41,ok,ok2023gful,2023-03-30T16:19:26.000Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.8,0.12,4.0,reviewed,ok,ok
 2023-03-30T06:10:14.560Z,33.6908333,-116.8001667,15.77,0.25,ml,16.0,156.0,0.07451,0.11,ci,ci37520924,2023-03-30T16:23:25.327Z,"9km SW of Idyllwild, CA",earthquake,0.38,0.42,0.168,4.0,reviewed,ci,ci
 2023-03-29T18:21:26.880Z,36.5408333333333,-89.6985,4.96,1.62,md,19.0,59.0,0.0261,0.03,nm,nm60516861,2023-03-30T16:25:01.890Z,"7 km S of Catron, Missouri",earthquake,0.55,0.25,0.0476852272382298,14.0,reviewed,nm,nm
+2023-03-30T16:42:39.609Z,64.8718,-151.1863,15.5,1.1,ml,,,,0.45,ak,ak02343glwr4,2023-03-30T16:47:16.964Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
