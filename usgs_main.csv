@@ -8625,3 +8625,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T09:43:21.230Z,51.6737,-174.4565,23.7,2.1,ml,,,,0.39,ak,ak02343cg2cv,2023-03-30T19:36:55.275Z,"60 km SSW of Atka, Alaska",earthquake,,4.1,,,reviewed,ak,ak
 2023-03-29T21:24:42.165Z,31.44492095,-103.5462751,0.6300537109,2.1,ml,22.0,77.0,0.0176345139,0.2,tx,tx2023gepd,2023-03-30T19:41:48.166Z,"5 km WNW of Pecos, Texas",earthquake,1.382861379,1.230640906,0.1,18.0,reviewed,tx,tx
 2023-03-29T20:14:20.787Z,31.65874535,-104.3110648,7.93112793,2.3,ml,45.0,68.0,0.041411569,0.2,tx,tx2023gemw,2023-03-30T19:45:11.600Z,"57 km S of Whites City, New Mexico",earthquake,0.8745184679,1.122550232,0.0,6.0,reviewed,tx,tx
+2023-03-30T19:47:55.640Z,38.8086662,-122.8215027,2.59,0.92,md,12.0,63.0,0.006,0.02,nc,nc73864560,2023-03-30T19:49:30.904Z,"7km WNW of The Geysers, CA",earthquake,0.36,0.89,0.25,14.0,automatic,nc,nc
+2023-03-30T11:23:23.325Z,56.1406,-152.1955,11.6,2.7,ml,,,,0.95,ak,ak02343dimk4,2023-03-30T19:48:07.864Z,"136 km SSE of Old Harbor, Alaska",earthquake,,5.8,,,reviewed,ak,ak
