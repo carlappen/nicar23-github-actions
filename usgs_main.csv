@@ -8575,3 +8575,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T03:10:28.110Z,44.5265,-110.3655,3.88,2.05,ml,22.0,55.0,0.0424,0.14,uu,uu60535901,2023-03-30T14:19:03.070Z,"56 km SSE of Mammoth, Wyoming",earthquake,0.26,0.52,0.349,2.0,reviewed,uu,uu
 2023-03-30T14:34:41.560Z,38.8063316,-122.7968369,3.29,1.06,md,15.0,75.0,0.002026,0.01,nc,nc73864465,2023-03-30T14:36:14.888Z,"5km NW of The Geysers, CA",earthquake,0.4,0.64,0.2,17.0,automatic,nc,nc
 2023-03-30T14:28:23.640Z,38.6851654,-122.8308334,5.08,1.31,md,11.0,217.0,0.06293,0.03,nc,nc73864460,2023-03-30T14:30:00.992Z,"9km NNE of Healdsburg, CA",earthquake,0.92,1.78,0.11,12.0,automatic,nc,nc
+2023-03-30T14:39:05.030Z,35.614666,-120.2723312,6.2,1.98,md,12.0,168.0,0.09373,0.08,nc,nc73864470,2023-03-30T14:40:39.964Z,"10km ESE of Shandon, CA",earthquake,0.47,0.89,0.24,11.0,automatic,nc,nc
