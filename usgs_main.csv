@@ -8527,3 +8527,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T09:23:32.524Z,65.3684,-150.0878,9.5,2.3,ml,,,,0.87,ak,ak02343cbsdg,2023-03-30T09:25:25.468Z,"15 km SSE of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-30T09:42:35.605Z,58.293,-154.6083,44.9,1.3,ml,,,,1.02,ak,ak02343cfv7s,2023-03-30T09:44:10.647Z,"81 km N of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-03-30T09:37:54.150Z,38.8348351,-122.8171692,1.76,0.75,md,8.0,89.0,0.0127,0.01,nc,nc73864395,2023-03-30T09:39:30.668Z,"8km W of Cobb, CA",earthquake,0.43,1.0,0.23,11.0,automatic,nc,nc
+2023-03-30T08:25:17.060Z,37.4261667,-118.5723333,2.87,1.38,md,16.0,98.0,0.1921,0.07,nc,nc73864385,2023-03-30T10:18:16.786Z,"3km ENE of Round Valley, CA",earthquake,0.31,2.7,0.075,13.0,reviewed,nc,nc
