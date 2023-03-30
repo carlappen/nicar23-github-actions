@@ -8469,3 +8469,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T07:14:12.940Z,58.2408333333333,-155.1465,-1.05,-0.43,ml,9.0,85.0,,0.13,av,av91823946,2023-03-30T03:31:41.460Z,"85 km NNW of Karluk, Alaska",earthquake,0.26,31.61,0.197298991714904,9.0,reviewed,av,av
 2023-03-29T18:39:32.585Z,61.4832,-147.6183,15.4,2.1,ml,,,,1.29,ak,ak02341u8tvw,2023-03-30T03:44:06.802Z,Southern Alaska,earthquake,,1.4,,,reviewed,ak,ak
 2023-03-29T07:29:21.520Z,56.8498333333333,-158.023166666667,1.02,1.56,ml,4.0,262.0,,0.05,av,av91823966,2023-03-30T03:39:09.520Z,"38 km ESE of Port Heiden, Alaska",earthquake,0.59,0.6,0.138066610319055,7.0,reviewed,av,av
+2023-03-30T03:46:58.908Z,60.7767,-151.7304,70.3,3.0,ml,,,,0.24,ak,ak023438w68y,2023-03-30T03:48:20.131Z,"25 km WNW of Nikiski, Alaska",earthquake,,1.6,,,automatic,ak,ak
