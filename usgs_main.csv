@@ -8637,3 +8637,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T14:43:03.268Z,53.8724,-166.5691,4.9,1.6,ml,,,,0.17,ak,ak02343ff2hz,2023-03-30T19:58:50.113Z,"2 km W of Unalaska, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-03-30T04:52:40.717Z,37.2878,-116.4095,11.4,0.3,ml,9.0,223.3,0.1,0.111,nn,nn00857680,2023-03-30T20:21:06.302Z,"52 km NE of Beatty, Nevada",earthquake,,2.2,0.95,6.0,reviewed,nn,nn
 2023-03-30T01:13:27.625Z,36.4732,-115.7942,9.7,0.8,ml,8.0,180.85,0.232,0.2035,nn,nn00857679,2023-03-30T20:11:48.481Z,"15 km SW of Indian Springs, Nevada",earthquake,,15.9,1.0,3.0,reviewed,nn,nn
+2023-03-30T19:55:02.931Z,-35.6984,-73.5677,10.0,4.2,mb,24.0,213.0,1.091,0.9,us,us6000k0ye,2023-03-30T20:26:10.040Z,"112 km WSW of Constitución, Chile",earthquake,4.96,1.993,0.374,2.0,reviewed,us,us
+2023-03-30T15:35:35.040Z,37.4601667,-113.393,4.11,1.03,ml,7.0,83.0,0.09343,0.07,uu,uu60535951,2023-03-30T20:33:26.460Z,"7 km WSW of New Harmony, Utah",earthquake,0.42,1.79,0.241,3.0,reviewed,uu,uu
+2023-03-30T14:57:44.250Z,44.5333333,-110.3738333,3.37,0.52,md,9.0,125.0,0.03336,0.14,uu,uu60535946,2023-03-30T20:30:18.930Z,"55 km SSE of Mammoth, Wyoming",earthquake,0.31,0.83,0.249,7.0,reviewed,uu,uu
+2023-03-30T09:36:47.160Z,44.4236667,-110.2996667,4.96,0.46,md,7.0,99.0,0.03352,0.14,uu,uu60535936,2023-03-30T20:25:05.880Z,"69 km ESE of West Yellowstone, Montana",earthquake,0.48,0.59,0.059,5.0,reviewed,uu,uu
