@@ -8497,3 +8497,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T05:39:03.036Z,66.3135,-154.2769,10.0,2.6,ml,,,,0.93,ak,ak02343a1f1g,2023-03-30T05:41:40.492Z,"29 km N of Hughes, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-03-30T05:27:29.260Z,18.8976666666667,-64.374,16.09,3.27,md,6.0,317.0,0.6778,0.39,pr,pr71402063,2023-03-30T05:44:22.050Z,"76 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,12.97,25.5,0.145381284206151,4.0,reviewed,pr,pr
 2023-03-30T03:59:55.310Z,36.8205,-121.415,10.32,1.07,md,23.0,59.0,0.06201,0.09,nc,nc73864295,2023-03-30T05:45:40.329Z,"3km SSW of Hollister, CA",earthquake,0.23,0.47,0.253,24.0,reviewed,nc,nc
+2023-03-30T05:47:28.220Z,38.831665,-122.8181686,1.83,0.62,md,8.0,82.0,0.0104,0.01,nc,nc73864345,2023-03-30T05:49:03.745Z,"8km NW of The Geysers, CA",earthquake,0.41,1.11,0.38,9.0,automatic,nc,nc
