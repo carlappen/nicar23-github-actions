@@ -8578,3 +8578,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T14:39:05.030Z,35.614666,-120.2723312,6.2,1.98,md,12.0,168.0,0.09373,0.08,nc,nc73864470,2023-03-30T14:40:39.964Z,"10km ESE of Shandon, CA",earthquake,0.47,0.89,0.24,11.0,automatic,nc,nc
 2023-03-30T06:27:10.360Z,46.87,-121.75133333333332,1.17,0.35,ml,8.0,145.0,0.01308,0.13,uw,uw61905822,2023-03-30T15:03:49.610Z,Washington,earthquake,0.48,0.9,0.0506829535717881,4.0,reviewed,uw,uw
 2023-03-30T04:52:15.220Z,44.5008333,-110.382,4.25,1.06,md,10.0,94.0,0.06098,0.09,uu,uu60535926,2023-03-30T15:08:20.280Z,"58 km SSE of Mammoth, Wyoming",earthquake,0.26,0.7,0.251,7.0,reviewed,uu,uu
+2023-03-30T15:36:28.247Z,57.7632,-155.0273,65.7,3.3,ml,,,,0.47,ak,ak02343fz5yg,2023-03-30T15:38:23.574Z,"40 km WNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
