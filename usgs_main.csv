@@ -8691,3 +8691,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T21:52:07.820Z,36.6966667,-121.3521667,3.34,0.5,md,10.0,93.0,0.01169,0.05,nc,nc73864585,2023-03-30T23:28:54.270Z,"11km SSW of Tres Pinos, CA",earthquake,0.45,0.46,0.162,7.0,reviewed,nc,nc
 2023-03-30T03:22:01.500Z,58.1835,-155.287166666667,0.77,-0.67,ml,5.0,152.0,,0.05,av,av91825146,2023-03-30T23:30:27.710Z,"84 km NW of Karluk, Alaska",earthquake,0.23,1.15,0.168575818657672,5.0,reviewed,av,av
 2023-03-30T03:19:23.170Z,51.8543333333333,-178.081333333333,3.83,1.6,ml,5.0,206.0,,0.16,av,av91825141,2023-03-30T23:27:15.760Z,"99 km W of Adak, Alaska",earthquake,0.71,0.54,0.177986822907979,5.0,reviewed,av,av
+2023-03-30T23:38:04.911Z,64.0381,-148.7957,0.1,1.8,ml,,,,0.5,ak,ak02343kr0gb,2023-03-30T23:39:45.632Z,"15 km E of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-30T23:33:32.258Z,59.8636,-153.4832,5.2,2.0,ml,,,,0.75,ak,ak02343kpzzd,2023-03-30T23:35:59.949Z,"35 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-30T03:50:44.150Z,51.8545,-178.116333333333,3.04,1.06,ml,5.0,231.0,,0.21,av,av91825186,2023-03-30T23:40:36.340Z,"102 km W of Adak, Alaska",earthquake,1.82,0.97,0.169553241178949,5.0,reviewed,av,av
+2023-03-30T03:35:14.660Z,51.8683333333333,-178.118833333333,5.6,0.74,ml,4.0,228.0,,0.15,av,av91825166,2023-03-30T23:36:41.250Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.88,1.17,0.228567284689459,4.0,reviewed,av,av
