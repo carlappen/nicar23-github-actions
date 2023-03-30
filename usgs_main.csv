@@ -8458,3 +8458,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T03:37:00.100Z,53.8698333333333,-166.567833333333,4.69,0.7,ml,14.0,118.0,,0.08,av,av91823716,2023-03-30T00:24:01.550Z,"2 km WSW of Unalaska, Alaska",earthquake,0.25,0.47,0.185103762090422,13.0,reviewed,av,av
 2023-03-29T03:35:31.170Z,51.864,-178.088166666667,2.32,1.48,ml,5.0,204.0,,0.22,av,av91823711,2023-03-30T00:18:13.170Z,"100 km W of Adak, Alaska",earthquake,0.84,1.66,0.102946927634675,5.0,reviewed,av,av
 2023-03-29T02:57:25.730Z,51.8585,-178.095833333333,6.75,0.92,ml,3.0,219.0,,0.14,av,av91823681,2023-03-30T00:04:56.930Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.89,1.32,0.184335144305762,3.0,reviewed,av,av
+2023-03-30T02:36:58.043Z,63.3333,-150.2019,14.9,1.0,ml,,,,0.7,ak,ak0234388lf0,2023-03-30T02:39:26.776Z,"62 km W of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-29T06:38:07.590Z,51.8423333333333,-178.089333333333,6.76,1.12,ml,3.0,239.0,,0.01,av,av91823881,2023-03-30T02:49:50.140Z,"100 km W of Adak, Alaska",earthquake,0.52,0.7,0.259169532086401,3.0,reviewed,av,av
