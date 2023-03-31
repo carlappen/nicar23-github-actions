@@ -8968,3 +8968,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T04:54:02.700Z,38.1526,-118.2238,10.0,2.5,ml,38.0,42.0,0.242,0.66,us,us6000k11h,2023-03-31T21:17:44.040Z,"28 km SSW of Mina, Nevada",earthquake,3.01,2.01,0.038,91.0,reviewed,us,us
 2023-03-31T21:30:17.230Z,36.6548347,-121.2779999,6.35,2.43,md,41.0,105.0,0.05254,0.11,nc,nc73865120,2023-03-31T21:33:26.126Z,"16km SSE of Tres Pinos, CA",earthquake,0.24,0.65,0.16,41.0,automatic,nc,nc
 2023-03-31T02:35:31.860Z,38.7545,-122.7411667,0.83,0.3,md,11.0,86.0,0.003172,0.04,nc,nc73864675,2023-03-31T21:29:36.862Z,"3km SSE of The Geysers, CA",earthquake,0.27,0.19,0.115,7.0,reviewed,nc,nc
+2023-03-31T21:41:56.025Z,61.7015,-148.4065,15.9,1.0,ml,,,,0.27,ak,ak02345748tu,2023-03-31T21:44:39.070Z,Southern Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-03-31T21:36:06.500Z,33.9745,-116.6641667,16.05,1.03,ml,29.0,47.0,0.06526,0.23,ci,ci39508314,2023-03-31T21:39:49.372Z,"11km SW of Morongo Valley, CA",earthquake,0.38,0.92,0.137,29.0,automatic,ci,ci
+2023-03-31T21:33:43.540Z,34.014,-117.0148333,27.52,0.9,ml,10.0,175.0,0.2842,0.16,ci,ci39508306,2023-03-31T21:37:26.428Z,"3km SE of Yucaipa, CA",earthquake,1.19,1.49,0.145,14.0,automatic,ci,ci
+2023-03-31T18:02:01.680Z,33.0615,-114.9961667,-0.21,1.49,ml,8.0,125.0,0.09032,0.24,ci,ci39508162,2023-03-31T21:38:26.264Z,"45km NE of Holtville, CA",quarry blast,0.73,31.61,0.16,12.0,reviewed,ci,ci
