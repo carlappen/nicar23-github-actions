@@ -8938,3 +8938,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T19:19:13.890Z,60.7189,-151.8859,77.3,1.4,ml,,,,0.1,ak,ak023455skm5,2023-03-31T19:20:33.352Z,"32 km W of Nikiski, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-03-31T11:29:32.980Z,56.9113333333333,-158.080333333333,-3.2,1.5,ml,3.0,254.0,,0.17,av,av91827626,2023-03-31T19:23:46.800Z,"33 km E of Port Heiden, Alaska",earthquake,1.89,3.28,0.136148017516161,7.0,reviewed,av,av
 2023-03-31T07:26:12.680Z,56.9011666666667,-158.155,-3.2,1.74,ml,4.0,193.0,,0.29,av,av91827316,2023-03-31T19:20:54.010Z,"29 km E of Port Heiden, Alaska",earthquake,1.94,4.04,0.35697372592156,9.0,reviewed,av,av
+2023-03-31T19:31:50.570Z,33.9135,-117.5255,0.61,1.4,ml,19.0,59.0,0.04789,0.33,ci,ci39508218,2023-03-31T19:35:27.374Z,"3km SE of Norco, CA",earthquake,0.73,31.61,0.334,29.0,automatic,ci,ci
+2023-03-31T19:31:48.860Z,33.7103348,-117.4138336,1.23,1.64,ml,30.0,118.0,0.1099,0.46,ci,ci39508226,2023-03-31T19:33:56.362Z,"9km WNW of Lake Elsinore, CA",earthquake,0.97,2.25,0.298,11.0,automatic,ci,ci
+2023-03-31T19:29:55.750Z,32.5975,-116.9908333,2.18,1.38,ml,18.0,247.0,0.05219,0.24,ci,ci39508210,2023-03-31T19:33:33.660Z,"6km ESE of Chula Vista, CA",quarry blast,1.9,0.72,0.154,12.0,automatic,ci,ci
+2023-03-31T17:55:40.927Z,-7.984,120.7193,22.505,4.9,mb,108.0,52.0,1.636,0.62,us,us6000k16s,2023-03-31T19:31:04.040Z,"74 km NNE of Ruteng, Indonesia",earthquake,4.78,4.7,0.061,93.0,reviewed,us,us
