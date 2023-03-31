@@ -8798,3 +8798,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T06:35:19.846Z,62.6423,-149.6588,4.3,2.1,ml,,,,0.72,ak,ak02344y5do0,2023-03-31T06:37:27.233Z,"31 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-31T06:44:11.434Z,61.8094,-151.5359,84.5,1.7,ml,,,,0.43,ak,ak02344y7agn,2023-03-31T06:46:03.677Z,"21 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-31T06:42:34.100Z,33.9456667,-118.3736667,10.39,1.88,ml,52.0,92.0,0.04584,0.31,ci,ci39507978,2023-03-31T06:47:25.384Z,"2km WNW of Lennox, CA",earthquake,0.4,0.69,0.299,27.0,automatic,ci,ci
+2023-03-31T07:04:50.647Z,62.15,-150.5604,8.3,1.4,ml,,,,0.43,ak,ak02344yk8g8,2023-03-31T07:06:51.110Z,"25 km SW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-31T06:56:59.840Z,35.7406667,-117.5906667,12.94,0.81,ml,13.0,157.0,0.1387,0.18,ci,ci39507986,2023-03-31T07:00:36.533Z,"15km NNE of Ridgecrest, CA",earthquake,0.62,1.24,0.148,6.0,automatic,ci,ci
+2023-03-31T06:53:14.560Z,38.7874985,-122.7655029,1.95,1.31,md,20.0,79.0,0.01841,0.03,nc,nc73864785,2023-03-31T07:07:10.994Z,"1km NW of The Geysers, CA",earthquake,0.25,0.45,0.18,18.0,automatic,nc,nc
