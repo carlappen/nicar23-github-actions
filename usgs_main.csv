@@ -8780,3 +8780,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T11:56:23.160Z,58.168,-155.335166666667,2.0,0.06,ml,8.0,181.0,,0.09,av,av91096478,2023-03-31T05:17:34.130Z,"84 km NW of Karluk, Alaska",earthquake,0.31,0.5,0.318921424427037,8.0,reviewed,av,av
 2023-03-30T11:22:21.780Z,60.0511666666667,-153.087333333333,2.04,-0.8,ml,4.0,134.0,,0.14,av,av91825746,2023-03-31T05:06:47.910Z,"64 km ENE of Pedro Bay, Alaska",earthquake,1.03,1.46,0.0563995338455192,4.0,reviewed,av,av
 2023-03-30T11:19:15.600Z,51.8406666666667,-178.106833333333,-1.8,0.77,ml,4.0,230.0,,0.15,av,av91825741,2023-03-31T05:04:27.010Z,"101 km W of Adak, Alaska",earthquake,1.94,2.64,0.254392349142653,4.0,reviewed,av,av
+2023-03-31T05:32:15.337Z,62.0938,-149.4217,7.5,2.6,ml,,,,0.85,ak,ak02344xjahx,2023-03-31T05:33:56.786Z,"23 km ESE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-31T05:23:45.140Z,19.4063339233398,-155.275329589844,7.15999984741211,1.72,ml,22.0,75.0,,0.189999998,hv,hv73353247,2023-03-31T05:29:15.860Z,"5 km SW of Volcano, Hawaii",earthquake,0.44,0.400000006,0.24,6.0,automatic,hv,hv
+2023-03-31T05:17:24.283Z,59.8149,-153.238,121.8,1.4,ml,,,,0.43,ak,ak02344xg3xi,2023-03-31T05:27:57.729Z,"48 km E of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
