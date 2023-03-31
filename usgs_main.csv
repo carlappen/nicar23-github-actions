@@ -8820,3 +8820,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T09:15:13.430Z,38.8011665,-122.7699966,1.17,1.16,md,11.0,79.0,0.01612,0.02,nc,nc73864800,2023-03-31T09:16:51.372Z,"3km NNW of The Geysers, CA",earthquake,0.27,0.69,0.15,10.0,automatic,nc,nc
 2023-03-31T09:01:15.740Z,19.3778324127197,-154.986999511719,5.84000015258789,2.4,ml,31.0,166.0,,0.280000001,hv,hv73353357,2023-03-31T09:06:46.340Z,"12 km SW of Leilani Estates, Hawaii",earthquake,0.79,0.810000002,0.3,12.0,automatic,hv,hv
 2023-03-31T08:17:36.200Z,18.7761666666667,-67.3933333333333,11.45,3.41,md,12.0,214.0,0.398,0.3,pr,pr71402138,2023-03-31T09:10:59.500Z,"44 km NW of San Antonio, Puerto Rico",earthquake,1.13,0.93,0.0159824998497116,5.0,reviewed,pr,pr
+2023-03-31T09:32:34.020Z,38.7555008,-122.7294998,1.69,2.59,md,46.0,44.0,0.007082,0.09,nc,nc73864805,2023-03-31T09:34:11.648Z,"3km SE of The Geysers, CA",earthquake,0.18,0.29,0.12,52.0,automatic,nc,nc
+2023-03-31T09:31:37.017Z,62.4726,-148.185,44.5,1.2,ml,,,,0.61,ak,ak02344zwuxx,2023-03-31T09:33:21.321Z,"76 km N of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-31T09:22:22.430Z,63.0924,-150.9389,121.0,1.8,ml,,,,0.24,ak,ak02344zuwdf,2023-03-31T09:25:07.271Z,"63 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
