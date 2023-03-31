@@ -8823,3 +8823,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T09:32:34.020Z,38.7555008,-122.7294998,1.69,2.59,md,46.0,44.0,0.007082,0.09,nc,nc73864805,2023-03-31T09:34:11.648Z,"3km SE of The Geysers, CA",earthquake,0.18,0.29,0.12,52.0,automatic,nc,nc
 2023-03-31T09:31:37.017Z,62.4726,-148.185,44.5,1.2,ml,,,,0.61,ak,ak02344zwuxx,2023-03-31T09:33:21.321Z,"76 km N of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-31T09:22:22.430Z,63.0924,-150.9389,121.0,1.8,ml,,,,0.24,ak,ak02344zuwdf,2023-03-31T09:25:07.271Z,"63 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-03-31T09:40:57.120Z,38.7594986,-122.729332,1.76,1.29,md,12.0,109.0,0.004073,0.05,nc,nc73864815,2023-03-31T09:42:30.852Z,"3km SE of The Geysers, CA",earthquake,0.25,0.36,0.2,12.0,automatic,nc,nc
+2023-03-31T09:12:02.010Z,17.964,-66.9748333333333,14.2,2.23,md,9.0,192.0,0.06627,0.15,pr,pr71402143,2023-03-31T09:40:17.850Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.77,0.72,0.216284699674651,8.0,reviewed,pr,pr
