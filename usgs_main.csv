@@ -8866,3 +8866,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T13:53:53.480Z,38.8351669,-122.7963333,1.73,0.7,md,8.0,103.0,0.01725,0.01,nc,nc73864895,2023-03-31T13:55:29.909Z,"6km WNW of Cobb, CA",earthquake,0.32,0.8,0.07,10.0,automatic,nc,nc
 2023-03-31T13:50:31.950Z,38.8113327,-122.8258362,0.94,1.14,md,9.0,130.0,0.003588,0.01,nc,nc73864890,2023-03-31T13:52:05.069Z,"7km WNW of The Geysers, CA",earthquake,0.85,1.12,0.38,10.0,automatic,nc,nc
 2023-03-31T13:48:14.668Z,63.183,-148.8413,74.9,2.4,ml,,,,0.64,ak,ak023452e6rv,2023-03-31T13:49:49.598Z,Central Alaska,earthquake,,0.6,,,automatic,ak,ak
+2023-03-31T02:55:40.800Z,34.2235,-117.5093333,8.03,0.62,ml,8.0,106.0,0.01766,0.07,ci,ci39507938,2023-03-31T14:22:22.004Z,"4km SSW of Lytle Creek, CA",earthquake,0.3,0.4,0.057,2.0,reviewed,ci,ci
