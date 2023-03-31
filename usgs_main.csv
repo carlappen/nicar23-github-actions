@@ -8803,3 +8803,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T06:53:14.560Z,38.7874985,-122.7655029,1.95,1.31,md,20.0,79.0,0.01841,0.03,nc,nc73864785,2023-03-31T07:07:10.994Z,"1km NW of The Geysers, CA",earthquake,0.25,0.45,0.18,18.0,automatic,nc,nc
 2023-03-31T06:32:38.710Z,19.1268,-63.9228,28.0,3.58,md,9.0,334.0,1.2915,0.22,pr,pr2023090000,2023-03-31T07:22:53.663Z,"127 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,2.77,18.8,0.04,5.0,reviewed,pr,pr
 2023-03-30T18:10:12.869Z,31.56101265,-104.0941359,6.491479492,2.2,ml,25.0,63.0,0.03011863678,0.1,tx,tx2023ggeg,2023-03-31T07:23:55.905Z,"39 km NW of Toyah, Texas",earthquake,0.8817557891,0.8676948168,0.1,24.0,reviewed,tx,tx
+2023-03-31T07:45:34.158Z,63.8024,-147.695,19.9,1.0,ml,,,,0.41,ak,ak02344yszjb,2023-03-31T07:47:48.898Z,"60 km E of Denali Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-03-31T07:41:26.790Z,65.195,-149.0253,8.6,1.2,ml,,,,0.47,ak,ak02344ys43r,2023-03-31T07:43:24.631Z,"15 km ENE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-31T06:46:20.456Z,-30.2304,-176.6751,10.0,4.5,mb,15.0,163.0,1.451,0.49,us,us6000k125,2023-03-31T07:40:18.040Z,Kermadec Islands region,earthquake,11.34,1.963,0.172,10.0,reviewed,us,us
