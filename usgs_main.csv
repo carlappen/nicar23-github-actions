@@ -8841,3 +8841,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T10:48:07.016Z,36.8289,-115.9515,3.0,1.2,ml,27.0,71.11,0.031,0.1661,nn,nn00857713,2023-03-31T10:49:42.976Z,"38 km NW of Indian Springs, Nevada",earthquake,,0.5,0.85,18.0,automatic,nn,nn
 2023-03-31T11:09:13.890Z,36.0756667,-117.6528333,2.05,1.84,ml,18.0,107.0,0.1173,0.12,ci,ci39508034,2023-03-31T11:12:50.266Z,"27km E of Coso Junction, CA",earthquake,0.28,0.76,0.16,19.0,automatic,ci,ci
 2023-03-31T10:46:22.431Z,-24.7616,-70.1594,53.385,5.2,mww,69.0,93.0,0.26,0.98,us,us6000k138,2023-03-31T11:07:35.040Z,"78 km NNE of Taltal, Chile",earthquake,4.05,3.154,0.086,13.0,reviewed,us,us
+2023-03-31T11:26:22.318Z,59.1647,-145.1426,5.5,2.3,ml,,,,0.17,ak,ak0234512mfr,2023-03-31T11:28:53.881Z,"157 km SSE of Cordova, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-03-31T11:06:24.810Z,18.0253333333333,-66.8783333333333,13.88,1.95,md,4.0,174.0,0.05002,0.03,pr,pr71402168,2023-03-31T11:28:20.140Z,"1 km NNW of Palomas, Puerto Rico",earthquake,4.41,1.57,0.0402949243351789,2.0,reviewed,pr,pr
