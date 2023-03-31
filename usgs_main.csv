@@ -8972,3 +8972,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T21:36:06.500Z,33.9745,-116.6641667,16.05,1.03,ml,29.0,47.0,0.06526,0.23,ci,ci39508314,2023-03-31T21:39:49.372Z,"11km SW of Morongo Valley, CA",earthquake,0.38,0.92,0.137,29.0,automatic,ci,ci
 2023-03-31T21:33:43.540Z,34.014,-117.0148333,27.52,0.9,ml,10.0,175.0,0.2842,0.16,ci,ci39508306,2023-03-31T21:37:26.428Z,"3km SE of Yucaipa, CA",earthquake,1.19,1.49,0.145,14.0,automatic,ci,ci
 2023-03-31T18:02:01.680Z,33.0615,-114.9961667,-0.21,1.49,ml,8.0,125.0,0.09032,0.24,ci,ci39508162,2023-03-31T21:38:26.264Z,"45km NE of Holtville, CA",quarry blast,0.73,31.61,0.16,12.0,reviewed,ci,ci
+2023-03-31T21:35:48.263Z,43.5619,-127.0144,15.404,3.4,ml,31.0,283.0,1.498,0.79,us,us6000k18a,2023-03-31T21:48:30.040Z,off the coast of Oregon,earthquake,11.01,9.531,0.037,98.0,reviewed,us,us
+2023-03-31T21:07:53.000Z,33.4853333,-116.4813333,17.1,0.99,ml,18.0,146.0,0.06002,0.1,ci,ci39508298,2023-03-31T21:47:10.009Z,"19km ESE of Anza, CA",earthquake,0.41,0.89,0.102,16.0,reviewed,ci,ci
+2023-03-31T19:52:36.879Z,40.9506,78.0801,10.0,4.3,mb,60.0,116.0,0.805,1.03,us,us6000k17l,2023-03-31T21:46:55.040Z,"152 km SSE of Kadzhi-Say, Kyrgyzstan",earthquake,2.52,1.869,0.087,43.0,reviewed,us,us
