@@ -8843,3 +8843,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T10:46:22.431Z,-24.7616,-70.1594,53.385,5.2,mww,69.0,93.0,0.26,0.98,us,us6000k138,2023-03-31T11:07:35.040Z,"78 km NNE of Taltal, Chile",earthquake,4.05,3.154,0.086,13.0,reviewed,us,us
 2023-03-31T11:26:22.318Z,59.1647,-145.1426,5.5,2.3,ml,,,,0.17,ak,ak0234512mfr,2023-03-31T11:28:53.881Z,"157 km SSE of Cordova, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-03-31T11:06:24.810Z,18.0253333333333,-66.8783333333333,13.88,1.95,md,4.0,174.0,0.05002,0.03,pr,pr71402168,2023-03-31T11:28:20.140Z,"1 km NNW of Palomas, Puerto Rico",earthquake,4.41,1.57,0.0402949243351789,2.0,reviewed,pr,pr
+2023-03-30T20:39:11.706Z,31.57809717,-104.1792005,7.828295898,1.5,ml,22.0,67.0,0.04557851719,0.1,tx,tx2023ggjg,2023-03-31T11:46:22.659Z,"46 km NW of Toyah, Texas",earthquake,0.7192100872,0.7921823346,0.2,11.0,reviewed,tx,tx
