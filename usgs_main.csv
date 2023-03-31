@@ -8920,3 +8920,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T17:51:11.724Z,63.2124,-144.6454,7.0,1.5,ml,,,,0.5,ak,ak023454sk1e,2023-03-31T17:55:19.181Z,"49 km S of Dry Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-31T15:35:43.260Z,47.29333333333334,-119.93933333333334,-0.85,1.26,ml,9.0,110.0,0.2359,0.23,uw,uw61906102,2023-03-31T18:16:49.660Z,"9 km NW of Quincy, Washington",explosion,0.58,31.61,0.1560864538570776,3.0,reviewed,uw,uw
 2023-03-31T15:13:52.660Z,48.24816666666667,-121.67266666666669,10.48,1.4,ml,11.0,69.0,0.04608,0.25,uw,uw61906092,2023-03-31T18:23:26.310Z,"5 km W of Darrington, Washington",earthquake,0.45,1.06,0.1573147111530137,6.0,reviewed,uw,uw
+2023-03-31T13:13:55.760Z,46.8625,-121.77066666666668,2.32,0.18,ml,7.0,131.0,0.01923,0.15,uw,uw61906082,2023-03-31T18:27:42.400Z,"22 km ENE of Ashford, Washington",earthquake,0.5,1.03,0.1556784187794431,4.0,reviewed,uw,uw
