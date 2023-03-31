@@ -8796,3 +8796,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T05:52:37.520Z,19.4671669006348,-155.846832275391,8.02000045776367,1.83000004,md,19.0,126.0,,0.180000007,hv,hv73353262,2023-03-31T05:55:49.680Z,"2 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,1.02,0.680000007,0.910000026,3.0,automatic,hv,hv
 2023-03-31T05:52:20.183Z,27.0725,141.4644,73.692,5.4,mww,92.0,115.0,6.19,0.91,us,us6000k11q,2023-03-31T06:14:49.343Z,"Bonin Islands, Japan region",earthquake,11.14,6.811,0.066,22.0,reviewed,us,us
 2023-03-31T06:35:19.846Z,62.6423,-149.6588,4.3,2.1,ml,,,,0.72,ak,ak02344y5do0,2023-03-31T06:37:27.233Z,"31 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-31T06:44:11.434Z,61.8094,-151.5359,84.5,1.7,ml,,,,0.43,ak,ak02344y7agn,2023-03-31T06:46:03.677Z,"21 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-31T06:42:34.100Z,33.9456667,-118.3736667,10.39,1.88,ml,52.0,92.0,0.04584,0.31,ci,ci39507978,2023-03-31T06:47:25.384Z,"2km WNW of Lennox, CA",earthquake,0.4,0.69,0.299,27.0,automatic,ci,ci
