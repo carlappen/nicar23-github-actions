@@ -8837,3 +8837,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T22:30:21.880Z,38.7603333,-122.727,1.75,0.38,md,10.0,68.0,0.002093,0.02,nc,nc73864605,2023-03-31T10:36:43.337Z,"3km SE of The Geysers, CA",earthquake,0.37,0.54,0.303,6.0,reviewed,nc,nc
 2023-03-31T10:44:58.410Z,33.6313333,-116.6726667,13.99,0.32,ml,13.0,101.0,0.06556,0.09,ci,ci39508026,2023-03-31T10:48:37.569Z,"8km N of Anza, CA",earthquake,0.35,0.46,0.109,5.0,automatic,ci,ci
 2023-03-31T10:43:54.440Z,34.1228333,-116.4018333,2.07,1.01,ml,16.0,69.0,0.05429,0.21,ci,ci39508018,2023-03-31T10:48:01.788Z,"3km ENE of Yucca Valley, CA",earthquake,0.38,0.51,0.134,27.0,automatic,ci,ci
+2023-03-31T10:53:07.210Z,38.8349991,-122.8048325,-0.85,0.35,md,7.0,80.0,0.02072,0.17,nc,nc73864835,2023-03-31T10:54:46.375Z,"7km WNW of Cobb, CA",earthquake,0.48,5.09,0.2,8.0,automatic,nc,nc
+2023-03-31T10:48:07.016Z,36.8289,-115.9515,3.0,1.2,ml,27.0,71.11,0.031,0.1661,nn,nn00857713,2023-03-31T10:49:42.976Z,"38 km NW of Indian Springs, Nevada",earthquake,,0.5,0.85,18.0,automatic,nn,nn
