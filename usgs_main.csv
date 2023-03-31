@@ -8856,3 +8856,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T03:02:43.873Z,31.61558173,-104.122961,6.337231444999999,1.9,ml,17.0,53.0,0.03752268117,0.1,tx,tx2023ggvu,2023-03-31T12:20:35.742Z,"45 km NW of Toyah, Texas",earthquake,0.8099081003,1.28944386,0.2,22.0,reviewed,tx,tx
 2023-03-30T17:43:44.210Z,36.03466667,-98.16783333,5.8,1.68,ml,67.0,43.0,0.1349735136,0.22,ok,ok2023ggdj,2023-03-31T12:55:58.722Z,"8 km NNW of Loyal, Oklahoma",earthquake,,0.6,0.25,29.0,reviewed,ok,ok
 2023-03-30T13:46:59.899Z,35.23766667,-97.73316667,5.0,1.58,ml,47.0,46.0,0.01799646848,0.41,ok,ok2023gfvo,2023-03-31T12:48:10.169Z,"0 km NE of Bridge Creek, Oklahoma",earthquake,,0.8,0.24,25.0,reviewed,ok,ok
+2023-03-31T13:03:23.486Z,60.7607,-149.9903,33.5,1.6,ml,,,,0.79,ak,ak0234524k9o,2023-03-31T13:05:41.798Z,"25 km SW of Hope, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-03-31T08:47:22.856Z,-3.0728,147.387,10.0,4.5,mb,33.0,76.0,4.895,0.52,us,us6000k12k,2023-03-31T13:25:54.040Z,"115 km S of Lorengau, Papua New Guinea",earthquake,10.15,1.887,0.105,27.0,reviewed,us,us
+2023-03-31T05:45:04.688Z,34.4083,93.7828,30.755,4.1,mb,24.0,109.0,8.772,0.74,us,us6000k11p,2023-03-31T13:08:24.040Z,"Southern Qinghai, China",earthquake,11.32,6.625,0.145,13.0,reviewed,us,us
+2023-03-30T17:09:12.869Z,35.9175,-99.45933333,9.6,1.66,ml,24.0,155.0,0.1511703352,0.11,ok,ok2023ggcf,2023-03-31T13:08:35.756Z,"11 km WNW of Leedey, Oklahoma",earthquake,,2.1,0.26,17.0,reviewed,ok,ok
