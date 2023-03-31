@@ -8817,3 +8817,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T08:39:39.505Z,58.6893,-154.3016,11.3,1.2,ml,,,,0.34,ak,ak02344zd59a,2023-03-31T08:41:23.812Z,"87 km SSE of Kokhanok, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-03-31T08:28:35.177Z,-9.7454,115.1016,62.136,4.8,mb,44.0,120.0,1.576,0.53,us,us6000k12g,2023-03-31T08:48:39.115Z,"105 km S of Nusa Dua, Indonesia",earthquake,8.12,3.781,0.105,28.0,reviewed,us,us
 2023-03-31T08:27:30.510Z,-49.1167,124.984,10.0,4.8,mb,17.0,168.0,17.18,0.56,us,us6000k12h,2023-03-31T08:43:34.040Z,western Indian-Antarctic Ridge,earthquake,7.98,1.96,0.144,15.0,reviewed,us,us
+2023-03-31T09:15:13.430Z,38.8011665,-122.7699966,1.17,1.16,md,11.0,79.0,0.01612,0.02,nc,nc73864800,2023-03-31T09:16:51.372Z,"3km NNW of The Geysers, CA",earthquake,0.27,0.69,0.15,10.0,automatic,nc,nc
+2023-03-31T09:01:15.740Z,19.3778324127197,-154.986999511719,5.84000015258789,2.4,ml,31.0,166.0,,0.280000001,hv,hv73353357,2023-03-31T09:06:46.340Z,"12 km SW of Leilani Estates, Hawaii",earthquake,0.79,0.810000002,0.3,12.0,automatic,hv,hv
+2023-03-31T08:17:36.200Z,18.7761666666667,-67.3933333333333,11.45,3.41,md,12.0,214.0,0.398,0.3,pr,pr71402138,2023-03-31T09:10:59.500Z,"44 km NW of San Antonio, Puerto Rico",earthquake,1.13,0.93,0.0159824998497116,5.0,reviewed,pr,pr
