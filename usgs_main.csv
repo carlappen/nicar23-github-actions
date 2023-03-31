@@ -8908,3 +8908,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T16:43:28.330Z,17.936,-66.8493333333333,13.0,2.72,md,11.0,216.0,0.04817,0.15,pr,pr71402198,2023-03-31T17:09:45.730Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,1.01,0.47,0.0834738180454253,5.0,reviewed,pr,pr
 2023-03-31T15:53:38.040Z,37.5915,-118.8485,4.9,0.5,md,11.0,197.0,0.01547,0.03,nc,nc71130109,2023-03-31T17:00:11.367Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.62,0.94,0.226,11.0,reviewed,nc,nc
 2023-03-31T14:14:05.100Z,40.4478333,-123.9131667,19.13,1.8,md,28.0,71.0,0.06469,0.13,nc,nc73864900,2023-03-31T17:12:11.427Z,"17km ESE of Rio Dell, CA",earthquake,0.27,0.35,0.272,20.0,reviewed,nc,nc
+2023-03-31T17:37:31.930Z,36.4075012,-120.9865036,8.95,2.19,md,29.0,73.0,0.07481,0.09,nc,nc73865030,2023-03-31T17:42:29.132Z,"20km SE of Pinnacles, CA",earthquake,0.28,0.6,0.16,30.0,automatic,nc,nc
