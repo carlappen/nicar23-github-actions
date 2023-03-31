@@ -8787,3 +8787,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T05:36:59.518Z,60.8334,-152.2401,90.6,1.7,ml,,,,0.28,ak,ak02344xk8u7,2023-03-31T05:38:51.149Z,Southern Alaska,earthquake,,0.8,,,automatic,ak,ak
 2023-03-31T05:35:24.760Z,34.2543333,-118.6156667,4.33,1.67,ml,37.0,45.0,0.04879,0.27,ci,ci39507962,2023-03-31T05:39:13.906Z,"1km WSW of Chatsworth, CA",earthquake,0.35,0.73,0.164,28.0,automatic,ci,ci
 2023-03-30T22:52:20.657Z,61.9078,-147.5181,43.5,1.0,ml,,,,0.39,ak,ak02343k8krp,2023-03-31T05:43:27.293Z,"13 km NNE of Glacier View, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2023-03-31T06:24:57.336Z,62.1303,-152.9065,0.0,1.8,ml,,,,0.61,ak,ak02344y33ol,2023-03-31T06:27:14.220Z,"80 km W of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-31T06:11:01.780Z,38.8251648,-122.80233,2.76,1.76,md,21.0,50.0,0.01803,0.02,nc,nc73864765,2023-03-31T06:24:10.764Z,"7km NW of The Geysers, CA",earthquake,0.2,0.41,0.15,22.0,automatic,nc,nc
+2023-03-31T06:00:34.820Z,33.6923333,-116.7291667,15.59,0.52,ml,17.0,118.0,0.02257,0.1,ci,ci39507970,2023-03-31T06:04:12.317Z,"5km S of Idyllwild, CA",earthquake,0.49,0.34,0.126,10.0,automatic,ci,ci
+2023-03-31T06:00:22.234Z,60.1995,-152.4584,82.2,1.7,ml,,,,0.45,ak,ak02344xxvsf,2023-03-31T06:01:56.723Z,"46 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-31T05:59:21.730Z,38.836834,-122.7938309,1.95,0.7,md,9.0,75.0,0.01478,0.01,nc,nc73864760,2023-03-31T06:12:11.693Z,"6km WNW of Cobb, CA",earthquake,0.37,0.64,0.08,9.0,automatic,nc,nc
+2023-03-31T05:55:13.493Z,63.0856,-147.9237,8.6,1.3,ml,,,,0.45,ak,ak02344xo7w5,2023-03-31T05:56:59.562Z,"61 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-31T05:52:37.520Z,19.4671669006348,-155.846832275391,8.02000045776367,1.83000004,md,19.0,126.0,,0.180000007,hv,hv73353262,2023-03-31T05:55:49.680Z,"2 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,1.02,0.680000007,0.910000026,3.0,automatic,hv,hv
+2023-03-31T05:52:20.183Z,27.0725,141.4644,73.692,5.4,mww,92.0,115.0,6.19,0.91,us,us6000k11q,2023-03-31T06:14:49.343Z,"Bonin Islands, Japan region",earthquake,11.14,6.811,0.066,22.0,reviewed,us,us
