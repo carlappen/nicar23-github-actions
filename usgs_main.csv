@@ -8942,3 +8942,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T19:31:48.860Z,33.7103348,-117.4138336,1.23,1.64,ml,30.0,118.0,0.1099,0.46,ci,ci39508226,2023-03-31T19:33:56.362Z,"9km WNW of Lake Elsinore, CA",earthquake,0.97,2.25,0.298,11.0,automatic,ci,ci
 2023-03-31T19:29:55.750Z,32.5975,-116.9908333,2.18,1.38,ml,18.0,247.0,0.05219,0.24,ci,ci39508210,2023-03-31T19:33:33.660Z,"6km ESE of Chula Vista, CA",quarry blast,1.9,0.72,0.154,12.0,automatic,ci,ci
 2023-03-31T17:55:40.927Z,-7.984,120.7193,22.505,4.9,mb,108.0,52.0,1.636,0.62,us,us6000k16s,2023-03-31T19:31:04.040Z,"74 km NNE of Ruteng, Indonesia",earthquake,4.78,4.7,0.061,93.0,reviewed,us,us
+2023-03-31T19:29:12.030Z,17.9566666666667,-66.954,8.97,2.32,md,5.0,204.0,0.07346,0.06,pr,pr71402218,2023-03-31T19:41:57.180Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.68,0.78,0.0790918356098778,3.0,reviewed,pr,pr
+2023-03-31T18:26:41.097Z,11.8701,93.7364,128.366,4.2,mb,36.0,87.0,0.995,0.4,us,us6000k16v,2023-03-31T19:41:14.040Z,"110 km ENE of Port Blair, India",earthquake,8.09,7.12,0.112,25.0,reviewed,us,us
