@@ -8801,3 +8801,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T07:04:50.647Z,62.15,-150.5604,8.3,1.4,ml,,,,0.43,ak,ak02344yk8g8,2023-03-31T07:06:51.110Z,"25 km SW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-31T06:56:59.840Z,35.7406667,-117.5906667,12.94,0.81,ml,13.0,157.0,0.1387,0.18,ci,ci39507986,2023-03-31T07:00:36.533Z,"15km NNE of Ridgecrest, CA",earthquake,0.62,1.24,0.148,6.0,automatic,ci,ci
 2023-03-31T06:53:14.560Z,38.7874985,-122.7655029,1.95,1.31,md,20.0,79.0,0.01841,0.03,nc,nc73864785,2023-03-31T07:07:10.994Z,"1km NW of The Geysers, CA",earthquake,0.25,0.45,0.18,18.0,automatic,nc,nc
+2023-03-31T06:32:38.710Z,19.1268,-63.9228,28.0,3.58,md,9.0,334.0,1.2915,0.22,pr,pr2023090000,2023-03-31T07:22:53.663Z,"127 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,2.77,18.8,0.04,5.0,reviewed,pr,pr
+2023-03-30T18:10:12.869Z,31.56101265,-104.0941359,6.491479492,2.2,ml,25.0,63.0,0.03011863678,0.1,tx,tx2023ggeg,2023-03-31T07:23:55.905Z,"39 km NW of Toyah, Texas",earthquake,0.8817557891,0.8676948168,0.1,24.0,reviewed,tx,tx
