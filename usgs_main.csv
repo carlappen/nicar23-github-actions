@@ -9018,3 +9018,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T02:59:11.910Z,38.7556648,-122.6998367,0.22,1.29,md,9.0,130.0,0.0125,0.04,nc,nc73865265,2023-04-01T03:15:12.205Z,"2km SSW of Anderson Springs, CA",earthquake,0.74,0.51,0.1,9.0,automatic,nc,nc
 2023-03-31T18:54:56.240Z,51.8526666666667,-178.101166666667,5.62,2.72,ml,7.0,131.0,,0.27,av,av91828116,2023-04-01T03:09:22.630Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.92,1.03,0.195901340587008,7.0,reviewed,av,av
 2023-04-01T03:27:03.413Z,64.4863,-146.9511,5.1,1.7,ml,,,,0.73,ak,ak02346juocl,2023-04-01T03:28:49.794Z,"4 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-01T03:16:21.024Z,-2.7038,138.9651,36.212,4.2,mb,16.0,200.0,6.712,0.58,us,us6000k1ac,2023-04-01T03:44:49.040Z,"185 km W of Abepura, Indonesia",earthquake,13.6,7.561,0.159,11.0,reviewed,us,us
