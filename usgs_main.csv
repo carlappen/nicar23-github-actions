@@ -9055,3 +9055,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T06:46:25.265Z,63.0319,-151.6756,4.1,2.0,ml,,,,0.82,ak,ak02346lr3ge,2023-04-01T06:49:21.145Z,"56 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-01T07:07:35.230Z,38.8230019,-122.7661667,1.95,1.22,md,11.0,118.0,0.008012,0.01,nc,nc73865365,2023-04-01T07:09:12.279Z,"4km W of Cobb, CA",earthquake,0.3,0.52,0.18,13.0,automatic,nc,nc
 2023-04-01T07:03:36.230Z,38.8650017,-122.7965012,1.41,1.02,md,10.0,159.0,0.01014,0.03,nc,nc73865360,2023-04-01T07:05:11.170Z,"8km NW of Cobb, CA",earthquake,0.39,0.51,0.06,10.0,automatic,nc,nc
+2023-04-01T07:19:34.765Z,60.6722,-151.3014,48.5,1.4,ml,,,,0.55,ak,ak02346m6rgk,2023-04-01T07:21:33.396Z,"2 km SSW of Nikiski, Alaska",earthquake,,1.8,,,automatic,ak,ak
