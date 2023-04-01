@@ -9033,3 +9033,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T02:32:07.700Z,35.9448333,-120.4946667,3.93,-0.11,md,12.0,101.0,0.01169,0.04,nc,nc73865255,2023-04-01T04:37:47.943Z,"8km NW of Parkfield, CA",earthquake,0.28,0.46,0.139,3.0,reviewed,nc,nc
 2023-04-01T04:39:48.850Z,38.8231659,-122.8098297,2.0,0.7,md,8.0,89.0,0.01895,0.01,nc,nc73865290,2023-04-01T04:41:27.489Z,"7km NW of The Geysers, CA",earthquake,0.37,1.92,0.34,9.0,automatic,nc,nc
 2023-04-01T04:50:35.680Z,38.7883339,-122.74617,1.01,1.04,md,10.0,85.0,0.008966,0.02,nc,nc73865305,2023-04-01T04:52:12.537Z,"2km NE of The Geysers, CA",earthquake,0.34,1.22,0.31,10.0,automatic,nc,nc
+2023-04-01T05:20:25.138Z,63.675,-149.8515,138.0,1.9,ml,,,,0.36,ak,ak02346l03m9,2023-04-01T05:22:08.246Z,"46 km W of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-01T05:14:38.830Z,38.8343315,-122.7931671,7.18,0.94,md,7.0,106.0,0.01548,0.01,nc,nc73865315,2023-04-01T05:16:19.022Z,"6km WNW of Cobb, CA",earthquake,0.94,1.18,0.23,6.0,automatic,nc,nc
+2023-04-01T05:00:35.610Z,33.3945,-116.9023333,12.34,0.49,ml,14.0,144.0,0.1986,0.21,ci,ci39508522,2023-04-01T05:04:06.220Z,"6km NW of Palomar Observatory, CA",earthquake,0.77,2.91,0.126,10.0,automatic,ci,ci
