@@ -9178,3 +9178,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T21:50:21.510Z,33.1291656,-116.3608322,21.28,1.26,ml,15.0,190.0,0.2502,0.16,ci,ci39508834,2023-04-01T21:52:26.305Z,"14km S of Borrego Springs, CA",earthquake,1.21,3.05,0.297,9.0,automatic,ci,ci
 2023-04-01T22:19:29.145Z,65.0221,-148.8174,19.4,0.9,ml,,,,0.38,ak,ak02346v493m,2023-04-01T22:20:42.366Z,"28 km ESE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-01T21:58:12.490Z,38.8653336,-122.7968369,1.47,1.03,md,12.0,159.0,0.01046,0.03,nc,nc73865590,2023-04-01T22:15:12.522Z,"8km NW of Cobb, CA",earthquake,0.42,0.42,0.09,13.0,automatic,nc,nc
+2023-04-01T21:54:52.784Z,26.7802,102.9002,17.036,4.6,mb,46.0,54.0,5.508,0.63,us,us6000k1eq,2023-04-01T22:24:43.040Z,"100 km SW of Zhaotong, China",earthquake,8.33,4.799,0.069,63.0,reviewed,us,us
