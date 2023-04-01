@@ -9051,3 +9051,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T14:07:15.785Z,-22.6839,-66.3582,256.292,4.2,mb,28.0,138.0,1.701,0.7,us,us6000k15n,2023-04-01T06:34:00.040Z,"68 km W of Abra Pampa, Argentina",earthquake,9.56,10.009,0.216,6.0,reviewed,us,us
 2023-04-01T06:40:13.690Z,32.0456667,-116.3335,19.44,2.32,ml,18.0,68.0,0.33,0.16,ci,ci39508554,2023-04-01T06:43:54.011Z,"33km NE of Ensenada, B.C., MX",earthquake,0.37,1.87,0.204,26.0,automatic,ci,ci
 2023-04-01T06:38:45.389Z,59.5209,-151.0122,49.7,2.2,ml,,,,0.53,ak,ak02346lpfa2,2023-04-01T06:40:27.576Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-01T06:49:57.200Z,33.0611667,-116.4731667,15.47,1.06,ml,27.0,55.0,0.1034,0.2,ci,ci39508562,2023-04-01T06:53:32.747Z,"12km E of Julian, CA",earthquake,0.28,0.74,0.207,26.0,automatic,ci,ci
+2023-04-01T06:46:25.265Z,63.0319,-151.6756,4.1,2.0,ml,,,,0.82,ak,ak02346lr3ge,2023-04-01T06:49:21.145Z,"56 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
