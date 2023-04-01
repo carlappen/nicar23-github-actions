@@ -9090,3 +9090,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T10:49:03.560Z,38.7879982,-122.7748337,0.02,1.32,md,14.0,83.0,0.01146,0.04,nc,nc73865445,2023-04-01T10:50:43.025Z,"2km NW of The Geysers, CA",earthquake,0.25,0.54,0.2,11.0,automatic,nc,nc
 2023-04-01T10:47:40.460Z,38.8363342,-122.8083344,2.16,1.27,md,11.0,58.0,0.02046,0.01,nc,nc73865440,2023-04-01T10:49:17.871Z,"8km WNW of Cobb, CA",earthquake,0.34,0.83,0.18,12.0,automatic,nc,nc
 2023-04-01T10:36:09.444Z,-20.3957,169.4023,87.667,4.9,mb,51.0,62.0,2.861,0.84,us,us6000k1c0,2023-04-01T10:55:15.040Z,"95 km S of Isangel, Vanuatu",earthquake,9.31,7.132,0.063,82.0,reviewed,us,us
+2023-04-01T11:13:35.090Z,32.311,-115.3195,1.09,1.6,ml,12.0,87.0,0.142,0.26,ci,ci39508626,2023-04-01T11:17:13.537Z,"13km WSW of Delta, B.C., MX",earthquake,0.6,31.61,0.259,16.0,automatic,ci,ci
