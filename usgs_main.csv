@@ -9027,3 +9027,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T04:02:38.937Z,56.6547,-154.5538,0.8,2.4,ml,,,,0.76,ak,ak02346kaupm,2023-04-01T04:16:15.040Z,"39 km SW of Akhiok, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-01T03:11:46.930Z,38.823,-122.821,2.47,0.43,md,4.0,198.0,0.01924,0.01,nc,nc73865270,2023-04-01T04:27:11.610Z,"8km NW of The Geysers, CA",earthquake,1.06,1.56,0.058,4.0,reviewed,nc,nc
 2023-04-01T01:01:03.360Z,38.9876667,-123.3136667,5.7,1.16,md,12.0,64.0,0.02719,0.07,nc,nc73865210,2023-04-01T04:20:12.574Z,"5km ESE of Boonville, CA",earthquake,0.25,0.38,0.242,12.0,reviewed,nc,nc
+2023-04-01T04:32:34.150Z,36.8025017,-121.3219986,9.27,2.78,md,52.0,48.0,0.09688,0.13,nc,nc73865285,2023-04-01T04:36:08.530Z,"1km N of Tres Pinos, CA",earthquake,0.21,0.51,0.1,71.0,automatic,nc,nc
+2023-04-01T04:29:01.391Z,62.2607,-150.9954,77.4,1.2,ml,,,,0.27,ak,ak02346kgj8b,2023-04-01T04:30:55.356Z,Central Alaska,earthquake,,0.7,,,automatic,ak,ak
+2023-04-01T04:23:10.620Z,17.9516666666667,-66.8775,15.31,2.09,md,8.0,207.0,0.02332,0.09,pr,pr71402238,2023-04-01T04:36:49.120Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,0.5,0.55,0.0594733827743629,4.0,reviewed,pr,pr
+2023-04-01T02:32:07.700Z,35.9448333,-120.4946667,3.93,-0.11,md,12.0,101.0,0.01169,0.04,nc,nc73865255,2023-04-01T04:37:47.943Z,"8km NW of Parkfield, CA",earthquake,0.28,0.46,0.139,3.0,reviewed,nc,nc
