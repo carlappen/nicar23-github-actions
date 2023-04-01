@@ -9049,3 +9049,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T05:42:20.456Z,27.7012,86.1877,10.0,4.6,mb,60.0,102.0,0.811,0.89,us,us6000k1b0,2023-04-01T06:27:54.343Z,Nepal,earthquake,5.31,1.905,0.07,61.0,reviewed,us,us
 2023-03-31T12:58:53.920Z,37.531,-121.9078333,8.98,0.78,md,24.0,42.0,0.01856,0.05,nc,nc73864870,2023-04-01T06:22:11.808Z,"7km ESE of Fremont, CA",earthquake,0.24,0.48,0.273,12.0,reviewed,nc,nc
 2023-03-31T14:07:15.785Z,-22.6839,-66.3582,256.292,4.2,mb,28.0,138.0,1.701,0.7,us,us6000k15n,2023-04-01T06:34:00.040Z,"68 km W of Abra Pampa, Argentina",earthquake,9.56,10.009,0.216,6.0,reviewed,us,us
+2023-04-01T06:40:13.690Z,32.0456667,-116.3335,19.44,2.32,ml,18.0,68.0,0.33,0.16,ci,ci39508554,2023-04-01T06:43:54.011Z,"33km NE of Ensenada, B.C., MX",earthquake,0.37,1.87,0.204,26.0,automatic,ci,ci
+2023-04-01T06:38:45.389Z,59.5209,-151.0122,49.7,2.2,ml,,,,0.53,ak,ak02346lpfa2,2023-04-01T06:40:27.576Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
