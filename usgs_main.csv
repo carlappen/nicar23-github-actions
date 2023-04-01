@@ -9084,3 +9084,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T09:47:54.390Z,33.4865,-116.4785,14.36,0.77,ml,16.0,109.0,0.05745,0.2,ci,ci39508602,2023-04-01T09:51:26.895Z,"20km ESE of Anza, CA",earthquake,0.86,0.94,0.112,18.0,automatic,ci,ci
 2023-04-01T09:41:12.330Z,38.2794,138.7922,17.732,5.0,mb,111.0,62.0,1.793,0.64,us,us6000k1bu,2023-04-01T10:06:42.040Z,"38 km NE of Ryōtsu-minato, Japan",earthquake,6.2,3.456,0.029,374.0,reviewed,us,us
 2023-04-01T09:32:56.433Z,-16.6773,-69.7533,180.804,4.5,mb,37.0,104.0,0.944,0.87,us,us6000k1bt,2023-04-01T09:55:04.040Z,"8 km NNW of Mazo Cruz, Peru",earthquake,7.45,6.444,0.156,13.0,reviewed,us,us
+2023-04-01T10:14:33.795Z,17.972,-66.8197,10.0,2.6,ml,11.0,191.0,0.214,0.55,us,us6000k1by,2023-04-01T10:29:03.040Z,"2 km S of Indios, Puerto Rico",earthquake,1.17,1.873,0.071,26.0,reviewed,us,us
