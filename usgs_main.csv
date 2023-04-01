@@ -9089,3 +9089,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T23:30:13.267Z,31.61607162,-104.1159701,6.491479492,2.0,ml,18.0,53.0,0.03884991946,0.1,tx,tx2023gikh,2023-04-01T10:39:08.038Z,"45 km NW of Toyah, Texas",earthquake,0.706107663,0.5840179043,0.2,19.0,reviewed,tx,tx
 2023-04-01T10:49:03.560Z,38.7879982,-122.7748337,0.02,1.32,md,14.0,83.0,0.01146,0.04,nc,nc73865445,2023-04-01T10:50:43.025Z,"2km NW of The Geysers, CA",earthquake,0.25,0.54,0.2,11.0,automatic,nc,nc
 2023-04-01T10:47:40.460Z,38.8363342,-122.8083344,2.16,1.27,md,11.0,58.0,0.02046,0.01,nc,nc73865440,2023-04-01T10:49:17.871Z,"8km WNW of Cobb, CA",earthquake,0.34,0.83,0.18,12.0,automatic,nc,nc
+2023-04-01T10:36:09.444Z,-20.3957,169.4023,87.667,4.9,mb,51.0,62.0,2.861,0.84,us,us6000k1c0,2023-04-01T10:55:15.040Z,"95 km S of Isangel, Vanuatu",earthquake,9.31,7.132,0.063,82.0,reviewed,us,us
