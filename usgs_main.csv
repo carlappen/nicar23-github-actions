@@ -9111,3 +9111,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T19:58:21.898Z,31.38287176,-103.5242819,5.514575195,2.2,ml,24.0,34.0,0.0246557759,0.3,tx,tx2023gidh,2023-04-01T12:00:16.740Z,"1 km NE of Lindsay, Texas",earthquake,0.9669578694,1.285443133,0.2,17.0,reviewed,tx,tx
 2023-04-01T13:05:34.550Z,38.866333,-122.7959976,1.7,1.33,md,16.0,98.0,0.01149,0.02,nc,nc73865455,2023-04-01T13:18:11.283Z,"8km NW of Cobb, CA",earthquake,0.38,0.3,0.13,17.0,automatic,nc,nc
 2023-04-01T12:34:36.839Z,36.0453,35.8115,10.0,4.3,mb,44.0,65.0,1.591,0.46,us,us6000k1cg,2023-04-01T13:02:37.040Z,"22 km WSW of Uzunbağ, Turkey",earthquake,5.49,1.913,0.122,22.0,reviewed,us,us
+2023-04-01T13:36:07.246Z,60.0184,-152.9845,113.2,2.0,ml,,,,0.24,ak,ak02346puy50,2023-04-01T13:37:54.800Z,Southern Alaska,earthquake,,0.5,,,automatic,ak,ak
