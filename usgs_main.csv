@@ -9150,3 +9150,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T18:11:20.980Z,-12.9313,169.3352,648.297,4.9,mb,133.0,25.0,8.987,0.7,us,us6000k1dq,2023-04-01T18:31:03.040Z,"219 km ENE of Sola, Vanuatu",earthquake,10.75,7.082,0.03,351.0,reviewed,us,us
 2023-04-01T18:35:15.017Z,62.8949,-150.3026,86.0,2.5,ml,,,,0.48,ak,ak02346stx0r,2023-04-01T18:37:24.914Z,Central Alaska,earthquake,,0.7,,,automatic,ak,ak
 2023-04-01T17:03:30.162Z,51.9765,-166.9138,40.0,2.1,ml,,,,0.26,ak,ak02346s1osz,2023-04-01T18:46:37.762Z,south of the Aleutian Islands,earthquake,,0.0,,,reviewed,ak,ak
+2023-04-01T18:23:31.247Z,53.2682,-168.2482,8.7,1.4,ml,,,,0.25,ak,ak02346srca4,2023-04-01T18:55:47.384Z,"55 km NE of Nikolski, Alaska",earthquake,,0.7,,,reviewed,ak,ak
