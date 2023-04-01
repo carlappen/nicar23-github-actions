@@ -9015,3 +9015,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T17:35:03.020Z,37.0523333,-121.4946667,6.1,0.78,md,17.0,123.0,0.02802,0.1,nc,nc73865025,2023-04-01T01:13:12.482Z,"8km NE of Gilroy, CA",earthquake,0.36,0.55,0.126,16.0,reviewed,nc,nc
 2023-03-31T13:35:28.160Z,38.8366667,-122.801,2.1,0.41,md,13.0,63.0,0.01841,0.02,nc,nc73864875,2023-04-01T01:25:11.553Z,"7km WNW of Cobb, CA",earthquake,0.24,0.63,0.083,12.0,reviewed,nc,nc
 2023-04-01T02:47:36.940Z,33.1891667,-115.9976667,7.21,0.85,ml,16.0,62.0,0.02288,0.27,ci,ci39508434,2023-04-01T02:51:19.238Z,"13km SSW of Salton City, CA",earthquake,0.57,0.92,0.082,9.0,automatic,ci,ci
+2023-04-01T02:59:11.910Z,38.7556648,-122.6998367,0.22,1.29,md,9.0,130.0,0.0125,0.04,nc,nc73865265,2023-04-01T03:15:12.205Z,"2km SSW of Anderson Springs, CA",earthquake,0.74,0.51,0.1,9.0,automatic,nc,nc
+2023-03-31T18:54:56.240Z,51.8526666666667,-178.101166666667,5.62,2.72,ml,7.0,131.0,,0.27,av,av91828116,2023-04-01T03:09:22.630Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.92,1.03,0.195901340587008,7.0,reviewed,av,av
