@@ -9113,3 +9113,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T12:34:36.839Z,36.0453,35.8115,10.0,4.3,mb,44.0,65.0,1.591,0.46,us,us6000k1cg,2023-04-01T13:02:37.040Z,"22 km WSW of Uzunbağ, Turkey",earthquake,5.49,1.913,0.122,22.0,reviewed,us,us
 2023-04-01T13:36:07.246Z,60.0184,-152.9845,113.2,2.0,ml,,,,0.24,ak,ak02346puy50,2023-04-01T13:37:54.800Z,Southern Alaska,earthquake,,0.5,,,automatic,ak,ak
 2023-04-01T13:40:36.540Z,64.8859,-148.211,0.1,1.5,ml,,,,1.09,ak,ak02346pvv9i,2023-04-01T13:42:44.647Z,"10 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-01T14:12:50.610Z,33.9843333,-116.7851667,16.53,1.01,ml,33.0,66.0,0.1261,0.19,ci,ci39508690,2023-04-01T14:16:34.307Z,"7km N of Cabazon, CA",earthquake,0.31,0.85,0.164,27.0,automatic,ci,ci
+2023-04-01T14:04:49.649Z,59.3387,-153.706,123.8,2.1,ml,,,,0.22,ak,ak02346q9m3o,2023-04-01T14:07:01.984Z,"50 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-01T13:55:36.022Z,61.3583,-150.1236,32.4,1.5,ml,,,,0.53,ak,ak02346pz2yq,2023-04-01T13:57:23.918Z,"7 km W of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
