@@ -9156,3 +9156,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T19:00:32.570Z,35.8518333,-117.6815,10.65,0.91,ml,11.0,128.0,0.08035,0.16,ci,ci39508794,2023-04-01T19:04:34.811Z,"22km ESE of Little Lake, CA",earthquake,0.56,0.73,0.158,5.0,automatic,ci,ci
 2023-04-01T18:57:19.119Z,60.9164,-151.2014,57.7,1.4,ml,,,,0.65,ak,ak02346syn47,2023-04-01T18:59:11.391Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-01T16:14:42.280Z,46.25966666666667,-122.04466666666669,9.9,1.16,ml,31.0,89.0,0.09684,0.17,uw,uw61915346,2023-04-01T19:16:15.750Z,"37 km SSE of Morton, Washington",earthquake,0.3,0.82,0.2079698100788517,18.0,reviewed,uw,uw
+2023-04-01T19:33:07.860Z,61.0314,-152.278,106.0,1.8,ml,,,,0.31,ak,ak02346tewo2,2023-04-01T19:34:58.813Z,"61 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
