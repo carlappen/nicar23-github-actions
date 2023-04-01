@@ -9175,3 +9175,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T19:56:24.132Z,27.9319,54.3847,10.0,4.1,mb,22.0,57.0,3.392,0.83,us,us6000k1ec,2023-04-01T21:16:27.040Z,"38 km NE of Gerāsh, Iran",earthquake,9.76,1.896,0.165,10.0,reviewed,us,us
 2023-04-01T08:20:19.100Z,51.8516666666667,-178.065,2.64,2.33,ml,6.0,122.0,,0.16,av,av91828941,2023-04-01T21:22:27.100Z,"98 km W of Adak, Alaska",earthquake,0.48,0.65,0.329716680114984,6.0,reviewed,av,av
 2023-04-01T08:11:57.550Z,51.848,-178.082166666667,3.57,2.93,ml,6.0,130.0,,0.15,av,av91828931,2023-04-01T21:19:07.150Z,"99 km W of Adak, Alaska",earthquake,0.74,0.37,0.217821339349455,6.0,reviewed,av,av
+2023-04-01T21:50:21.510Z,33.1291656,-116.3608322,21.28,1.26,ml,15.0,190.0,0.2502,0.16,ci,ci39508834,2023-04-01T21:52:26.305Z,"14km S of Borrego Springs, CA",earthquake,1.21,3.05,0.297,9.0,automatic,ci,ci
