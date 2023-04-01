@@ -9141,3 +9141,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T17:02:46.960Z,37.7560005,-122.1451645,7.43,2.23,md,51.0,32.0,0.03545,0.13,nc,nc73865520,2023-04-01T17:11:14.793Z,"4km NNE of San Leandro, CA",earthquake,0.19,0.37,0.17,46.0,automatic,nc,nc
 2023-03-31T20:53:40.682Z,14.5857,56.2063,10.0,4.4,mb,41.0,112.0,10.306,0.55,us,us6000k187,2023-04-01T17:15:09.040Z,Owen Fracture Zone region,earthquake,8.54,1.938,0.099,29.0,reviewed,us,us
 2023-04-01T17:19:25.740Z,33.017,-116.373,6.39,0.92,ml,13.0,107.0,0.05506,0.2,ci,ci39508778,2023-04-01T17:23:03.864Z,"22km ESE of Julian, CA",earthquake,0.39,0.75,0.091,14.0,automatic,ci,ci
+2023-04-01T17:30:56.060Z,19.3279991149902,-155.186660766602,4.3899998664856,3.21,ml,33.0,91.0,,0.180000007,hv,hv73354287,2023-04-01T17:36:26.440Z,"13 km SSE of Volcano, Hawaii",earthquake,0.4,2.07999992,1.92,24.0,automatic,hv,hv
