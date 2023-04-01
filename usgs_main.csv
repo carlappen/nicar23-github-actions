@@ -9032,3 +9032,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T04:23:10.620Z,17.9516666666667,-66.8775,15.31,2.09,md,8.0,207.0,0.02332,0.09,pr,pr71402238,2023-04-01T04:36:49.120Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,0.5,0.55,0.0594733827743629,4.0,reviewed,pr,pr
 2023-04-01T02:32:07.700Z,35.9448333,-120.4946667,3.93,-0.11,md,12.0,101.0,0.01169,0.04,nc,nc73865255,2023-04-01T04:37:47.943Z,"8km NW of Parkfield, CA",earthquake,0.28,0.46,0.139,3.0,reviewed,nc,nc
 2023-04-01T04:39:48.850Z,38.8231659,-122.8098297,2.0,0.7,md,8.0,89.0,0.01895,0.01,nc,nc73865290,2023-04-01T04:41:27.489Z,"7km NW of The Geysers, CA",earthquake,0.37,1.92,0.34,9.0,automatic,nc,nc
+2023-04-01T04:50:35.680Z,38.7883339,-122.74617,1.01,1.04,md,10.0,85.0,0.008966,0.02,nc,nc73865305,2023-04-01T04:52:12.537Z,"2km NE of The Geysers, CA",earthquake,0.34,1.22,0.31,10.0,automatic,nc,nc
