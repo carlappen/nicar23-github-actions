@@ -9039,3 +9039,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T05:29:12.720Z,38.8313332,-122.802002,2.03,0.27,md,7.0,86.0,0.0238,0.01,nc,nc73865320,2023-04-01T05:30:47.147Z,"7km W of Cobb, CA",earthquake,0.41,2.89,0.15,7.0,automatic,nc,nc
 2023-04-01T05:37:59.350Z,35.5035,-118.3825,5.09,2.57,ml,37.0,31.0,0.1756,0.19,ci,ci39508538,2023-04-01T05:41:42.315Z,"14km SE of Bodfish, CA",earthquake,0.23,1.84,0.244,25.0,automatic,ci,ci
 2023-04-01T05:35:36.290Z,33.3866667,-116.8983333,13.3,1.09,ml,41.0,32.0,0.1117,0.2,ci,ci39508530,2023-04-01T05:39:10.722Z,"5km NW of Palomar Observatory, CA",earthquake,0.24,0.8,0.197,27.0,automatic,ci,ci
+2023-04-01T05:49:33.770Z,60.3768,-152.3893,93.5,1.7,ml,,,,0.27,ak,ak02346l6bnl,2023-04-01T05:52:03.263Z,Southern Alaska,earthquake,,1.4,,,automatic,ak,ak
+2023-04-01T05:47:55.920Z,35.9811668,-120.9690018,11.31,0.71,md,7.0,110.0,0.07798,0.07,nc,nc73865340,2023-04-01T05:49:31.793Z,"7km SW of San Ardo, CA",earthquake,0.61,1.1,0.27,2.0,automatic,nc,nc
