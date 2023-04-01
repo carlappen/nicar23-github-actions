@@ -9067,3 +9067,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T08:12:23.480Z,33.3885,-116.9061667,14.44,1.05,ml,39.0,33.0,0.1051,0.17,ci,ci39508578,2023-04-01T08:16:04.297Z,"5km NW of Palomar Observatory, CA",earthquake,0.21,0.64,0.147,24.0,automatic,ci,ci
 2023-04-01T08:11:54.420Z,33.3885,-116.901,11.3,0.75,ml,29.0,33.0,0.1495,0.15,ci,ci39508570,2023-04-01T08:15:35.730Z,"5km NW of Palomar Observatory, CA",earthquake,0.23,1.09,0.168,20.0,automatic,ci,ci
 2023-04-01T08:09:10.070Z,38.8380013,-122.80867,2.17,1.14,md,15.0,57.0,0.01909,0.01,nc,nc73865390,2023-04-01T08:21:11.495Z,"8km WNW of Cobb, CA",earthquake,0.26,0.51,0.13,16.0,automatic,nc,nc
+2023-04-01T08:38:19.366Z,63.1061,-144.3718,1.2,1.7,ml,,,,0.86,ak,ak02346mw8hc,2023-04-01T08:40:19.048Z,"36 km NW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-01T08:35:59.800Z,34.515,-116.2495,1.9,0.83,ml,13.0,79.0,0.186,0.13,ci,ci39508594,2023-04-01T08:39:31.917Z,"24km SSW of Ludlow, CA",earthquake,0.32,1.29,0.099,6.0,automatic,ci,ci
