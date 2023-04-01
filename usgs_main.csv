@@ -9118,3 +9118,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T13:55:36.022Z,61.3583,-150.1236,32.4,1.5,ml,,,,0.53,ak,ak02346pz2yq,2023-04-01T13:57:23.918Z,"7 km W of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-01T14:38:23.060Z,61.013,-147.1463,12.0,1.6,ml,,,,1.01,ak,ak02346qguea,2023-04-01T14:40:48.595Z,"30 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-01T13:39:27.885Z,0.8134,126.2041,47.495,4.5,mb,22.0,57.0,1.163,0.87,us,us6000k1cv,2023-04-01T14:45:50.040Z,Molucca Sea,earthquake,7.27,8.032,0.131,17.0,reviewed,us,us
+2023-04-01T15:10:15.407Z,60.2419,-149.8529,29.1,1.9,ml,,,,0.44,ak,ak02346qw9d0,2023-04-01T15:13:11.350Z,"26 km WNW of Bear Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-01T15:04:20.370Z,33.5878333,-116.7603333,11.36,0.67,ml,16.0,119.0,0.0295,0.29,ci,ci39508706,2023-04-01T15:08:01.540Z,"9km WNW of Anza, CA",earthquake,0.76,1.59,0.108,15.0,automatic,ci,ci
+2023-04-01T14:59:25.710Z,33.9226667,-116.794,16.22,1.01,ml,35.0,48.0,0.08889,0.2,ci,ci39508698,2023-04-01T15:03:09.905Z,"1km NW of Cabazon, CA",earthquake,0.32,0.71,0.155,27.0,automatic,ci,ci
