@@ -9260,3 +9260,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T08:40:18.033Z,60.1739,-153.2564,147.9,0.7,ml,,,,0.3,ak,ak02348ag0h5,2023-04-02T08:41:43.690Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
 2023-04-02T07:48:07.430Z,36.6991667,-121.3415,4.18,0.98,md,23.0,141.0,0.009205,0.08,nc,nc73865735,2023-04-02T08:45:36.510Z,"10km S of Tres Pinos, CA",earthquake,0.27,0.39,0.217,21.0,reviewed,nc,nc
 2023-04-02T05:31:07.470Z,37.5805,-119.0805,1.46,0.29,md,9.0,273.0,0.05169,0.06,nc,nc73865700,2023-04-02T08:41:05.366Z,"11km SW of Mammoth Lakes, CA",earthquake,0.85,2.12,0.239,9.0,reviewed,nc,nc
+2023-04-02T08:48:58.790Z,38.8661652,-122.7971649,1.72,1.02,md,13.0,161.0,0.01129,0.03,nc,nc73865770,2023-04-02T08:50:32.496Z,"8km NW of Cobb, CA",earthquake,0.39,0.39,0.31,12.0,automatic,nc,nc
