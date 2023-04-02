@@ -9315,3 +9315,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T17:22:08.426Z,61.3511,-150.0278,35.2,1.5,ml,,,,0.59,ak,ak02348fp14a,2023-04-02T17:25:03.678Z,Southern Alaska,earthquake,,1.0,,,automatic,ak,ak
 2023-04-02T17:18:22.520Z,35.5023333,-118.3928333,4.93,2.09,ml,28.0,41.0,0.1732,0.21,ci,ci39509130,2023-04-02T17:22:02.994Z,"13km SE of Bodfish, CA",earthquake,0.28,2.56,0.296,26.0,automatic,ci,ci
 2023-04-01T21:11:24.140Z,34.2845,-118.4348333,6.3,1.02,ml,20.0,81.0,0.03687,0.26,ci,ci39508826,2023-04-02T17:32:41.590Z,"0km SE of San Fernando, CA",earthquake,0.42,0.78,0.142,9.0,reviewed,ci,ci
+2023-04-02T07:55:24.560Z,42.00716666666667,-124.48666666666666,1.69,2.18,ml,13.0,210.0,0.1599,0.28,uw,uw61915526,2023-04-02T17:46:49.940Z,offshore Oregon,earthquake,0.86,1.13,0.1214012152389889,8.0,reviewed,uw,uw
+2023-04-01T21:50:57.890Z,33.2678333,-116.4211667,5.0,0.75,ml,27.0,44.0,0.003377,0.18,ci,ci37521724,2023-04-02T17:44:21.116Z,"4km WNW of Borrego Springs, CA",earthquake,0.24,0.46,0.19,8.0,reviewed,ci,ci
