@@ -9290,3 +9290,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T12:19:14.394Z,62.4031,-150.7552,66.7,1.4,ml,,,,0.72,ak,ak02348cp8en,2023-04-02T12:20:49.385Z,Central Alaska,earthquake,,0.7,,,automatic,ak,ak
 2023-04-02T12:14:32.020Z,38.8451653,-122.8148346,1.48,1.52,md,15.0,55.0,0.01158,0.02,nc,nc73865840,2023-04-02T12:27:11.753Z,"8km WNW of Cobb, CA",earthquake,0.21,0.36,0.17,17.0,automatic,nc,nc
 2023-04-02T11:56:03.580Z,32.0975,-116.8395,15.21,1.57,ml,10.0,265.0,0.2616,0.05,ci,ci39509066,2023-04-02T11:59:41.420Z,"16km SSE of Primo Tapia, B.C., MX",earthquake,3.0,0.81,0.216,10.0,automatic,ci,ci
+2023-04-02T13:04:06.020Z,38.8156662,-122.8249969,2.13,1.09,md,13.0,85.0,0.007533,0.02,nc,nc73865855,2023-04-02T13:19:11.065Z,"7km NW of The Geysers, CA",earthquake,0.28,0.59,0.15,15.0,automatic,nc,nc
+2023-04-02T13:00:54.320Z,38.8358345,-122.8075027,2.09,0.74,md,10.0,59.0,0.02065,0.01,nc,nc73865850,2023-04-02T13:12:12.138Z,"8km WNW of Cobb, CA",earthquake,0.3,0.87,0.16,11.0,automatic,nc,nc
