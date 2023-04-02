@@ -9308,3 +9308,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T16:08:32.917Z,63.2778,-151.058,0.0,1.5,ml,,,,0.83,ak,ak02348f0ndn,2023-04-02T16:10:24.383Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
 2023-04-02T15:57:51.226Z,60.2136,-141.209,6.3,2.1,ml,,,,0.77,ak,ak02348epr9u,2023-04-02T15:59:45.741Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
 2023-04-02T15:51:48.298Z,60.0087,-139.3231,4.8,2.2,ml,,,,0.41,ak,ak02348eogr0,2023-04-02T15:54:53.349Z,"Southern Yukon Territory, Canada",earthquake,,0.3,,,automatic,ak,ak
+2023-04-02T16:41:35.432Z,58.6096,-157.0365,9.9,1.9,ml,,,,0.42,ak,ak02348f7q7b,2023-04-02T16:44:09.787Z,Alaska Peninsula,earthquake,,0.3,,,automatic,ak,ak
