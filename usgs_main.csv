@@ -9335,3 +9335,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T04:39:40.653Z,53.8718,-166.5879,5.4,0.8,ml,,,,0.55,ak,ak02348823yc,2023-04-02T19:36:28.043Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-04-02T19:32:24.808Z,6.4024,115.8451,601.41,5.5,mb,57.0,94.0,7.534,0.61,us,us6000k1ki,2023-04-02T19:54:25.628Z,South China Sea,earthquake,9.69,6.439,0.034,293.0,reviewed,us,us
 2023-04-02T05:32:30.506Z,53.8763,-166.5856,6.5,1.9,ml,,,,0.49,ak,ak023488m0tv,2023-04-02T19:48:52.286Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-04-02T20:11:01.550Z,38.840168,-122.8089981,1.86,0.74,md,8.0,69.0,0.0183,0.03,nc,nc73865960,2023-04-02T20:12:38.168Z,"8km WNW of Cobb, CA",earthquake,0.4,1.89,0.08,8.0,automatic,nc,nc
+2023-04-02T20:05:46.760Z,33.391,-116.9025,16.03,0.78,ml,25.0,59.0,0.1082,0.24,ci,ci39509170,2023-04-02T20:09:27.293Z,"5km NW of Palomar Observatory, CA",earthquake,0.51,1.28,0.267,15.0,automatic,ci,ci
+2023-04-02T19:59:52.290Z,33.691,-116.7001667,16.3,1.01,ml,40.0,36.0,0.02326,0.21,ci,ci39509154,2023-04-02T20:03:29.948Z,"6km SSE of Idyllwild, CA",earthquake,0.31,0.5,0.198,29.0,automatic,ci,ci
+2023-04-02T18:53:07.251Z,2.826,95.4878,29.298,4.9,mb,87.0,172.0,2.577,0.63,us,us6000k1k9,2023-04-02T20:02:41.040Z,"Simeulue, Indonesia",earthquake,7.36,2.768,0.067,69.0,reviewed,us,us
+2023-04-02T07:36:33.411Z,53.8664,-166.5782,5.5,1.2,ml,,,,0.33,ak,ak023489tk80,2023-04-02T20:15:41.315Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2023-04-02T07:31:47.470Z,58.2595,-155.142,31.46,-0.32,ml,11.0,90.0,,0.1,av,av91096688,2023-04-02T20:19:05.880Z,Alaska Peninsula,earthquake,0.5,0.65,0.252993013356253,11.0,reviewed,av,av
+2023-04-02T06:54:33.202Z,53.874,-166.5901,4.7,1.5,ml,,,,0.52,ak,ak023489c5i3,2023-04-02T20:05:46.308Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-04-02T06:02:43.085Z,53.9175,-166.6185,9.7,1.8,ml,,,,0.46,ak,ak02348911tg,2023-04-02T19:57:25.996Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.8,,,reviewed,ak,ak
