@@ -9238,3 +9238,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T05:35:10.438Z,64.3154,-147.451,10.8,2.0,ml,,,,0.38,ak,ak023488mmbn,2023-04-02T05:37:08.385Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
 2023-04-02T05:44:45.330Z,17.9521666666667,-66.8555,14.05,2.72,md,9.0,200.0,0.03209,0.15,pr,pr71402338,2023-04-02T05:56:09.230Z,Puerto Rico,earthquake,0.74,0.48,0.141532148321241,4.0,reviewed,pr,pr
 2023-04-02T04:36:47.580Z,43.714,-121.22916666666669,4.14,0.05,ml,7.0,125.0,0.04801,0.13,uw,uw61915511,2023-04-02T06:18:49.750Z,"Newberry Caldera area, Oregon",earthquake,0.55,1.36,0.0384576277543854,3.0,reviewed,uw,uw
+2023-04-02T06:30:35.033Z,58.1282,-155.8397,12.5,1.2,ml,,,,0.18,ak,ak023489718v,2023-04-02T06:32:04.446Z,Alaska Peninsula,earthquake,,2.1,,,automatic,ak,ak
