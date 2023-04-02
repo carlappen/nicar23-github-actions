@@ -9351,3 +9351,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T20:43:21.850Z,38.8434982,-122.8773346,2.03,1.15,md,9.0,163.0,0.02256,0.02,nc,nc73865975,2023-04-02T20:44:58.535Z,"13km NW of The Geysers, CA",earthquake,0.53,0.76,0.18,11.0,automatic,nc,nc
 2023-04-02T20:35:22.628Z,51.7134,-174.6117,36.4,2.8,ml,,,,0.32,ak,ak02348hk5yc,2023-04-02T20:47:20.488Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,4.2,,,reviewed,ak,ak
 2023-04-02T07:32:54.950Z,58.2715,-155.1415,33.08,-0.35,ml,11.0,82.0,,0.13,av,av91096693,2023-04-02T20:43:22.040Z,Alaska Peninsula,earthquake,0.64,0.66,0.261858512699912,10.0,reviewed,av,av
+2023-04-02T21:06:39.430Z,38.8273315,-122.8144989,1.89,1.03,md,12.0,82.0,0.01658,0.02,nc,nc73865985,2023-04-02T21:08:17.680Z,"8km NW of The Geysers, CA",earthquake,0.28,0.53,0.2,13.0,automatic,nc,nc
+2023-04-02T20:35:21.912Z,51.6767,-174.5103,35.0,2.9,ml,12.0,341.0,0.931,0.36,us,us6000k1l4,2023-04-02T20:57:59.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,10.42,2.028,0.148,10.0,reviewed,us,us
+2023-04-02T08:57:34.360Z,58.2703333333333,-155.116,34.5,-0.35,ml,10.0,90.0,,0.16,av,av91830756,2023-04-02T21:01:45.580Z,Alaska Peninsula,earthquake,0.8,0.82,0.228191340943816,9.0,reviewed,av,av
+2023-04-02T08:55:32.400Z,58.2635,-155.096166666667,34.9,-0.23,ml,12.0,97.0,,0.22,av,av91830751,2023-04-02T20:53:43.820Z,Alaska Peninsula,earthquake,0.88,0.97,0.317436911991328,11.0,reviewed,av,av
