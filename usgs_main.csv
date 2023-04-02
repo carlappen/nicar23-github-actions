@@ -9218,3 +9218,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T03:23:50.160Z,17.9658333333333,-66.9438333333333,9.67,2.89,md,8.0,213.0,0.1628,0.11,pr,pr71402308,2023-04-02T03:45:07.880Z,Puerto Rico,earthquake,0.63,0.59,0.167113269512075,5.0,reviewed,pr,pr
 2023-04-02T02:49:32.898Z,-5.6272,154.3973,66.733,4.5,mb,24.0,129.0,2.643,0.63,us,us6000k1fe,2023-04-02T03:52:59.040Z,"Bougainville region, Papua New Guinea",earthquake,13.84,8.101,0.124,19.0,reviewed,us,us
 2023-04-02T02:16:31.220Z,-26.0661,-177.5067,165.61,4.9,mb,27.0,133.0,3.205,1.43,us,us6000k1fb,2023-04-02T03:47:42.040Z,south of the Fiji Islands,earthquake,12.41,5.996,0.119,22.0,reviewed,us,us
+2023-04-02T04:17:57.110Z,33.3851667,-116.899,12.53,1.36,ml,49.0,33.0,0.1112,0.2,ci,ci39508922,2023-04-02T04:21:29.563Z,"5km NW of Palomar Observatory, CA",earthquake,0.22,0.95,0.161,27.0,automatic,ci,ci
+2023-04-02T04:17:35.400Z,34.0266667,-117.2686667,19.54,1.19,ml,26.0,60.0,0.07719,0.28,ci,ci39508914,2023-04-02T04:21:11.080Z,"2km SSW of Loma Linda, CA",earthquake,0.48,0.72,0.299,31.0,automatic,ci,ci
+2023-04-02T04:14:42.024Z,61.4394,-147.8958,22.9,1.7,ml,,,,0.56,ak,ak023487wr4a,2023-04-02T04:16:53.147Z,Southern Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-04-02T04:03:36.353Z,61.2918,-146.8596,24.0,1.8,ml,,,,1.08,ak,ak023487udsz,2023-04-02T04:05:37.833Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-04-02T03:57:26.730Z,38.848835,-122.8136673,0.94,0.55,md,6.0,123.0,0.01987,0.01,nc,nc73865680,2023-04-02T04:11:10.727Z,"8km WNW of Cobb, CA",earthquake,0.31,1.67,0.29,7.0,automatic,nc,nc
+2023-04-02T03:31:42.880Z,17.9483333333333,-66.9276666666667,5.18,1.96,md,4.0,221.0,0.05319,0.08,pr,pr71402328,2023-04-02T03:57:55.540Z,Puerto Rico region,earthquake,1.15,0.55,0.207587635838696,2.0,reviewed,pr,pr
+2023-04-02T03:09:58.397Z,19.2943,-108.4279,10.0,4.0,mb,22.0,233.0,6.474,1.3,us,us6000k1fi,2023-04-02T04:02:52.040Z,Revilla Gigedo Islands region,earthquake,8.83,2.012,0.074,50.0,reviewed,us,us
