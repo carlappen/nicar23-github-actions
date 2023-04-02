@@ -9348,3 +9348,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T20:34:20.799Z,60.1886,-151.0289,53.4,1.4,ml,,,,0.33,ak,ak02348hjxhb,2023-04-02T20:36:02.227Z,"Kenai Peninsula, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-04-02T20:30:33.965Z,60.948,-147.668,7.1,1.5,ml,,,,0.43,ak,ak02348hj3ms,2023-04-02T20:32:02.721Z,Southern Alaska,earthquake,,0.5,,,automatic,ak,ak
 2023-04-02T19:09:56.712Z,53.8776,-166.5876,5.7,1.8,ml,,,,0.46,ak,ak02348gt72s,2023-04-02T20:40:34.381Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-04-02T20:43:21.850Z,38.8434982,-122.8773346,2.03,1.15,md,9.0,163.0,0.02256,0.02,nc,nc73865975,2023-04-02T20:44:58.535Z,"13km NW of The Geysers, CA",earthquake,0.53,0.76,0.18,11.0,automatic,nc,nc
+2023-04-02T20:35:22.628Z,51.7134,-174.6117,36.4,2.8,ml,,,,0.32,ak,ak02348hk5yc,2023-04-02T20:47:20.488Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,4.2,,,reviewed,ak,ak
+2023-04-02T07:32:54.950Z,58.2715,-155.1415,33.08,-0.35,ml,11.0,82.0,,0.13,av,av91096693,2023-04-02T20:43:22.040Z,Alaska Peninsula,earthquake,0.64,0.66,0.261858512699912,10.0,reviewed,av,av
