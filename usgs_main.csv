@@ -9233,3 +9233,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T15:59:12.400Z,37.498,-118.8545,4.06,1.04,md,22.0,124.0,0.09406,0.05,nc,nc73865480,2023-04-02T05:22:13.192Z,"17km WSW of Toms Place, CA",earthquake,0.23,0.96,0.203,15.0,reviewed,nc,nc
 2023-04-01T08:58:23.970Z,31.546,-104.1481,12.454,2.8,ml,42.0,55.0,0.297,0.48,us,us6000k1bq,2023-04-02T05:18:55.040Z,western Texas,earthquake,2.37,8.378,0.061,55.0,reviewed,us,us
 2023-04-01T08:11:57.398Z,51.849,-178.0275,5.0,2.7,ml,13.0,119.0,0.015,0.97,us,us6000k1eh,2023-04-02T05:15:19.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.71,1.291,0.105,20.0,reviewed,us,us
+2023-04-02T05:24:55.510Z,38.7804985,-122.7588348,0.12,1.38,md,8.0,82.0,0.0175,0.01,nc,nc73865695,2023-04-02T05:26:33.040Z,"0km NNW of The Geysers, CA",earthquake,0.27,1.06,0.48,8.0,automatic,nc,nc
