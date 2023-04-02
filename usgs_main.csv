@@ -9362,3 +9362,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T21:08:54.450Z,18.9806,-68.7295,56.0,3.7,md,18.0,158.0,0.5532,0.28,pr,pr2023092000,2023-04-02T21:58:44.979Z,Mona Passage,earthquake,1.35,2.72,0.13,4.0,reviewed,pr,pr
 2023-04-02T22:31:18.603Z,60.213,-152.8521,117.9,1.6,ml,,,,0.15,ak,ak02348iq5dg,2023-04-02T22:32:53.338Z,Southern Alaska,earthquake,,1.9,,,automatic,ak,ak
 2023-04-02T22:29:20.510Z,38.8383331,-122.7956696,1.83,0.48,md,7.0,89.0,0.01564,0.01,nc,nc73866000,2023-04-02T22:30:58.198Z,"6km WNW of Cobb, CA",earthquake,0.42,1.78,0.28,8.0,automatic,nc,nc
+2023-04-02T22:37:33.880Z,35.6606667,-117.5555,11.0,1.81,ml,15.0,96.0,0.1061,0.2,ci,ci39509202,2023-04-02T22:41:14.211Z,"12km ENE of Ridgecrest, CA",earthquake,0.59,0.91,0.148,19.0,automatic,ci,ci
+2023-04-02T22:33:03.907Z,60.8344,-151.8348,77.6,2.1,ml,,,,0.2,ak,ak02348iqjo6,2023-04-02T22:34:33.172Z,"Kenai Peninsula, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-04-02T22:32:06.950Z,34.4113333,-117.7423333,1.12,1.35,ml,23.0,126.0,0.09722,0.22,ci,ci39509194,2023-04-02T22:35:50.208Z,"9km WSW of Pinon Hills, CA",earthquake,0.38,0.59,0.203,30.0,automatic,ci,ci
