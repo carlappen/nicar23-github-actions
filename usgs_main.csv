@@ -9205,3 +9205,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T02:31:41.920Z,34.0253333,-118.2143333,15.44,1.03,ml,16.0,156.0,0.1138,0.34,ci,ci39508890,2023-04-02T02:35:37.763Z,"4km W of East Los Angeles, CA",earthquake,0.83,1.2,0.259,22.0,automatic,ci,ci
 2023-04-02T02:47:38.347Z,60.7016,-150.0579,43.7,1.7,ml,,,,0.52,ak,ak023486wy96,2023-04-02T02:49:45.210Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-01T20:12:31.910Z,37.4971667,-118.8445,4.58,0.99,md,8.0,239.0,0.0935,0.03,nc,nc73865555,2023-04-02T02:51:11.220Z,"16km WSW of Toms Place, CA",earthquake,0.8,2.29,0.129,8.0,reviewed,nc,nc
+2023-04-02T03:07:46.920Z,62.3546,-148.23,25.4,1.7,ml,,,,1.02,ak,ak0234879tvo,2023-04-02T03:09:57.120Z,Central Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-04-02T03:03:12.610Z,19.392333984375,-155.269332885742,3.75999999046326,2.24,ml,12.0,59.0,,0.239999995,hv,hv73354577,2023-04-02T03:08:42.950Z,"Hawaii region, Hawaii",earthquake,0.85,1.17999995,0.36,4.0,automatic,hv,hv
+2023-04-02T03:02:47.072Z,63.0774,-150.9001,24.0,1.8,ml,,,,1.18,ak,ak0234878rb7,2023-04-02T03:04:47.669Z,Central Alaska,earthquake,,1.5,,,automatic,ak,ak
+2023-04-01T08:38:34.640Z,38.7525,-123.0961667,-0.51,1.2,md,14.0,85.0,0.06491,0.07,nc,nc73865395,2023-04-02T03:20:08.847Z,"9km SW of Cloverdale, CA",earthquake,0.19,0.73,0.189,14.0,reviewed,nc,nc
