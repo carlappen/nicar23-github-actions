@@ -9295,3 +9295,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T13:25:14.982Z,59.5389,-151.2686,14.4,1.7,ml,,,,0.56,ak,ak02348dbycq,2023-04-02T13:27:16.240Z,"Kenai Peninsula, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-04-02T13:20:55.740Z,59.892,-152.4004,66.5,1.6,ml,,,,0.46,ak,ak02348dayx2,2023-04-02T13:23:32.539Z,Southern Alaska,earthquake,,1.4,,,automatic,ak,ak
 2023-04-02T10:29:53.350Z,53.9363333333333,-166.768,2.67,0.61,ml,6.0,199.0,,0.12,av,av91830831,2023-04-02T13:29:04.590Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.48,0.73,0.162494125932118,6.0,reviewed,av,av
+2023-04-02T03:58:38.010Z,53.8723333333333,-166.581166666667,7.29,2.5,ml,14.0,118.0,,0.2,av,av91830131,2023-04-02T13:38:22.650Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.42,0.39,0.199497255003652,15.0,reviewed,av,av
