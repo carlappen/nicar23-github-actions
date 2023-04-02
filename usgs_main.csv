@@ -9241,3 +9241,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T06:30:35.033Z,58.1282,-155.8397,12.5,1.2,ml,,,,0.18,ak,ak023489718v,2023-04-02T06:32:04.446Z,Alaska Peninsula,earthquake,,2.1,,,automatic,ak,ak
 2023-04-02T04:21:10.950Z,48.64416666666666,-121.93716666666668,2.1,1.6,ml,13.0,60.0,0.1378,0.11,uw,uw61915501,2023-04-02T06:40:34.810Z,Washington,earthquake,0.34,0.7,0.1592669714685888,8.0,reviewed,uw,uw
 2023-04-02T05:57:21.415Z,-17.835,-178.0347,554.795,4.4,mb,26.0,97.0,3.919,0.27,us,us6000k1g4,2023-04-02T06:51:03.040Z,Fiji region,earthquake,15.93,9.152,0.13,20.0,reviewed,us,us
+2023-04-02T07:07:55.994Z,62.844,-148.5536,52.5,1.6,ml,,,,0.59,ak,ak023489nkzz,2023-04-02T07:09:59.042Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
+2023-04-02T07:04:22.590Z,38.779335,-122.7556686,1.4,1.03,md,6.0,105.0,0.01531,0.02,nc,nc73865725,2023-04-02T07:05:57.764Z,"0km NNE of The Geysers, CA",earthquake,1.17,2.46,0.1,7.0,automatic,nc,nc
+2023-04-02T07:04:05.380Z,33.6081667,-116.8163333,13.53,0.52,ml,14.0,126.0,0.03411,0.14,ci,ci39509002,2023-04-02T07:07:39.903Z,"14km WNW of Anza, CA",earthquake,0.38,0.59,0.103,12.0,automatic,ci,ci
+2023-04-02T06:57:25.676Z,60.7581,-151.0185,41.6,1.4,ml,,,,0.46,ak,ak023489csuv,2023-04-02T06:58:58.889Z,"Kenai Peninsula, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-04-01T20:01:40.640Z,46.8505,-121.75466666666668,1.83,0.04,ml,11.0,76.0,0.02104,0.09,uw,uw61915421,2023-04-02T07:08:11.390Z,"Mount Rainier area, Washington",earthquake,0.26,0.62,0.0579348926354474,4.0,reviewed,uw,uw
