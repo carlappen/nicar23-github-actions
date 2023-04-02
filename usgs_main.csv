@@ -9292,3 +9292,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T11:56:03.580Z,32.0975,-116.8395,15.21,1.57,ml,10.0,265.0,0.2616,0.05,ci,ci39509066,2023-04-02T11:59:41.420Z,"16km SSE of Primo Tapia, B.C., MX",earthquake,3.0,0.81,0.216,10.0,automatic,ci,ci
 2023-04-02T13:04:06.020Z,38.8156662,-122.8249969,2.13,1.09,md,13.0,85.0,0.007533,0.02,nc,nc73865855,2023-04-02T13:19:11.065Z,"7km NW of The Geysers, CA",earthquake,0.28,0.59,0.15,15.0,automatic,nc,nc
 2023-04-02T13:00:54.320Z,38.8358345,-122.8075027,2.09,0.74,md,10.0,59.0,0.02065,0.01,nc,nc73865850,2023-04-02T13:12:12.138Z,"8km WNW of Cobb, CA",earthquake,0.3,0.87,0.16,11.0,automatic,nc,nc
+2023-04-02T13:25:14.982Z,59.5389,-151.2686,14.4,1.7,ml,,,,0.56,ak,ak02348dbycq,2023-04-02T13:27:16.240Z,"Kenai Peninsula, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-04-02T13:20:55.740Z,59.892,-152.4004,66.5,1.6,ml,,,,0.46,ak,ak02348dayx2,2023-04-02T13:23:32.539Z,Southern Alaska,earthquake,,1.4,,,automatic,ak,ak
+2023-04-02T10:29:53.350Z,53.9363333333333,-166.768,2.67,0.61,ml,6.0,199.0,,0.12,av,av91830831,2023-04-02T13:29:04.590Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.48,0.73,0.162494125932118,6.0,reviewed,av,av
