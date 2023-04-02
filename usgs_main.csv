@@ -9225,3 +9225,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T03:57:26.730Z,38.848835,-122.8136673,0.94,0.55,md,6.0,123.0,0.01987,0.01,nc,nc73865680,2023-04-02T04:11:10.727Z,"8km WNW of Cobb, CA",earthquake,0.31,1.67,0.29,7.0,automatic,nc,nc
 2023-04-02T03:31:42.880Z,17.9483333333333,-66.9276666666667,5.18,1.96,md,4.0,221.0,0.05319,0.08,pr,pr71402328,2023-04-02T03:57:55.540Z,Puerto Rico region,earthquake,1.15,0.55,0.207587635838696,2.0,reviewed,pr,pr
 2023-04-02T03:09:58.397Z,19.2943,-108.4279,10.0,4.0,mb,22.0,233.0,6.474,1.3,us,us6000k1fi,2023-04-02T04:02:52.040Z,Revilla Gigedo Islands region,earthquake,8.83,2.012,0.074,50.0,reviewed,us,us
+2023-04-02T04:14:07.724Z,36.2977,141.5322,29.473,4.4,mb,27.0,151.0,2.691,0.71,us,us6000k1fx,2023-04-02T04:32:06.040Z,"near the east coast of Honshu, Japan",earthquake,7.97,3.248,0.13,17.0,reviewed,us,us
+2023-04-01T21:24:39.285Z,41.0365,33.5547,8.304,4.2,mb,45.0,30.0,0.123,0.67,us,us6000k1ek,2023-04-02T04:29:32.040Z,central Turkey,earthquake,2.8,4.168,0.176,9.0,reviewed,us,us
