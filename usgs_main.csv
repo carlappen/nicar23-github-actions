@@ -9203,3 +9203,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T12:40:52.193Z,36.0392,35.9102,10.0,4.2,mb,46.0,157.0,1.54,0.65,us,us6000k1cm,2023-04-01T13:16:38.040Z,"15 km SW of Uzunbağ, Turkey",earthquake,2.96,1.954,0.118,20.0,reviewed,us,us
 2023-04-02T02:38:00.800Z,33.598,-116.8186667,13.34,0.92,ml,32.0,52.0,0.04012,0.17,ci,ci39508898,2023-04-02T02:41:47.563Z,"14km WNW of Anza, CA",earthquake,0.27,0.46,0.176,23.0,automatic,ci,ci
 2023-04-02T02:31:41.920Z,34.0253333,-118.2143333,15.44,1.03,ml,16.0,156.0,0.1138,0.34,ci,ci39508890,2023-04-02T02:35:37.763Z,"4km W of East Los Angeles, CA",earthquake,0.83,1.2,0.259,22.0,automatic,ci,ci
+2023-04-02T02:47:38.347Z,60.7016,-150.0579,43.7,1.7,ml,,,,0.52,ak,ak023486wy96,2023-04-02T02:49:45.210Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-01T20:12:31.910Z,37.4971667,-118.8445,4.58,0.99,md,8.0,239.0,0.0935,0.03,nc,nc73865555,2023-04-02T02:51:11.220Z,"16km WSW of Toms Place, CA",earthquake,0.8,2.29,0.129,8.0,reviewed,nc,nc
