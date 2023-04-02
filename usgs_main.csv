@@ -9248,3 +9248,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T20:01:40.640Z,46.8505,-121.75466666666668,1.83,0.04,ml,11.0,76.0,0.02104,0.09,uw,uw61915421,2023-04-02T07:08:11.390Z,"Mount Rainier area, Washington",earthquake,0.26,0.62,0.0579348926354474,4.0,reviewed,uw,uw
 2023-04-02T07:29:33.620Z,19.253999710083,-155.378997802734,29.9400005340576,1.8,ml,31.0,137.0,,0.200000003,hv,hv73354712,2023-04-02T07:36:09.290Z,"Hawaii region, Hawaii",earthquake,0.81,0.930000007,1.21,3.0,automatic,hv,hv
 2023-04-02T07:27:29.448Z,61.8924,-149.1745,37.4,1.6,ml,,,,0.36,ak,ak023489rt9s,2023-04-02T07:29:32.325Z,Southern Alaska,earthquake,,0.5,,,automatic,ak,ak
+2023-04-02T07:54:05.900Z,38.7916679,-122.7446671,1.92,1.1,md,12.0,89.0,0.01046,0.02,nc,nc73865740,2023-04-02T07:55:43.424Z,"2km NNE of The Geysers, CA",earthquake,0.25,0.76,0.39,11.0,automatic,nc,nc
