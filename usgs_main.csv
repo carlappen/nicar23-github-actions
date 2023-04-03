@@ -9453,3 +9453,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T12:09:13.184Z,61.3697,-151.6213,86.2,0.7,ml,,,,0.23,ak,ak0234a06fna,2023-04-03T12:11:50.638Z,Southern Alaska,earthquake,,1.1,,,automatic,ak,ak
 2023-04-03T12:07:46.740Z,37.9044991,-121.8198318,0.12,1.84,md,10.0,107.0,0.06952,0.17,nc,nc73866215,2023-04-03T12:25:11.638Z,"9km WSW of Brentwood, CA",earthquake,0.55,6.84,0.11,7.0,automatic,nc,nc
 2023-04-03T11:58:42.954Z,61.5447,-150.5642,31.2,1.2,ml,,,,0.73,ak,ak02349zvkfb,2023-04-03T12:00:19.328Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-04-03T12:49:47.060Z,38.866333,-122.7961655,1.62,1.03,md,11.0,190.0,0.01148,0.03,nc,nc73866230,2023-04-03T12:51:23.068Z,"8km NW of Cobb, CA",earthquake,0.64,0.85,0.08,12.0,automatic,nc,nc
+2023-04-03T12:44:34.850Z,38.8359985,-122.7883301,2.0,1.19,md,9.0,81.0,0.01142,0.01,nc,nc73866225,2023-04-03T12:46:12.699Z,"6km WNW of Cobb, CA",earthquake,0.51,1.4,0.17,10.0,automatic,nc,nc
+2023-04-03T12:43:33.600Z,40.3321648,-121.9148331,-0.56,2.25,md,7.0,120.0,0.09401,0.21,nc,nc73866220,2023-04-03T12:50:11.773Z,"11km SSW of Manton, CA",earthquake,1.43,9.5,0.1,5.0,automatic,nc,nc
+2023-04-03T12:27:14.484Z,61.3712,-150.1823,36.7,3.8,ml,,,,0.81,ak,ak0234a0aako,2023-04-03T12:47:55.750Z,Southern Alaska,earthquake,,0.6,,,reviewed,ak,ak
