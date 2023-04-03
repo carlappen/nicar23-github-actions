@@ -9400,3 +9400,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T03:56:00.560Z,33.4696667,-116.4333333,8.84,0.62,ml,17.0,118.0,0.1197,0.14,ci,ci39509258,2023-04-03T03:59:33.385Z,"24km ESE of Anza, CA",earthquake,0.32,1.04,0.131,14.0,automatic,ci,ci
 2023-04-03T03:45:49.012Z,37.9232,36.271,5.0,4.3,mb,34.0,51.0,0.348,0.65,us,us6000k1n0,2023-04-03T04:02:06.040Z,central Turkey,earthquake,1.89,1.945,0.168,10.0,reviewed,us,us
 2023-04-03T03:44:51.526Z,61.7487,-151.5666,70.7,1.7,ml,,,,0.53,ak,ak02349v147n,2023-04-03T04:05:19.993Z,Southern Alaska,earthquake,,0.9,,,automatic,ak,ak
+2023-04-03T03:55:02.834Z,28.0114,56.915,10.0,4.3,mb,50.0,108.0,3.119,0.43,us,us6000k1n3,2023-04-03T04:15:26.040Z,southern Iran,earthquake,10.57,1.906,0.086,38.0,reviewed,us,us
