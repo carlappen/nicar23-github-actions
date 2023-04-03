@@ -151,7 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T20:35:21.912Z,51.6767,-174.5103,35,2.9,ml,12,341,0.931,0.36,us,us6000k1l4,2023-04-02T20:57:59.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,10.42,2.028,0.148,10,reviewed,us,us
 2023-04-02T20:34:20.799Z,60.1886,-151.0289,53.4,1.4,ml,,,,0.33,ak,ak02348hjxhb,2023-04-02T20:36:02.227Z,"Kenai Peninsula, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-04-02T20:30:33.965Z,60.948,-147.668,7.1,1.5,ml,,,,0.43,ak,ak02348hj3ms,2023-04-02T20:32:02.721Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-02T20:27:08.360Z,37.5355,-121.8206667,3.55,1.31,md,32,114,0.02225,0.08,nc,nc73865970,2023-04-03T17:48:10.594Z,"10km SE of Sunol, CA",earthquake,0.17,0.26,0.176,26,reviewed,nc,nc
+2023-04-02T20:27:08.360Z,37.5355,-121.8206667,3.55,1.31,md,32,114,0.02225,0.08,nc,nc73865970,2023-04-03T18:39:14.898Z,"10km SE of Sunol, CA",earthquake,0.17,0.26,0.176,26,reviewed,nc,nc
 2023-04-02T20:23:41.564Z,37.53,-117.9721,0,1.3,ml,10,191.12,0.394,0.3395,nn,nn00857762,2023-04-02T20:26:20.569Z,"Central California",earthquake,,6,0.86,8,automatic,nn,nn
 2023-04-02T20:11:01.550Z,38.840168,-122.8089981,1.86,0.74,md,8,69,0.0183,0.03,nc,nc73865960,2023-04-02T20:54:16.995Z,"8km WNW of Cobb, CA",earthquake,0.4,1.89,0.08,8,automatic,nc,nc
 2023-04-02T20:05:46.760Z,33.391,-116.9025,16.03,0.78,ml,25,59,0.1082,0.24,ci,ci39509170,2023-04-02T20:09:27.293Z,"5km NW of Palomar Observatory, CA",earthquake,0.51,1.28,0.267,15,automatic,ci,ci
