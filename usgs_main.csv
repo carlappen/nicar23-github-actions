@@ -9448,3 +9448,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T11:14:33.560Z,33.3,-116.1918333,0.82,1.44,ml,31.0,59.0,0.119,0.29,ci,ci39509378,2023-04-03T11:18:05.606Z,"18km ENE of Borrego Springs, CA",earthquake,0.33,0.84,0.141,29.0,automatic,ci,ci
 2023-04-03T11:25:31.510Z,34.004,-116.852,14.01,1.22,ml,39.0,56.0,0.04811,0.19,ci,ci39509386,2023-04-03T11:29:04.629Z,"9km NNE of Banning, CA",earthquake,0.23,0.54,0.118,26.0,automatic,ci,ci
 2023-04-03T11:35:27.960Z,35.2051659,-118.6725006,3.38,2.96,ml,85.0,37.0,0.02908,0.2,ci,ci39509394,2023-04-03T11:43:30.467Z,"14km E of Arvin, CA",earthquake,0.19,0.66,0.281,24.0,automatic,ci,ci
+2023-04-03T12:12:56.352Z,61.0768,-150.5664,39.0,1.0,ml,,,,0.62,ak,ak0234a0764j,2023-04-03T12:14:56.645Z,Southern Alaska,earthquake,,5.3,,,automatic,ak,ak
+2023-04-03T12:11:15.120Z,33.887,-116.2576667,3.81,0.97,ml,17.0,60.0,0.07989,0.2,ci,ci39509402,2023-04-03T12:14:54.108Z,"14km ENE of Thousand Palms, CA",earthquake,0.34,0.99,0.131,23.0,automatic,ci,ci
+2023-04-03T12:09:13.184Z,61.3697,-151.6213,86.2,0.7,ml,,,,0.23,ak,ak0234a06fna,2023-04-03T12:11:50.638Z,Southern Alaska,earthquake,,1.1,,,automatic,ak,ak
+2023-04-03T12:07:46.740Z,37.9044991,-121.8198318,0.12,1.84,md,10.0,107.0,0.06952,0.17,nc,nc73866215,2023-04-03T12:25:11.638Z,"9km WSW of Brentwood, CA",earthquake,0.55,6.84,0.11,7.0,automatic,nc,nc
+2023-04-03T11:58:42.954Z,61.5447,-150.5642,31.2,1.2,ml,,,,0.73,ak,ak02349zvkfb,2023-04-03T12:00:19.328Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
