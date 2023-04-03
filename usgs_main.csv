@@ -9538,3 +9538,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T20:25:42.710Z,38.8351669,-122.8066635,2.51,0.87,md,10.0,81.0,0.02102,0.02,nc,nc73866355,2023-04-03T20:27:18.005Z,"7km WNW of Cobb, CA",earthquake,0.38,1.76,0.18,9.0,automatic,nc,nc
 2023-04-03T16:55:06.180Z,56.9081666666667,-158.089333333333,-3.2,1.47,ml,4.0,248.0,,0.25,av,av91832706,2023-04-03T20:26:23.730Z,"33 km E of Port Heiden, Alaska",earthquake,1.57,3.17,0.147490688506108,8.0,reviewed,av,av
 2023-04-03T19:11:08.980Z,37.9875,-122.4488333,-0.02,1.31,md,21.0,76.0,0.02502,0.1,nc,nc73866305,2023-04-03T20:37:08.726Z,"7km E of Santa Venetia, CA",quarry blast,0.21,31.61,0.161,15.0,reviewed,nc,nc
+2023-04-03T20:45:09.789Z,64.4988,-148.971,16.5,0.9,ml,,,,0.45,ak,ak0234a55m02,2023-04-03T20:46:50.154Z,"9 km SE of Nenana, Alaska",earthquake,,0.2,,,automatic,ak,ak
