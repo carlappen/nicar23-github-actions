@@ -9481,3 +9481,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T14:59:42.316Z,0.8854,98.8409,84.516,6.1,mww,126.0,48.0,1.332,0.92,us,us6000k1qa,2023-04-03T15:25:28.461Z,"72 km SW of Padangsidempuan, Indonesia",earthquake,6.21,4.859,0.062,25.0,reviewed,us,us
 2023-04-03T15:41:16.570Z,61.1748,-150.7605,13.3,1.5,ml,,,,0.52,ak,ak0234a25lmx,2023-04-03T15:43:21.864Z,"17 km ENE of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-03T15:41:02.340Z,38.8219986,-122.8528366,2.44,1.29,md,16.0,87.0,0.006373,0.02,nc,nc73866250,2023-04-03T15:42:38.109Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.42,0.19,16.0,automatic,nc,nc
+2023-04-03T15:50:11.640Z,33.3433333,-116.9056667,6.84,1.24,ml,11.0,177.0,0.2624,0.32,ci,ci39509426,2023-04-03T15:53:45.372Z,"4km WSW of Palomar Observatory, CA",earthquake,1.89,31.61,0.283,26.0,automatic,ci,ci
+2023-04-03T15:50:08.470Z,33.392,-116.899,14.83,0.69,ml,34.0,58.0,0.1112,0.18,ci,ci39509418,2023-04-03T15:53:40.586Z,"5km NW of Palomar Observatory, CA",earthquake,0.25,0.61,0.049,4.0,automatic,ci,ci
