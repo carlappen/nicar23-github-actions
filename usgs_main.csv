@@ -9392,3 +9392,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T03:01:06.120Z,36.7999992,-121.3184967,8.78,2.0,md,41.0,67.0,0.09506,0.08,nc,nc73866070,2023-04-03T03:08:14.333Z,"1km N of Tres Pinos, CA",earthquake,0.21,0.49,0.16,37.0,automatic,nc,nc
 2023-04-03T02:57:17.570Z,33.4878333,-116.5165,14.72,0.59,ml,19.0,120.0,0.07053,0.17,ci,ci39509242,2023-04-03T03:00:59.807Z,"16km ESE of Anza, CA",earthquake,0.48,0.64,0.11,13.0,automatic,ci,ci
 2023-04-02T11:49:16.920Z,38.7616667,-122.735,1.54,0.36,md,9.0,137.0,0.007927,0.02,nc,nc73865820,2023-04-03T03:21:52.986Z,"2km SE of The Geysers, CA",earthquake,0.55,0.46,0.118,5.0,reviewed,nc,nc
+2023-04-03T03:43:07.138Z,60.6005,-152.4964,147.9,1.5,ml,,,,0.79,ak,ak02349v0t2x,2023-04-03T03:49:14.993Z,Southern Alaska,earthquake,,0.9,,,automatic,ak,ak
+2023-04-03T03:39:03.198Z,44.4468,-124.5458,22.597,2.5,ml,33.0,109.0,0.569,0.73,us,us6000k1my,2023-04-03T03:48:28.040Z,offshore Oregon,earthquake,2.58,8.967,0.045,64.0,reviewed,us,us
