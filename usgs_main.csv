@@ -9457,3 +9457,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T12:44:34.850Z,38.8359985,-122.7883301,2.0,1.19,md,9.0,81.0,0.01142,0.01,nc,nc73866225,2023-04-03T12:46:12.699Z,"6km WNW of Cobb, CA",earthquake,0.51,1.4,0.17,10.0,automatic,nc,nc
 2023-04-03T12:43:33.600Z,40.3321648,-121.9148331,-0.56,2.25,md,7.0,120.0,0.09401,0.21,nc,nc73866220,2023-04-03T12:50:11.773Z,"11km SSW of Manton, CA",earthquake,1.43,9.5,0.1,5.0,automatic,nc,nc
 2023-04-03T12:27:14.484Z,61.3712,-150.1823,36.7,3.8,ml,,,,0.81,ak,ak0234a0aako,2023-04-03T12:47:55.750Z,Southern Alaska,earthquake,,0.6,,,reviewed,ak,ak
+2023-04-03T13:01:27.610Z,19.1301670074463,-155.39599609375,31.8600006103516,1.82000005,md,33.0,218.0,,0.140000001,hv,hv73355577,2023-04-03T13:07:01.700Z,"11 km SE of Pāhala, Hawaii",earthquake,0.68,1.05999994,0.810000002,5.0,automatic,hv,hv
+2023-04-03T12:59:28.361Z,58.4348,-136.9857,1.1,2.6,ml,,,,0.99,ak,ak0234a0h6mc,2023-04-03T13:02:06.224Z,"46 km NW of Elfin Cove, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-03T12:36:06.553Z,12.2693,-89.3896,10.0,5.0,mww,75.0,150.0,1.501,0.71,us,us6000k1pd,2023-04-03T12:54:28.040Z,"135 km S of La Libertad, El Salvador",earthquake,7.75,1.883,0.051,37.0,reviewed,us,us
