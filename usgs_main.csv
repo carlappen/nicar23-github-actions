@@ -9424,3 +9424,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T08:19:57.742Z,58.1663,-155.4329,15.7,0.3,ml,,,,2.1,ak,ak02349xuxtq,2023-04-03T08:22:23.158Z,Alaska Peninsula,earthquake,,0.7,,,automatic,ak,ak
 2023-04-03T08:18:39.373Z,61.0837,-152.2466,97.1,1.4,ml,,,,0.53,ak,ak02349xuoox,2023-04-03T08:20:51.214Z,Southern Alaska,earthquake,,0.9,,,automatic,ak,ak
 2023-04-03T08:12:19.572Z,36.6537,-116.2621,7.1,1.1,ml,24.0,85.32,0.062,0.1932,nn,nn00857781,2023-04-03T08:14:13.347Z,Nevada,earthquake,,0.6,0.87,16.0,automatic,nn,nn
+2023-04-03T08:32:43.500Z,38.8455009,-122.8241653,1.27,1.04,md,11.0,94.0,0.009168,0.01,nc,nc73866175,2023-04-03T08:34:17.311Z,"9km WNW of Cobb, CA",earthquake,0.27,0.45,0.1,11.0,automatic,nc,nc
+2023-04-03T08:32:04.428Z,60.2504,-151.8988,73.8,1.1,ml,,,,0.19,ak,ak02349xxm0q,2023-04-03T08:34:00.462Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-03T08:27:51.699Z,61.5589,-150.5425,34.9,1.5,ml,,,,0.54,ak,ak02349xwn2g,2023-04-03T08:30:41.316Z,Southern Alaska,earthquake,,1.7,,,automatic,ak,ak
+2023-04-03T08:27:17.100Z,33.7595,-115.9181667,3.7,1.03,ml,18.0,101.0,0.09054,0.21,ci,ci39509314,2023-04-03T08:31:00.465Z,"24km ENE of Thermal, CA",earthquake,0.52,1.42,0.213,15.0,automatic,ci,ci
