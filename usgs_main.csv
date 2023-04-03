@@ -9508,3 +9508,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T19:54:04.460Z,38.8288333,-122.8146667,1.49,0.36,md,8.0,108.0,0.0169,0.01,nc,nc73865945,2023-04-03T17:37:34.446Z,"8km NW of The Geysers, CA",earthquake,0.45,1.89,0.025,6.0,reviewed,nc,nc
 2023-04-03T17:49:04.175Z,60.5807,-142.7339,3.5,1.7,ml,,,,0.86,ak,ak0234a3e5m9,2023-04-03T17:51:34.928Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
 2023-04-03T17:47:41.192Z,63.4614,-147.5213,0.0,2.2,ml,,,,0.5,ak,ak0234a3dt1j,2023-04-03T17:49:35.149Z,"71 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-03T17:00:23.730Z,37.619,-118.8653333,5.26,0.19,md,10.0,126.0,0.00189,0.03,nc,nc73866270,2023-04-03T18:05:12.708Z,"10km E of Mammoth Lakes, CA",earthquake,0.51,0.83,0.221,9.0,reviewed,nc,nc
