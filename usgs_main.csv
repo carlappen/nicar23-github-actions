@@ -9483,3 +9483,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T15:41:02.340Z,38.8219986,-122.8528366,2.44,1.29,md,16.0,87.0,0.006373,0.02,nc,nc73866250,2023-04-03T15:42:38.109Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.42,0.19,16.0,automatic,nc,nc
 2023-04-03T15:50:11.640Z,33.3433333,-116.9056667,6.84,1.24,ml,11.0,177.0,0.2624,0.32,ci,ci39509426,2023-04-03T15:53:45.372Z,"4km WSW of Palomar Observatory, CA",earthquake,1.89,31.61,0.283,26.0,automatic,ci,ci
 2023-04-03T15:50:08.470Z,33.392,-116.899,14.83,0.69,ml,34.0,58.0,0.1112,0.18,ci,ci39509418,2023-04-03T15:53:40.586Z,"5km NW of Palomar Observatory, CA",earthquake,0.25,0.61,0.049,4.0,automatic,ci,ci
+2023-04-03T16:05:15.535Z,62.8942,-150.9368,102.4,1.1,ml,,,,0.36,ak,ak0234a2jbdt,2023-04-03T16:07:04.114Z,Central Alaska,earthquake,,1.5,,,automatic,ak,ak
+2023-04-03T08:17:35.480Z,37.6116667,-118.8505,8.68,0.86,md,5.0,129.0,0.0123,0.01,nc,nc73866165,2023-04-03T16:19:15.833Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.9,4.11,0.029,5.0,reviewed,nc,nc
+2023-04-03T01:12:52.760Z,46.321,-122.25133333333332,5.82,0.78,ml,16.0,174.0,0.02002,0.12,uw,uw61915611,2023-04-03T16:03:27.170Z,"26 km S of Morton, Washington",earthquake,0.37,0.38,0.2056793964216231,10.0,reviewed,uw,uw
