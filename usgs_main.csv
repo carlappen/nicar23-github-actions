@@ -9408,3 +9408,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T04:40:05.655Z,-58.5581,-25.002,22.773,5.1,mb,64.0,75.0,16.909,0.59,us,us6000k1n8,2023-04-03T04:56:51.040Z,South Sandwich Islands region,earthquake,11.81,5.148,0.059,94.0,reviewed,us,us
 2023-04-03T04:59:24.259Z,59.4127,-153.5496,106.4,1.7,ml,,,,0.44,ak,ak02349vppgp,2023-04-03T05:01:21.550Z,Southern Alaska,earthquake,,0.5,,,automatic,ak,ak
 2023-04-03T04:56:39.550Z,62.622,-149.6136,70.9,1.2,ml,,,,0.77,ak,ak02349vp3hv,2023-04-03T05:01:16.719Z,Central Alaska,earthquake,,1.1,,,automatic,ak,ak
+2023-04-03T03:39:03.750Z,44.4135,-124.43883333333332,27.17,2.3000000000000003,ml,21.0,154.0,0.2645,0.11,uw,uw61915651,2023-04-03T05:27:54.560Z,offshore Oregon,earthquake,0.32,0.62,0.1567479120687811,13.0,reviewed,uw,uw
