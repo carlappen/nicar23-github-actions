@@ -9552,3 +9552,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T21:02:42.869Z,36.75233333,-98.05816667,7.62,1.78,ml,45.0,87.0,0.09538128294,0.17,ok,ok2023gnry,2023-04-03T21:42:04.678Z,"8 km E of Nescatunga, Oklahoma",earthquake,,0.5,0.17,4.0,reviewed,ok,ok
 2023-04-03T03:26:56.270Z,51.8655,-178.0775,0.96,0.8,ml,4.0,188.0,,0.25,av,av91831991,2023-04-03T21:47:41.360Z,"99 km W of Adak, Alaska",earthquake,0.88,3.79,0.277912101249138,4.0,reviewed,av,av
 2023-04-03T03:24:11.400Z,51.8518333333333,-178.079666666667,3.45,1.46,ml,5.0,208.0,,0.17,av,av91831986,2023-04-03T21:45:37.970Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.7,0.51,0.201645762775891,5.0,reviewed,av,av
+2023-04-03T21:34:46.365Z,14.5226,56.2931,10.0,5.1,mb,76.0,39.0,10.369,0.94,us,us6000k1tw,2023-04-03T21:52:30.040Z,Owen Fracture Zone region,earthquake,9.18,1.874,0.055,106.0,reviewed,us,us
+2023-04-03T07:24:28.659Z,37.8707,-118.1483,0.0,2.1,ml,12.0,100.28,0.353,0.2191,nn,nn00857780,2023-04-03T21:59:25.599Z,"23 km NNW of Dyer, Nevada",earthquake,,0.0,0.57,8.0,reviewed,nn,nn
+2023-04-03T03:40:32.760Z,51.8483333333333,-178.079166666667,2.82,2.67,ml,7.0,130.0,,0.18,av,av91832001,2023-04-03T21:51:12.330Z,"99 km W of Adak, Alaska",earthquake,0.51,0.67,0.292224100533212,7.0,reviewed,av,av
