@@ -9522,3 +9522,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T19:29:55.672Z,63.083,-151.2051,2.2,1.4,ml,,,,0.71,ak,ak0234a4guhb,2023-04-03T19:31:56.744Z,"57 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-03T19:26:59.180Z,38.8378334,-122.779335,1.79,1.02,md,8.0,109.0,0.005285,0.01,nc,nc73866315,2023-04-03T19:28:33.227Z,"5km WNW of Cobb, CA",earthquake,1.07,1.4,0.29,8.0,automatic,nc,nc
 2023-04-03T03:41:21.008Z,51.3501,179.7098,44.5,3.7,ml,,,,0.33,ak,ak02349v0dtm,2023-04-03T19:29:39.757Z,"259 km WSW of Adak, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2023-04-03T19:42:01.860Z,38.7635002,-122.7373352,1.69,1.56,md,8.0,97.0,0.009936,0.04,nc,nc73866335,2023-04-03T19:43:38.656Z,"2km SE of The Geysers, CA",earthquake,0.38,0.46,0.17,8.0,automatic,nc,nc
+2023-04-03T19:39:59.720Z,38.8370018,-122.7801666,1.45,1.05,md,11.0,101.0,0.006319,0.03,nc,nc73866325,2023-04-03T19:41:38.716Z,"5km WNW of Cobb, CA",earthquake,0.58,0.75,0.11,12.0,automatic,nc,nc
+2023-04-03T19:39:20.161Z,60.7156,-150.6899,18.4,1.3,ml,,,,0.44,ak,ak0234a4iwwg,2023-04-03T19:40:29.036Z,"20 km NNE of Sterling, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-03T00:20:41.440Z,51.857,-178.054666666667,-1.8,1.34,ml,4.0,167.0,,0.27,av,av91831821,2023-04-03T19:37:21.250Z,"97 km W of Adak, Alaska",earthquake,0.73,1.78,0.299959497032454,4.0,reviewed,av,av
