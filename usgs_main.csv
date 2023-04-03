@@ -9519,3 +9519,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T22:48:31.638Z,51.9838,-174.212,7.3,2.4,ml,,,,0.92,ak,ak02348ituir,2023-04-03T19:11:20.197Z,"23 km S of Atka, Alaska",earthquake,,4.5,,,reviewed,ak,ak
 2023-04-03T19:19:40.690Z,63.3436,-150.3948,115.6,1.3,ml,,,,0.23,ak,ak0234a4eo69,2023-04-03T19:22:41.568Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-04-03T19:14:05.500Z,38.8131676,-122.8264999,1.65,1.31,md,13.0,67.0,0.004776,0.02,nc,nc73866310,2023-04-03T19:15:43.247Z,"7km WNW of The Geysers, CA",earthquake,0.26,0.39,0.11,14.0,automatic,nc,nc
+2023-04-03T19:29:55.672Z,63.083,-151.2051,2.2,1.4,ml,,,,0.71,ak,ak0234a4guhb,2023-04-03T19:31:56.744Z,"57 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-03T19:26:59.180Z,38.8378334,-122.779335,1.79,1.02,md,8.0,109.0,0.005285,0.01,nc,nc73866315,2023-04-03T19:28:33.227Z,"5km WNW of Cobb, CA",earthquake,1.07,1.4,0.29,8.0,automatic,nc,nc
+2023-04-03T03:41:21.008Z,51.3501,179.7098,44.5,3.7,ml,,,,0.33,ak,ak02349v0dtm,2023-04-03T19:29:39.757Z,"259 km WSW of Adak, Alaska",earthquake,,0.9,,,reviewed,ak,ak
