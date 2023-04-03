@@ -9421,3 +9421,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T07:20:44.380Z,33.2975,-116.1953333,1.24,1.8,ml,43.0,40.0,0.1155,0.24,ci,ci39509298,2023-04-03T07:31:00.830Z,"17km ENE of Borrego Springs, CA",earthquake,0.27,0.78,0.16,26.0,automatic,ci,ci
 2023-04-03T07:33:09.820Z,58.2471,-155.1443,4.4,0.7,ml,,,,0.53,ak,ak02349xcejq,2023-04-03T07:35:03.499Z,Alaska Peninsula,earthquake,,0.5,,,automatic,ak,ak
 2023-04-03T07:31:04.990Z,36.7946663,-121.322998,8.64,1.83,md,27.0,110.0,0.08906,0.13,nc,nc73866155,2023-04-03T07:32:43.021Z,"1km NNW of Tres Pinos, CA",earthquake,0.35,0.71,0.16,20.0,automatic,nc,nc
+2023-04-03T08:19:57.742Z,58.1663,-155.4329,15.7,0.3,ml,,,,2.1,ak,ak02349xuxtq,2023-04-03T08:22:23.158Z,Alaska Peninsula,earthquake,,0.7,,,automatic,ak,ak
+2023-04-03T08:18:39.373Z,61.0837,-152.2466,97.1,1.4,ml,,,,0.53,ak,ak02349xuoox,2023-04-03T08:20:51.214Z,Southern Alaska,earthquake,,0.9,,,automatic,ak,ak
+2023-04-03T08:12:19.572Z,36.6537,-116.2621,7.1,1.1,ml,24.0,85.32,0.062,0.1932,nn,nn00857781,2023-04-03T08:14:13.347Z,Nevada,earthquake,,0.6,0.87,16.0,automatic,nn,nn
