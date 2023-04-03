@@ -9394,3 +9394,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T11:49:16.920Z,38.7616667,-122.735,1.54,0.36,md,9.0,137.0,0.007927,0.02,nc,nc73865820,2023-04-03T03:21:52.986Z,"2km SE of The Geysers, CA",earthquake,0.55,0.46,0.118,5.0,reviewed,nc,nc
 2023-04-03T03:43:07.138Z,60.6005,-152.4964,147.9,1.5,ml,,,,0.79,ak,ak02349v0t2x,2023-04-03T03:49:14.993Z,Southern Alaska,earthquake,,0.9,,,automatic,ak,ak
 2023-04-03T03:39:03.198Z,44.4468,-124.5458,22.597,2.5,ml,33.0,109.0,0.569,0.73,us,us6000k1my,2023-04-03T03:48:28.040Z,offshore Oregon,earthquake,2.58,8.967,0.045,64.0,reviewed,us,us
+2023-04-03T04:07:34.350Z,38.75,-122.7133331,1.8,1.25,md,7.0,129.0,0.01467,0.03,nc,nc73866085,2023-04-03T04:09:13.636Z,"3km SW of Anderson Springs, CA",earthquake,0.41,0.57,0.31,7.0,automatic,nc,nc
+2023-04-03T04:05:13.753Z,60.9622,-147.5412,5.4,1.6,ml,,,,0.69,ak,ak02349ve3zj,2023-04-03T04:07:31.909Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
+2023-04-03T04:02:17.410Z,38.8051682,-122.7799988,2.89,1.05,md,16.0,66.0,0.01228,0.01,nc,nc73866080,2023-04-03T04:03:53.407Z,"4km NNW of The Geysers, CA",earthquake,0.27,0.59,0.13,16.0,automatic,nc,nc
+2023-04-03T03:56:00.560Z,33.4696667,-116.4333333,8.84,0.62,ml,17.0,118.0,0.1197,0.14,ci,ci39509258,2023-04-03T03:59:33.385Z,"24km ESE of Anza, CA",earthquake,0.32,1.04,0.131,14.0,automatic,ci,ci
+2023-04-03T03:45:49.012Z,37.9232,36.271,5.0,4.3,mb,34.0,51.0,0.348,0.65,us,us6000k1n0,2023-04-03T04:02:06.040Z,central Turkey,earthquake,1.89,1.945,0.168,10.0,reviewed,us,us
+2023-04-03T03:44:51.526Z,61.7487,-151.5666,70.7,1.7,ml,,,,0.53,ak,ak02349v147n,2023-04-03T04:05:19.993Z,Southern Alaska,earthquake,,0.9,,,automatic,ak,ak
