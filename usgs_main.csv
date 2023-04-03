@@ -9491,3 +9491,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T07:09:41.930Z,37.2548333,-113.8206667,11.14,1.62,ml,8.0,102.0,0.1339,0.11,uu,uu60536306,2023-04-03T16:38:28.210Z,"14 km WSW of Dammeron Valley, Utah",earthquake,0.41,0.73,0.129,3.0,reviewed,uu,uu
 2023-04-02T17:18:56.700Z,37.2948333,-121.6751667,2.65,0.73,md,11.0,93.0,0.03582,0.07,nc,nc73865920,2023-04-03T16:43:52.462Z,"14km E of Seven Trees, CA",earthquake,0.34,0.51,0.139,11.0,reviewed,nc,nc
 2023-04-02T16:58:23.149Z,36.41816667,-96.91883333,6.0,1.46,ml,43.0,62.0,0.0188962919,0.25,ok,ok2023gloj,2023-04-03T16:46:41.328Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.4,0.16,6.0,reviewed,ok,ok
+2023-04-03T01:54:48.690Z,36.27,-89.5085,7.34,1.45,md,12.0,88.0,0.01412,0.06,nm,nm60500573,2023-04-03T16:49:30.480Z,"1 km WNW of Ridgely, Tennessee",earthquake,0.34,0.64,0.096481360214081,9.0,reviewed,nm,nm
+2023-04-02T22:04:49.420Z,36.1148333,-120.2125,7.83,0.89,md,18.0,220.0,0.09912,0.1,nc,nc73865995,2023-04-03T16:50:53.156Z,"13km ESE of Coalinga, CA",earthquake,0.45,0.57,0.396,7.0,reviewed,nc,nc
