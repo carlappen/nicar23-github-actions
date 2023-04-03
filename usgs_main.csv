@@ -9493,3 +9493,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T16:58:23.149Z,36.41816667,-96.91883333,6.0,1.46,ml,43.0,62.0,0.0188962919,0.25,ok,ok2023gloj,2023-04-03T16:46:41.328Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.4,0.16,6.0,reviewed,ok,ok
 2023-04-03T01:54:48.690Z,36.27,-89.5085,7.34,1.45,md,12.0,88.0,0.01412,0.06,nm,nm60500573,2023-04-03T16:49:30.480Z,"1 km WNW of Ridgely, Tennessee",earthquake,0.34,0.64,0.096481360214081,9.0,reviewed,nm,nm
 2023-04-02T22:04:49.420Z,36.1148333,-120.2125,7.83,0.89,md,18.0,220.0,0.09912,0.1,nc,nc73865995,2023-04-03T16:50:53.156Z,"13km ESE of Coalinga, CA",earthquake,0.45,0.57,0.396,7.0,reviewed,nc,nc
+2023-04-03T17:08:07.390Z,60.9292,-149.6815,32.6,1.6,ml,,,,0.59,ak,ak0234a35dib,2023-04-03T17:10:10.086Z,"2 km WNW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-03T17:05:30.740Z,38.7556648,-122.7225037,2.88,1.14,md,12.0,117.0,0.0062,0.03,nc,nc73866275,2023-04-03T17:07:07.480Z,"3km SW of Anderson Springs, CA",earthquake,0.4,0.48,0.24,11.0,automatic,nc,nc
+2023-04-03T05:46:10.610Z,39.3493333,-122.812,6.85,1.76,md,24.0,83.0,0.166,0.1,nc,nc73866115,2023-04-03T16:58:24.677Z,"14km ESE of Lake Pillsbury, CA",earthquake,0.25,0.81,0.159,25.0,reviewed,nc,nc
+2023-04-02T18:12:36.399Z,36.41433333,-96.87733333,6.47,0.89,ml,24.0,73.0,0.04319152435,0.11,ok,ok2023glqv,2023-04-03T16:58:21.522Z,"10 km NW of Pawnee, Oklahoma",earthquake,,0.3,0.17,4.0,reviewed,ok,ok
