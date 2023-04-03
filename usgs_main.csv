@@ -9415,3 +9415,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T05:55:17.624Z,62.6065,-152.8592,0.0,1.4,ml,,,,0.82,ak,ak02349wa9oy,2023-04-03T05:57:56.213Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
 2023-04-03T06:21:36.411Z,58.1997,-155.2828,0.6,0.3,ml,,,,1.1,ak,ak02349wogeh,2023-04-03T06:22:50.083Z,Alaska Peninsula,earthquake,,1.0,,,automatic,ak,ak
 2023-04-03T06:48:34.030Z,34.0251667,-117.1535,14.82,0.95,ml,25.0,94.0,0.03564,0.16,ci,ci39509282,2023-04-03T06:52:16.561Z,"4km SE of Redlands, CA",earthquake,0.27,0.57,0.136,18.0,automatic,ci,ci
+2023-04-03T06:54:46.550Z,33.6096667,-117.9826667,14.79,1.4,ml,13.0,269.0,0.0816,0.29,ci,ci39509290,2023-04-03T06:58:27.685Z,"5km WSW of Newport Beach, CA",earthquake,1.05,0.77,0.272,30.0,automatic,ci,ci
+2023-04-03T06:08:48.897Z,56.2598,-149.996,10.0,3.4,ml,20.0,263.0,2.082,0.44,us,us6000k1nd,2023-04-03T07:05:01.040Z,Gulf of Alaska,earthquake,8.47,2.022,0.049,54.0,reviewed,us,us
