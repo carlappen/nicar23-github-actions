@@ -9648,3 +9648,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T06:03:47.400Z,38.8161659,-122.8180008,2.06,0.87,md,8.0,92.0,0.01137,0.03,nc,nc73866630,2023-04-04T06:17:12.201Z,"7km NW of The Geysers, CA",earthquake,0.38,1.03,0.15,9.0,automatic,nc,nc
 2023-04-04T06:00:44.288Z,60.2275,-152.4587,106.7,1.4,ml,,,,0.11,ak,ak0234bk3bgs,2023-04-04T06:01:56.922Z,"48 km WNW of Ninilchik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-04-04T05:55:31.094Z,36.2839,-116.4706,4.7,1.6,ml,21.0,160.85,0.188,0.1691,nn,nn00857807,2023-04-04T05:57:39.327Z,"38 km ESE of Furnace Creek, California",earthquake,,1.3,0.89,16.0,automatic,nn,nn
+2023-04-04T06:22:26.640Z,35.7001667,-117.5356667,2.01,1.64,ml,16.0,77.0,0.1282,0.16,ci,ci39509538,2023-04-04T06:26:05.592Z,"14km WSW of Searles Valley, CA",earthquake,0.39,0.79,0.094,16.0,automatic,ci,ci
+2023-04-04T06:02:39.600Z,18.0053333333333,-66.7791666666667,13.49,2.78,md,15.0,160.0,0.09991,0.19,pr,pr71402453,2023-04-04T06:19:09.480Z,"1 km SW of Magas Arriba, Puerto Rico",earthquake,0.46,0.34,0.0708408992089271,10.0,reviewed,pr,pr
