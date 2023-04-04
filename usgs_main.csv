@@ -9652,3 +9652,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T06:02:39.600Z,18.0053333333333,-66.7791666666667,13.49,2.78,md,15.0,160.0,0.09991,0.19,pr,pr71402453,2023-04-04T06:19:09.480Z,"1 km SW of Magas Arriba, Puerto Rico",earthquake,0.46,0.34,0.0708408992089271,10.0,reviewed,pr,pr
 2023-04-04T06:31:49.440Z,56.8696,-157.709,4.7,2.2,ml,,,,0.77,ak,ak0234bk9z28,2023-04-04T06:34:06.364Z,"56 km E of Port Heiden, Alaska",earthquake,,4.0,,,automatic,ak,ak
 2023-04-04T06:20:42.730Z,17.9933333333333,-66.777,14.2,2.86,md,7.0,194.0,0.09901,0.08,pr,pr71402468,2023-04-04T06:33:08.110Z,"2 km SSW of Magas Arriba, Puerto Rico",earthquake,0.51,0.81,0.0968690463575848,3.0,reviewed,pr,pr
+2023-04-04T06:57:00.220Z,32.9296667,-116.3691667,8.35,1.31,ml,29.0,58.0,0.06065,0.18,ci,ci39509546,2023-04-04T07:00:35.803Z,"19km NE of Pine Valley, CA",earthquake,0.26,0.76,0.151,19.0,automatic,ci,ci
+2023-04-04T06:51:45.997Z,56.0472,-159.5401,136.8,1.5,ml,,,,0.41,ak,ak0234bke98n,2023-04-04T06:54:40.183Z,"16 km NNW of Ivanof Bay, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-04-04T05:57:02.667Z,-4.1806,143.2038,69.806,4.2,mb,26.0,119.0,6.508,0.51,us,us6000k1vp,2023-04-04T06:57:50.040Z,"42 km E of Ambunti, Papua New Guinea",earthquake,12.71,8.418,0.147,13.0,reviewed,us,us
