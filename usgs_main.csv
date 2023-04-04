@@ -9645,3 +9645,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T05:28:18.680Z,33.4966667,-116.5441667,12.6,0.87,ml,24.0,81.0,0.04853,0.14,ci,ci39509514,2023-04-04T05:32:01.058Z,"14km ESE of Anza, CA",earthquake,0.25,0.43,0.234,19.0,automatic,ci,ci
 2023-04-04T05:41:29.970Z,36.9363327,-121.5846634,19.16,1.28,md,6.0,139.0,0.05211,0.03,nc,nc73866620,2023-04-04T05:43:09.132Z,"7km NE of Aromas, CA",earthquake,1.05,2.7,0.27,8.0,automatic,nc,nc
 2023-04-04T05:35:32.640Z,35.2925,-118.5456667,5.74,1.34,ml,14.0,75.0,0.1022,0.12,ci,ci39509522,2023-04-04T05:39:11.349Z,"20km NNW of Tehachapi, CA",earthquake,0.27,1.04,0.103,5.0,automatic,ci,ci
+2023-04-04T06:03:47.400Z,38.8161659,-122.8180008,2.06,0.87,md,8.0,92.0,0.01137,0.03,nc,nc73866630,2023-04-04T06:17:12.201Z,"7km NW of The Geysers, CA",earthquake,0.38,1.03,0.15,9.0,automatic,nc,nc
+2023-04-04T06:00:44.288Z,60.2275,-152.4587,106.7,1.4,ml,,,,0.11,ak,ak0234bk3bgs,2023-04-04T06:01:56.922Z,"48 km WNW of Ninilchik, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2023-04-04T05:55:31.094Z,36.2839,-116.4706,4.7,1.6,ml,21.0,160.85,0.188,0.1691,nn,nn00857807,2023-04-04T05:57:39.327Z,"38 km ESE of Furnace Creek, California",earthquake,,1.3,0.89,16.0,automatic,nn,nn
