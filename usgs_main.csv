@@ -9636,3 +9636,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T02:00:19.090Z,38.8373333,-122.7773333,2.76,0.46,md,10.0,86.0,0.005312,0.01,nc,nc73866540,2023-04-04T04:28:57.163Z,"5km WNW of Cobb, CA",earthquake,0.44,0.84,0.085,8.0,reviewed,nc,nc
 2023-04-04T04:27:40.481Z,2.5867,128.3256,190.461,4.6,mb,22.0,158.0,2.042,0.48,us,us6000k1vb,2023-04-04T04:44:58.040Z,"101 km NNE of Tobelo, Indonesia",earthquake,12.76,10.281,0.151,13.0,reviewed,us,us
 2023-04-04T04:43:16.653Z,65.4314,-153.4416,0.0,1.6,ml,,,,0.75,ak,ak0234bj5m0w,2023-04-04T04:47:02.054Z,northern Alaska,earthquake,,0.5,,,automatic,ak,ak
+2023-04-04T05:06:37.990Z,38.8313332,-122.7996674,1.76,0.71,md,6.0,151.0,0.02137,0.01,nc,nc73866615,2023-04-04T05:08:13.015Z,"7km W of Cobb, CA",earthquake,1.0,1.66,0.27,7.0,automatic,nc,nc
+2023-04-04T05:05:21.410Z,33.3826667,-116.8968333,13.96,1.52,ml,50.0,33.0,0.1131,0.21,ci,ci39509506,2023-04-04T05:09:05.167Z,"4km NW of Palomar Observatory, CA",earthquake,0.21,0.68,0.153,26.0,automatic,ci,ci
+2023-04-03T12:44:14.962Z,38.0967,37.7671,6.201,4.1,mwr,27.0,98.0,0.906,0.55,us,us6000k1pg,2023-04-04T05:01:58.040Z,"9 km W of Doğanşehir, Turkey",earthquake,3.1,5.374,0.071,19.0,reviewed,us,us
