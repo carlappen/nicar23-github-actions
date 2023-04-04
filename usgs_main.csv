@@ -9823,3 +9823,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T22:59:48.690Z,58.1835,-155.327833333333,2.3,0.13,ml,9.0,161.0,,0.09,av,av91833081,2023-04-04T21:34:52.560Z,"85 km NW of Karluk, Alaska",earthquake,0.25,0.35,0.278079162892313,9.0,reviewed,av,av
 2023-04-04T19:26:59.548Z,-27.3616,-71.1104,46.824,4.3,mb,23.0,140.0,0.672,1.03,us,us6000k1zu,2023-04-04T21:46:28.066Z,"77 km W of Copiapó, Chile",earthquake,5.91,9.861,0.265,5.0,reviewed,us,us
 2023-04-03T23:21:41.530Z,53.3733333333333,-168.1125,0.41,-0.33,ml,5.0,215.0,,0.17,av,av91833101,2023-04-04T21:41:41.600Z,"69 km NE of Nikolski, Alaska",earthquake,0.59,0.41,0.196486325197119,4.0,reviewed,av,av
+2023-04-04T21:18:42.337Z,51.8696,-178.0589,4.1,1.8,ml,,,,0.35,ak,ak0234bt4oc0,2023-04-04T21:57:30.167Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,0.0,,,reviewed,ak,ak
+2023-04-03T23:32:16.500Z,53.9218333333333,-166.702333333333,4.04,0.5,ml,7.0,111.0,,0.1,av,av91833116,2023-04-04T21:55:05.380Z,"11 km WNW of Dutch Harbor, Alaska",earthquake,0.29,0.58,0.193496689590462,7.0,reviewed,av,av
