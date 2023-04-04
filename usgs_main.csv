@@ -9796,3 +9796,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T19:36:46.520Z,38.7890015,-122.7763367,0.18,1.54,md,26.0,81.0,0.009966,0.03,nc,nc73866860,2023-04-04T19:38:22.837Z,"2km NW of The Geysers, CA",earthquake,0.17,0.4,0.13,26.0,automatic,nc,nc
 2023-04-04T19:32:25.593Z,59.5513,-145.4196,12.6,2.2,ml,,,,0.49,ak,ak0234bs0rys,2023-04-04T19:35:10.894Z,"112 km S of Cordova, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-04T19:47:25.500Z,38.8143349,-122.8525009,1.12,1.08,md,17.0,87.0,0.01363,0.02,nc,nc73866865,2023-04-04T19:49:02.892Z,"9km WNW of The Geysers, CA",earthquake,0.22,0.4,0.27,18.0,automatic,nc,nc
+2023-04-04T20:03:15.768Z,62.18,-149.4612,19.7,1.1,ml,,,,0.26,ak,ak0234bsfyvs,2023-04-04T20:04:45.258Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
