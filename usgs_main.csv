@@ -9805,3 +9805,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T20:37:02.990Z,38.776001,-122.7356644,1.87,1.47,md,21.0,61.0,0.007273,0.03,nc,nc73866880,2023-04-04T20:38:38.089Z,"2km E of The Geysers, CA",earthquake,0.24,0.36,0.14,22.0,automatic,nc,nc
 2023-04-04T20:36:41.447Z,61.7786,-151.6917,81.1,0.8,ml,,,,0.31,ak,ak0234bsn3hs,2023-04-04T20:38:50.463Z,"28 km SSW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-04T20:33:10.658Z,63.2683,-151.3446,0.9,1.1,ml,,,,0.74,ak,ak0234bsmdyx,2023-04-04T20:41:20.255Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-04T20:45:32.323Z,60.6706,-144.9717,20.1,1.6,ml,,,,1.09,ak,ak0234bsp08g,2023-04-04T20:48:16.897Z,"45 km ENE of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
