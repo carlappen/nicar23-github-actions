@@ -9740,3 +9740,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T16:20:35.948Z,69.1419,-145.7964,39.6,2.8,ml,,,,0.83,ak,ak0234bq5x6y,2023-04-04T16:26:24.141Z,"113 km N of Arctic Village, Alaska",earthquake,,6.4,,,automatic,ak,ak
 2023-04-04T15:15:43.144Z,42.814,144.9514,74.749,4.6,mb,78.0,101.0,1.55,0.59,us,us6000k1yq,2023-04-04T16:38:15.040Z,"50 km ESE of Kushiro, Japan",earthquake,4.78,6.536,0.057,92.0,reviewed,us,us
 2023-04-04T14:53:08.017Z,28.2978,56.9272,10.0,4.0,mb,25.0,144.0,3.401,0.94,us,us6000k1xv,2023-04-04T16:27:10.040Z,southern Iran,earthquake,13.03,1.95,0.126,17.0,reviewed,us,us
+2023-04-04T16:33:34.690Z,19.1771666666667,-155.500666666667,34.58,3.9,ml,44.0,99.0,,0.12,hv,hv73356382,2023-04-04T16:48:35.540Z,"Island of Hawaii, Hawaii",earthquake,0.43,0.56,0.168104680817429,26.0,reviewed,hv,hv
+2023-04-04T04:39:37.269Z,31.60870925,-103.9638238,9.640710449,2.1,ml,38.0,47.0,0.004721002171,0.2,tx,tx2023goha,2023-04-04T16:40:21.700Z,"36 km WSW of Mentone, Texas",earthquake,0.4680756208,0.4315353886,0.1,21.0,reviewed,tx,tx
