@@ -9683,3 +9683,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T10:48:11.360Z,33.4505,-117.0023333,16.32,1.08,ml,16.0,74.0,0.141,0.32,ci,ci39509586,2023-04-04T10:51:55.355Z,"12km NE of Pala, CA",earthquake,0.82,2.93,0.131,12.0,automatic,ci,ci
 2023-04-04T10:48:06.130Z,33.3915,-116.9036667,15.27,0.71,ml,31.0,57.0,0.1483,0.24,ci,ci39509578,2023-04-04T10:51:39.113Z,"5km NW of Palomar Observatory, CA",earthquake,0.36,1.16,0.216,5.0,automatic,ci,ci
 2023-04-04T07:07:30.533Z,27.0852,141.4644,111.838,4.9,mb,68.0,121.0,6.178,0.97,us,us6000k1vu,2023-04-04T10:51:35.040Z,"Bonin Islands, Japan region",earthquake,10.97,7.384,0.038,231.0,reviewed,us,us
+2023-04-04T11:00:28.257Z,62.4649,-151.7456,7.6,1.4,ml,,,,0.58,ak,ak0234bn2g95,2023-04-04T11:02:27.060Z,"50 km W of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
