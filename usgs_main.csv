@@ -9591,3 +9591,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T23:30:43.820Z,38.8440018,-122.8101654,6.43,0.23,md,8.0,87.0,0.01481,0.02,nc,nc73866455,2023-04-03T23:32:22.574Z,"8km WNW of Cobb, CA",earthquake,0.83,0.89,0.09,7.0,automatic,nc,nc
 2023-04-03T21:56:28.930Z,46.50116666666667,-122.5655,-0.51,1.28,ml,19.0,101.0,0.05546,0.28,uw,uw61915846,2023-04-03T23:32:16.210Z,"6 km WSW of Mossyrock, Washington",explosion,0.93,31.61,0.1626094507160949,8.0,reviewed,uw,uw
 2023-04-03T11:05:05.720Z,33.2961667,-116.1965,2.3,1.86,ml,24.0,128.0,0.1461,0.33,ci,ci37521989,2023-04-03T23:36:22.505Z,"17km ENE of Borrego Springs, CA",earthquake,0.59,0.96,0.15,32.0,reviewed,ci,ci
+2023-04-04T01:16:10.820Z,34.2725,-117.6366667,10.42,1.71,ml,48.0,32.0,0.03816,0.25,ci,ci39509482,2023-04-04T01:19:52.997Z,"10km S of Wrightwood, CA",earthquake,0.34,0.57,0.185,28.0,automatic,ci,ci
+2023-04-04T01:16:05.530Z,34.3296661,-117.5930023,22.27,1.5,ml,20.0,79.0,0.1056,0.46,ci,ci39509490,2023-04-04T01:18:30.247Z,"5km SE of Wrightwood, CA",earthquake,0.99,1.34,0.248,18.0,automatic,ci,ci
+2023-04-04T01:07:15.166Z,61.1636,-149.1586,23.0,1.6,ml,,,,0.48,ak,ak0234bh5l7g,2023-04-04T01:08:59.965Z,"24 km N of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-04T00:56:04.289Z,58.1699,-155.3647,1.1,0.8,ml,,,,0.29,ak,ak0234bgumuk,2023-04-04T00:58:27.384Z,"85 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2023-04-04T00:24:58.630Z,38.7910004,-122.7593307,0.95,1.07,md,9.0,124.0,0.01929,0.02,nc,nc73866495,2023-04-04T01:15:12.366Z,"2km N of The Geysers, CA",earthquake,0.32,0.82,0.19,8.0,automatic,nc,nc
+2023-04-04T00:24:40.570Z,38.8089981,-122.8306656,0.87,1.02,md,7.0,141.0,0.001169,0.02,nc,nc73866490,2023-04-04T01:05:14.306Z,"7km WNW of The Geysers, CA",earthquake,0.61,0.91,0.35,8.0,automatic,nc,nc
+2023-04-04T00:09:48.121Z,65.024,-147.0371,14.2,1.3,ml,,,,1.0,ak,ak0234bgknks,2023-04-04T00:12:21.814Z,"16 km N of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
