@@ -9800,3 +9800,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T20:25:20.600Z,38.7885017,-122.7458344,0.94,1.32,md,22.0,85.0,0.00885,0.06,nc,nc73866875,2023-04-04T20:26:58.215Z,"2km NE of The Geysers, CA",earthquake,0.23,0.44,0.12,22.0,automatic,nc,nc
 2023-04-04T13:47:13.180Z,40.2338333,-124.199,11.76,1.15,md,13.0,158.0,0.02751,0.07,nc,nc73866705,2023-04-04T20:33:10.340Z,"12km SE of Petrolia, CA",earthquake,0.52,0.58,0.137,6.0,reviewed,nc,nc
 2023-04-04T10:26:08.295Z,32.91412354,-100.895222,5.600138346,2.1,ml,18.0,71.0,0.02648053457,0.3,tx,tx2023gosl,2023-04-04T20:26:39.081Z,"21 km N of Snyder, Texas",earthquake,0.7960513534,1.668106535,0.1,9.0,reviewed,tx,tx
+2023-04-04T20:42:26.170Z,36.8914986,-121.6244965,0.36,2.52,md,10.0,89.0,0.02701,0.36,nc,nc73866890,2023-04-04T20:44:13.078Z,"2km E of Aromas, CA",earthquake,1.28,2.17,0.3,9.0,automatic,nc,nc
+2023-04-04T20:37:58.530Z,38.8364983,-122.80233,2.31,1.05,md,18.0,61.0,0.009553,0.02,nc,nc73866885,2023-04-04T20:39:33.153Z,"7km WNW of Cobb, CA",earthquake,0.24,0.54,0.27,19.0,automatic,nc,nc
+2023-04-04T20:37:02.990Z,38.776001,-122.7356644,1.87,1.47,md,21.0,61.0,0.007273,0.03,nc,nc73866880,2023-04-04T20:38:38.089Z,"2km E of The Geysers, CA",earthquake,0.24,0.36,0.14,22.0,automatic,nc,nc
+2023-04-04T20:36:41.447Z,61.7786,-151.6917,81.1,0.8,ml,,,,0.31,ak,ak0234bsn3hs,2023-04-04T20:38:50.463Z,"28 km SSW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-04-04T20:33:10.658Z,63.2683,-151.3446,0.9,1.1,ml,,,,0.74,ak,ak0234bsmdyx,2023-04-04T20:41:20.255Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
