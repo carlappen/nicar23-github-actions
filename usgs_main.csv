@@ -9813,3 +9813,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T20:17:32.140Z,37.6065,-122.4536667,8.09,0.86,md,14.0,89.0,0.03494,0.07,nc,nc73866870,2023-04-04T21:17:45.302Z,"3km ESE of Pacifica, CA",earthquake,0.28,0.5,0.245,10.0,reviewed,nc,nc
 2023-04-03T21:44:53.700Z,53.8755,-166.590333333333,5.04,0.17,ml,6.0,150.0,,0.19,av,av91833036,2023-04-04T21:17:57.920Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.53,1.29,0.19812844704076,6.0,reviewed,av,av
 2023-04-03T21:44:02.260Z,53.8826666666667,-166.589,4.99,0.1,ml,6.0,158.0,,0.11,av,av91833031,2023-04-04T21:16:16.030Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.47,0.99,0.201261858989329,6.0,reviewed,av,av
+2023-04-04T19:00:13.220Z,38.754,-122.713,1.67,0.31,md,10.0,75.0,0.01198,0.04,nc,nc73866830,2023-04-04T21:26:47.133Z,"3km SW of Anderson Springs, CA",earthquake,0.34,0.49,0.245,5.0,reviewed,nc,nc
+2023-04-03T22:17:21.610Z,51.897,-177.9475,4.5,0.49,ml,4.0,220.0,,0.11,av,av91833056,2023-04-04T21:29:29.300Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.51,1.68,0.115470182507302,4.0,reviewed,av,av
+2023-04-03T22:11:52.160Z,53.3921666666667,-168.184833333333,-0.4,0.55,ml,6.0,220.0,,0.17,av,av91833046,2023-04-04T21:25:10.950Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.48,0.74,0.364502151947817,6.0,reviewed,av,av
