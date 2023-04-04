@@ -9679,3 +9679,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T10:11:14.374Z,59.9854,-152.7353,101.2,1.9,ml,,,,0.38,ak,ak0234bmjcgd,2023-04-04T10:14:10.916Z,"55 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-04T09:27:12.030Z,-15.6072,168.0436,10.0,4.7,mb,33.0,129.0,0.826,0.99,us,us6000k1wb,2023-04-04T10:24:31.040Z,"85 km NE of Norsup, Vanuatu",earthquake,4.64,1.896,0.085,44.0,reviewed,us,us
 2023-04-04T10:28:16.630Z,38.8274994,-122.8218307,1.87,0.79,md,11.0,66.0,0.0112,0.01,nc,nc73866685,2023-04-04T10:29:53.269Z,"8km NW of The Geysers, CA",earthquake,0.34,0.7,0.21,12.0,automatic,nc,nc
+2023-04-04T10:40:46.456Z,36.2556,-116.5036,11.9,1.4,ml,19.0,165.9,0.151,0.242,nn,nn00857813,2023-04-04T10:43:01.887Z,"37 km NW of Shoshone, California",earthquake,,0.9,1.0,12.0,automatic,nn,nn
