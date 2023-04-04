@@ -9728,3 +9728,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T15:35:07.480Z,38.8353348,-122.8126678,1.83,0.47,md,9.0,83.0,0.01812,0.01,nc,nc73866755,2023-04-04T15:36:43.288Z,"8km W of Cobb, CA",earthquake,0.4,1.17,0.33,11.0,automatic,nc,nc
 2023-04-04T15:33:32.500Z,38.8059998,-122.7803345,2.91,1.08,md,15.0,66.0,0.01186,0.02,nc,nc73866750,2023-04-04T15:35:09.228Z,"4km NNW of The Geysers, CA",earthquake,0.3,0.7,0.14,16.0,automatic,nc,nc
 2023-04-04T14:43:29.332Z,13.7153,125.4613,10.0,4.7,mb,75.0,119.0,6.605,0.7,us,us6000k1xu,2023-04-04T15:28:54.040Z,"116 km E of Gigmoto, Philippines",earthquake,7.43,1.83,0.067,67.0,reviewed,us,us
+2023-04-04T15:35:53.001Z,60.4961,-147.9112,19.9,1.8,ml,,,,0.54,ak,ak0234bpnqn8,2023-04-04T15:37:59.753Z,"48 km N of Chenega, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-04T15:34:30.960Z,39.7195,-110.8326667,-2.81,1.59,ml,12.0,112.0,0.07037,0.2,uu,uu60536361,2023-04-04T15:46:36.960Z,"4 km NNW of Kenilworth, Utah",earthquake,0.56,1.28,0.022,3.0,reviewed,uu,uu
