@@ -9737,3 +9737,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T15:59:16.390Z,36.6245003,-121.1104965,6.27,1.75,md,17.0,136.0,0.07326,0.14,nc,nc73866760,2023-04-04T16:22:14.848Z,"11km NNE of Pinnacles, CA",earthquake,0.6,1.24,0.19,14.0,automatic,nc,nc
 2023-04-04T14:00:59.926Z,30.5839,131.1345,44.236,4.3,mb,47.0,117.0,1.092,0.57,us,us6000k1xp,2023-04-04T16:14:53.040Z,"20 km SE of Nishinoomote, Japan",earthquake,6.34,4.701,0.099,29.0,reviewed,us,us
 2023-04-03T20:59:22.655Z,31.51538887,-104.0057413,9.730688477,2.4,ml,37.0,57.0,0.04564383799,0.1,tx,tx2023gnrv,2023-04-04T15:59:46.020Z,western Texas,earthquake,0.6161133783,0.7409191796,0.1,14.0,reviewed,tx,tx
+2023-04-04T16:20:35.948Z,69.1419,-145.7964,39.6,2.8,ml,,,,0.83,ak,ak0234bq5x6y,2023-04-04T16:26:24.141Z,"113 km N of Arctic Village, Alaska",earthquake,,6.4,,,automatic,ak,ak
+2023-04-04T15:15:43.144Z,42.814,144.9514,74.749,4.6,mb,78.0,101.0,1.55,0.59,us,us6000k1yq,2023-04-04T16:38:15.040Z,"50 km ESE of Kushiro, Japan",earthquake,4.78,6.536,0.057,92.0,reviewed,us,us
+2023-04-04T14:53:08.017Z,28.2978,56.9272,10.0,4.0,mb,25.0,144.0,3.401,0.94,us,us6000k1xv,2023-04-04T16:27:10.040Z,southern Iran,earthquake,13.03,1.95,0.126,17.0,reviewed,us,us
