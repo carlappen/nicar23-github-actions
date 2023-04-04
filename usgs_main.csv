@@ -9831,3 +9831,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T22:23:17.780Z,36.8035011,-121.3219986,9.15,4.46,mw,66.0,49.0,0.09786,0.13,nc,nc73866925,2023-04-04T22:31:35.396Z,"2km N of Tres Pinos, CA",earthquake,0.2,0.37,,4.0,reviewed,nc,nc
 2023-04-04T22:22:58.150Z,19.3803329467773,-155.285171508789,0.370000004768372,1.79999995,md,4.0,207.0,,0.0799999982,hv,hv73356632,2023-04-04T22:25:56.310Z,"8 km SW of Volcano, Hawaii",earthquake,0.47,0.649999976,0.75999999,3.0,automatic,hv,hv
 2023-04-04T22:18:12.000Z,7.575,-82.321,10.0,6.6,Mi,20.0,82.79999337600053,2.918626,0.69,at,at00rsm3ae,2023-04-04T22:24:47.654Z,south of Panama,earthquake,0.0,0.0,,4.0,reviewed,at,at
+2023-04-04T22:18:12.605Z,7.5834,-82.3214,12.966,6.3,mww,113.0,63.0,1.286,0.89,us,us6000k20g,2023-04-04T22:40:14.891Z,"71 km S of Boca Chica, Panama",earthquake,6.03,1.928,0.051,37.0,reviewed,us,us
