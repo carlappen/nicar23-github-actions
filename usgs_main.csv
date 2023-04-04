@@ -9685,3 +9685,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T07:07:30.533Z,27.0852,141.4644,111.838,4.9,mb,68.0,121.0,6.178,0.97,us,us6000k1vu,2023-04-04T10:51:35.040Z,"Bonin Islands, Japan region",earthquake,10.97,7.384,0.038,231.0,reviewed,us,us
 2023-04-04T11:00:28.257Z,62.4649,-151.7456,7.6,1.4,ml,,,,0.58,ak,ak0234bn2g95,2023-04-04T11:02:27.060Z,"50 km W of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-04T11:13:30.619Z,62.3558,-150.313,55.2,2.1,ml,,,,0.77,ak,ak0234bn58qt,2023-04-04T11:15:40.117Z,"6 km NW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-04T11:24:21.580Z,34.265,-116.8033333,5.31,1.26,ml,25.0,70.0,0.08519,0.2,ci,ci39509602,2023-04-04T11:27:59.195Z,"4km E of Big Bear City, CA",earthquake,0.31,1.19,0.17,30.0,automatic,ci,ci
+2023-04-04T11:22:02.700Z,34.263,-116.803,4.41,1.51,ml,33.0,64.0,0.08719,0.21,ci,ci39509594,2023-04-04T11:32:33.200Z,"4km E of Big Bear City, CA",earthquake,0.29,1.38,0.134,27.0,automatic,ci,ci
