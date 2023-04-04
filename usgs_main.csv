@@ -9826,3 +9826,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T21:18:42.337Z,51.8696,-178.0589,4.1,1.8,ml,,,,0.35,ak,ak0234bt4oc0,2023-04-04T21:57:30.167Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2023-04-03T23:32:16.500Z,53.9218333333333,-166.702333333333,4.04,0.5,ml,7.0,111.0,,0.1,av,av91833116,2023-04-04T21:55:05.380Z,"11 km WNW of Dutch Harbor, Alaska",earthquake,0.29,0.58,0.193496689590462,7.0,reviewed,av,av
 2023-04-04T22:02:17.210Z,19.2603340148926,-155.389663696289,33.2900009155273,2.00999999,md,35.0,130.0,,0.119999997,hv,hv73356612,2023-04-04T22:05:31.570Z,"Hawaii region, Hawaii",earthquake,0.58,0.709999979,1.40999997,12.0,automatic,hv,hv
+2023-04-04T22:29:19.501Z,61.4898,-151.2459,63.7,2.6,ml,,,,0.22,ak,ak0234btsety,2023-04-04T22:30:54.386Z,"39 km W of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-04-04T22:27:20.865Z,61.5853,-149.7938,43.9,1.6,ml,,,,0.55,ak,ak0234btrzo6,2023-04-04T22:29:29.876Z,"5 km SSE of Houston, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-04-04T22:23:17.780Z,36.8035011,-121.3219986,9.15,4.46,mw,66.0,49.0,0.09786,0.13,nc,nc73866925,2023-04-04T22:31:35.396Z,"2km N of Tres Pinos, CA",earthquake,0.2,0.37,,4.0,reviewed,nc,nc
+2023-04-04T22:22:58.150Z,19.3803329467773,-155.285171508789,0.370000004768372,1.79999995,md,4.0,207.0,,0.0799999982,hv,hv73356632,2023-04-04T22:25:56.310Z,"8 km SW of Volcano, Hawaii",earthquake,0.47,0.649999976,0.75999999,3.0,automatic,hv,hv
+2023-04-04T22:18:12.000Z,7.575,-82.321,10.0,6.6,Mi,20.0,82.79999337600053,2.918626,0.69,at,at00rsm3ae,2023-04-04T22:24:47.654Z,south of Panama,earthquake,0.0,0.0,,4.0,reviewed,at,at
