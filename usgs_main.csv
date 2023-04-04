@@ -9703,3 +9703,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T13:01:01.900Z,33.3895,-116.9075,14.23,1.07,ml,27.0,63.0,0.104,0.18,ci,ci39509626,2023-04-04T13:04:43.478Z,"6km NW of Palomar Observatory, CA",earthquake,0.34,0.95,0.213,21.0,automatic,ci,ci
 2023-04-04T12:57:38.894Z,60.096,-152.8024,104.3,1.4,ml,,,,0.3,ak,ak0234bo04ht,2023-04-04T12:59:23.826Z,"61 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-04T10:56:23.680Z,18.007,-66.8243333333333,7.3,2.23,md,4.0,187.0,0.2126,0.13,pr,pr71402508,2023-04-04T12:48:45.690Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.75,1.6,0.0129592784144628,4.0,reviewed,pr,pr
+2023-04-04T13:06:09.650Z,19.466667175293,-155.74333190918,72.2200012207031,2.07999992,md,21.0,255.0,,0.239999995,hv,hv73356282,2023-04-04T13:07:54.980Z,"12 km E of Honaunau-Napoopoo, Hawaii",earthquake,9.77,14.1199999,2.01999998,6.0,automatic,hv,hv
+2023-04-04T13:05:51.106Z,58.3784,-155.5291,47.8,1.6,ml,,,,1.18,ak,ak0234boaft2,2023-04-04T13:09:41.074Z,"74 km ESE of King Salmon, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-04-04T12:54:32.603Z,13.7533,125.5404,15.027,6.2,mww,158.0,36.0,6.642,0.53,us,us6000k1x2,2023-04-04T13:24:26.125Z,"124 km E of Gigmoto, Philippines",earthquake,7.85,3.707,0.04,59.0,reviewed,us,us
