@@ -9598,3 +9598,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T00:24:58.630Z,38.7910004,-122.7593307,0.95,1.07,md,9.0,124.0,0.01929,0.02,nc,nc73866495,2023-04-04T01:15:12.366Z,"2km N of The Geysers, CA",earthquake,0.32,0.82,0.19,8.0,automatic,nc,nc
 2023-04-04T00:24:40.570Z,38.8089981,-122.8306656,0.87,1.02,md,7.0,141.0,0.001169,0.02,nc,nc73866490,2023-04-04T01:05:14.306Z,"7km WNW of The Geysers, CA",earthquake,0.61,0.91,0.35,8.0,automatic,nc,nc
 2023-04-04T00:09:48.121Z,65.024,-147.0371,14.2,1.3,ml,,,,1.0,ak,ak0234bgknks,2023-04-04T00:12:21.814Z,"16 km N of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-04T02:15:10.678Z,62.7892,-149.2574,73.0,1.0,ml,,,,0.49,ak,ak0234bhsq6z,2023-04-04T02:17:41.776Z,"57 km NE of Chase, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-04-04T02:07:08.040Z,38.7878342,-122.7679977,2.14,1.09,md,7.0,97.0,0.02487,0.03,nc,nc73866545,2023-04-04T02:08:42.674Z,"2km NW of The Geysers, CA",earthquake,0.37,1.49,0.17,8.0,automatic,nc,nc
+2023-04-04T02:07:02.899Z,62.2713,-149.7854,6.2,1.4,ml,,,,0.61,ak,ak0234bhqzv5,2023-04-04T02:09:03.919Z,"12 km NNE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-04T01:34:08.220Z,63.1349,-152.0786,2.9,1.6,ml,,,,0.7,ak,ak0234bhbd06,2023-04-04T01:36:23.595Z,"48 km SSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-04T01:12:09.377Z,4.5894,127.3401,58.584,4.5,mb,28.0,135.0,3.023,0.51,us,us6000k1us,2023-04-04T01:54:20.040Z,"Kepulauan Talaud, Indonesia",earthquake,8.91,7.621,0.115,22.0,reviewed,us,us
+2023-04-03T10:11:16.650Z,51.8526666666667,-178.096833333333,3.71,0.65,ml,4.0,218.0,,0.22,av,av91832376,2023-04-04T01:41:24.930Z,"100 km W of Adak, Alaska",earthquake,0.78,0.96,0.292941959331073,4.0,reviewed,av,av
+2023-04-03T10:04:42.700Z,58.1778333333333,-155.333333333333,2.0,-0.25,ml,8.0,169.0,,0.07,av,av91832371,2023-04-04T01:56:47.340Z,Alaska Peninsula,earthquake,0.24,0.41,0.333716702676764,8.0,reviewed,av,av
+2023-04-03T09:44:02.520Z,51.879,-178.17,11.67,0.74,ml,4.0,273.0,,0.11,av,av91832361,2023-04-04T01:49:45.550Z,"105 km W of Adak, Alaska",earthquake,0.99,0.89,0.33843911693383,4.0,reviewed,av,av
+2023-04-03T09:36:29.960Z,51.8561666666667,-178.083833333333,3.33,1.0,ml,4.0,207.0,,0.2,av,av91832346,2023-04-04T01:43:51.620Z,"99 km W of Adak, Alaska",earthquake,0.82,0.6,0.164747574997114,4.0,reviewed,av,av
