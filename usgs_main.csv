@@ -9808,3 +9808,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T20:45:32.323Z,60.6706,-144.9717,20.1,1.6,ml,,,,1.09,ak,ak0234bsp08g,2023-04-04T20:48:16.897Z,"45 km ENE of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-04T21:05:09.040Z,39.3948326,-122.8840027,9.72,1.49,md,6.0,206.0,0.1903,0.02,nc,nc73866905,2023-04-04T21:08:03.129Z,"7km ESE of Lake Pillsbury, CA",earthquake,0.71,2.54,0.06,4.0,automatic,nc,nc
 2023-04-04T21:01:46.280Z,38.7919998,-122.7816696,0.99,1.1,md,17.0,80.0,0.005023,0.03,nc,nc73866900,2023-04-04T21:03:23.096Z,"3km NW of The Geysers, CA",earthquake,0.24,0.38,0.22,17.0,automatic,nc,nc
+2023-04-04T21:16:58.564Z,58.1888,-155.292,1.4,0.9,ml,,,,0.38,ak,ak0234bt4a3k,2023-04-04T21:18:13.907Z,"85 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-04T21:16:06.700Z,33.4315,-116.629,7.94,1.03,ml,16.0,84.0,0.0669,0.14,ci,ci39509730,2023-04-04T21:19:47.676Z,"14km SSE of Anza, CA",earthquake,0.35,0.57,0.358,10.0,automatic,ci,ci
+2023-04-04T20:17:32.140Z,37.6065,-122.4536667,8.09,0.86,md,14.0,89.0,0.03494,0.07,nc,nc73866870,2023-04-04T21:17:45.302Z,"3km ESE of Pacifica, CA",earthquake,0.28,0.5,0.245,10.0,reviewed,nc,nc
+2023-04-03T21:44:53.700Z,53.8755,-166.590333333333,5.04,0.17,ml,6.0,150.0,,0.19,av,av91833036,2023-04-04T21:17:57.920Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.53,1.29,0.19812844704076,6.0,reviewed,av,av
+2023-04-03T21:44:02.260Z,53.8826666666667,-166.589,4.99,0.1,ml,6.0,158.0,,0.11,av,av91833031,2023-04-04T21:16:16.030Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.47,0.99,0.201261858989329,6.0,reviewed,av,av
