@@ -9781,3 +9781,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T18:15:44.410Z,34.0303333,-117.2193333,14.67,1.67,ml,44.0,49.0,0.09134,0.22,ci,ci39509706,2023-04-04T18:26:45.010Z,"4km ESE of Loma Linda, CA",earthquake,0.28,0.6,0.133,29.0,automatic,ci,ci
 2023-04-04T10:07:54.560Z,51.8495,-178.0865,5.0,3.06,ml,6.0,141.0,,0.08,av,av91833841,2023-04-04T18:17:38.420Z,"100 km W of Adak, Alaska",earthquake,0.36,31.61,0.212182921543946,7.0,reviewed,av,av
 2023-04-04T05:46:33.740Z,38.794,-122.7521667,3.32,0.47,md,16.0,89.0,0.01616,0.07,nc,nc73866625,2023-04-04T18:24:10.395Z,"2km N of The Geysers, CA",earthquake,0.31,0.74,0.147,8.0,reviewed,nc,nc
+2023-04-04T10:02:18.840Z,45.93216666666667,-122.933,25.57,0.99,ml,20.0,82.0,0.07922,0.19,uw,uw61915966,2023-04-04T18:27:02.400Z,"6 km W of Deer Island, Oregon",earthquake,0.65,0.76,0.0290423265015372,6.0,reviewed,uw,uw
