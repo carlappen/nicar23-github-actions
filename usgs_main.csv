@@ -10141,3 +10141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T18:57:15.580Z,58.239,-155.148833333333,4.01,-0.25,ml,8.0,115.0,,0.1,av,av91836056,2023-04-05T19:56:24.820Z,"85 km NNW of Karluk, Alaska",earthquake,0.27,0.65,0.17537032667497,9.0,reviewed,av,av
 2023-04-05T12:41:48.400Z,38.8185,-122.8018333,2.93,0.52,md,25.0,34.0,0.008083,0.08,nc,nc73867300,2023-04-05T20:08:12.075Z,"6km NW of The Geysers, CA",earthquake,0.23,0.45,0.135,25.0,reviewed,nc,nc
 2023-04-05T05:14:18.963Z,40.0811,-119.7163,15.2,0.6,ml,4.0,209.48,0.09,0.1464,nn,nn00857857,2023-04-05T20:12:53.428Z,"17 km NW of Sutcliffe, Nevada",earthquake,,3.6,0.02,2.0,reviewed,nn,nn
+2023-04-05T20:15:32.899Z,60.4266,-150.8187,66.7,1.4,ml,,,,0.39,ak,ak0234dg1xb0,2023-04-05T20:17:45.811Z,"8 km SSW of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-05T14:51:19.880Z,40.4736667,-124.4463333,20.05,1.65,md,12.0,249.0,0.08305,0.08,nc,nc73867355,2023-04-05T20:22:16.110Z,"19km SW of Ferndale, CA",earthquake,1.44,0.58,0.081,5.0,reviewed,nc,nc
+2023-04-05T06:23:38.799Z,39.6522,-119.8678,6.0,0.7,ml,5.0,148.33,0.085,0.1213,nn,nn00857859,2023-04-05T20:28:25.258Z,"2 km NW of Lemmon Valley, Nevada",earthquake,,3.9,1.17,3.0,reviewed,nn,nn
+2023-04-05T06:13:38.586Z,39.216,-119.6091,5.2,0.6,ml,4.0,198.51,0.086,0.1604,nn,nn00857858,2023-04-05T20:19:06.423Z,"2 km SSW of Dayton, Nevada",earthquake,,8.6,0.77,2.0,reviewed,nn,nn
