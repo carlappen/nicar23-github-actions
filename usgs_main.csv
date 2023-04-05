@@ -10149,3 +10149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T20:29:12.790Z,38.7853317,-122.7683334,2.39,0.74,md,9.0,106.0,0.01473,0.04,nc,nc73867565,2023-04-05T20:30:50.863Z,"1km NW of The Geysers, CA",earthquake,0.75,1.46,0.06,9.0,automatic,nc,nc
 2023-04-05T06:27:30.685Z,39.6552,-119.8624,2.8,1.0,ml,12.0,133.05,0.086,0.1536,nn,nn00857860,2023-04-05T20:34:41.844Z,"2 km NW of Lemmon Valley, Nevada",earthquake,,3.9,0.81,5.0,reviewed,nn,nn
 2023-04-04T21:17:09.610Z,49.432833333333335,-120.56316666666666,-0.51,2.04,ml,5.0,227.0,0.6228,0.04,uw,uw61916121,2023-04-05T20:33:40.990Z,"4 km SW of Princeton, Canada",explosion,1.64,31.61,0.1237700040740373,5.0,reviewed,uw,uw
+2023-04-05T20:37:35.223Z,63.0399,-149.333,68.5,1.6,ml,,,,0.44,ak,ak0234dg6n82,2023-04-05T20:39:21.802Z,"43 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-05T19:52:59.570Z,53.926,-166.624,7.38,-0.4,ml,6.0,176.0,,0.19,av,av91836116,2023-04-05T20:42:41.020Z,"6 km NW of Dutch Harbor, Alaska",earthquake,0.6,1.27,0.223101436564295,6.0,reviewed,av,av
+2023-04-05T19:51:31.230Z,51.8593333333333,-177.897333333333,5.81,0.29,ml,4.0,184.0,,0.1,av,av91836111,2023-04-05T20:39:55.260Z,"87 km W of Adak, Alaska",earthquake,0.5,1.24,0.176480097381864,4.0,reviewed,av,av
+2023-04-05T07:10:37.360Z,39.4435,-119.5135,13.9,0.9,ml,10.0,213.2,0.182,0.2167,nn,nn00857861,2023-04-05T20:47:07.978Z,"14 km WNW of Stagecoach, Nevada",earthquake,,3.5,0.75,6.0,reviewed,nn,nn
