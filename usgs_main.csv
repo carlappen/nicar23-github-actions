@@ -9975,3 +9975,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T09:34:21.478Z,60.6747,-152.7603,13.0,1.4,ml,,,,0.16,ak,ak0234d9m6my,2023-04-05T09:36:37.543Z,"79 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-05T09:34:14.990Z,33.3383331,-116.3915024,13.62,1.09,ml,44.0,101.0,0.07317,0.21,ci,ci39509874,2023-04-05T09:37:48.602Z,"9km N of Borrego Springs, CA",earthquake,0.33,0.68,0.205,8.0,automatic,ci,ci
 2023-04-05T08:15:08.915Z,31.67424081,-104.4064736,6.542895508,2.5,ml,16.0,56.0,0.02830796525,0.1,tx,tx2023gqjq,2023-04-05T09:42:18.856Z,"55 km S of Whites City, New Mexico",earthquake,0.8965396612,1.241187829,0.1,25.0,reviewed,tx,tx
+2023-04-05T09:50:01.500Z,38.8296661,-122.7921677,1.44,1.08,md,15.0,51.0,0.008846,0.03,nc,nc73867220,2023-04-05T09:51:38.384Z,"6km W of Cobb, CA",earthquake,0.23,0.46,0.33,15.0,automatic,nc,nc
+2023-04-05T09:49:50.650Z,38.8306656,-122.7931671,1.26,0.46,md,8.0,95.0,0.00804,0.01,nc,nc73867215,2023-04-05T09:51:28.402Z,"6km W of Cobb, CA",earthquake,0.34,1.07,0.31,10.0,automatic,nc,nc
+2023-04-05T09:43:40.222Z,61.5823,-149.7257,32.1,1.4,ml,,,,0.79,ak,ak0234d9o692,2023-04-05T09:45:45.664Z,"7 km SE of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
