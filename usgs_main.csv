@@ -10012,3 +10012,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T00:03:28.460Z,38.7521667,-122.7126667,1.35,0.38,md,11.0,97.0,0.01146,0.02,nc,nc73866955,2023-04-05T12:30:11.761Z,"3km SW of Anderson Springs, CA",earthquake,0.26,0.35,0.107,6.0,reviewed,nc,nc
 2023-04-05T10:52:04.210Z,17.9261666666667,-66.8326666666667,9.68,2.54,md,9.0,225.0,0.06581,0.09,pr,pr71402588,2023-04-05T13:06:33.120Z,"7 km S of Indios, Puerto Rico",earthquake,0.48,0.53,0.0505729058509012,5.0,reviewed,pr,pr
 2023-04-05T05:58:08.120Z,44.7563333,-111.1296667,14.1,0.3,md,11.0,80.0,0.04312,0.13,uu,uu60536411,2023-04-05T13:14:12.000Z,"5 km ESE of Hebgen Lake Estates, Montana",earthquake,0.77,1.82,0.19,7.0,reviewed,uu,uu
+2023-04-05T13:33:09.380Z,38.8271675,-122.8065033,1.44,0.77,md,18.0,39.0,0.004687,0.02,nc,nc73867310,2023-04-05T13:34:44.020Z,"7km NW of The Geysers, CA",earthquake,0.2,0.54,0.15,19.0,automatic,nc,nc
+2023-04-05T10:28:39.990Z,35.79283333,-96.96916667,7.19,1.49,ml,51.0,50.0,0.1862634488,0.2,ok,ok2023gqoa,2023-04-05T13:18:06.398Z,"4 km ESE of Carney, Oklahoma",earthquake,,0.5,0.17,5.0,reviewed,ok,ok
+2023-04-05T01:36:27.175Z,63.4291,-146.1394,4.8,0.8,ml,,,,0.43,ak,ak0234d4v5g5,2023-04-05T13:35:22.509Z,"46 km NW of Paxson, Alaska",earthquake,,1.5,,,reviewed,ak,ak
