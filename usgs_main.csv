@@ -9981,3 +9981,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T10:10:20.710Z,32.7936667,-115.4395,6.59,1.11,ml,9.0,165.0,0.01314,0.24,ci,ci39509890,2023-04-05T10:13:50.774Z,"6km WSW of Holtville, CA",earthquake,0.99,1.15,0.166,8.0,automatic,ci,ci
 2023-04-05T09:57:05.172Z,60.7121,-154.2451,36.3,1.6,ml,,,,1.53,ak,ak0234d9r3kl,2023-04-05T09:58:54.261Z,"56 km N of Port Alsworth, Alaska",earthquake,,6.3,,,automatic,ak,ak
 2023-04-05T09:56:52.970Z,38.7874985,-122.7665024,1.7,1.31,md,25.0,77.0,0.01414,0.03,nc,nc73867230,2023-04-05T09:58:28.444Z,"1km NW of The Geysers, CA",earthquake,0.22,0.37,0.19,25.0,automatic,nc,nc
+2023-04-05T10:30:16.730Z,38.8346672,-122.8054962,1.97,1.68,md,33.0,31.0,0.01181,0.03,nc,nc73867235,2023-04-05T10:31:54.003Z,"7km W of Cobb, CA",earthquake,0.16,0.29,0.23,34.0,automatic,nc,nc
