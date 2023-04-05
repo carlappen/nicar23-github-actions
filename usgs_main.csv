@@ -9991,3 +9991,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T10:40:06.243Z,-6.3374,147.6331,55.499,4.3,mb,16.0,283.0,3.083,0.44,us,us6000k24p,2023-04-05T11:12:41.040Z,"33 km NW of Finschhafen, Papua New Guinea",earthquake,17.26,12.832,0.148,13.0,reviewed,us,us
 2023-04-05T11:26:38.669Z,56.2983,-156.8978,11.6,2.1,ml,,,,0.56,ak,ak0234dare62,2023-04-05T11:28:55.826Z,"93 km E of Chignik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-05T11:30:13.160Z,38.7919998,-122.7808304,1.52,1.89,md,31.0,79.0,0.005663,0.02,nc,nc73867250,2023-04-05T11:33:19.377Z,"3km NW of The Geysers, CA",earthquake,0.18,0.3,0.16,32.0,automatic,nc,nc
+2023-04-05T11:40:52.170Z,33.202,-115.5615,1.28,1.55,ml,18.0,92.0,0.05157,0.24,ci,ci39509914,2023-04-05T11:44:33.232Z,"6km SW of Niland, CA",earthquake,0.38,0.85,0.211,28.0,automatic,ci,ci
