@@ -10145,3 +10145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T14:51:19.880Z,40.4736667,-124.4463333,20.05,1.65,md,12.0,249.0,0.08305,0.08,nc,nc73867355,2023-04-05T20:22:16.110Z,"19km SW of Ferndale, CA",earthquake,1.44,0.58,0.081,5.0,reviewed,nc,nc
 2023-04-05T06:23:38.799Z,39.6522,-119.8678,6.0,0.7,ml,5.0,148.33,0.085,0.1213,nn,nn00857859,2023-04-05T20:28:25.258Z,"2 km NW of Lemmon Valley, Nevada",earthquake,,3.9,1.17,3.0,reviewed,nn,nn
 2023-04-05T06:13:38.586Z,39.216,-119.6091,5.2,0.6,ml,4.0,198.51,0.086,0.1604,nn,nn00857858,2023-04-05T20:19:06.423Z,"2 km SSW of Dayton, Nevada",earthquake,,8.6,0.77,2.0,reviewed,nn,nn
+2023-04-05T20:34:30.283Z,62.5137,-151.1986,76.8,1.5,ml,,,,0.57,ak,ak0234dg5zp0,2023-04-05T20:36:53.286Z,"22 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-05T20:29:12.790Z,38.7853317,-122.7683334,2.39,0.74,md,9.0,106.0,0.01473,0.04,nc,nc73867565,2023-04-05T20:30:50.863Z,"1km NW of The Geysers, CA",earthquake,0.75,1.46,0.06,9.0,automatic,nc,nc
+2023-04-05T06:27:30.685Z,39.6552,-119.8624,2.8,1.0,ml,12.0,133.05,0.086,0.1536,nn,nn00857860,2023-04-05T20:34:41.844Z,"2 km NW of Lemmon Valley, Nevada",earthquake,,3.9,0.81,5.0,reviewed,nn,nn
+2023-04-04T21:17:09.610Z,49.432833333333335,-120.56316666666666,-0.51,2.04,ml,5.0,227.0,0.6228,0.04,uw,uw61916121,2023-04-05T20:33:40.990Z,"4 km SW of Princeton, Canada",explosion,1.64,31.61,0.1237700040740373,5.0,reviewed,uw,uw
