@@ -9915,3 +9915,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T17:32:38.210Z,58.3055,-154.923,4.07,-0.12,ml,11.0,144.0,,0.14,av,av91834211,2023-04-05T03:03:29.540Z,"86 km NNW of Karluk, Alaska",earthquake,0.45,0.96,0.249080095226492,11.0,reviewed,av,av
 2023-04-05T03:31:38.590Z,38.7371674,-122.6903305,-0.73,1.04,md,7.0,157.0,0.03174,0.16,nc,nc73867045,2023-04-05T03:33:13.749Z,"4km S of Anderson Springs, CA",earthquake,0.61,3.18,0.35,7.0,automatic,nc,nc
 2023-04-05T03:26:23.180Z,-6.1431,130.468,131.4,4.2,mb,16.0,120.0,1.705,0.44,us,us6000k224,2023-04-05T03:41:29.040Z,"259 km WSW of Tual, Indonesia",earthquake,8.61,10.634,0.176,9.0,reviewed,us,us
+2023-04-05T03:55:39.810Z,37.5176659,-118.7606659,4.45,2.53,md,19.0,111.0,0.09043,0.03,nc,nc73867080,2023-04-05T03:57:14.831Z,"9km SW of Toms Place, CA",earthquake,0.38,1.05,0.1,24.0,automatic,nc,nc
+2023-04-05T03:51:58.310Z,38.840332,-122.8398361,1.84,0.32,md,7.0,103.0,0.003816,0.01,nc,nc73867070,2023-04-05T03:53:34.031Z,"10km NW of The Geysers, CA",earthquake,0.45,1.16,0.21,7.0,automatic,nc,nc
