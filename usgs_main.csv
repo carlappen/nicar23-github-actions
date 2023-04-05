@@ -10015,3 +10015,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T13:33:09.380Z,38.8271675,-122.8065033,1.44,0.77,md,18.0,39.0,0.004687,0.02,nc,nc73867310,2023-04-05T13:34:44.020Z,"7km NW of The Geysers, CA",earthquake,0.2,0.54,0.15,19.0,automatic,nc,nc
 2023-04-05T10:28:39.990Z,35.79283333,-96.96916667,7.19,1.49,ml,51.0,50.0,0.1862634488,0.2,ok,ok2023gqoa,2023-04-05T13:18:06.398Z,"4 km ESE of Carney, Oklahoma",earthquake,,0.5,0.17,5.0,reviewed,ok,ok
 2023-04-05T01:36:27.175Z,63.4291,-146.1394,4.8,0.8,ml,,,,0.43,ak,ak0234d4v5g5,2023-04-05T13:35:22.509Z,"46 km NW of Paxson, Alaska",earthquake,,1.5,,,reviewed,ak,ak
+2023-04-05T13:38:11.320Z,33.4855,-116.514,13.11,0.8,ml,26.0,90.0,0.0732,0.18,ci,ci39509946,2023-04-05T13:41:47.422Z,"17km ESE of Anza, CA",earthquake,0.29,0.58,0.132,20.0,automatic,ci,ci
+2023-04-05T09:00:20.399Z,36.53433333,-98.96116667,6.86,1.37,ml,24.0,89.0,0.04319152435,0.1,ok,ok2023gqlc,2023-04-05T13:37:02.566Z,"9 km SW of Waynoka, Oklahoma",earthquake,,0.3,0.25,5.0,reviewed,ok,ok
+2023-04-05T04:27:11.610Z,38.557,-112.7158333,2.59,0.27,md,15.0,150.0,0.08751,0.14,uu,uu60536396,2023-04-05T13:40:57.870Z,Utah,earthquake,0.56,3.38,0.151,5.0,reviewed,uu,uu
+2023-04-05T04:01:06.123Z,59.854,-153.3864,116.7,1.5,ml,,,,0.63,ak,ak0234d6fxh0,2023-04-05T13:44:37.267Z,Southern Alaska,earthquake,,1.0,,,reviewed,ak,ak
+2023-04-05T03:11:23.073Z,51.857,-178.1984,7.6,1.8,ml,,,,0.3,ak,ak0234d5wnwl,2023-04-05T13:42:55.975Z,"107 km W of Adak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2023-04-05T02:59:50.998Z,59.7702,-153.1107,101.7,1.8,ml,,,,0.5,ak,ak0234d5ll8q,2023-04-05T13:39:58.876Z,"55 km E of Pedro Bay, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-04-05T00:52:34.630Z,39.2016667,-111.9921667,12.71,1.48,ml,13.0,79.0,0.1136,0.18,uu,uu60536381,2023-04-05T13:39:53.620Z,"10 km ESE of Scipio, Utah",earthquake,0.46,0.71,0.105,2.0,reviewed,uu,uu
