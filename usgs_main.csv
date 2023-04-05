@@ -9940,3 +9940,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T06:30:14.115Z,57.0232,-155.2454,5.9,1.9,ml,,,,0.66,ak,ak0234d7t17s,2023-04-05T06:33:07.072Z,Alaska Peninsula,earthquake,,0.4,,,automatic,ak,ak
 2023-04-05T06:19:28.869Z,-9.4082,-71.4487,553.605,5.1,mb,95.0,59.0,2.079,0.82,us,us6000k22u,2023-04-05T06:37:46.040Z,"156 km ESE of Marechal Thaumaturgo, Brazil",earthquake,11.09,7.343,0.021,715.0,reviewed,us,us
 2023-04-05T06:43:28.450Z,34.9638333,-118.5991667,1.98,1.05,ml,12.0,74.0,0.07694,0.19,ci,ci39509810,2023-04-05T06:47:12.160Z,"21km N of Neenach, CA",earthquake,0.45,0.98,0.123,9.0,automatic,ci,ci
+2023-04-05T07:02:55.306Z,38.6437,-118.781,0.6,1.6,ml,13.0,93.63,0.448,0.1623,nn,nn00857843,2023-04-05T07:05:35.725Z,California-Nevada border region,earthquake,,6.1,0.25,9.0,automatic,nn,nn
+2023-04-05T06:55:02.685Z,59.1686,-152.5344,69.8,1.8,ml,,,,0.37,ak,ak0234d7yd4s,2023-04-05T06:56:49.011Z,"40 km WSW of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
