@@ -9943,3 +9943,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T07:02:55.306Z,38.6437,-118.781,0.6,1.6,ml,13.0,93.63,0.448,0.1623,nn,nn00857843,2023-04-05T07:05:35.725Z,California-Nevada border region,earthquake,,6.1,0.25,9.0,automatic,nn,nn
 2023-04-05T06:55:02.685Z,59.1686,-152.5344,69.8,1.8,ml,,,,0.37,ak,ak0234d7yd4s,2023-04-05T06:56:49.011Z,"40 km WSW of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-05T07:31:34.550Z,38.8346672,-122.796669,1.56,0.32,md,8.0,76.0,0.006194,0.01,nc,nc73867140,2023-04-05T07:33:09.545Z,"6km WNW of Cobb, CA",earthquake,0.4,1.27,0.23,7.0,automatic,nc,nc
+2023-04-05T07:48:04.567Z,64.3666,-146.5438,10.1,1.2,ml,,,,0.56,ak,ak0234d8iavc,2023-04-05T07:50:21.903Z,"2 km ESE of Harding-Birch Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-05T07:41:16.680Z,36.5951653,-121.1966629,7.2,1.76,md,21.0,124.0,0.02511,0.06,nc,nc73867145,2023-04-05T07:42:54.977Z,"8km NW of Pinnacles, CA",earthquake,0.27,0.57,0.18,19.0,automatic,nc,nc
