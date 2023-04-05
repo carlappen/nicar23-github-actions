@@ -10022,3 +10022,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T03:11:23.073Z,51.857,-178.1984,7.6,1.8,ml,,,,0.3,ak,ak0234d5wnwl,2023-04-05T13:42:55.975Z,"107 km W of Adak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-04-05T02:59:50.998Z,59.7702,-153.1107,101.7,1.8,ml,,,,0.5,ak,ak0234d5ll8q,2023-04-05T13:39:58.876Z,"55 km E of Pedro Bay, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-04-05T00:52:34.630Z,39.2016667,-111.9921667,12.71,1.48,ml,13.0,79.0,0.1136,0.18,uu,uu60536381,2023-04-05T13:39:53.620Z,"10 km ESE of Scipio, Utah",earthquake,0.46,0.71,0.105,2.0,reviewed,uu,uu
+2023-04-05T13:48:22.660Z,35.7048333,-117.5153333,1.23,1.66,ml,17.0,106.0,0.1918,0.15,ci,ci39509962,2023-04-05T13:51:52.862Z,"12km SW of Searles Valley, CA",earthquake,0.36,0.85,0.107,17.0,automatic,ci,ci
+2023-04-05T13:46:41.020Z,36.6638336,-121.3271637,2.69,1.53,md,14.0,76.0,0.04624,0.14,nc,nc73867325,2023-04-05T13:48:19.121Z,"14km S of Tres Pinos, CA",earthquake,0.4,1.23,0.2,13.0,automatic,nc,nc
+2023-04-05T13:44:37.910Z,38.8381653,-122.8366699,1.4,0.78,md,17.0,82.0,0.001016,0.01,nc,nc73867320,2023-04-05T13:46:14.098Z,"10km NW of The Geysers, CA",earthquake,0.23,0.45,0.28,18.0,automatic,nc,nc
+2023-04-05T08:30:13.820Z,36.5365,-98.96433333,7.18,1.84,ml,29.0,76.0,0.04589099462,0.12,ok,ok2023gqkb,2023-04-05T13:51:00.751Z,"9 km SW of Waynoka, Oklahoma",earthquake,,0.3,0.21,7.0,reviewed,ok,ok
+2023-04-05T06:15:28.600Z,31.57315312,-104.1555073,7.879711914,2.1,ml,28.0,67.0,0.02585924833,0.2,tx,tx2023gqfr,2023-04-05T13:49:59.144Z,"44 km NW of Toyah, Texas",earthquake,0.6913005534,0.6867413929,0.1,14.0,reviewed,tx,tx
+2023-04-05T05:42:29.198Z,61.5386,-150.6459,56.6,1.1,ml,,,,0.34,ak,ak0234d7a5iy,2023-04-05T13:50:17.392Z,Southern Alaska,earthquake,,1.1,,,reviewed,ak,ak
+2023-04-04T16:20:50.920Z,35.9155,-95.143,0.0,1.52,ml,40.0,131.0,0.526396703,0.61,ok,ok2023gped,2023-04-05T13:53:15.076Z,"1 km S of Hulbert, Oklahoma",quarry blast,,0.9,0.25,9.0,reviewed,ok,ok
