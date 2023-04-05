@@ -10075,3 +10075,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T17:44:15.630Z,36.43816667,-98.78583333,8.09,1.37,ml,20.0,109.0,0.01709664506,0.09,ok,ok2023gpgx,2023-04-05T16:32:11.276Z,"18 km SSE of Waynoka, Oklahoma",earthquake,,0.3,0.3,4.0,reviewed,ok,ok
 2023-04-05T16:39:13.170Z,64.2116,-154.4573,4.5,2.9,ml,,,,1.39,ak,ak0234ddtabx,2023-04-05T16:44:59.445Z,"76 km SE of Ruby, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-04-05T17:01:24.530Z,33.3666667,-116.378,11.38,0.96,ml,23.0,75.0,0.0574,0.24,ci,ci39510058,2023-04-05T17:05:08.182Z,"12km N of Borrego Springs, CA",earthquake,0.45,0.88,0.172,22.0,automatic,ci,ci
+2023-04-05T17:24:26.110Z,38.8251648,-122.7990036,2.88,1.03,md,23.0,42.0,0.008826,0.01,nc,nc73867450,2023-04-05T17:25:59.436Z,"6km NW of The Geysers, CA",earthquake,0.21,0.47,0.23,24.0,automatic,nc,nc
+2023-04-05T17:23:52.470Z,38.7783318,-122.7573318,0.76,0.93,md,14.0,84.0,0.01683,0.02,nc,nc73867445,2023-04-05T17:25:29.653Z,"0km NW of The Geysers, CA",earthquake,0.23,0.48,0.19,13.0,automatic,nc,nc
+2023-04-05T17:22:52.358Z,57.47,-155.8915,58.5,1.5,ml,,,,0.46,ak,ak0234deb5zn,2023-04-05T17:25:24.350Z,Alaska Peninsula,earthquake,,1.0,,,automatic,ak,ak
+2023-04-05T17:06:26.197Z,60.7799,-150.514,40.9,1.1,ml,,,,0.96,ak,ak0234de7ojd,2023-04-05T17:08:44.115Z,"18 km SSE of Point Possession, Alaska",earthquake,,3.4,,,automatic,ak,ak
