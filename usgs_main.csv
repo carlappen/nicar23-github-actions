@@ -10052,3 +10052,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T15:02:04.560Z,32.6561661,-116.0411682,4.21,2.11,ml,16.0,197.0,0.4859,0.2,ci,ci39510018,2023-04-05T15:05:42.297Z,"10km SSW of Ocotillo, CA",earthquake,0.87,3.89,0.489,4.0,automatic,ci,ci
 2023-04-05T08:56:24.260Z,36.0738333,-117.8881667,4.26,0.33,ml,4.0,209.0,0.05132,0.05,ci,ci37524132,2023-04-05T15:06:28.410Z,"6km ENE of Coso Junction, CA",earthquake,0.49,0.5,0.2,2.0,reviewed,ci,ci
 2023-04-05T03:39:53.830Z,44.7661667,-111.2166667,10.22,0.56,md,9.0,178.0,0.02118,0.16,uu,uu60536391,2023-04-05T15:26:12.240Z,"2 km W of Hebgen Lake Estates, Montana",earthquake,0.74,1.06,0.119,8.0,reviewed,uu,uu
+2023-04-05T15:35:14.839Z,57.3254,-156.7715,110.4,1.8,ml,,,,0.23,ak,ak0234dd706z,2023-04-05T15:37:05.225Z,"43 km ESE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-05T03:40:14.250Z,44.7506667,-111.2168333,9.04,0.79,ml,7.0,269.0,0.0147,0.17,uu,uu60033084,2023-04-05T15:44:45.500Z,"2 km SW of Hebgen Lake Estates, Montana",earthquake,1.07,1.12,0.346,2.0,reviewed,uu,uu
+2023-04-05T03:40:12.140Z,44.7611667,-111.2116667,10.31,0.15,md,7.0,220.0,0.01513,0.18,uu,uu60033079,2023-04-05T15:40:05.870Z,"1 km WSW of Hebgen Lake Estates, Montana",earthquake,0.98,1.44,0.763,2.0,reviewed,uu,uu
