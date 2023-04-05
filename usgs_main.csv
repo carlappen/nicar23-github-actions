@@ -9921,3 +9921,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T04:02:38.800Z,19.1173324584961,-155.439163208008,47.5,1.70000005,md,22.0,248.0,,0.230000004,hv,hv73356797,2023-04-05T04:05:48.920Z,"10 km SSE of Pāhala, Hawaii",earthquake,2.25,2.9000001,0.839999974,3.0,automatic,hv,hv
 2023-04-05T03:57:42.137Z,36.2731,-116.4891,13.6,0.8,ml,11.0,191.84,0.17,0.1767,nn,nn00857841,2023-04-05T03:59:23.924Z,"37 km ESE of Furnace Creek, California",earthquake,,2.5,0.68,8.0,automatic,nn,nn
 2023-04-04T23:17:33.360Z,36.8015,-121.319,8.93,1.22,md,21.0,99.0,0.09642,0.07,nc,nc73866945,2023-04-05T04:12:02.269Z,"1km N of Tres Pinos, CA",earthquake,0.21,0.51,0.21,16.0,reviewed,nc,nc
+2023-04-05T04:28:23.280Z,33.5288333,-116.7263333,4.03,0.72,ml,27.0,40.0,0.0376,0.15,ci,ci39509802,2023-04-05T04:32:04.762Z,"6km WSW of Anza, CA",earthquake,0.21,0.42,0.102,20.0,automatic,ci,ci
