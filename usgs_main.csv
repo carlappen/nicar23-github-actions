@@ -10198,3 +10198,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T23:03:43.740Z,38.7885017,-122.7686691,1.69,1.17,md,23.0,80.0,0.01398,0.03,nc,nc73867690,2023-04-05T23:05:21.247Z,"2km NW of The Geysers, CA",earthquake,0.23,0.38,0.21,21.0,automatic,nc,nc
 2023-04-05T22:59:15.070Z,38.7874985,-122.7683334,2.4,1.37,md,29.0,81.0,0.01474,0.03,nc,nc73867685,2023-04-05T23:00:50.941Z,"2km NW of The Geysers, CA",earthquake,0.23,0.41,0.14,29.0,automatic,nc,nc
 2023-04-05T23:17:30.633Z,61.2364,-149.7742,29.7,1.4,ml,,,,0.77,ak,ak0234dhund3,2023-04-05T23:19:12.698Z,"7 km ENE of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-05T23:26:54.520Z,38.7883339,-122.7676697,2.28,0.26,md,9.0,95.0,0.01376,0.02,nc,nc73867695,2023-04-05T23:28:30.855Z,"2km NW of The Geysers, CA",earthquake,0.34,0.78,0.11,9.0,automatic,nc,nc
+2023-04-05T23:25:50.040Z,19.3959999084473,-155.277496337891,0.660000026226044,2.17,ml,18.0,61.0,,0.119999997,hv,hv73357397,2023-04-05T23:31:19.380Z,"6 km SW of Volcano, Hawaii",earthquake,0.22,0.159999996,0.13,7.0,automatic,hv,hv
+2023-04-05T23:08:21.562Z,38.875,-119.639,1.4,0.2,ml,4.0,250.09,0.03,0.103,nn,nn00857872,2023-04-05T23:30:51.587Z,"1 km N of Carter Springs, Nevada",earthquake,,11.2,0.0,1.0,reviewed,nn,nn
