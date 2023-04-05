@@ -10073,3 +10073,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T16:17:24.350Z,19.1488342285156,-155.366836547852,27.2900009155273,1.78999996,md,37.0,182.0,,0.109999999,hv,hv73357227,2023-04-05T16:20:32.810Z,"Island of Hawaii, Hawaii",earthquake,0.77,1.13,1.57000005,10.0,automatic,hv,hv
 2023-04-04T18:25:11.009Z,34.75633333,-97.52833333,7.36,1.5,ml,22.0,67.0,0.1223759857,0.27,ok,ok2023gpig,2023-04-05T16:25:43.587Z,"9 km SE of Erin Springs, Oklahoma",earthquake,,0.8,0.3,3.0,reviewed,ok,ok
 2023-04-04T17:44:15.630Z,36.43816667,-98.78583333,8.09,1.37,ml,20.0,109.0,0.01709664506,0.09,ok,ok2023gpgx,2023-04-05T16:32:11.276Z,"18 km SSE of Waynoka, Oklahoma",earthquake,,0.3,0.3,4.0,reviewed,ok,ok
+2023-04-05T16:39:13.170Z,64.2116,-154.4573,4.5,2.9,ml,,,,1.39,ak,ak0234ddtabx,2023-04-05T16:44:59.445Z,"76 km SE of Ruby, Alaska",earthquake,,2.1,,,automatic,ak,ak
