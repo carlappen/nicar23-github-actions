@@ -10074,3 +10074,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T18:25:11.009Z,34.75633333,-97.52833333,7.36,1.5,ml,22.0,67.0,0.1223759857,0.27,ok,ok2023gpig,2023-04-05T16:25:43.587Z,"9 km SE of Erin Springs, Oklahoma",earthquake,,0.8,0.3,3.0,reviewed,ok,ok
 2023-04-04T17:44:15.630Z,36.43816667,-98.78583333,8.09,1.37,ml,20.0,109.0,0.01709664506,0.09,ok,ok2023gpgx,2023-04-05T16:32:11.276Z,"18 km SSE of Waynoka, Oklahoma",earthquake,,0.3,0.3,4.0,reviewed,ok,ok
 2023-04-05T16:39:13.170Z,64.2116,-154.4573,4.5,2.9,ml,,,,1.39,ak,ak0234ddtabx,2023-04-05T16:44:59.445Z,"76 km SE of Ruby, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2023-04-05T17:01:24.530Z,33.3666667,-116.378,11.38,0.96,ml,23.0,75.0,0.0574,0.24,ci,ci39510058,2023-04-05T17:05:08.182Z,"12km N of Borrego Springs, CA",earthquake,0.45,0.88,0.172,22.0,automatic,ci,ci
