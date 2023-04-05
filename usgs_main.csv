@@ -9987,3 +9987,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T10:31:49.800Z,38.8195,-122.7728348,-0.27,0.86,md,9.0,83.0,0.008743,0.04,nc,nc73867240,2023-04-05T10:33:23.776Z,"4km W of Cobb, CA",earthquake,0.24,0.59,0.2,11.0,automatic,nc,nc
 2023-04-05T10:47:19.820Z,35.2663333,-117.3486667,1.17,1.94,ml,22.0,77.0,0.2576,0.2,ci,ci39509906,2023-04-05T10:50:54.439Z,"28km ESE of Johannesburg, CA",earthquake,0.35,1.74,0.138,26.0,automatic,ci,ci
 2023-04-05T10:43:44.630Z,38.8176651,-122.7661667,1.76,1.32,md,27.0,104.0,0.01217,0.02,nc,nc73867245,2023-04-05T10:45:18.794Z,"4km W of Cobb, CA",earthquake,0.22,0.32,0.17,25.0,automatic,nc,nc
+2023-04-05T11:15:59.519Z,64.7689,-148.2486,14.4,0.9,ml,,,,0.56,ak,ak0234dap2wf,2023-04-05T11:18:00.686Z,"14 km SW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-05T10:40:06.243Z,-6.3374,147.6331,55.499,4.3,mb,16.0,283.0,3.083,0.44,us,us6000k24p,2023-04-05T11:12:41.040Z,"33 km NW of Finschhafen, Papua New Guinea",earthquake,17.26,12.832,0.148,13.0,reviewed,us,us
