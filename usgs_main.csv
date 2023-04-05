@@ -10010,3 +10010,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T03:37:40.570Z,38.748,-122.6973333,1.44,0.61,md,12.0,140.0,0.01328,0.03,nc,nc73867055,2023-04-05T12:38:11.588Z,"3km S of Anderson Springs, CA",earthquake,0.26,0.37,0.154,8.0,reviewed,nc,nc
 2023-04-05T00:30:36.200Z,38.8265,-122.7965,2.58,0.45,md,20.0,52.0,0.01105,0.01,nc,nc73866965,2023-04-05T12:26:29.136Z,"6km W of Cobb, CA",earthquake,0.26,0.68,0.116,19.0,reviewed,nc,nc
 2023-04-05T00:03:28.460Z,38.7521667,-122.7126667,1.35,0.38,md,11.0,97.0,0.01146,0.02,nc,nc73866955,2023-04-05T12:30:11.761Z,"3km SW of Anderson Springs, CA",earthquake,0.26,0.35,0.107,6.0,reviewed,nc,nc
+2023-04-05T10:52:04.210Z,17.9261666666667,-66.8326666666667,9.68,2.54,md,9.0,225.0,0.06581,0.09,pr,pr71402588,2023-04-05T13:06:33.120Z,"7 km S of Indios, Puerto Rico",earthquake,0.48,0.53,0.0505729058509012,5.0,reviewed,pr,pr
+2023-04-05T05:58:08.120Z,44.7563333,-111.1296667,14.1,0.3,md,11.0,80.0,0.04312,0.13,uu,uu60536411,2023-04-05T13:14:12.000Z,"5 km ESE of Hebgen Lake Estates, Montana",earthquake,0.77,1.82,0.19,7.0,reviewed,uu,uu
