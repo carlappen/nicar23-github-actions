@@ -10035,3 +10035,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T11:45:03.293Z,59.9094,-153.4834,127.5,1.9,ml,,,,0.79,ak,ak0234davdy6,2023-04-05T14:03:30.252Z,"37 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-04-05T06:07:58.718Z,60.2137,-153.7036,179.3,1.9,ml,,,,0.25,ak,ak0234d7obai,2023-04-05T13:55:58.557Z,"33 km E of Port Alsworth, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2023-04-04T23:24:42.040Z,35.7805,-117.5936667,9.32,1.28,ml,18.0,69.0,0.142,0.17,ci,ci37524124,2023-04-05T13:58:35.974Z,"17km W of Searles Valley, CA",earthquake,0.26,0.94,0.16,8.0,reviewed,ci,ci
+2023-04-05T14:25:46.373Z,36.53139114,-98.95135498,14.76849079,1.71,ml,9.0,83.52688313,0.03769470751,0.5995321311,ok,ok2023gqvw,2023-04-05T14:26:59.056Z,Oklahoma,earthquake,4.558944955,5.48817044,0.25,7.0,automatic,ok,ok
+2023-04-05T14:23:49.880Z,33.1321667,-116.2478333,26.12,1.33,ml,13.0,149.0,0.1831,0.33,ci,ci39510002,2023-04-05T14:27:22.964Z,"11km W of Ocotillo Wells, CA",earthquake,1.21,3.35,0.311,14.0,automatic,ci,ci
+2023-04-05T14:22:21.105Z,60.1354,-153.0714,126.8,1.9,ml,,,,0.64,ak,ak0234dcisri,2023-04-05T14:24:50.113Z,"69 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-05T14:13:05.230Z,33.5126667,-116.492,15.34,1.0,ml,25.0,86.0,0.05532,0.16,ci,ci39509978,2023-04-05T14:16:33.048Z,"18km ESE of Anza, CA",earthquake,0.29,0.48,0.149,23.0,automatic,ci,ci
+2023-04-04T21:02:10.310Z,36.58566667,-98.25266667,7.18,1.51,ml,23.0,120.0,0.2069593875,0.23,ok,ok2023gpnk,2023-04-05T14:25:23.340Z,"4 km NNE of Helena, Oklahoma",earthquake,,0.8,0.24,6.0,reviewed,ok,ok
