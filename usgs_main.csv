@@ -9992,3 +9992,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T11:26:38.669Z,56.2983,-156.8978,11.6,2.1,ml,,,,0.56,ak,ak0234dare62,2023-04-05T11:28:55.826Z,"93 km E of Chignik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-05T11:30:13.160Z,38.7919998,-122.7808304,1.52,1.89,md,31.0,79.0,0.005663,0.02,nc,nc73867250,2023-04-05T11:33:19.377Z,"3km NW of The Geysers, CA",earthquake,0.18,0.3,0.16,32.0,automatic,nc,nc
 2023-04-05T11:40:52.170Z,33.202,-115.5615,1.28,1.55,ml,18.0,92.0,0.05157,0.24,ci,ci39509914,2023-04-05T11:44:33.232Z,"6km SW of Niland, CA",earthquake,0.38,0.85,0.211,28.0,automatic,ci,ci
+2023-04-05T11:52:14.280Z,36.786499,-121.341835,6.75,1.62,md,9.0,216.0,0.07898,0.06,nc,nc73867275,2023-04-05T11:53:48.177Z,"2km WSW of Tres Pinos, CA",earthquake,0.97,1.33,0.08,6.0,automatic,nc,nc
+2023-04-05T11:49:06.790Z,38.7919998,-122.7815018,1.6,1.22,md,23.0,80.0,0.00515,0.03,nc,nc73867265,2023-04-05T11:57:50.949Z,"3km NW of The Geysers, CA",earthquake,0.22,0.37,0.22,23.0,automatic,nc,nc
+2023-04-05T11:31:54.601Z,40.7306,-125.9417,10.0,2.9,ml,18.0,273.0,1.455,0.46,us,us6000k24z,2023-04-05T11:52:01.040Z,"142 km W of Ferndale, California",earthquake,9.42,2.022,0.039,86.0,reviewed,us,us
+2023-04-05T11:25:04.071Z,-4.5559,-75.5913,11.863,4.6,mb,48.0,114.0,3.894,0.77,us,us6000k24y,2023-04-05T11:49:34.040Z,"74 km N of Lagunas, Peru",earthquake,9.92,4.774,0.09,37.0,reviewed,us,us
