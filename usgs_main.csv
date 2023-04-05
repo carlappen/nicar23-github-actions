@@ -10055,3 +10055,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T15:35:14.839Z,57.3254,-156.7715,110.4,1.8,ml,,,,0.23,ak,ak0234dd706z,2023-04-05T15:37:05.225Z,"43 km ESE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-05T03:40:14.250Z,44.7506667,-111.2168333,9.04,0.79,ml,7.0,269.0,0.0147,0.17,uu,uu60033084,2023-04-05T15:44:45.500Z,"2 km SW of Hebgen Lake Estates, Montana",earthquake,1.07,1.12,0.346,2.0,reviewed,uu,uu
 2023-04-05T03:40:12.140Z,44.7611667,-111.2116667,10.31,0.15,md,7.0,220.0,0.01513,0.18,uu,uu60033079,2023-04-05T15:40:05.870Z,"1 km WSW of Hebgen Lake Estates, Montana",earthquake,0.98,1.44,0.763,2.0,reviewed,uu,uu
+2023-04-05T15:50:41.910Z,38.8283348,-122.8016663,10.05,0.31,md,8.0,197.0,0.02094,0.09,nc,nc73867385,2023-04-05T15:52:19.834Z,"7km W of Cobb, CA",earthquake,3.31,7.16,0.07,8.0,automatic,nc,nc
+2023-04-05T14:58:40.452Z,-37.8613,-73.7826,13.807,4.3,mwr,41.0,134.0,1.208,0.77,us,us6000k25y,2023-04-05T15:48:30.040Z,"30 km SSW of Lebu, Chile",earthquake,5.23,3.571,0.062,25.0,reviewed,us,us
+2023-04-05T03:40:26.650Z,44.7645,-111.2136667,8.67,-0.03,md,5.0,237.0,0.01851,0.17,uu,uu60033089,2023-04-05T15:51:28.310Z,"1 km WSW of Hebgen Lake Estates, Montana",earthquake,1.67,2.72,0.262,6.0,reviewed,uu,uu
