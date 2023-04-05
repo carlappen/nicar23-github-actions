@@ -10079,3 +10079,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T17:23:52.470Z,38.7783318,-122.7573318,0.76,0.93,md,14.0,84.0,0.01683,0.02,nc,nc73867445,2023-04-05T17:25:29.653Z,"0km NW of The Geysers, CA",earthquake,0.23,0.48,0.19,13.0,automatic,nc,nc
 2023-04-05T17:22:52.358Z,57.47,-155.8915,58.5,1.5,ml,,,,0.46,ak,ak0234deb5zn,2023-04-05T17:25:24.350Z,Alaska Peninsula,earthquake,,1.0,,,automatic,ak,ak
 2023-04-05T17:06:26.197Z,60.7799,-150.514,40.9,1.1,ml,,,,0.96,ak,ak0234de7ojd,2023-04-05T17:08:44.115Z,"18 km SSE of Point Possession, Alaska",earthquake,,3.4,,,automatic,ak,ak
+2023-04-05T11:23:44.593Z,40.3513,-119.6142,9.9,0.7,ml,4.0,329.92,0.203,0.1074,nn,nn00857852,2023-04-05T17:35:11.667Z,"33 km SW of Empire, Nevada",earthquake,,7.1,0.22,4.0,reviewed,nn,nn
+2023-04-05T00:12:37.560Z,56.8883333333333,-158.102166666667,-3.19,0.63,ml,4.0,236.0,,0.16,av,av91834696,2023-04-05T17:32:25.590Z,"32 km E of Port Heiden, Alaska",earthquake,0.92,1.86,0.11117437658148,5.0,reviewed,av,av
