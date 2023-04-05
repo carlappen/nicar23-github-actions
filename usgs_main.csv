@@ -10081,3 +10081,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T17:06:26.197Z,60.7799,-150.514,40.9,1.1,ml,,,,0.96,ak,ak0234de7ojd,2023-04-05T17:08:44.115Z,"18 km SSE of Point Possession, Alaska",earthquake,,3.4,,,automatic,ak,ak
 2023-04-05T11:23:44.593Z,40.3513,-119.6142,9.9,0.7,ml,4.0,329.92,0.203,0.1074,nn,nn00857852,2023-04-05T17:35:11.667Z,"33 km SW of Empire, Nevada",earthquake,,7.1,0.22,4.0,reviewed,nn,nn
 2023-04-05T00:12:37.560Z,56.8883333333333,-158.102166666667,-3.19,0.63,ml,4.0,236.0,,0.16,av,av91834696,2023-04-05T17:32:25.590Z,"32 km E of Port Heiden, Alaska",earthquake,0.92,1.86,0.11117437658148,5.0,reviewed,av,av
+2023-04-05T17:43:26.443Z,60.1039,-152.5742,9.6,1.7,ml,,,,1.1,ak,ak0234defm10,2023-04-05T17:45:19.865Z,Southern Alaska,earthquake,,0.6,,,automatic,ak,ak
+2023-04-05T17:38:27.830Z,62.5338,-151.5659,90.5,1.4,ml,,,,0.37,ak,ak0234deejjz,2023-04-05T17:40:52.737Z,"41 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-05T15:59:51.620Z,36.1701666666667,-89.479,13.05,1.53,md,25.0,41.0,0.01863,0.05,nm,nm60518101,2023-04-05T17:43:11.650Z,"10 km S of Ridgely, Tennessee",earthquake,0.33,0.56,0.0935987030123213,17.0,reviewed,nm,nm
