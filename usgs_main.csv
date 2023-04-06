@@ -10334,3 +10334,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T09:21:34.390Z,34.0241667,-117.5991667,3.15,0.78,ml,14.0,109.0,0.03679,0.2,ci,ci39510490,2023-04-06T09:25:04.834Z,"4km SE of Ontario, CA",earthquake,0.29,0.36,0.106,15.0,automatic,ci,ci
 2023-04-06T09:20:41.164Z,35.79223633,-96.98249817,4.563059807,1.93,ml,5.0,124.3404007,0.1791822463,0.01392231342,ok,ok2023gshh,2023-04-06T09:23:22.635Z,"3 km ESE of Carney, Oklahoma",earthquake,4.796960085,4.011939344,0.16,5.0,automatic,ok,ok
 2023-04-06T09:33:44.785Z,62.0371,-147.7497,26.6,1.7,ml,,,,0.79,ak,ak0234ex5dxq,2023-04-06T09:35:38.900Z,"26 km N of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-06T09:47:14.296Z,35.79816055,-96.98311615,3.983387232,1.57,ml,17.0,63.1222229,0.1744747162,0.1130267159,ok,ok2023gsie,2023-04-06T09:49:06.990Z,"2 km ESE of Carney, Oklahoma",earthquake,3.111357249,2.556332896,0.24,7.0,automatic,ok,ok
+2023-04-06T09:33:02.409Z,39.0676,-97.5878,5.0,3.2,mb_lg,31.0,66.0,0.762,0.66,us,us6000k2bu,2023-04-06T09:50:19.040Z,"4 km N of Bennington, Kansas",earthquake,2.1,1.981,0.043,141.0,reviewed,us,us
