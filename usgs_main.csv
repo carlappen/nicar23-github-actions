@@ -10322,3 +10322,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T08:42:36.790Z,38.8218346,-122.7653351,2.26,0.74,md,11.0,118.0,0.009336,0.02,nc,nc73867915,2023-04-06T08:44:10.830Z,"4km W of Cobb, CA",earthquake,0.35,0.69,0.17,11.0,automatic,nc,nc
 2023-04-06T08:34:13.575Z,57.1298,-156.2922,15.8,2.0,ml,,,,0.52,ak,ak0234ewk3n1,2023-04-06T08:36:27.445Z,"79 km ESE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-06T02:38:29.449Z,31.68344624,-104.4044037,5.10324707,2.1,ml,20.0,56.0,0.03605031628,0.2,tx,tx2023grua,2023-04-06T08:49:24.138Z,"54 km S of Whites City, New Mexico",earthquake,0.7966448573,1.188128958,0.1,20.0,reviewed,tx,tx
+2023-04-06T09:10:53.017Z,60.0447,-152.8893,91.5,1.7,ml,,,,0.3,ak,ak0234ex0h3p,2023-04-06T09:12:34.850Z,"65 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-06T09:08:40.203Z,35.79358673,-96.96762085,2.174293518,2.32,ml,48.0,36.34751701,0.1864968389,0.5216284229,ok,ok2023gsgx,2023-04-06T09:11:59.133Z,"4 km ESE of Carney, Oklahoma",earthquake,1.67268549,1.532786838,0.16,22.0,automatic,ok,ok
+2023-04-06T08:58:04.066Z,62.2436,-150.2293,17.2,1.5,ml,,,,0.5,ak,ak0234ewp83a,2023-04-06T08:59:45.675Z,"8 km S of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-06T08:57:16.827Z,35.7873,-96.9639,10.775,4.2,mb,42.0,32.0,0.193,0.17,us,us6000k2b9,2023-04-06T09:11:35.040Z,"5 km ESE of Carney, Oklahoma",earthquake,0.76,7.463,0.075,49.0,reviewed,us,us
+2023-04-06T08:56:57.058Z,64.6638,-149.2307,14.0,1.1,ml,,,,0.81,ak,ak0234ewowqx,2023-04-06T08:58:44.881Z,"8 km NW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
