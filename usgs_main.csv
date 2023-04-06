@@ -10348,3 +10348,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T10:45:21.110Z,33.9121667,-116.81,18.26,1.89,ml,58.0,57.0,0.0216,0.16,ci,ci39510514,2023-04-06T10:55:37.970Z,"2km WSW of Cabazon, CA",earthquake,0.17,0.33,0.152,28.0,automatic,ci,ci
 2023-04-06T10:29:38.466Z,32.84454346,-100.5436595,0.9537353516,2.9,ml,30.0,89.0,0.054159484,0.2,tx,tx2023gsjp,2023-04-06T10:48:37.170Z,"7 km W of Rotan, Texas",earthquake,0.8890104811,1.064769944,0.1,15.0,reviewed,tx,tx
 2023-04-06T10:57:55.093Z,64.4748,-147.7797,16.0,1.4,ml,,,,0.49,ak,ak0234exvzit,2023-04-06T11:11:25.855Z,"37 km SSW of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-06T11:17:17.410Z,33.8696667,-117.7435,9.17,1.39,ml,39.0,39.0,0.05619,0.19,ci,ci39510522,2023-04-06T11:20:58.329Z,"7km ESE of Yorba Linda, CA",earthquake,0.27,0.54,0.198,28.0,automatic,ci,ci
