@@ -10474,3 +10474,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T19:35:12.320Z,58.1788333333333,-155.292333333333,-1.9,-0.39,ml,6.0,158.0,,0.05,av,av91837686,2023-04-06T20:10:00.450Z,"84 km NW of Karluk, Alaska",earthquake,0.22,1.73,0.301947487066818,6.0,reviewed,av,av
 2023-04-06T19:00:19.468Z,51.6382,179.2378,13.3,2.5,ml,,,,0.55,ak,ak0234f2wkmc,2023-04-06T20:13:02.190Z,"286 km W of Adak, Alaska",earthquake,,1.0,,,reviewed,ak,ak
 2023-04-06T16:26:50.610Z,37.9971667,-112.843,10.21,1.39,ml,14.0,84.0,0.1629,0.09,uu,uu60536496,2023-04-06T20:23:01.660Z,"13 km NNW of Paragonah, Utah",earthquake,0.43,1.65,0.127,2.0,reviewed,uu,uu
+2023-04-06T20:30:27.880Z,38.7560005,-122.3498306,11.68,1.89,md,8.0,173.0,0.2735,0.26,nc,nc73868195,2023-04-06T20:32:05.835Z,"19km ESE of Hidden Valley Lake, CA",earthquake,5.87,3.47,,1.0,automatic,nc,nc
+2023-04-06T20:25:46.620Z,33.847,-117.4926667,1.5,1.63,ml,38.0,39.0,0.04943,0.22,ci,ci40437248,2023-04-06T20:29:43.493Z,"4km SE of Home Gardens, CA",quarry blast,0.29,0.47,0.178,33.0,automatic,ci,ci
