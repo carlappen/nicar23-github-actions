@@ -10500,3 +10500,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T22:18:16.580Z,62.8265,-152.1555,99.7,2.6,ml,,,,0.85,ak,ak0234f4sqvu,2023-04-06T22:21:16.934Z,"80 km WNW of Petersville, Alaska",earthquake,,23.1,,,automatic,ak,ak
 2023-04-06T21:41:36.670Z,19.6821,-65.7648,44.0,3.93,md,11.0,288.0,1.4095,0.11,pr,pr2023096001,2023-04-06T22:18:42.243Z,"138 km N of Suárez, Puerto Rico",earthquake,1.56,8.95,0.12,2.0,reviewed,pr,pr
 2023-04-06T21:38:18.860Z,15.2447,-93.3167,90.497,4.9,mb,85.0,131.0,4.507,0.62,us,us6000k2j4,2023-04-06T22:25:38.040Z,"27 km SW of La Esperanza (El Zapotal), Mexico",earthquake,5.41,7.829,0.032,312.0,reviewed,us,us
+2023-04-06T22:32:43.740Z,32.635,-115.7513333,6.31,1.72,ml,17.0,72.0,0.02544,0.22,ci,ci40437296,2023-04-06T22:36:38.834Z,"17km WNW of Progreso, B.C., MX",earthquake,0.52,0.74,0.31,20.0,automatic,ci,ci
+2023-04-06T22:29:00.544Z,38.1129,-118.0183,5.4,1.8,ml,13.0,128.68,0.09,0.2362,nn,nn00857912,2023-04-06T22:31:49.169Z,"31 km SSE of Mina, Nevada",earthquake,,0.5,0.32,8.0,automatic,nn,nn
+2023-04-06T21:44:10.910Z,-8.0476,117.8071,212.638,4.3,mb,23.0,70.0,0.775,0.67,us,us6000k2jd,2023-04-06T22:33:13.040Z,"54 km NE of Pototano, Indonesia",earthquake,9.11,5.154,0.169,10.0,reviewed,us,us
