@@ -10435,3 +10435,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T18:31:15.510Z,33.0191667,-116.3441667,9.23,1.11,ml,30.0,69.0,0.07295,0.24,ci,ci40437200,2023-04-06T18:34:56.650Z,"24km SW of Ocotillo Wells, CA",earthquake,0.34,1.02,0.236,21.0,automatic,ci,ci
 2023-04-06T13:08:47.283Z,37.1395,-116.2989,9.3,0.0,ml,7.0,74.52,0.04,0.0967,nn,nn00857897,2023-04-06T18:34:15.497Z,"48 km ENE of Beatty, Nevada",earthquake,,1.6,0.56,5.0,reviewed,nn,nn
 2023-04-06T12:18:43.180Z,46.84966666666666,-121.7655,1.19,0.22,ml,9.0,133.0,0.01888,0.06,uw,uw61916441,2023-04-06T18:31:19.960Z,"22 km ENE of Ashford, Washington",earthquake,0.29,0.54,0.0860599261011324,3.0,reviewed,uw,uw
+2023-04-06T18:38:17.160Z,38.8296661,-122.8171692,2.86,0.21,md,7.0,101.0,0.008362,0.01,nc,nc73868160,2023-04-06T18:39:56.133Z,"8km NW of The Geysers, CA",earthquake,0.59,2.28,0.09,8.0,automatic,nc,nc
+2023-04-06T13:37:15.054Z,38.8847,-119.645,0.6,0.7,ml,6.0,126.15,0.029,0.1594,nn,nn00857898,2023-04-06T18:40:28.673Z,"2 km N of Carter Springs, Nevada",earthquake,,6.4,0.33,2.0,reviewed,nn,nn
