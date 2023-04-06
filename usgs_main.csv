@@ -10412,3 +10412,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T00:26:07.388Z,40.3228,-119.9983,9.0,0.8,ml,4.0,275.52,0.254,0.0567,nn,nn00857888,2023-04-06T17:22:57.963Z,"23 km NNE of Herlong, California",earthquake,,14.7,0.19,4.0,reviewed,nn,nn
 2023-04-06T17:03:17.850Z,18.258,-68.9041,144.0,3.91,md,16.0,183.0,0.582,0.84,pr,pr2023096000,2023-04-06T17:32:59.756Z,"20 km SSE of La Romana, Dominican Republic",earthquake,5.46,3.16,0.19,11.0,reviewed,pr,pr
 2023-04-06T04:36:56.750Z,61.3633333333333,-152.283833333333,4.15,-0.16,ml,7.0,242.0,,0.24,av,av91836801,2023-04-06T17:36:40.760Z,"69 km WNW of Beluga, Alaska",earthquake,1.06,31.61,0.266674919315531,7.0,reviewed,av,av
+2023-04-06T16:57:42.060Z,17.9738333333333,-66.9566666666667,5.79,2.12,md,8.0,180.0,0.07369,0.1,pr,pr71402693,2023-04-06T17:44:58.130Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.44,0.47,0.248400309474006,3.0,reviewed,pr,pr
