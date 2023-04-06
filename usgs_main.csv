@@ -10302,3 +10302,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T05:55:52.810Z,38.8358345,-122.8206635,1.15,0.63,md,10.0,76.0,0.0119,0.02,nc,nc73867850,2023-04-06T06:08:10.996Z,"9km NW of The Geysers, CA",earthquake,0.32,0.75,0.41,10.0,automatic,nc,nc
 2023-04-06T06:17:55.620Z,60.975,-147.5048,9.4,2.0,ml,,,,0.51,ak,ak0234ev9oi2,2023-04-06T06:20:04.696Z,"46 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-06T06:17:34.890Z,45.88966751098633,-121.96099853515624,6.15999984741211,1.5170307159423828,ml,17.0,110.0,,0.0900000036,uw,uw61916431,2023-04-06T06:20:23.380Z,"21 km NNW of Carson, Washington",earthquake,0.36,0.680000007,0.3579328060150146,10.0,automatic,uw,uw
+2023-04-06T06:35:43.810Z,38.7868347,-122.7588348,1.67,1.04,md,15.0,67.0,0.01379,0.02,nc,nc73867865,2023-04-06T06:40:08.856Z,"1km NNW of The Geysers, CA",earthquake,0.25,0.52,0.11,16.0,automatic,nc,nc
