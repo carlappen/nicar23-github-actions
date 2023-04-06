@@ -10376,3 +10376,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T13:43:36.926Z,62.8858,-148.1193,54.9,1.1,ml,,,,0.21,ak,ak0234ezl8ws,2023-04-06T13:45:29.798Z,"70 km SE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-06T13:36:10.490Z,33.5075,-116.9175,9.51,0.82,ml,26.0,46.0,0.1353,0.19,ci,ci39510570,2023-04-06T13:39:53.984Z,"9km NW of Aguanga, CA",earthquake,0.31,0.84,0.16,12.0,automatic,ci,ci
 2023-04-06T08:54:32.231Z,-43.5791,172.7848,15.692,2.5,ml,13.0,191.0,0.159,0.4,us,us6000k2dl,2023-04-06T13:43:54.183Z,"13 km ESE of Christchurch, New Zealand",earthquake,3.27,5.018,0.091,16.0,reviewed,us,us
+2023-04-06T13:28:34.798Z,-5.7362,104.0722,84.646,4.6,mb,31.0,183.0,1.762,0.83,us,us6000k2dt,2023-04-06T13:49:07.040Z,"134 km SW of Kotabumi, Indonesia",earthquake,11.52,9.618,0.105,27.0,reviewed,us,us
