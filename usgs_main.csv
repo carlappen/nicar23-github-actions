@@ -10319,3 +10319,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T08:08:22.450Z,38.8279991,-122.8026657,1.59,1.08,md,22.0,44.0,0.007391,0.02,nc,nc73867905,2023-04-06T08:19:10.730Z,"7km NW of The Geysers, CA",earthquake,0.2,0.38,0.16,23.0,automatic,nc,nc
 2023-04-06T08:08:16.105Z,60.0134,-153.0501,118.7,1.7,ml,,,,0.29,ak,ak0234ewej7u,2023-04-06T08:10:04.909Z,"64 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-06T08:03:17.450Z,36.793499,-121.3099976,8.72,2.39,md,43.0,69.0,0.09074,0.1,nc,nc73867900,2023-04-06T08:11:11.678Z,"1km ENE of Tres Pinos, CA",earthquake,0.22,0.55,0.13,47.0,automatic,nc,nc
+2023-04-06T08:42:36.790Z,38.8218346,-122.7653351,2.26,0.74,md,11.0,118.0,0.009336,0.02,nc,nc73867915,2023-04-06T08:44:10.830Z,"4km W of Cobb, CA",earthquake,0.35,0.69,0.17,11.0,automatic,nc,nc
+2023-04-06T08:34:13.575Z,57.1298,-156.2922,15.8,2.0,ml,,,,0.52,ak,ak0234ewk3n1,2023-04-06T08:36:27.445Z,"79 km ESE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
