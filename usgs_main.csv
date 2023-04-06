@@ -10330,3 +10330,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T09:16:57.067Z,35.79102325,-96.97657776,2.389768362,3.31,ml,85.0,35.73929596,0.2077444494,0.3943795063,ok,ok2023gshe,2023-04-06T09:18:51.741Z,"3 km ESE of Carney, Oklahoma",earthquake,1.528840103,1.14929811,0.21,50.0,automatic,ok,ok
 2023-04-06T09:16:52.992Z,62.2768,-149.7592,14.0,1.5,ml,,,,0.56,ak,ak0234ex1reb,2023-04-06T09:19:19.364Z,"13 km NNE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-06T09:16:00.023Z,63.373,-147.415,78.3,1.3,ml,,,,0.42,ak,ak0234ex1nb6,2023-04-06T09:17:27.481Z,"76 km E of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-04-06T09:28:24.121Z,60.1981,-152.4865,94.0,1.6,ml,,,,0.46,ak,ak0234ex49rg,2023-04-06T09:31:07.566Z,"48 km WNW of Ninilchik, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-04-06T09:21:34.390Z,34.0241667,-117.5991667,3.15,0.78,ml,14.0,109.0,0.03679,0.2,ci,ci39510490,2023-04-06T09:25:04.834Z,"4km SE of Ontario, CA",earthquake,0.29,0.36,0.106,15.0,automatic,ci,ci
+2023-04-06T09:20:41.164Z,35.79223633,-96.98249817,4.563059807,1.93,ml,5.0,124.3404007,0.1791822463,0.01392231342,ok,ok2023gshh,2023-04-06T09:23:22.635Z,"3 km ESE of Carney, Oklahoma",earthquake,4.796960085,4.011939344,0.16,5.0,automatic,ok,ok
