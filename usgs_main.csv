@@ -10482,3 +10482,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T20:54:55.684Z,64.7668,-147.5387,2.7,1.0,ml,,,,0.76,ak,ak0234f3togw,2023-04-06T20:56:42.261Z,"3 km S of Badger, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-06T21:11:30.410Z,38.7919998,-122.7611694,2.6,1.26,md,19.0,62.0,0.008688,0.03,nc,nc73868205,2023-04-06T21:13:05.906Z,"2km NNW of The Geysers, CA",earthquake,0.29,0.6,0.19,19.0,automatic,nc,nc
 2023-04-06T21:25:27.550Z,33.6826667,-116.793,15.54,0.69,ml,15.0,67.0,0.07161,0.2,ci,ci40437256,2023-04-06T21:28:56.340Z,"9km SW of Idyllwild, CA",earthquake,0.48,0.77,0.143,13.0,automatic,ci,ci
+2023-04-06T21:31:49.641Z,61.9111,-149.2645,12.8,1.5,ml,,,,0.53,ak,ak0234f4a650,2023-04-06T21:34:15.286Z,"18 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak

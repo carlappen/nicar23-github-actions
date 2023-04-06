@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-06T21:25:27.550Z,33.6826667,-116.793,15.54,0.69,ml,15,67,0.07161,0.2,ci,ci40437256,2023-04-06T21:28:56.340Z,"9km SW of Idyllwild, CA",earthquake,0.48,0.77,0.143,13,automatic,ci,ci
-2023-04-06T21:11:30.410Z,38.7919998,-122.7611694,2.6,1.26,md,19,62,0.008688,0.03,nc,nc73868205,2023-04-06T21:23:11.582Z,"2km NNW of The Geysers, CA",earthquake,0.29,0.6,0.19,19,automatic,nc,nc
+2023-04-06T21:31:49.641Z,61.9111,-149.2645,12.8,1.5,ml,,,,0.53,ak,ak0234f4a650,2023-04-06T21:34:15.286Z,"18 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-06T21:25:27.550Z,33.6826667,-116.793,15.54,0.69,ml,15,67,0.07161,0.2,ci,ci40437256,2023-04-06T21:29:00.453Z,"9km SW of Idyllwild, CA",earthquake,0.48,0.77,0.143,13,automatic,ci,ci
+2023-04-06T21:11:30.410Z,38.7919998,-122.7611694,2.6,1.26,md,19,62,0.008688,0.03,nc,nc73868205,2023-04-06T21:29:21.612Z,"2km NNW of The Geysers, CA",earthquake,0.29,0.6,0.19,19,automatic,nc,nc
 2023-04-06T20:54:55.684Z,64.7668,-147.5387,2.7,1,ml,,,,0.76,ak,ak0234f3togw,2023-04-06T20:56:42.261Z,"3 km S of Badger, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-06T20:52:33.708Z,59.9173,-152.5274,80.7,1.8,ml,,,,0.45,ak,ak0234f3t7ca,2023-04-06T20:54:03.973Z,"42 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-06T20:33:15.440Z,18.9020004272461,-155.528335571289,34.25,2.41,ml,35,253,,0.159999996,hv,hv73357912,2023-04-06T20:38:46.070Z,"19 km SSE of Naalehu, Hawaii",earthquake,0.77,1.11000001,0.19,3,automatic,hv,hv
@@ -272,7 +273,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T23:03:43.740Z,38.7885017,-122.7686691,1.69,1.17,md,23,80,0.01398,0.03,nc,nc73867690,2023-04-06T00:26:14.903Z,"2km NW of The Geysers, CA",earthquake,0.23,0.38,0.21,21,automatic,nc,nc
 2023-04-05T22:59:15.070Z,38.7874985,-122.7683334,2.4,1.37,md,29,81,0.01474,0.03,nc,nc73867685,2023-04-06T00:15:15.828Z,"2km NW of The Geysers, CA",earthquake,0.23,0.41,0.14,29,automatic,nc,nc
 2023-04-05T22:52:27.650Z,38.5328333,-122.6513333,6.45,1.22,md,43,40,0.06212,0.09,nc,nc73867675,2023-04-06T21:16:11.544Z,"8km SW of Calistoga, CA",earthquake,0.18,0.35,0.121,36,reviewed,nc,nc
-2023-04-05T22:47:04.640Z,38.7734985,-122.7161636,1.85,1.34,md,16,96,0.01369,0.04,nc,nc73867670,2023-04-05T23:49:14.648Z,"2km W of Anderson Springs, CA",earthquake,0.3,0.43,0.14,15,automatic,nc,nc
+2023-04-05T22:47:04.670Z,38.7758333,-122.7171667,1.54,1.2,md,39,54,0.0114,0.06,nc,nc73867670,2023-04-06T21:37:42.290Z,"2km W of Anderson Springs, CA",earthquake,0.13,0.27,0.181,33,reviewed,nc,nc
 2023-04-05T22:37:17.900Z,38.7921667,-122.7656667,1.6,1.16,md,35,71,0.009643,0.04,nc,nc73867665,2023-04-06T21:09:16.507Z,"2km NNW of The Geysers, CA",earthquake,0.15,0.31,0.207,31,reviewed,nc,nc
 2023-04-05T22:33:44.990Z,38.7876663,-122.7676697,1.8,0.31,md,6,149,0.01436,0.01,nc,nc73867660,2023-04-05T22:50:10.287Z,"2km NW of The Geysers, CA",earthquake,0.59,2.17,0.07,8,automatic,nc,nc
 2023-04-05T22:32:27.320Z,32.7565,-115.4266667,12.04,1.8,ml,26,111,0.05155,0.23,ci,ci39510186,2023-04-05T22:46:23.124Z,"8km SW of Holtville, CA",earthquake,0.47,0.68,0.236,19,reviewed,ci,ci
@@ -287,7 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T21:59:16.010Z,33.4421667,-116.6366667,6.15,0.39,ml,13,152,0.05979,0.09,ci,ci39510154,2023-04-05T22:18:04.927Z,"13km SSE of Anza, CA",earthquake,0.28,0.43,0.143,9,reviewed,ci,ci
 2023-04-05T21:53:27.270Z,38.7955,-122.7668333,1.51,0.22,md,19,70,0.00756,0.02,nc,nc73867625,2023-04-06T04:44:16.484Z,"2km NNW of The Geysers, CA",earthquake,0.19,0.23,0.276,17,reviewed,nc,nc
 2023-04-05T21:47:14.800Z,53.891,-166.5785,2.81,-0.42,ml,5,174,,0.12,av,av91836296,2023-04-05T22:25:38.850Z,"2 km W of Dutch Harbor, Alaska",earthquake,0.57,1.77,0.268147615832132,5,reviewed,av,av
-2023-04-05T21:36:29.060Z,38.8143349,-122.8253326,2.36,0.92,md,13,55,0.006231,0.02,nc,nc73867610,2023-04-05T21:50:10.917Z,"7km NW of The Geysers, CA",earthquake,0.28,0.62,0.18,14,automatic,nc,nc
-2023-04-05T21:36:13.806Z,63.2039,-151.1273,0,1.5,ml,,,,0.89,ak,ak0234dgrtgk,2023-04-05T21:38:29.262Z,"47 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-05T21:33:51.930Z,55.0531666666667,-162.2515,1.98,1.39,ml,9,142,,0.11,av,av91836286,2023-04-05T22:22:06.010Z,"4 km ESE of King Cove, Alaska",earthquake,0.31,0.67,0.210333971381223,8,reviewed,av,av
-2023-04-05T21:29:17.400Z,38.8301667,-122.814,1.83,1.55,md,44,43,0.007425,0.05,nc,nc73867600,2023-04-06T20:23:20.215Z,"8km NW of The Geysers, CA",earthquake,0.13,0.2,0.134,36,reviewed,nc,nc
