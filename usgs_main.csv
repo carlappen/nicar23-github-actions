@@ -10258,3 +10258,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T01:19:47.900Z,53.3886666666667,-168.195833333333,0.56,0.15,ml,6.0,238.0,,0.24,av,av91096953,2023-04-06T02:50:45.620Z,"66 km NE of Nikolski, Alaska",earthquake,0.78,0.5,0.363183133553949,6.0,reviewed,av,av
 2023-04-06T00:56:35.790Z,51.8606666666667,-178.091333333333,4.1,0.24,ml,4.0,210.0,,0.11,av,av91836556,2023-04-06T02:44:51.640Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.58,0.97,0.194689252386367,4.0,reviewed,av,av
 2023-04-06T00:53:20.920Z,51.8598333333333,-178.087833333333,4.19,0.11,ml,4.0,208.0,,0.13,av,av91836551,2023-04-06T02:41:50.850Z,"100 km W of Adak, Alaska",earthquake,0.73,1.0,0.306117537638305,4.0,reviewed,av,av
+2023-04-06T03:00:49.715Z,56.8332,-157.9124,2.4,3.5,ml,,,,0.42,ak,ak0234etdq4d,2023-04-06T03:02:18.418Z,"45 km ESE of Port Heiden, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-06T02:57:52.320Z,38.8058319,-122.815834,2.89,1.25,md,29.0,60.0,0.01086,0.03,nc,nc73867775,2023-04-06T03:01:03.132Z,"6km WNW of The Geysers, CA",earthquake,0.22,0.41,0.18,28.0,automatic,nc,nc
+2023-04-06T02:48:26.168Z,62.5244,-154.5674,104.3,1.9,ml,,,,0.55,ak,ak0234et2it0,2023-04-06T02:55:50.690Z,Central Alaska,earthquake,,21.1,,,automatic,ak,ak
+2023-04-06T01:43:05.850Z,58.165,-155.346833333333,-0.83,-0.81,ml,5.0,187.0,,0.03,av,av91836596,2023-04-06T02:54:22.530Z,"84 km NW of Karluk, Alaska",earthquake,0.26,31.61,0.168197000441181,5.0,reviewed,av,av
