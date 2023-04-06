@@ -10496,3 +10496,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T21:48:12.550Z,64.2012,-147.8648,36.3,1.9,ml,,,,0.41,ak,ak0234f4dqg7,2023-04-06T22:00:00.156Z,"58 km SW of Salcha, Alaska",earthquake,,5.0,,,automatic,ak,ak
 2023-04-06T21:07:52.050Z,49.266,-120.465,-0.62,2.31,ml,7.0,186.0,0.5526,0.57,uw,uw61916526,2023-04-06T22:01:41.250Z,"21 km S of Princeton, Canada",explosion,3.13,31.61,0.1066307244332229,6.0,reviewed,uw,uw
 2023-04-06T21:06:00.077Z,52.1167,-170.1947,36.0,2.4,ml,,,,0.63,ak,ak0234f44q5n,2023-04-06T22:04:54.341Z,"128 km SW of Nikolski, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2023-04-06T22:19:38.970Z,33.1813333,-115.6256667,1.16,1.91,ml,33.0,45.0,0.003155,0.25,ci,ci40437288,2023-04-06T22:23:14.553Z,"12km WSW of Niland, CA",earthquake,0.36,31.61,0.193,25.0,automatic,ci,ci
+2023-04-06T22:18:16.580Z,62.8265,-152.1555,99.7,2.6,ml,,,,0.85,ak,ak0234f4sqvu,2023-04-06T22:21:16.934Z,"80 km WNW of Petersville, Alaska",earthquake,,23.1,,,automatic,ak,ak
+2023-04-06T21:41:36.670Z,19.6821,-65.7648,44.0,3.93,md,11.0,288.0,1.4095,0.11,pr,pr2023096001,2023-04-06T22:18:42.243Z,"138 km N of Suárez, Puerto Rico",earthquake,1.56,8.95,0.12,2.0,reviewed,pr,pr
+2023-04-06T21:38:18.860Z,15.2447,-93.3167,90.497,4.9,mb,85.0,131.0,4.507,0.62,us,us6000k2j4,2023-04-06T22:25:38.040Z,"27 km SW of La Esperanza (El Zapotal), Mexico",earthquake,5.41,7.829,0.032,312.0,reviewed,us,us
