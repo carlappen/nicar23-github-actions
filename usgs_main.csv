@@ -10384,3 +10384,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T06:51:04.434Z,55.1226,-159.6036,13.3,1.9,ml,,,,0.21,ak,ak0234evgw0n,2023-04-06T14:22:24.332Z,"61 km ESE of Sand Point, Alaska",earthquake,,2.0,,,reviewed,ak,ak
 2023-04-06T14:42:12.866Z,57.971,-154.7711,60.9,1.5,ml,,,,0.3,ak,ak0234f06exy,2023-04-06T14:43:31.352Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-06T01:01:39.180Z,33.5993333,-116.8168333,13.04,0.49,ml,17.0,149.0,0.04437,0.11,ci,ci39510234,2023-04-06T14:46:53.439Z,"14km WNW of Anza, CA",earthquake,0.33,0.48,0.147,12.0,reviewed,ci,ci
+2023-04-06T15:21:40.740Z,38.8375015,-122.8075027,1.78,0.46,md,7.0,112.0,0.01343,0.01,nc,nc73868060,2023-04-06T15:23:16.454Z,"8km WNW of Cobb, CA",earthquake,0.41,1.68,0.22,7.0,automatic,nc,nc
