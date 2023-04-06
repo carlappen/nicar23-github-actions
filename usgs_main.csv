@@ -10300,3 +10300,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T06:04:09.630Z,17.94,-66.985,9.81,2.26,md,7.0,228.0,0.06352,0.06,pr,pr71402658,2023-04-06T06:15:04.630Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,0.4,0.46,0.0161377976412163,3.0,reviewed,pr,pr
 2023-04-06T05:56:21.039Z,63.3032,-145.2007,12.5,2.5,ml,,,,0.37,ak,ak0234euwj5j,2023-04-06T06:14:06.040Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
 2023-04-06T05:55:52.810Z,38.8358345,-122.8206635,1.15,0.63,md,10.0,76.0,0.0119,0.02,nc,nc73867850,2023-04-06T06:08:10.996Z,"9km NW of The Geysers, CA",earthquake,0.32,0.75,0.41,10.0,automatic,nc,nc
+2023-04-06T06:17:55.620Z,60.975,-147.5048,9.4,2.0,ml,,,,0.51,ak,ak0234ev9oi2,2023-04-06T06:20:04.696Z,"46 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-06T06:17:34.890Z,45.88966751098633,-121.96099853515624,6.15999984741211,1.5170307159423828,ml,17.0,110.0,,0.0900000036,uw,uw61916431,2023-04-06T06:20:23.380Z,"21 km NNW of Carson, Washington",earthquake,0.36,0.680000007,0.3579328060150146,10.0,automatic,uw,uw
