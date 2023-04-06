@@ -10506,3 +10506,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T22:39:05.840Z,19.1291675567627,-155.389831542969,32.1100006103516,1.82000005,md,28.0,241.0,,0.119999997,hv,hv73357947,2023-04-06T22:42:29.580Z,"12 km SE of Pāhala, Hawaii",earthquake,0.79,1.05999994,0.769999981,11.0,automatic,hv,hv
 2023-04-06T22:37:06.484Z,63.506,-151.0467,7.0,1.4,ml,,,,0.61,ak,ak0234f4wspk,2023-04-06T22:40:03.963Z,"33 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-06T21:06:01.068Z,52.0993,-170.1644,35.0,2.5,ml,15.0,225.0,0.74,0.59,us,us6000k2ji,2023-04-06T22:49:10.040Z,"128 km SW of Nikolski, Alaska",earthquake,3.62,1.979,0.115,10.0,reviewed,us,us
+2023-04-06T23:02:12.390Z,35.8563333,-117.665,13.63,1.02,ml,8.0,130.0,0.1778,0.24,ci,ci40437304,2023-04-06T23:05:45.970Z,"24km ESE of Little Lake, CA",earthquake,0.64,2.86,0.14,6.0,automatic,ci,ci
+2023-04-06T22:23:18.480Z,53.8791666666667,-166.6,6.15,-0.08,ml,7.0,149.0,,0.19,av,av91837856,2023-04-06T23:00:51.270Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.52,1.04,0.252747721847724,7.0,reviewed,av,av
+2023-04-06T22:09:19.944Z,27.3416,141.3771,89.094,4.7,mb,146.0,207.0,5.911,0.75,us,us6000k2ju,2023-04-06T23:13:24.040Z,"Bonin Islands, Japan region",earthquake,14.59,8.835,0.046,142.0,reviewed,us,us
