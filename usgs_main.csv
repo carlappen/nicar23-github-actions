@@ -10295,3 +10295,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T05:42:52.141Z,61.2249,-146.8425,22.1,1.8,ml,,,,0.86,ak,ak0234eutlj2,2023-04-06T05:44:33.714Z,"28 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-06T05:38:54.998Z,62.1143,-148.6783,19.9,1.2,ml,,,,0.31,ak,ak0234eusqvv,2023-04-06T05:40:38.938Z,"37 km NNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-06T05:26:58.400Z,17.9545,-66.9551666666667,9.51,2.52,md,9.0,207.0,0.07509,0.1,pr,pr71402643,2023-04-06T05:43:22.590Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.56,0.72,0.402958222710242,6.0,reviewed,pr,pr
+2023-04-06T06:12:45.768Z,60.8562,-152.3078,98.2,1.6,ml,,,,0.32,ak,ak0234ev8l5s,2023-04-06T06:14:32.757Z,"58 km WNW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-06T06:07:59.500Z,19.2276668548584,-155.440002441406,34.1699981689453,2.2,ml,35.0,119.0,,0.140000001,hv,hv73357542,2023-04-06T06:13:29.080Z,"4 km NE of Pāhala, Hawaii",earthquake,0.53,0.779999971,3.8,6.0,automatic,hv,hv
+2023-04-06T06:04:09.630Z,17.94,-66.985,9.81,2.26,md,7.0,228.0,0.06352,0.06,pr,pr71402658,2023-04-06T06:15:04.630Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,0.4,0.46,0.0161377976412163,3.0,reviewed,pr,pr
+2023-04-06T05:56:21.039Z,63.3032,-145.2007,12.5,2.5,ml,,,,0.37,ak,ak0234euwj5j,2023-04-06T06:14:06.040Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-04-06T05:55:52.810Z,38.8358345,-122.8206635,1.15,0.63,md,10.0,76.0,0.0119,0.02,nc,nc73867850,2023-04-06T06:08:10.996Z,"9km NW of The Geysers, CA",earthquake,0.32,0.75,0.41,10.0,automatic,nc,nc
