@@ -10405,3 +10405,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T17:02:53.091Z,61.0732,-152.1829,17.2,0.1,ml,,,,0.59,ak,ak0234f1q8e7,2023-04-06T17:05:12.425Z,"56 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-06T17:01:18.450Z,38.814167,-122.8193359,2.6,1.39,md,25.0,52.0,0.009334,0.02,nc,nc73868110,2023-04-06T17:02:55.411Z,"7km NW of The Geysers, CA",earthquake,0.2,0.41,0.18,26.0,automatic,nc,nc
 2023-04-06T16:57:02.130Z,38.8014984,-122.75383,-0.83,0.8,md,8.0,99.0,0.02261,0.26,nc,nc73868105,2023-04-06T16:58:35.308Z,"3km N of The Geysers, CA",earthquake,0.71,2.63,0.17,7.0,automatic,nc,nc
+2023-04-06T17:15:50.932Z,60.3049,-140.197,0.1,1.9,ml,,,,0.59,ak,ak0234f1t0d1,2023-04-06T17:17:55.305Z,"88 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-05T18:03:44.790Z,46.17516666666667,-121.41233333333334,9.68,1.13,ml,17.0,255.0,0.1334,0.17,uw,uw61916301,2023-04-06T17:13:22.130Z,"21 km NNE of Trout Lake, Washington",earthquake,0.89,1.54,0.2473999788904245,9.0,reviewed,uw,uw
