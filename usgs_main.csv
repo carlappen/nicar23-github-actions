@@ -10321,3 +10321,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T08:03:17.450Z,36.793499,-121.3099976,8.72,2.39,md,43.0,69.0,0.09074,0.1,nc,nc73867900,2023-04-06T08:11:11.678Z,"1km ENE of Tres Pinos, CA",earthquake,0.22,0.55,0.13,47.0,automatic,nc,nc
 2023-04-06T08:42:36.790Z,38.8218346,-122.7653351,2.26,0.74,md,11.0,118.0,0.009336,0.02,nc,nc73867915,2023-04-06T08:44:10.830Z,"4km W of Cobb, CA",earthquake,0.35,0.69,0.17,11.0,automatic,nc,nc
 2023-04-06T08:34:13.575Z,57.1298,-156.2922,15.8,2.0,ml,,,,0.52,ak,ak0234ewk3n1,2023-04-06T08:36:27.445Z,"79 km ESE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-06T02:38:29.449Z,31.68344624,-104.4044037,5.10324707,2.1,ml,20.0,56.0,0.03605031628,0.2,tx,tx2023grua,2023-04-06T08:49:24.138Z,"54 km S of Whites City, New Mexico",earthquake,0.7966448573,1.188128958,0.1,20.0,reviewed,tx,tx
