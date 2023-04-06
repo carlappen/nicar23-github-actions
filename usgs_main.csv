@@ -10339,3 +10339,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T10:06:12.150Z,38.8176651,-122.8208313,2.17,2.24,md,43.0,45.0,0.01017,0.05,nc,nc73867930,2023-04-06T10:09:30.060Z,"7km NW of The Geysers, CA",earthquake,0.16,0.25,0.18,50.0,automatic,nc,nc
 2023-04-06T10:12:17.070Z,38.8300018,-122.8096695,2.15,0.41,md,9.0,84.0,0.006605,0.01,nc,nc73867935,2023-04-06T10:23:11.484Z,"8km NW of The Geysers, CA",earthquake,0.33,0.99,0.32,11.0,automatic,nc,nc
 2023-04-06T10:03:37.036Z,12.2567,-88.0043,42.753,4.6,mb,58.0,129.0,1.055,1.14,us,us6000k2c2,2023-04-06T10:22:47.040Z,off the coast of Central America,earthquake,8.01,9.654,0.048,127.0,reviewed,us,us
+2023-04-06T10:27:27.700Z,38.7890015,-122.768837,1.49,1.08,md,13.0,80.0,0.01362,0.02,nc,nc73867950,2023-04-06T10:29:05.503Z,"2km NW of The Geysers, CA",earthquake,0.27,0.45,0.16,14.0,automatic,nc,nc
