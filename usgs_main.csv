@@ -10305,3 +10305,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T06:35:43.810Z,38.7868347,-122.7588348,1.67,1.04,md,15.0,67.0,0.01379,0.02,nc,nc73867865,2023-04-06T06:40:08.856Z,"1km NNW of The Geysers, CA",earthquake,0.25,0.52,0.11,16.0,automatic,nc,nc
 2023-04-06T06:43:45.560Z,38.8156662,-122.8191681,0.96,0.56,md,6.0,117.0,0.01036,0.01,nc,nc73867875,2023-04-06T06:45:21.032Z,"7km NW of The Geysers, CA",earthquake,0.37,0.81,0.21,8.0,automatic,nc,nc
 2023-04-06T06:39:39.300Z,36.0009995,-120.560997,2.72,0.56,md,8.0,217.0,0.02148,0.04,nc,nc73867870,2023-04-06T06:41:14.812Z,"16km NW of Parkfield, CA",earthquake,0.96,1.11,,1.0,automatic,nc,nc
+2023-04-06T06:51:43.690Z,33.3991667,-116.3788333,2.14,0.88,ml,23.0,107.0,0.1345,0.17,ci,ci39510458,2023-04-06T06:55:16.105Z,"16km N of Borrego Springs, CA",earthquake,0.27,0.64,0.166,17.0,automatic,ci,ci
+2023-04-06T06:39:06.499Z,11.6502,-85.7939,10.0,5.1,mww,74.0,129.0,0.666,0.72,us,us6000k2b0,2023-04-06T06:58:23.103Z,"16 km NW of Moyogalpa, Nicaragua",earthquake,3.14,1.622,0.047,43.0,reviewed,us,us
