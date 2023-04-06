@@ -10235,3 +10235,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T00:42:07.423Z,61.5625,-146.2156,38.9,1.6,ml,,,,0.79,ak,ak0234eruc1y,2023-04-06T00:43:55.018Z,"48 km N of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-06T00:38:29.970Z,33.6631667,-116.6948333,16.41,0.42,ml,11.0,120.0,0.05052,0.19,ci,ci39510226,2023-04-06T00:42:13.577Z,"9km SSE of Idyllwild, CA",earthquake,0.74,0.55,0.157,8.0,automatic,ci,ci
 2023-04-06T00:32:02.986Z,-0.4926,122.2314,10.0,5.2,mww,55.0,75.0,0.768,0.55,us,us6000k29k,2023-04-06T00:49:07.040Z,"80 km NW of Luwuk, Indonesia",earthquake,6.53,1.852,0.098,10.0,reviewed,us,us
+2023-04-06T02:19:47.273Z,63.5784,-148.9811,3.3,1.7,ml,,,,0.4,ak,ak0234eswcvb,2023-04-06T02:21:29.082Z,"17 km S of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-06T02:04:46.833Z,62.2891,-150.1001,58.6,1.4,ml,,,,0.54,ak,ak0234est53f,2023-04-06T02:06:48.948Z,"3 km S of Talkeetna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-04-06T02:04:01.991Z,65.7073,-151.4899,0.0,1.5,ml,,,,1.01,ak,ak0234essyb5,2023-04-06T02:09:25.791Z,"64 km WNW of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-06T01:59:00.851Z,60.9443,-149.2565,20.5,1.7,ml,,,,0.44,ak,ak0234esjebd,2023-04-06T02:00:49.097Z,"4 km W of Girdwood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-06T01:42:49.307Z,53.1352,153.4949,501.326,4.1,mb,33.0,72.0,3.111,0.94,us,us6000k29x,2023-04-06T02:00:20.040Z,"274 km NW of Ozernovskiy, Russia",earthquake,11.52,8.919,0.112,22.0,reviewed,us,us
+2023-04-06T00:22:29.920Z,51.8585,-178.082,3.81,0.1,ml,4.0,204.0,,0.12,av,av91836511,2023-04-06T02:18:57.740Z,"99 km W of Adak, Alaska",earthquake,0.46,0.44,0.214632048501094,4.0,reviewed,av,av
+2023-04-06T00:16:06.170Z,60.0153333333333,-153.097166666667,-2.96,-0.86,ml,5.0,119.0,,0.07,av,av91836506,2023-04-06T02:17:28.260Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.24,1.42,0.223023502951794,5.0,reviewed,av,av
+2023-04-05T23:36:27.000Z,58.1913333333333,-155.269666666667,3.52,-0.77,ml,4.0,167.0,,0.03,av,av91836431,2023-04-06T02:09:30.840Z,Alaska Peninsula,earthquake,0.7,1.16,0.199637688838614,4.0,reviewed,av,av
+2023-04-05T23:23:42.400Z,46.34883333333333,-122.77516666666666,-0.35,1.5,ml,14.0,65.0,0.1147,0.41,uw,uw61916401,2023-04-06T02:03:19.310Z,"11 km SSE of Toledo, Washington",explosion,0.86,31.61,0.1327278928985128,6.0,reviewed,uw,uw
+2023-04-05T19:55:38.740Z,51.889,-178.170833333333,11.26,0.48,ml,4.0,281.0,,0.18,av,av91836121,2023-04-06T01:55:55.340Z,"105 km W of Adak, Alaska",earthquake,1.31,1.28,0.194891331382375,4.0,reviewed,av,av
