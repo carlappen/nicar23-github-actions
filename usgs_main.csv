@@ -10393,3 +10393,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T16:03:58.970Z,33.5996667,-116.822,14.48,0.72,ml,21.0,73.0,0.03713,0.23,ci,ci40437160,2023-04-06T16:07:35.602Z,"15km WNW of Anza, CA",earthquake,0.46,0.61,0.192,14.0,automatic,ci,ci
 2023-04-06T15:14:06.900Z,18.2946666666667,-67.9775,10.74,3.05,md,13.0,138.0,0.221,0.64,pr,pr71402668,2023-04-06T16:06:14.760Z,"55 km SE of Punta Cana, Dominican Republic",earthquake,3.38,5.17,0.26591397529015,9.0,reviewed,pr,pr
 2023-04-06T09:23:55.509Z,35.79266667,-96.9805,6.99,1.26,ml,57.0,40.0,0.1799646848,0.14,ok,ok2023gshk,2023-04-06T15:55:07.964Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.3,0.12,5.0,reviewed,ok,ok
+2023-04-06T16:28:59.370Z,38.8045006,-122.7799988,2.92,1.31,md,26.0,65.0,0.008762,0.02,nc,nc73868090,2023-04-06T16:30:36.203Z,"4km NW of The Geysers, CA",earthquake,0.23,0.44,0.12,26.0,automatic,nc,nc
+2023-04-06T16:24:49.243Z,61.4111,-150.1359,19.8,2.5,ml,,,,0.74,ak,ak0234f19i2k,2023-04-06T16:27:20.197Z,"10 km NW of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-06T16:18:54.978Z,60.8028,-150.7012,46.6,1.7,ml,,,,0.54,ak,ak0234f1887t,2023-04-06T16:20:53.739Z,"13 km S of Point Possession, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-04-06T16:14:13.480Z,38.8243332,-122.8000031,2.9,0.94,md,12.0,62.0,0.007922,0.02,nc,nc73868080,2023-04-06T16:31:13.774Z,"6km NW of The Geysers, CA",earthquake,0.4,0.73,0.22,12.0,automatic,nc,nc
+2023-04-06T12:55:00.500Z,37.5255,-118.8963333,5.12,0.76,md,12.0,198.0,0.08369,0.05,nc,nc73868015,2023-04-06T16:30:26.518Z,"14km SSE of Mammoth Lakes, CA",earthquake,0.46,1.78,0.146,11.0,reviewed,nc,nc
+2023-04-05T18:44:50.479Z,34.37633333,-96.82816667,0.08,1.61,ml,41.0,80.0,0.2051597407,0.38,ok,ok2023grek,2023-04-06T16:24:08.177Z,"3 km S of Mill Creek, Oklahoma",quarry blast,,0.6,0.33,3.0,reviewed,ok,ok
