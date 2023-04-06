@@ -10262,3 +10262,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T02:57:52.320Z,38.8058319,-122.815834,2.89,1.25,md,29.0,60.0,0.01086,0.03,nc,nc73867775,2023-04-06T03:01:03.132Z,"6km WNW of The Geysers, CA",earthquake,0.22,0.41,0.18,28.0,automatic,nc,nc
 2023-04-06T02:48:26.168Z,62.5244,-154.5674,104.3,1.9,ml,,,,0.55,ak,ak0234et2it0,2023-04-06T02:55:50.690Z,Central Alaska,earthquake,,21.1,,,automatic,ak,ak
 2023-04-06T01:43:05.850Z,58.165,-155.346833333333,-0.83,-0.81,ml,5.0,187.0,,0.03,av,av91836596,2023-04-06T02:54:22.530Z,"84 km NW of Karluk, Alaska",earthquake,0.26,31.61,0.168197000441181,5.0,reviewed,av,av
+2023-04-06T02:24:32.030Z,51.8558333333333,-178.089166666667,4.21,-0.09,ml,4.0,211.0,,0.16,av,av91836626,2023-04-06T03:06:31.330Z,"100 km W of Adak, Alaska",earthquake,0.72,1.22,0.132115150498531,4.0,reviewed,av,av
