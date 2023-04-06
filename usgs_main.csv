@@ -10390,3 +10390,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T15:51:36.580Z,38.8363342,-122.8031693,2.05,0.21,md,9.0,65.0,0.01023,0.01,nc,nc73868075,2023-04-06T15:53:10.645Z,"7km WNW of Cobb, CA",earthquake,0.41,1.61,0.1,9.0,automatic,nc,nc
 2023-04-06T15:08:55.434Z,-5.3925,150.1883,159.893,4.5,mb,123.0,54.0,2.302,0.6,us,us6000k2ff,2023-04-06T15:48:50.040Z,"18 km NNE of Kimbe, Papua New Guinea",earthquake,8.25,6.817,0.051,125.0,reviewed,us,us
 2023-04-06T03:48:05.860Z,33.7036667,-116.7116667,17.69,0.44,ml,21.0,60.0,0.007766,0.09,ci,ci37524604,2023-04-06T15:48:17.790Z,"4km S of Idyllwild, CA",earthquake,0.27,0.35,0.067,2.0,reviewed,ci,ci
+2023-04-06T16:03:58.970Z,33.5996667,-116.822,14.48,0.72,ml,21.0,73.0,0.03713,0.23,ci,ci40437160,2023-04-06T16:07:35.602Z,"15km WNW of Anza, CA",earthquake,0.46,0.61,0.192,14.0,automatic,ci,ci
+2023-04-06T15:14:06.900Z,18.2946666666667,-67.9775,10.74,3.05,md,13.0,138.0,0.221,0.64,pr,pr71402668,2023-04-06T16:06:14.760Z,"55 km SE of Punta Cana, Dominican Republic",earthquake,3.38,5.17,0.26591397529015,9.0,reviewed,pr,pr
+2023-04-06T09:23:55.509Z,35.79266667,-96.9805,6.99,1.26,ml,57.0,40.0,0.1799646848,0.14,ok,ok2023gshk,2023-04-06T15:55:07.964Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.3,0.12,5.0,reviewed,ok,ok
