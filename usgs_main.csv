@@ -10407,3 +10407,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T16:57:02.130Z,38.8014984,-122.75383,-0.83,0.8,md,8.0,99.0,0.02261,0.26,nc,nc73868105,2023-04-06T16:58:35.308Z,"3km N of The Geysers, CA",earthquake,0.71,2.63,0.17,7.0,automatic,nc,nc
 2023-04-06T17:15:50.932Z,60.3049,-140.197,0.1,1.9,ml,,,,0.59,ak,ak0234f1t0d1,2023-04-06T17:17:55.305Z,"88 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-05T18:03:44.790Z,46.17516666666667,-121.41233333333334,9.68,1.13,ml,17.0,255.0,0.1334,0.17,uw,uw61916301,2023-04-06T17:13:22.130Z,"21 km NNE of Trout Lake, Washington",earthquake,0.89,1.54,0.2473999788904245,9.0,reviewed,uw,uw
+2023-04-06T16:26:00.500Z,56.2205,-159.377333333333,8.7,0.33,ml,6.0,227.0,,0.27,av,av91837571,2023-04-06T17:23:06.840Z,"36 km N of Ivanof Bay, Alaska",earthquake,1.04,1.82,0.246633382973328,6.0,reviewed,av,av
+2023-04-06T00:56:41.290Z,39.5951,-120.0173,8.3,0.1,ml,4.0,200.06,0.045,0.0835,nn,nn00857889,2023-04-06T17:29:12.877Z,"7 km N of Verdi, California",earthquake,,2.5,0.38,2.0,reviewed,nn,nn
+2023-04-06T00:26:07.388Z,40.3228,-119.9983,9.0,0.8,ml,4.0,275.52,0.254,0.0567,nn,nn00857888,2023-04-06T17:22:57.963Z,"23 km NNE of Herlong, California",earthquake,,14.7,0.19,4.0,reviewed,nn,nn
