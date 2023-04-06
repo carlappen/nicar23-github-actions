@@ -10382,3 +10382,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T14:20:46.290Z,33.8998333,-116.317,4.14,0.97,ml,29.0,68.0,0.0865,0.24,ci,ci39510578,2023-04-06T14:24:23.193Z,"11km NE of Thousand Palms, CA",earthquake,0.42,1.46,0.152,22.0,automatic,ci,ci
 2023-04-06T14:20:28.378Z,63.0446,-150.3961,100.2,3.5,ml,,,,0.55,ak,ak0234f01qd2,2023-04-06T14:22:38.316Z,"63 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-06T06:51:04.434Z,55.1226,-159.6036,13.3,1.9,ml,,,,0.21,ak,ak0234evgw0n,2023-04-06T14:22:24.332Z,"61 km ESE of Sand Point, Alaska",earthquake,,2.0,,,reviewed,ak,ak
+2023-04-06T14:42:12.866Z,57.971,-154.7711,60.9,1.5,ml,,,,0.3,ak,ak0234f06exy,2023-04-06T14:43:31.352Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,automatic,ak,ak
