@@ -10356,3 +10356,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T11:23:36.112Z,61.7725,-146.8414,3.0,2.0,ml,,,,0.75,ak,ak0234eya3bf,2023-04-06T11:25:18.941Z,Southern Alaska,earthquake,,0.2,,,automatic,ak,ak
 2023-04-06T11:23:29.860Z,34.0111667,-117.2043333,16.11,1.21,ml,39.0,94.0,0.06882,0.19,ci,ci39510530,2023-04-06T11:27:08.357Z,"5km SSW of Redlands, CA",earthquake,0.27,0.55,0.245,28.0,automatic,ci,ci
 2023-04-06T11:37:05.500Z,38.8373337,-122.8075027,1.87,0.33,md,9.0,88.0,0.01344,0.01,nc,nc73867985,2023-04-06T11:38:41.111Z,"8km WNW of Cobb, CA",earthquake,0.34,1.06,0.24,9.0,automatic,nc,nc
+2023-04-06T12:10:57.440Z,58.217,-154.2563,56.1,1.8,ml,,,,1.33,ak,ak0234eyssar,2023-04-06T12:14:06.397Z,Alaska Peninsula,earthquake,,1.6,,,automatic,ak,ak
+2023-04-06T12:08:03.987Z,63.0099,-149.6053,79.7,1.4,ml,,,,0.64,ak,ak0234eys8pa,2023-04-06T12:10:09.039Z,"53 km SW of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-04-06T11:57:34.580Z,38.8068352,-122.7943344,0.77,0.73,md,13.0,96.0,0.001361,0.03,nc,nc73867990,2023-04-06T12:10:10.104Z,"5km NW of The Geysers, CA",earthquake,0.27,0.37,0.44,13.0,automatic,nc,nc
+2023-04-06T11:56:53.700Z,34.0125,-116.8913333,16.0,0.47,ml,17.0,64.0,0.07298,0.23,ci,ci39510546,2023-04-06T12:00:26.588Z,"10km N of Banning, CA",earthquake,0.53,1.09,0.107,9.0,automatic,ci,ci
