@@ -10479,3 +10479,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T20:33:15.440Z,18.9020004272461,-155.528335571289,34.25,2.41,ml,35.0,253.0,,0.159999996,hv,hv73357912,2023-04-06T20:38:46.070Z,"19 km SSE of Naalehu, Hawaii",earthquake,0.77,1.11000001,0.19,3.0,automatic,hv,hv
 2023-04-06T20:52:33.708Z,59.9173,-152.5274,80.7,1.8,ml,,,,0.45,ak,ak0234f3t7ca,2023-04-06T20:54:03.973Z,"42 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-06T20:19:39.390Z,58.172,-155.284166666667,-0.76,-0.75,ml,6.0,164.0,,0.07,av,av91837741,2023-04-06T20:51:45.160Z,Alaska Peninsula,earthquake,0.44,31.61,0.308190249104598,6.0,reviewed,av,av
+2023-04-06T20:54:55.684Z,64.7668,-147.5387,2.7,1.0,ml,,,,0.76,ak,ak0234f3togw,2023-04-06T20:56:42.261Z,"3 km S of Badger, Alaska",earthquake,,0.5,,,automatic,ak,ak
