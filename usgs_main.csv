@@ -10571,3 +10571,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T03:38:08.870Z,33.2738333,-116.7801667,12.63,0.89,ml,33.0,37.0,0.0418,0.15,ci,ci40437392,2023-04-07T03:41:43.401Z,"4km NNW of Lake Henshaw, CA",earthquake,0.21,0.64,0.133,20.0,automatic,ci,ci
 2023-04-07T03:37:40.112Z,63.1291,-148.4512,65.7,1.6,ml,,,,0.63,ak,ak0234gh4zaz,2023-04-07T03:39:25.789Z,Central Alaska,earthquake,,0.5,,,automatic,ak,ak
 2023-04-06T04:15:51.010Z,38.7555,-122.7146667,1.66,0.48,md,17.0,66.0,0.01003,0.03,nc,nc73867815,2023-04-07T03:40:07.862Z,"3km SW of Anderson Springs, CA",earthquake,0.23,0.28,0.336,12.0,reviewed,nc,nc
+2023-04-07T03:48:32.610Z,33.5321667,-116.7283333,4.96,0.43,ml,19.0,84.0,0.03398,0.12,ci,ci40437400,2023-04-07T03:52:03.615Z,"6km WSW of Anza, CA",earthquake,0.26,0.47,0.078,12.0,automatic,ci,ci
