@@ -10713,3 +10713,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T15:46:13.332Z,59.4167,-144.7959,14.4,2.7,ml,,,,0.22,ak,ak0234goc1xx,2023-04-07T15:48:08.242Z,"136 km SSE of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-07T15:44:37.928Z,61.2575,-148.0507,0.0,1.7,ml,,,,0.97,ak,ak0234goboeo,2023-04-07T15:46:49.070Z,"51 km ESE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-07T15:41:48.807Z,36.7747,-115.6535,4.2,0.6,ml,13.0,208.51,0.27,0.2883,nn,nn00857932,2023-04-07T15:43:52.128Z,"22 km N of Indian Springs, Nevada",earthquake,,3.5,0.26,8.0,automatic,nn,nn
+2023-04-07T16:08:18.397Z,62.9438,-150.4071,81.1,1.7,ml,,,,0.63,ak,ak0234gopcq7,2023-04-07T16:10:25.523Z,"53 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-04-07T16:00:07.401Z,36.7101,-116.0735,1.4,0.0,ml,9.0,116.17,0.025,0.084,nn,nn00857935,2023-04-07T16:01:53.092Z,"39 km WNW of Indian Springs, Nevada",earthquake,,0.4,0.28,6.0,automatic,nn,nn
+2023-04-07T15:59:26.640Z,38.7908325,-122.7813339,0.34,0.61,md,8.0,99.0,0.005654,0.03,nc,nc73868610,2023-04-07T16:01:00.334Z,"3km NW of The Geysers, CA",earthquake,0.32,0.93,0.36,10.0,automatic,nc,nc
+2023-04-07T15:53:24.570Z,36.7075,-116.0701,0.9,0.5,ml,11.0,125.18,0.025,0.1415,nn,nn00857934,2023-04-07T15:55:01.119Z,"38 km WNW of Indian Springs, Nevada",earthquake,,0.2,0.25,6.0,automatic,nn,nn
+2023-04-07T15:50:23.610Z,18.0173333333333,-66.8258333333333,14.21,2.48,md,8.0,155.0,0.06598,0.11,pr,pr71402868,2023-04-07T16:03:51.980Z,Puerto Rico region,earthquake,0.47,0.8,0.0285459962986789,6.0,reviewed,pr,pr
