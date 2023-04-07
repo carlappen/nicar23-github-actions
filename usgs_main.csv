@@ -10817,3 +10817,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T05:32:18.220Z,58.1898333333333,-155.274,2.81,-0.18,ml,6.0,173.0,,0.04,av,av91838171,2023-04-07T21:25:23.610Z,"84 km NW of Karluk, Alaska",earthquake,0.68,1.15,0.301834903824322,6.0,reviewed,av,av
 2023-04-07T04:54:56.200Z,51.8646666666667,-178.079333333333,0.95,1.35,ml,4.0,191.0,,0.26,av,av91838121,2023-04-07T21:21:05.550Z,"99 km W of Adak, Alaska",earthquake,0.88,3.67,0.243356775309115,4.0,reviewed,av,av
 2023-04-07T04:33:07.528Z,50.2514,-178.4433,10.0,3.7,ml,19.0,250.0,1.526,0.41,us,us6000k2lp,2023-04-07T21:17:00.040Z,"220 km SW of Adak, Alaska",earthquake,7.07,2.02,0.097,14.0,reviewed,us,us
+2023-04-07T21:34:26.455Z,36.303,-114.9758,10.1,0.8,ml,9.0,316.94,0.249,0.403,nn,nn00857953,2023-04-07T21:36:52.818Z,"9 km NE of Nellis Air Force Base, Nevada",earthquake,,2.3,1.07,6.0,automatic,nn,nn
+2023-04-07T21:29:16.930Z,33.5916667,-116.7375,13.5,0.72,ml,15.0,71.0,0.02229,0.12,ci,ci40437880,2023-04-07T21:32:50.834Z,"7km NW of Anza, CA",earthquake,0.42,0.42,0.271,5.0,automatic,ci,ci
+2023-04-07T09:12:07.917Z,39.2266,-120.0823,7.1,0.9,ml,5.0,147.36,0.039,0.0453,nn,nn00857951,2023-04-07T21:32:26.709Z,"0 km SW of Carnelian Bay, California",earthquake,,3.3,0.53,2.0,reviewed,nn,nn
+2023-04-07T07:09:38.840Z,53.8821666666667,-166.566666666667,4.71,0.25,ml,6.0,173.0,,0.1,av,av91838221,2023-04-07T21:30:10.010Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.52,0.97,0.178709657561673,6.0,reviewed,av,av
