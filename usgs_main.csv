@@ -10617,3 +10617,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T06:36:31.279Z,62.3141,-151.4291,90.0,1.2,ml,,,,0.51,ak,ak0234gix1q2,2023-04-07T06:39:06.349Z,"36 km N of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-04-07T04:45:12.030Z,36.3878333,-120.9525,10.25,0.94,md,15.0,76.0,0.06745,0.05,nc,nc73868370,2023-04-07T06:35:51.189Z,"23km SE of Pinnacles, CA",earthquake,0.31,0.46,0.277,11.0,reviewed,nc,nc
 2023-04-06T22:39:03.800Z,38.8368333,-122.8365,1.78,0.32,md,15.0,103.0,0.001923,0.02,nc,nc73868260,2023-04-07T06:43:52.922Z,"10km NW of The Geysers, CA",earthquake,0.24,0.38,0.18,14.0,reviewed,nc,nc
+2023-04-07T06:47:19.356Z,62.4601,-149.3214,2.2,1.5,ml,,,,0.75,ak,ak0234gizdof,2023-04-07T06:49:14.217Z,"40 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
