@@ -10643,3 +10643,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T08:26:13.050Z,32.1701667,-115.0671667,22.35,1.82,ml,7.0,249.0,0.1239,0.18,ci,ci40437528,2023-04-07T08:29:49.044Z,"7km WSW of Estacion Coahuila, B.C., MX",earthquake,2.99,1.26,0.29,10.0,automatic,ci,ci
 2023-04-06T14:41:28.270Z,35.8328333,-119.8238333,8.66,1.59,md,22.0,158.0,0.06903,0.13,nc,nc73868045,2023-04-07T08:36:46.782Z,"23km SSE of Kettleman City, CA",earthquake,0.68,0.47,0.059,12.0,reviewed,nc,nc
 2023-04-07T08:38:04.905Z,56.9271,-158.1488,0.0,2.0,ml,,,,0.56,ak,ak0234gk4abu,2023-04-07T08:39:53.950Z,"29 km E of Port Heiden, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-07T08:50:41.432Z,61.6404,-149.527,31.6,1.5,ml,,,,0.36,ak,ak0234gk6xqn,2023-04-07T08:52:20.259Z,Southern Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-04-07T08:45:28.211Z,60.5828,-146.8808,13.3,2.5,ml,,,,0.58,ak,ak0234gk5u5r,2023-04-07T08:47:22.943Z,"33 km SSW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
