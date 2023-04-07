@@ -10708,3 +10708,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T15:07:34.081Z,36.7166,-116.0748,1.3,1.5,ml,25.0,91.02,0.028,0.2647,nn,nn00857929,2023-04-07T15:09:43.842Z,"39 km WNW of Indian Springs, Nevada",earthquake,,0.3,0.96,19.0,automatic,nn,nn
 2023-04-07T01:31:55.580Z,38.2655,-112.4971667,4.8,0.8,md,13.0,243.0,0.1133,0.04,uu,uu60536531,2023-04-07T15:18:17.430Z,"12 km E of Beaver, Utah",earthquake,0.89,2.61,0.147,6.0,reviewed,uu,uu
 2023-04-07T15:10:44.732Z,61.2603,-145.9937,35.5,1.6,ml,,,,0.57,ak,ak0234go4el5,2023-04-07T15:23:18.700Z,"23 km NE of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-07T15:49:30.710Z,38.8018341,-122.7731705,1.17,0.77,md,9.0,91.0,0.01059,0.02,nc,nc73868595,2023-04-07T15:51:05.427Z,"3km NNW of The Geysers, CA",earthquake,0.37,0.72,0.07,9.0,automatic,nc,nc
+2023-04-07T15:47:22.940Z,19.1215000152588,-155.391998291016,29.0900001525879,1.76999998,md,37.0,185.0,,0.129999995,hv,hv73358412,2023-04-07T15:50:33.980Z,"Island of Hawaii, Hawaii",earthquake,0.66,1.19000006,0.879999995,3.0,automatic,hv,hv
+2023-04-07T15:46:13.332Z,59.4167,-144.7959,14.4,2.7,ml,,,,0.22,ak,ak0234goc1xx,2023-04-07T15:48:08.242Z,"136 km SSE of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-07T15:44:37.928Z,61.2575,-148.0507,0.0,1.7,ml,,,,0.97,ak,ak0234goboeo,2023-04-07T15:46:49.070Z,"51 km ESE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-07T15:41:48.807Z,36.7747,-115.6535,4.2,0.6,ml,13.0,208.51,0.27,0.2883,nn,nn00857932,2023-04-07T15:43:52.128Z,"22 km N of Indian Springs, Nevada",earthquake,,3.5,0.26,8.0,automatic,nn,nn
