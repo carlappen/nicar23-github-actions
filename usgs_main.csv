@@ -10639,3 +10639,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T08:04:03.440Z,37.4738333,-118.8448333,4.83,1.27,md,16.0,197.0,0.1167,0.03,nc,nc73868470,2023-04-07T08:23:11.668Z,"18km SW of Toms Place, CA",earthquake,0.73,1.57,0.047,14.0,reviewed,nc,nc
 2023-04-07T08:03:16.960Z,37.4666667,-118.8353333,3.55,0.95,md,10.0,248.0,0.1232,0.04,nc,nc73868475,2023-04-07T08:23:11.542Z,"17km SW of Toms Place, CA",earthquake,1.15,2.45,0.079,9.0,reviewed,nc,nc
 2023-04-06T13:26:23.910Z,37.5083333,-118.7785,4.85,1.24,md,20.0,172.0,0.06446,0.03,nc,nc73868030,2023-04-07T08:24:14.657Z,"10km SW of Toms Place, CA",earthquake,0.83,0.6,0.149,15.0,reviewed,nc,nc
+2023-04-07T08:29:56.497Z,60.6807,-152.4173,105.1,1.7,ml,,,,0.34,ak,ak0234gk2gv5,2023-04-07T08:32:03.249Z,"60 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-07T08:26:13.050Z,32.1701667,-115.0671667,22.35,1.82,ml,7.0,249.0,0.1239,0.18,ci,ci40437528,2023-04-07T08:29:49.044Z,"7km WSW of Estacion Coahuila, B.C., MX",earthquake,2.99,1.26,0.29,10.0,automatic,ci,ci
+2023-04-06T14:41:28.270Z,35.8328333,-119.8238333,8.66,1.59,md,22.0,158.0,0.06903,0.13,nc,nc73868045,2023-04-07T08:36:46.782Z,"23km SSE of Kettleman City, CA",earthquake,0.68,0.47,0.059,12.0,reviewed,nc,nc
