@@ -10645,3 +10645,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T08:38:04.905Z,56.9271,-158.1488,0.0,2.0,ml,,,,0.56,ak,ak0234gk4abu,2023-04-07T08:39:53.950Z,"29 km E of Port Heiden, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-07T08:50:41.432Z,61.6404,-149.527,31.6,1.5,ml,,,,0.36,ak,ak0234gk6xqn,2023-04-07T08:52:20.259Z,Southern Alaska,earthquake,,0.2,,,automatic,ak,ak
 2023-04-07T08:45:28.211Z,60.5828,-146.8808,13.3,2.5,ml,,,,0.58,ak,ak0234gk5u5r,2023-04-07T08:47:22.943Z,"33 km SSW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-07T09:10:04.950Z,33.667,-116.6993333,12.73,0.26,ml,15.0,102.0,0.04576,0.13,ci,ci40437544,2023-04-07T09:13:39.891Z,"8km SSE of Idyllwild, CA",earthquake,0.4,0.51,0.147,7.0,automatic,ci,ci
+2023-04-07T08:57:59.290Z,35.5013333,-118.3893333,8.57,1.0,ml,14.0,72.0,0.1753,0.13,ci,ci40437536,2023-04-07T09:01:41.030Z,"13km SE of Bodfish, CA",earthquake,0.28,1.27,0.126,8.0,automatic,ci,ci
+2023-04-07T08:55:21.602Z,66.2207,-146.5874,0.0,1.6,ml,,,,1.04,ak,ak0234gk7ysg,2023-04-07T08:57:41.870Z,"34 km W of Birch Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
