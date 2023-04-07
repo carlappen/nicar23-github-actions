@@ -10730,3 +10730,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T16:26:58.697Z,-22.7789,-66.3794,228.328,4.3,mb,25.0,77.0,1.669,0.81,us,us6000k2pn,2023-04-07T16:47:54.040Z,"70 km W of Abra Pampa, Argentina",earthquake,6.42,10.111,0.169,10.0,reviewed,us,us
 2023-04-07T15:49:03.551Z,25.4655,126.1365,56.197,4.6,mb,32.0,116.0,2.355,0.88,us,us6000k2pd,2023-04-07T16:44:03.040Z,"111 km NE of Hirara, Japan",earthquake,9.36,6.236,0.064,73.0,reviewed,us,us
 2023-04-07T05:01:15.220Z,58.3841666666667,-155.189166666667,23.4,0.83,ml,12.0,98.0,,0.21,av,av91838141,2023-04-07T16:46:03.110Z,"92 km ESE of King Salmon, Alaska",earthquake,0.56,1.06,,1.0,reviewed,av,av
+2023-04-07T16:56:25.464Z,64.2127,-150.411,0.0,1.5,ml,,,,0.76,ak,ak0234goznn6,2023-04-07T16:58:33.781Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-04-07T14:30:31.170Z,37.5125,-118.7483333,3.54,1.11,md,8.0,266.0,0.1006,0.03,nc,nc73868580,2023-04-07T16:57:11.671Z,"8km SW of Toms Place, CA",earthquake,2.62,1.87,0.122,7.0,reviewed,nc,nc
+2023-04-07T05:02:07.620Z,58.3841666666667,-155.1855,23.15,0.27,ml,13.0,98.0,,0.21,av,av91838146,2023-04-07T16:55:11.410Z,"92 km ESE of King Salmon, Alaska",earthquake,0.52,0.89,0.211373046099247,14.0,reviewed,av,av
