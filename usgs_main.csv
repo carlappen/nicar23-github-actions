@@ -10650,3 +10650,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T08:55:21.602Z,66.2207,-146.5874,0.0,1.6,ml,,,,1.04,ak,ak0234gk7ysg,2023-04-07T08:57:41.870Z,"34 km W of Birch Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-07T09:23:30.612Z,64.5407,-151.196,21.4,2.3,ml,,,,0.83,ak,ak0234gkmk6d,2023-04-07T09:25:00.787Z,"57 km SSW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-07T09:31:19.390Z,61.452,-151.1311,49.6,1.0,ml,,,,0.35,ak,ak0234gko91f,2023-04-07T09:33:15.838Z,"34 km WSW of Susitna, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2023-04-07T09:37:33.720Z,38.8059998,-122.7799988,0.73,0.93,md,9.0,90.0,0.007268,0.02,nc,nc73868515,2023-04-07T09:39:10.356Z,"4km NNW of The Geysers, CA",earthquake,0.35,0.99,0.19,9.0,automatic,nc,nc
+2023-04-07T09:14:43.980Z,18.3006666666667,-65.8688333333333,131.69,3.41,md,17.0,160.0,0.1589,0.21,pr,pr71402823,2023-04-07T09:43:17.440Z,"3 km NNE of Benitez, Puerto Rico",earthquake,1.88,0.83,0.0597772228213196,6.0,reviewed,pr,pr
