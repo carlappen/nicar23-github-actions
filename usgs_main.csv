@@ -10582,3 +10582,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T04:30:38.762Z,63.0536,-148.2401,10.3,1.6,ml,,,,0.89,ak,ak0234ghowsk,2023-04-07T04:33:31.387Z,"51 km SE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-07T04:30:00.710Z,33.521,-116.3176667,9.79,1.17,ml,35.0,48.0,0.09028,0.19,ci,ci40437440,2023-04-07T04:33:32.665Z,"16km S of La Quinta, CA",earthquake,0.26,0.6,0.167,27.0,automatic,ci,ci
 2023-04-07T04:10:47.139Z,8.9543,-76.3284,10.0,4.6,mb,37.0,111.0,1.47,1.27,us,us6000k2l9,2023-04-07T04:33:13.040Z,"7 km NNE of Los Córdobas, Colombia",earthquake,4.45,1.899,0.049,123.0,reviewed,us,us
+2023-04-07T04:43:33.610Z,35.6313333,-117.446,10.6,1.2,ml,15.0,81.0,0.03828,0.19,ci,ci40437448,2023-04-07T04:47:01.727Z,"16km SSW of Searles Valley, CA",earthquake,0.49,0.59,0.041,7.0,automatic,ci,ci
+2023-04-07T04:23:41.323Z,-24.7302,179.8123,493.15,4.4,mb,32.0,93.0,4.928,1.04,us,us6000k2ld,2023-04-07T04:42:19.040Z,south of the Fiji Islands,earthquake,14.56,9.751,0.084,43.0,reviewed,us,us
