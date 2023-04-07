@@ -10609,3 +10609,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T18:34:18.980Z,38.1118333,-122.1711667,-0.08,1.24,md,11.0,111.0,0.02049,0.05,nc,nc73868155,2023-04-07T06:09:41.788Z,"6km E of Vallejo, CA",quarry blast,0.25,31.61,0.204,13.0,reviewed,nc,nc
 2023-04-06T17:08:59.860Z,38.52,-122.486,7.47,1.23,md,35.0,63.0,0.107,0.08,nc,nc73868125,2023-04-07T06:12:11.755Z,"2km NW of Saint Helena, CA",earthquake,0.19,0.68,0.252,27.0,reviewed,nc,nc
 2023-04-06T16:45:48.290Z,38.7955,-122.7635,2.89,0.17,md,4.0,234.0,0.005912,0.03,nc,nc73868095,2023-04-07T06:02:09.294Z,"2km NNW of The Geysers, CA",earthquake,1.18,1.44,0.283,4.0,reviewed,nc,nc
+2023-04-07T06:27:08.190Z,38.8320007,-122.8144989,1.44,2.01,md,37.0,44.0,0.009262,0.03,nc,nc73868430,2023-04-07T06:30:23.099Z,"8km NW of The Geysers, CA",earthquake,0.15,0.24,0.22,37.0,automatic,nc,nc
+2023-04-07T06:24:53.169Z,64.7281,-149.233,23.3,0.9,ml,,,,0.61,ak,ak0234giuitg,2023-04-07T06:26:27.622Z,"14 km NNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-07T01:23:52.000Z,37.3548333,-119.8253333,24.66,1.58,md,11.0,63.0,0.09164,0.13,nc,nc73868285,2023-04-07T06:32:50.050Z,"9km W of Ahwahnee, CA",earthquake,0.46,0.58,0.188,11.0,reviewed,nc,nc
+2023-04-07T00:08:46.770Z,39.2146667,-123.5075,0.61,1.05,md,12.0,98.0,0.08702,0.14,nc,nc73868275,2023-04-07T06:27:48.527Z,"22km E of Navarro Head, CA",earthquake,0.28,1.04,0.281,12.0,reviewed,nc,nc
+2023-04-06T18:41:00.270Z,38.7815,-122.7156667,2.05,0.36,md,13.0,122.0,0.01655,0.04,nc,nc73868165,2023-04-07T06:34:20.725Z,"2km WNW of Anderson Springs, CA",earthquake,0.44,0.54,0.199,7.0,reviewed,nc,nc
