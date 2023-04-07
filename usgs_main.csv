@@ -10592,3 +10592,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T05:05:24.390Z,38.8151665,-122.828331,1.52,0.76,md,10.0,88.0,0.006324,0.02,nc,nc73868385,2023-04-07T05:16:10.423Z,"8km NW of The Geysers, CA",earthquake,0.37,0.68,0.39,10.0,automatic,nc,nc
 2023-04-07T05:16:37.040Z,36.1656667,-118.0773333,2.84,2.15,ml,20.0,74.0,0.1864,0.15,ci,ci40437480,2023-04-07T05:26:02.979Z,"14km SSW of Olancha, CA",earthquake,0.27,1.43,0.175,18.0,automatic,ci,ci
 2023-04-06T08:37:44.230Z,38.7895,-122.7668333,2.33,0.39,md,19.0,75.0,0.01242,0.02,nc,nc73867910,2023-04-07T05:21:24.989Z,"2km NNW of The Geysers, CA",earthquake,0.18,0.33,0.223,17.0,reviewed,nc,nc
+2023-04-07T05:36:28.158Z,60.2601,-140.8245,0.9,2.1,ml,,,,0.82,ak,ak0234giblvj,2023-04-07T05:38:20.130Z,"100 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-07T05:26:37.790Z,38.8393326,-122.8073349,1.79,1.03,md,19.0,55.0,0.0133,0.03,nc,nc73868405,2023-04-07T05:28:16.538Z,"8km WNW of Cobb, CA",earthquake,0.24,0.43,0.11,20.0,automatic,nc,nc
+2023-04-06T09:13:43.640Z,38.7593333,-122.7278333,1.8,0.38,md,9.0,112.0,0.003239,0.02,nc,nc73867925,2023-04-07T05:31:28.067Z,"3km SE of The Geysers, CA",earthquake,0.42,0.53,0.08,4.0,reviewed,nc,nc
