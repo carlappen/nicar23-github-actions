@@ -10563,3 +10563,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T02:51:50.058Z,35.23508072,-97.75326538,11.71007824,1.81,ml,10.0,69.01979065,0.003712560749,0.4986613571,ok,ok2023gtpz,2023-04-07T02:54:13.624Z,"1 km W of Bridge Creek, Oklahoma",earthquake,,6.628663687,0.4,7.0,automatic,ok,ok
 2023-04-07T02:43:42.510Z,18.0215,-66.7753333333333,13.99,2.28,md,8.0,172.0,0.1092,0.1,pr,pr71402788,2023-04-07T03:05:15.630Z,"0 km NW of Magas Arriba, Puerto Rico",earthquake,0.45,1.02,0.0958473636612469,6.0,reviewed,pr,pr
 2023-04-07T02:02:08.020Z,58.179,-155.310666666667,2.1,-0.12,ml,7.0,162.0,,0.08,av,av91837996,2023-04-07T02:57:41.380Z,"84 km NW of Karluk, Alaska",earthquake,0.28,0.5,0.332929306449546,7.0,reviewed,av,av
+2023-04-07T03:22:11.110Z,38.7556648,-122.7046661,3.36,1.11,md,8.0,205.0,0.01318,0.01,nc,nc73868335,2023-04-07T03:23:46.216Z,"2km SSW of Anderson Springs, CA",earthquake,1.03,1.21,0.14,7.0,automatic,nc,nc
+2023-04-07T03:20:58.315Z,63.3206,-149.8517,95.4,1.8,ml,,,,0.42,ak,ak0234gh1djb,2023-04-07T03:23:21.060Z,"45 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
