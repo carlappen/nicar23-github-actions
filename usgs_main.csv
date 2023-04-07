@@ -10725,3 +10725,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T17:33:46.910Z,38.7301667,-122.9116667,7.06,1.07,md,35.0,92.0,0.06389,0.06,nc,nc73868130,2023-04-07T16:24:24.820Z,"12km SE of Cloverdale, CA",earthquake,0.22,0.67,0.181,34.0,reviewed,nc,nc
 2023-04-07T15:44:04.352Z,41.8388,81.9491,10.0,4.2,mb,25.0,80.0,2.351,1.08,us,us6000k2pc,2023-04-07T16:33:10.040Z,"82 km W of Kuqa, China",earthquake,6.27,1.933,0.146,14.0,reviewed,us,us
 2023-04-06T21:26:33.829Z,35.79083333,-96.969,6.42,0.88,ml,37.0,70.0,0.1880630956,0.21,ok,ok2023gtfg,2023-04-07T16:32:25.998Z,"4 km ESE of Carney, Oklahoma",earthquake,,0.6,0.14,3.0,reviewed,ok,ok
+2023-04-07T16:41:41.870Z,36.0105,-117.8195,-0.21,1.34,ml,15.0,107.0,0.1106,0.15,ci,ci40437704,2023-04-07T16:45:16.071Z,"11km NE of Little Lake, CA",earthquake,0.36,31.61,0.111,10.0,automatic,ci,ci
+2023-04-07T16:40:26.527Z,57.8225,-156.4837,142.1,1.6,ml,,,,0.43,ak,ak0234gow89o,2023-04-07T16:43:08.029Z,"64 km ENE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-07T16:26:58.697Z,-22.7789,-66.3794,228.328,4.3,mb,25.0,77.0,1.669,0.81,us,us6000k2pn,2023-04-07T16:47:54.040Z,"70 km W of Abra Pampa, Argentina",earthquake,6.42,10.111,0.169,10.0,reviewed,us,us
+2023-04-07T15:49:03.551Z,25.4655,126.1365,56.197,4.6,mb,32.0,116.0,2.355,0.88,us,us6000k2pd,2023-04-07T16:44:03.040Z,"111 km NE of Hirara, Japan",earthquake,9.36,6.236,0.064,73.0,reviewed,us,us
+2023-04-07T05:01:15.220Z,58.3841666666667,-155.189166666667,23.4,0.83,ml,12.0,98.0,,0.21,av,av91838141,2023-04-07T16:46:03.110Z,"92 km ESE of King Salmon, Alaska",earthquake,0.56,1.06,,1.0,reviewed,av,av
