@@ -10743,3 +10743,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T17:38:01.730Z,38.7806664,-122.754837,0.93,0.8,md,8.0,90.0,0.01309,0.01,nc,nc73868655,2023-04-07T17:39:35.248Z,"0km NNE of The Geysers, CA",earthquake,0.37,0.76,0.14,8.0,automatic,nc,nc
 2023-04-07T09:30:59.980Z,53.8068333333333,-167.045833333333,36.36,0.76,ml,11.0,316.0,,0.23,av,av91838386,2023-04-07T17:35:16.520Z,"34 km WSW of Dutch Harbor, Alaska",earthquake,2.2,0.8,0.319236775446803,10.0,reviewed,av,av
 2023-04-07T05:24:49.380Z,34.8553333,-117.4411667,8.11,0.9,ml,13.0,128.0,0.1062,0.13,ci,ci40437496,2023-04-07T17:37:53.729Z,"25km SE of Boron, CA",earthquake,0.35,0.74,0.166,8.0,reviewed,ci,ci
+2023-04-07T17:43:34.000Z,37.6173325,-122.4726639,9.0,1.48,md,8.0,137.0,0.0199,0.01,nc,nc73868665,2023-04-07T17:45:10.331Z,"1km ENE of Pacifica, CA",earthquake,1.22,2.52,0.64,7.0,automatic,nc,nc
+2023-04-07T17:40:37.702Z,62.9227,-147.0668,224.6,2.4,ml,,,,0.88,ak,ak0234gphoqi,2023-04-07T17:43:23.013Z,"75 km WSW of Paxson, Alaska",earthquake,,12.1,,,automatic,ak,ak
+2023-04-07T17:33:41.301Z,66.1249,-148.332,11.0,1.2,ml,,,,0.86,ak,ak0234gpg71m,2023-04-07T17:45:23.364Z,"36 km ENE of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-07T16:59:47.960Z,37.5385,-118.8706667,5.08,0.6,md,9.0,293.0,0.06113,0.02,nc,nc73868645,2023-04-07T17:44:13.012Z,"14km SE of Mammoth Lakes, CA",earthquake,3.08,2.22,0.219,9.0,reviewed,nc,nc
+2023-04-07T05:26:10.150Z,38.845,-122.8151667,1.38,0.3,md,10.0,78.0,0.01157,0.02,nc,nc73868400,2023-04-07T17:50:16.430Z,"8km WNW of Cobb, CA",earthquake,0.43,1.15,0.482,10.0,reviewed,nc,nc
+2023-04-07T04:05:59.720Z,38.8425,-122.8403333,2.12,0.31,md,22.0,91.0,0.005438,0.03,nc,nc73868360,2023-04-07T17:42:42.565Z,"10km NW of The Geysers, CA",earthquake,0.22,0.27,0.268,21.0,reviewed,nc,nc
