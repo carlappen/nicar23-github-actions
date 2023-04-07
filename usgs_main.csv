@@ -10692,3 +10692,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T12:46:01.612Z,36.8003,141.3934,74.364,4.1,mb,22.0,165.0,2.573,0.57,us,us6000k2n9,2023-04-07T13:09:59.040Z,"53 km ESE of Iwaki, Japan",earthquake,4.42,10.867,0.185,8.0,reviewed,us,us
 2023-04-07T12:43:02.602Z,-17.8529,-178.5003,556.14,4.3,mb,58.0,47.0,3.544,0.97,us,us6000k2n7,2023-04-07T13:01:56.040Z,"232 km E of Levuka, Fiji",earthquake,10.3,8.376,0.047,125.0,reviewed,us,us
 2023-04-07T09:07:52.300Z,60.9909,-151.1326,67.9,0.9,ml,,,,0.14,ak,ak0234gkj55i,2023-04-07T13:16:39.591Z,"8 km S of Tyonek, Alaska",earthquake,,1.9,,,reviewed,ak,ak
+2023-04-07T11:50:45.222Z,51.8643,-178.0808,3.7,2.4,ml,,,,0.42,ak,ak0234glz8xc,2023-04-07T13:25:20.325Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,0.0,,,reviewed,ak,ak
