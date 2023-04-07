@@ -10556,3 +10556,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T02:04:46.346Z,63.3175,-145.3085,11.2,1.2,ml,,,,0.33,ak,ak0234ggchjg,2023-04-07T02:09:35.132Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
 2023-04-07T02:41:34.210Z,33.0115013,-116.4333344,11.14,1.19,ml,35.0,51.0,0.04394,0.14,ci,ci40437384,2023-04-07T02:43:40.684Z,"17km ESE of Julian, CA",earthquake,0.23,0.44,0.042,2.0,automatic,ci,ci
 2023-04-07T02:22:41.020Z,49.8608,155.2628,86.442,5.8,mww,122.0,47.0,3.591,0.9,us,us6000k2kk,2023-04-07T02:42:19.040Z,"109 km SW of Severo-Kuril’sk, Russia",earthquake,8.24,5.343,0.098,10.0,reviewed,us,us
+2023-04-07T02:49:13.110Z,39.4146652,-123.0943298,-0.73,2.48,md,23.0,77.0,0.04864,0.17,nc,nc73868325,2023-04-07T02:50:50.261Z,"12km W of Lake Pillsbury, CA",earthquake,0.36,2.11,0.13,22.0,automatic,nc,nc
+2023-04-07T01:53:17.520Z,51.8601666666667,-178.0645,-1.8,1.17,ml,5.0,178.0,,0.25,av,av91837991,2023-04-07T02:46:27.770Z,"98 km W of Adak, Alaska",earthquake,0.7,1.56,0.279662982683409,5.0,reviewed,av,av
