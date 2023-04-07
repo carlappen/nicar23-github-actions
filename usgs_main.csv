@@ -10576,3 +10576,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T04:00:56.080Z,36.6915016,-121.3351669,5.06,2.53,md,38.0,50.0,0.01835,0.17,nc,nc73868355,2023-04-07T04:13:57.880Z,"11km S of Tres Pinos, CA",earthquake,0.33,0.75,0.13,48.0,automatic,nc,nc
 2023-04-07T03:58:24.240Z,34.4161667,-119.7008333,15.96,1.45,ml,16.0,189.0,0.02716,0.29,ci,ci40437416,2023-04-07T04:02:00.508Z,"1km S of Santa Barbara, CA",earthquake,0.95,0.75,0.187,15.0,automatic,ci,ci
 2023-04-07T03:55:25.720Z,33.231,-116.087,10.3,2.1,ml,61.0,31.0,0.1012,0.19,ci,ci40437408,2023-04-07T04:06:22.640Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.19,0.62,0.129,26.0,automatic,ci,ci
+2023-04-07T04:23:45.920Z,33.9956667,-116.7141667,10.06,1.07,ml,33.0,74.0,0.06966,0.2,ci,ci40437432,2023-04-07T04:27:16.640Z,"11km NE of Cabazon, CA",earthquake,0.28,0.61,0.159,28.0,automatic,ci,ci
