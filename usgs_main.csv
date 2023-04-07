@@ -10614,3 +10614,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T01:23:52.000Z,37.3548333,-119.8253333,24.66,1.58,md,11.0,63.0,0.09164,0.13,nc,nc73868285,2023-04-07T06:32:50.050Z,"9km W of Ahwahnee, CA",earthquake,0.46,0.58,0.188,11.0,reviewed,nc,nc
 2023-04-07T00:08:46.770Z,39.2146667,-123.5075,0.61,1.05,md,12.0,98.0,0.08702,0.14,nc,nc73868275,2023-04-07T06:27:48.527Z,"22km E of Navarro Head, CA",earthquake,0.28,1.04,0.281,12.0,reviewed,nc,nc
 2023-04-06T18:41:00.270Z,38.7815,-122.7156667,2.05,0.36,md,13.0,122.0,0.01655,0.04,nc,nc73868165,2023-04-07T06:34:20.725Z,"2km WNW of Anderson Springs, CA",earthquake,0.44,0.54,0.199,7.0,reviewed,nc,nc
+2023-04-07T06:36:31.279Z,62.3141,-151.4291,90.0,1.2,ml,,,,0.51,ak,ak0234gix1q2,2023-04-07T06:39:06.349Z,"36 km N of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-04-07T04:45:12.030Z,36.3878333,-120.9525,10.25,0.94,md,15.0,76.0,0.06745,0.05,nc,nc73868370,2023-04-07T06:35:51.189Z,"23km SE of Pinnacles, CA",earthquake,0.31,0.46,0.277,11.0,reviewed,nc,nc
+2023-04-06T22:39:03.800Z,38.8368333,-122.8365,1.78,0.32,md,15.0,103.0,0.001923,0.02,nc,nc73868260,2023-04-07T06:43:52.922Z,"10km NW of The Geysers, CA",earthquake,0.24,0.38,0.18,14.0,reviewed,nc,nc
