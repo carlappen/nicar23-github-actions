@@ -10888,3 +10888,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T01:07:10.310Z,38.828167,-122.8253326,1.35,0.7,md,11.0,73.0,0.0091,0.01,nc,nc73868890,2023-04-08T01:44:11.875Z,"8km NW of The Geysers, CA",earthquake,0.28,0.69,0.49,12.0,automatic,nc,nc
 2023-04-08T01:05:21.520Z,38.8438339,-122.8399963,2.0,1.03,md,24.0,95.0,0.006311,0.02,nc,nc73868885,2023-04-08T01:31:12.795Z,"10km NW of The Geysers, CA",earthquake,0.21,0.42,0.19,24.0,automatic,nc,nc
 2023-04-07T14:07:43.040Z,19.1731666666667,-155.493333333333,29.98,1.53,md,17.0,101.0,,0.12,hv,hv73358372,2023-04-08T00:50:55.450Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.6,0.78,0.106428341923322,9.0,reviewed,hv,hv
+2023-04-08T02:14:14.711Z,57.7542,-155.5594,5.7,1.7,ml,,,,0.33,ak,ak0234i3xwrj,2023-04-08T02:16:00.489Z,Alaska Peninsula,earthquake,,0.3,,,automatic,ak,ak
+2023-04-08T02:14:07.010Z,38.7770004,-122.7578354,0.98,0.27,md,7.0,99.0,0.008807,0.03,nc,nc73868905,2023-04-08T02:15:43.100Z,"0km WSW of The Geysers, CA",earthquake,0.49,0.86,0.09,8.0,automatic,nc,nc
+2023-04-08T02:10:43.125Z,62.0895,-149.4576,40.2,1.3,ml,,,,0.57,ak,ak0234i3x43c,2023-04-08T02:12:23.389Z,"22 km ESE of Susitna North, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-04-08T01:56:45.520Z,33.8306667,-116.1401667,0.82,0.96,ml,16.0,90.0,0.0985,0.24,ci,ci40438016,2023-04-08T02:04:12.658Z,"14km NNE of Indio, CA",earthquake,0.46,1.07,0.119,24.0,automatic,ci,ci
+2023-04-08T01:53:33.260Z,34.0003333,-116.321,7.38,1.23,ml,38.0,40.0,0.0895,0.2,ci,ci40438008,2023-04-08T01:57:08.989Z,"15km S of Joshua Tree, CA",earthquake,0.26,0.89,0.174,26.0,automatic,ci,ci
