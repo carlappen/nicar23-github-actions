@@ -11049,3 +11049,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T16:13:02.238Z,18.4518,-70.4321,5.0,4.1,mb,18.0,145.0,0.489,1.09,us,us6000k2vv,2023-04-08T17:08:09.102Z,"13 km SE of San José de Ocoa, Dominican Republic",earthquake,4.67,2.007,0.261,5.0,reviewed,us,us
 2023-04-08T17:30:36.612Z,60.4094,-151.1381,35.3,1.9,ml,,,,0.32,ak,ak0234icyvzh,2023-04-08T17:31:51.366Z,"8 km E of Kalifornsky, Alaska",earthquake,,7.1,,,automatic,ak,ak
 2023-04-08T17:26:40.103Z,58.3227,-154.9386,12.0,1.1,ml,,,,0.68,ak,ak0234icy1e2,2023-04-08T17:28:29.135Z,"88 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-08T17:39:55.200Z,33.984,-116.9651667,13.44,0.74,ml,19.0,68.0,0.1119,0.27,ci,ci40438392,2023-04-08T17:43:29.184Z,"6km N of Beaumont, CA",earthquake,0.46,1.45,0.078,12.0,automatic,ci,ci
