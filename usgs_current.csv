@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-08T18:35:19.930Z,38.8358345,-122.8121643,1.95,0.68,md,13,57,0.01253,0.01,nc,nc73869320,2023-04-08T18:36:56.962Z,"8km W of Cobb, CA",earthquake,0.3,0.72,0.42,13,automatic,nc,nc
+2023-04-08T18:35:19.930Z,38.8358345,-122.8121643,1.95,0.68,md,13,57,0.01253,0.01,nc,nc73869320,2023-04-08T18:47:11.908Z,"8km W of Cobb, CA",earthquake,0.3,0.72,0.42,13,automatic,nc,nc
 2023-04-08T18:28:41.470Z,36.8051682,-121.3259964,9.22,1.72,md,26,70,0.0989,0.1,nc,nc73869315,2023-04-08T18:45:14.893Z,"2km NNW of Tres Pinos, CA",earthquake,0.37,0.66,0.23,22,automatic,nc,nc
 2023-04-08T18:18:27.780Z,33.6995,-116.8123333,15.24,1.08,ml,42,36,0.07537,0.2,ci,ci40438408,2023-04-08T18:29:15.040Z,"9km SE of Valle Vista, CA",earthquake,0.27,0.47,0.214,27,automatic,ci,ci
 2023-04-08T18:14:21.510Z,38.7944984,-122.7509995,2.25,0.69,md,7,91,0.01584,0.02,nc,nc73869310,2023-04-08T18:32:13.821Z,"2km NNE of The Geysers, CA",earthquake,0.42,1.18,0.23,6,automatic,nc,nc
@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T19:18:47.260Z,33.3226667,-115.7468333,2.7,1.53,ml,30,62,0.03196,0.24,ci,ci40437808,2023-04-07T19:22:34.039Z,"3km SSW of Bombay Beach, CA",earthquake,0.46,0.73,0.1,27,automatic,ci,ci
 2023-04-07T19:16:40.880Z,33.3316667,-115.7426667,3.06,1.58,ml,34,58,0.02233,0.27,ci,ci40437800,2023-04-07T19:20:25.261Z,"2km SSW of Bombay Beach, CA",earthquake,0.52,0.71,0.077,24,automatic,ci,ci
 2023-04-07T19:12:08.320Z,37.6058333,-118.7805,5.34,0.61,md,11,163,0.04171,0.04,nc,nc73868695,2023-04-07T21:41:18.353Z,"10km WNW of Toms Place, CA",earthquake,0.57,0.68,0.077,11,reviewed,nc,nc
-2023-04-07T18:55:44.400Z,18.0393333333333,-66.8783333333333,17.8,2.54,md,7,99,0.06394,0.08,pr,pr71402878,2023-04-07T19:25:55.530Z,"2 km E of Lluveras, Puerto Rico",earthquake,0.56,1.18,0.0944647014644593,3,reviewed,pr,pr
