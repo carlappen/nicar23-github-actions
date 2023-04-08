@@ -11073,3 +11073,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T20:32:22.640Z,33.9815,-117.7916667,0.74,1.49,ml,10.0,124.0,0.1155,0.32,ci,ci40438464,2023-04-08T20:36:02.920Z,"3km WSW of Chino Hills, CA",earthquake,1.21,31.61,0.466,26.0,automatic,ci,ci
 2023-04-08T20:25:10.635Z,53.7193,-165.2776,36.1,4.9,ml,,,,0.55,ak,ak0234ieq2c8,2023-04-08T20:38:54.076Z,"56 km SE of Akutan, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-04-08T19:11:01.540Z,36.2886667,-120.3191667,5.41,1.44,md,12.0,197.0,0.06056,0.06,nc,nc73869340,2023-04-08T20:35:42.634Z,"17km NNE of Coalinga, CA",earthquake,0.5,0.54,0.257,10.0,reviewed,nc,nc
+2023-04-08T20:25:11.888Z,53.9099,-165.4573,66.396,5.1,mwr,157.0,64.0,0.295,0.8,us,us6000k2wm,2023-04-08T20:45:18.399Z,"32 km SE of Akutan, Alaska",earthquake,4.93,3.832,0.075,17.0,reviewed,us,us
