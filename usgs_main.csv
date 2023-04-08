@@ -11084,3 +11084,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T21:25:54.400Z,38.8103333,-122.8266678,2.26,0.58,md,11.0,111.0,0.002447,0.03,nc,nc73869375,2023-04-08T21:27:33.450Z,"7km WNW of The Geysers, CA",earthquake,0.33,1.74,0.33,13.0,automatic,nc,nc
 2023-04-08T21:25:15.810Z,38.8176651,-122.828331,-0.56,3.13,ml,67.0,25.0,0.007551,0.46,nc,nc73869385,2023-04-08T21:29:12.022Z,"8km NW of The Geysers, CA",earthquake,0.33,0.75,0.366,12.0,automatic,nc,nc
 2023-04-08T21:42:16.430Z,38.8095016,-122.8281631,1.69,0.59,md,9.0,66.0,0.001014,0.01,nc,nc73869405,2023-04-08T21:43:53.476Z,"7km WNW of The Geysers, CA",earthquake,0.37,1.06,0.31,10.0,automatic,nc,nc
+2023-04-08T21:47:43.435Z,61.1146,-151.2493,57.6,1.4,ml,,,,0.7,ak,ak0234ifga3r,2023-04-08T21:50:01.796Z,"7 km NW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-08T21:44:33.400Z,38.8113327,-122.8296661,2.26,0.95,md,14.0,62.0,0.00249,0.03,nc,nc73869410,2023-04-08T21:46:08.015Z,"7km WNW of The Geysers, CA",earthquake,0.3,0.63,0.2,15.0,automatic,nc,nc
