@@ -10938,3 +10938,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T05:28:39.340Z,38.8318329,-122.8183365,1.48,1.2,md,17.0,84.0,0.02445,0.02,nc,nc73869075,2023-04-08T05:30:15.748Z,"8km NW of The Geysers, CA",earthquake,0.21,0.49,0.15,18.0,automatic,nc,nc
 2023-04-08T05:28:23.040Z,38.8269997,-122.8079987,1.38,1.02,md,17.0,39.0,0.003948,0.02,nc,nc73869070,2023-04-08T05:30:00.571Z,"7km NW of The Geysers, CA",earthquake,0.2,0.58,0.09,16.0,automatic,nc,nc
 2023-04-08T05:24:10.335Z,58.419,-156.4573,186.2,1.5,ml,,,,0.79,ak,ak0234i5sceh,2023-04-08T05:26:57.367Z,"32 km SSE of King Salmon, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2023-04-08T05:43:42.650Z,38.8395004,-122.8085022,2.08,0.23,md,9.0,84.0,0.01422,0.01,nc,nc73869090,2023-04-08T05:45:20.752Z,"8km WNW of Cobb, CA",earthquake,0.4,1.61,0.14,9.0,automatic,nc,nc
+2023-04-08T05:41:15.683Z,61.9569,-149.3209,40.9,2.3,ml,,,,0.35,ak,ak0234i5vzzk,2023-04-08T05:42:40.823Z,"24 km N of Fishhook, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-08T05:35:11.710Z,38.8336678,-122.8115005,1.97,1.02,md,15.0,53.0,0.01032,0.01,nc,nc73869085,2023-04-08T05:36:45.616Z,"8km W of Cobb, CA",earthquake,0.29,0.52,0.27,16.0,automatic,nc,nc
+2023-04-08T04:56:11.340Z,18.8301,-68.3886,103.0,3.93,md,7.0,189.0,0.9223,0.49,pr,pr2023098000,2023-04-08T05:39:09.736Z,Mona Passage,earthquake,11.39,4.23,0.03,4.0,reviewed,pr,pr
+2023-04-08T03:43:01.770Z,39.2975,-122.772,0.58,1.71,md,29.0,62.0,0.1315,0.1,nc,nc73868935,2023-04-08T05:41:31.013Z,"19km NE of Upper Lake, CA",earthquake,0.19,2.03,0.208,28.0,reviewed,nc,nc
