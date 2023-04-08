@@ -11020,3 +11020,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T14:20:17.240Z,33.7075,-116.8083333,14.47,0.61,ml,13.0,176.0,0.07858,0.14,ci,ci40438328,2023-04-08T14:23:40.033Z,"9km WSW of Idyllwild, CA",earthquake,0.51,0.41,0.194,12.0,automatic,ci,ci
 2023-04-08T14:11:54.636Z,-2.9561,141.9484,28.863,5.2,mww,36.0,96.0,8.238,1.0,us,us6000k2vd,2023-04-08T14:27:27.040Z,"48 km WNW of Aitape, Papua New Guinea",earthquake,9.89,6.602,0.093,11.0,reviewed,us,us
 2023-04-08T14:02:25.170Z,17.9985,-66.8413333333333,11.91,2.39,md,8.0,165.0,0.04297,0.11,pr,pr71402933,2023-04-08T14:25:12.560Z,"2 km WNW of Indios, Puerto Rico",earthquake,0.4,0.59,0.0501498071383919,6.0,reviewed,pr,pr
+2023-04-08T14:34:30.280Z,38.7906685,-122.7616653,2.79,0.73,md,11.0,78.0,0.01006,0.02,nc,nc73869240,2023-04-08T14:36:07.562Z,"2km NNW of The Geysers, CA",earthquake,0.36,0.78,0.29,11.0,automatic,nc,nc
