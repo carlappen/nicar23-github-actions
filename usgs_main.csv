@@ -10987,3 +10987,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T09:24:57.940Z,52.7895,-163.2415,10.0,3.4,ml,9.0,243.0,1.921,0.43,us,us6000k2up,2023-04-08T09:44:26.040Z,"225 km SE of Akutan, Alaska",earthquake,7.0,2.012,0.085,18.0,reviewed,us,us
 2023-04-08T09:07:36.806Z,34.654,70.6313,51.614,4.4,mb,35.0,135.0,1.315,0.47,us,us6000k2un,2023-04-08T09:37:50.040Z,"30 km NNE of Jalālābād, Afghanistan",earthquake,7.59,10.21,0.076,53.0,reviewed,us,us
 2023-04-08T10:12:00.950Z,38.7426682,-122.6894989,0.1,0.75,md,8.0,151.0,0.02659,0.03,nc,nc73869185,2023-04-08T10:22:10.908Z,"4km S of Anderson Springs, CA",earthquake,0.37,1.18,0.11,6.0,automatic,nc,nc
+2023-04-08T10:39:48.020Z,38.7556648,-122.7041702,0.96,0.89,md,9.0,127.0,0.01307,0.03,nc,nc73869195,2023-04-08T10:41:25.847Z,"2km SSW of Anderson Springs, CA",earthquake,0.49,0.44,0.22,7.0,automatic,nc,nc
