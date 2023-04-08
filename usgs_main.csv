@@ -11015,3 +11015,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T04:13:47.410Z,36.2033333333333,-89.6228333333333,11.33,1.62,md,29.0,49.0,0.05143,0.08,nm,nm60518786,2023-04-08T13:35:07.790Z,"3 km ENE of Caruthersville, Missouri",earthquake,0.15,0.39,0.0935631015115275,19.0,reviewed,nm,nm
 2023-04-08T13:50:09.590Z,34.0271683,-116.9164963,21.85,1.09,ml,22.0,84.0,0.06814,0.24,ci,ci40438296,2023-04-08T13:52:15.037Z,"12km E of Yucaipa, CA",earthquake,0.53,1.37,0.117,2.0,automatic,ci,ci
 2023-04-08T13:53:11.118Z,64.5454,-150.1326,5.0,1.4,ml,,,,0.28,ak,ak0234iaq12f,2023-04-08T13:54:42.339Z,Central Alaska,earthquake,,0.5,,,automatic,ak,ak
+2023-04-08T14:27:15.980Z,38.795166,-122.7653351,3.15,1.27,md,25.0,67.0,0.007001,0.02,nc,nc73869235,2023-04-08T14:28:52.549Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.57,0.2,24.0,automatic,nc,nc
+2023-04-08T14:23:52.269Z,62.0073,-149.6765,22.5,1.5,ml,,,,0.31,ak,ak0234ib54d6,2023-04-08T14:26:20.581Z,"19 km SSE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-08T14:20:17.240Z,33.7075,-116.8083333,14.47,0.61,ml,13.0,176.0,0.07858,0.14,ci,ci40438328,2023-04-08T14:23:40.033Z,"9km WSW of Idyllwild, CA",earthquake,0.51,0.41,0.194,12.0,automatic,ci,ci
+2023-04-08T14:11:54.636Z,-2.9561,141.9484,28.863,5.2,mww,36.0,96.0,8.238,1.0,us,us6000k2vd,2023-04-08T14:27:27.040Z,"48 km WNW of Aitape, Papua New Guinea",earthquake,9.89,6.602,0.093,11.0,reviewed,us,us
+2023-04-08T14:02:25.170Z,17.9985,-66.8413333333333,11.91,2.39,md,8.0,165.0,0.04297,0.11,pr,pr71402933,2023-04-08T14:25:12.560Z,"2 km WNW of Indios, Puerto Rico",earthquake,0.4,0.59,0.0501498071383919,6.0,reviewed,pr,pr
