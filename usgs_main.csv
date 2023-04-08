@@ -10993,3 +10993,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T10:48:37.626Z,61.9978,-149.7383,35.1,1.2,ml,,,,0.37,ak,ak0234i8wpf8,2023-04-08T10:50:53.018Z,"19 km SSE of Susitna North, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2023-04-08T11:07:43.790Z,38.7878342,-122.7666702,2.55,0.74,md,10.0,95.0,0.01388,0.02,nc,nc73869210,2023-04-08T11:09:21.836Z,"2km NW of The Geysers, CA",earthquake,0.44,1.22,0.14,9.0,automatic,nc,nc
 2023-04-08T10:57:28.260Z,38.7555008,-122.7034988,0.65,0.73,md,8.0,128.0,0.01308,0.02,nc,nc73869205,2023-04-08T11:06:11.284Z,"2km SSW of Anderson Springs, CA",earthquake,0.87,0.46,0.09,6.0,automatic,nc,nc
+2023-04-08T11:17:24.930Z,38.7873344,-122.7679977,2.37,0.78,md,15.0,81.0,0.01477,0.02,nc,nc73869215,2023-04-08T11:19:02.015Z,"2km NW of The Geysers, CA",earthquake,0.29,0.61,0.14,15.0,automatic,nc,nc
+2023-04-08T11:15:45.364Z,36.6902,-116.3037,10.4,0.4,ml,14.0,116.33,0.053,0.0873,nn,nn00857970,2023-04-08T11:17:46.655Z,Nevada,earthquake,,0.9,0.23,10.0,automatic,nn,nn
