@@ -11014,3 +11014,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T13:28:27.321Z,63.7942,-149.288,28.8,1.4,ml,,,,1.33,ak,ak0234iakpf0,2023-04-08T13:30:50.556Z,"17 km WSW of Healy, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-04-08T04:13:47.410Z,36.2033333333333,-89.6228333333333,11.33,1.62,md,29.0,49.0,0.05143,0.08,nm,nm60518786,2023-04-08T13:35:07.790Z,"3 km ENE of Caruthersville, Missouri",earthquake,0.15,0.39,0.0935631015115275,19.0,reviewed,nm,nm
 2023-04-08T13:50:09.590Z,34.0271683,-116.9164963,21.85,1.09,ml,22.0,84.0,0.06814,0.24,ci,ci40438296,2023-04-08T13:52:15.037Z,"12km E of Yucaipa, CA",earthquake,0.53,1.37,0.117,2.0,automatic,ci,ci
+2023-04-08T13:53:11.118Z,64.5454,-150.1326,5.0,1.4,ml,,,,0.28,ak,ak0234iaq12f,2023-04-08T13:54:42.339Z,Central Alaska,earthquake,,0.5,,,automatic,ak,ak
