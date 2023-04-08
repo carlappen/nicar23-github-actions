@@ -11100,3 +11100,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T22:23:19.003Z,37.058,-117.447,0.0,0.4,ml,8.0,207.99,0.236,0.0923,nn,nn00857981,2023-04-08T22:27:08.904Z,"63 km WNW of Beatty, Nevada",earthquake,,109.1,0.46,3.0,automatic,nn,nn
 2023-04-08T22:36:38.930Z,38.8181648,-122.8238297,2.27,0.76,md,12.0,88.0,0.01005,0.01,nc,nc73869465,2023-04-08T22:38:14.598Z,"7km NW of The Geysers, CA",earthquake,0.31,0.65,0.3,14.0,automatic,nc,nc
 2023-04-08T22:23:22.853Z,-4.5922,143.1486,97.047,4.8,mb,50.0,80.0,6.221,0.8,us,us6000k2x6,2023-04-08T22:42:16.034Z,"55 km SE of Ambunti, Papua New Guinea",earthquake,7.02,7.223,0.077,52.0,reviewed,us,us
+2023-04-08T22:50:41.490Z,38.7869987,-122.7698364,3.36,0.83,md,9.0,149.0,0.01542,0.02,nc,nc73869470,2023-04-08T22:52:19.461Z,"2km NW of The Geysers, CA",earthquake,0.59,1.06,0.19,11.0,automatic,nc,nc
+2023-04-08T22:35:49.649Z,-4.5315,143.1922,100.856,4.4,mb,20.0,168.0,6.24,0.71,us,us6000k2x9,2023-04-08T22:53:11.348Z,"54 km SE of Ambunti, Papua New Guinea",earthquake,9.8,7.844,0.143,14.0,reviewed,us,us
+2023-04-08T09:34:07.810Z,46.206833333333336,-122.18233333333332,6.67,1.58,ml,37.0,72.0,0.00881,0.21,uw,uw61916746,2023-04-08T22:49:32.150Z,"38 km NNE of Amboy, Washington",earthquake,0.29,0.18,0.174524108586743,24.0,reviewed,uw,uw
