@@ -11012,3 +11012,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T13:10:02.433Z,36.7869,-115.7535,6.1,0.3,ml,11.0,264.62,0.152,0.1084,nn,nn00857973,2023-04-08T13:11:56.624Z,Nevada,earthquake,,2.1,0.25,7.0,automatic,nn,nn
 2023-04-08T13:08:04.396Z,36.7973,-115.8639,1.1,0.8,ml,22.0,93.16,0.064,0.2523,nn,nn00857971,2023-04-08T13:10:08.782Z,"30 km NW of Indian Springs, Nevada",earthquake,,0.7,0.32,15.0,automatic,nn,nn
 2023-04-08T13:28:27.321Z,63.7942,-149.288,28.8,1.4,ml,,,,1.33,ak,ak0234iakpf0,2023-04-08T13:30:50.556Z,"17 km WSW of Healy, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-04-08T04:13:47.410Z,36.2033333333333,-89.6228333333333,11.33,1.62,md,29.0,49.0,0.05143,0.08,nm,nm60518786,2023-04-08T13:35:07.790Z,"3 km ENE of Caruthersville, Missouri",earthquake,0.15,0.39,0.0935631015115275,19.0,reviewed,nm,nm
