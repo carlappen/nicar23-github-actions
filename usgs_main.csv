@@ -11029,3 +11029,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T15:05:15.330Z,33.488,-116.4975,12.17,1.06,ml,43.0,57.0,0.06961,0.22,ci,ci40438344,2023-04-08T15:08:52.645Z,"18km ESE of Anza, CA",earthquake,0.25,0.49,0.141,28.0,automatic,ci,ci
 2023-04-08T05:15:52.673Z,63.0673,-151.4614,15.3,0.6,ml,,,,0.82,ak,ak0234i5qhab,2023-04-08T15:16:47.983Z,Central Alaska,earthquake,,0.3,,,reviewed,ak,ak
 2023-04-08T04:20:43.122Z,61.4444,-146.5956,28.3,0.8,ml,,,,0.39,ak,ak0234i562xi,2023-04-08T15:12:27.141Z,Southern Alaska,earthquake,,1.6,,,reviewed,ak,ak
+2023-04-08T15:19:43.560Z,35.6500015,-120.9553299,5.21,2.44,md,45.0,68.0,0.07102,0.09,nc,nc73869255,2023-04-08T15:28:10.879Z,"11km SW of Lake Nacimiento, CA",earthquake,0.2,0.6,0.11,46.0,automatic,nc,nc
+2023-04-08T15:03:47.770Z,17.9636666666667,-66.8721666666667,17.96,2.31,md,6.0,205.0,0.01318,0.15,pr,pr71402938,2023-04-08T15:24:16.310Z,Puerto Rico,earthquake,0.77,0.96,0.0942749576331818,4.0,reviewed,pr,pr
