@@ -11047,3 +11047,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T16:58:42.010Z,33.918,-117.2425,15.22,0.94,ml,16.0,126.0,0.1337,0.25,ci,ci40438376,2023-04-08T17:02:25.545Z,"2km SW of Moreno Valley, CA",earthquake,0.78,1.07,0.187,21.0,automatic,ci,ci
 2023-04-08T16:57:56.290Z,19.1301670074463,-155.387329101562,30.2800006866455,1.78999996,md,36.0,184.0,,0.0900000036,hv,hv73359282,2023-04-08T17:01:06.810Z,"12 km SE of Pāhala, Hawaii",earthquake,0.64,1.21000004,1.16999996,6.0,automatic,hv,hv
 2023-04-08T16:13:02.238Z,18.4518,-70.4321,5.0,4.1,mb,18.0,145.0,0.489,1.09,us,us6000k2vv,2023-04-08T17:08:09.102Z,"13 km SE of San José de Ocoa, Dominican Republic",earthquake,4.67,2.007,0.261,5.0,reviewed,us,us
+2023-04-08T17:30:36.612Z,60.4094,-151.1381,35.3,1.9,ml,,,,0.32,ak,ak0234icyvzh,2023-04-08T17:31:51.366Z,"8 km E of Kalifornsky, Alaska",earthquake,,7.1,,,automatic,ak,ak
+2023-04-08T17:26:40.103Z,58.3227,-154.9386,12.0,1.1,ml,,,,0.68,ak,ak0234icy1e2,2023-04-08T17:28:29.135Z,"88 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
