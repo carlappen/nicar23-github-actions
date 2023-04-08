@@ -11050,3 +11050,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T17:30:36.612Z,60.4094,-151.1381,35.3,1.9,ml,,,,0.32,ak,ak0234icyvzh,2023-04-08T17:31:51.366Z,"8 km E of Kalifornsky, Alaska",earthquake,,7.1,,,automatic,ak,ak
 2023-04-08T17:26:40.103Z,58.3227,-154.9386,12.0,1.1,ml,,,,0.68,ak,ak0234icy1e2,2023-04-08T17:28:29.135Z,"88 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-08T17:39:55.200Z,33.984,-116.9651667,13.44,0.74,ml,19.0,68.0,0.1119,0.27,ci,ci40438392,2023-04-08T17:43:29.184Z,"6km N of Beaumont, CA",earthquake,0.46,1.45,0.078,12.0,automatic,ci,ci
+2023-04-08T17:50:11.020Z,38.7840004,-122.7655029,-0.63,2.06,md,34.0,76.0,0.01326,0.06,nc,nc73869300,2023-04-08T17:53:37.671Z,"1km NW of The Geysers, CA",earthquake,0.17,0.48,0.17,34.0,automatic,nc,nc
