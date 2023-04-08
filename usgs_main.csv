@@ -11035,3 +11035,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T09:17:17.675Z,50.189,179.3416,26.7,2.9,ml,,,,0.35,ak,ak0234i84mff,2023-04-08T15:37:23.559Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,3.3,,,reviewed,ak,ak
 2023-04-08T15:46:40.340Z,38.7919998,-122.7611694,2.44,1.1,md,16.0,108.0,0.008688,0.03,nc,nc73869265,2023-04-08T15:48:17.868Z,"2km NNW of The Geysers, CA",earthquake,0.32,0.57,0.23,19.0,automatic,nc,nc
 2023-04-08T09:22:07.700Z,60.6459,-150.7033,17.2,0.9,ml,,,,0.3,ak,ak0234i85ila,2023-04-08T15:41:28.360Z,"12 km NNE of Sterling, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2023-04-08T15:53:28.838Z,60.1606,-153.0358,135.6,1.9,ml,,,,0.34,ak,ak0234ibwxom,2023-04-08T15:55:03.708Z,"71 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-08T15:49:45.770Z,38.7921677,-122.7610016,2.52,0.83,md,12.0,90.0,0.008505,0.02,nc,nc73869270,2023-04-08T15:51:21.938Z,"2km NNW of The Geysers, CA",earthquake,0.32,0.73,0.18,10.0,automatic,nc,nc
+2023-04-08T14:39:49.686Z,57.9826,-156.0562,9.7,1.1,ml,,,,0.67,ak,ak0234ib8iya,2023-04-08T15:52:14.418Z,"82 km ESE of Egegik, Alaska",earthquake,,1.2,,,reviewed,ak,ak
