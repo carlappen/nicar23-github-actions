@@ -10960,3 +10960,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T07:16:14.990Z,19.4139995574951,-155.273162841797,7.3600001335144,1.89999998,md,25.0,87.0,,0.189999998,hv,hv73358917,2023-04-08T07:19:25.610Z,"5 km SW of Volcano, Hawaii",earthquake,0.43,0.469999999,0.409999996,11.0,automatic,hv,hv
 2023-04-08T06:47:14.170Z,18.0766,-68.5315,75.0,3.95,md,11.0,239.0,0.6004,0.58,pr,pr2023098001,2023-04-08T07:19:35.421Z,"34 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.88,3.27,0.01,3.0,reviewed,pr,pr
 2023-04-08T05:11:19.980Z,38.8418333,-122.8145,1.5,0.42,md,17.0,64.0,0.01455,0.03,nc,nc73868990,2023-04-08T07:22:53.666Z,"8km WNW of Cobb, CA",earthquake,0.24,0.37,0.165,17.0,reviewed,nc,nc
+2023-04-08T07:32:02.500Z,61.0646,-150.8246,52.5,1.1,ml,,,,0.42,ak,ak0234i70wqi,2023-04-08T07:33:49.058Z,"16 km ESE of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-04-08T07:17:43.182Z,51.7641,-175.5013,57.113,4.8,mb,89.0,139.0,0.344,1.09,us,us6000k2u4,2023-04-08T07:34:13.040Z,"79 km E of Adak, Alaska",earthquake,7.27,5.663,0.029,367.0,reviewed,us,us
