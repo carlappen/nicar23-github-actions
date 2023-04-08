@@ -11065,3 +11065,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T19:10:49.770Z,33.586,-116.806,7.78,0.53,ml,16.0,69.0,0.03581,0.12,ci,ci40438432,2023-04-08T19:14:25.395Z,"13km WNW of Anza, CA",earthquake,0.35,0.47,0.073,13.0,automatic,ci,ci
 2023-04-08T19:09:48.993Z,64.9768,-147.4206,2.1,1.5,ml,,,,0.71,ak,ak0234ie1a3t,2023-04-08T19:11:59.675Z,"9 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-08T14:44:48.927Z,28.7306,86.7005,57.329,4.3,mb,22.0,138.0,0.775,0.63,us,us6000k2vg,2023-04-08T19:16:58.040Z,"87 km N of Lobujya, Nepal",earthquake,7.04,16.483,0.108,24.0,reviewed,us,us
+2023-04-08T15:40:19.980Z,2.4954,99.0206,158.98,4.4,mb,27.0,88.0,1.867,0.82,us,us6000k2vs,2023-04-08T19:37:14.040Z,"20 km SSE of Parapat, Indonesia",earthquake,7.49,8.671,0.108,25.0,reviewed,us,us
+2023-04-08T15:40:14.337Z,42.2393,143.0453,68.549,4.2,mb,17.0,128.0,0.239,0.57,us,us6000k2vt,2023-04-08T19:33:28.040Z,"Hokkaido, Japan region",earthquake,6.67,7.846,0.176,9.0,reviewed,us,us
