@@ -10979,3 +10979,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T08:31:22.020Z,19.4071674346924,-155.273666381836,4.88000011444092,1.85,ml,26.0,77.0,,0.289999992,hv,hv73359062,2023-04-08T08:36:56.030Z,"5 km SW of Volcano, Hawaii",earthquake,0.45,0.649999976,0.22,9.0,automatic,hv,hv
 2023-04-08T08:46:09.680Z,35.6720009,-117.5301666,7.19,2.43,ml,42.0,46.0,0.08695,0.17,ci,ci40438144,2023-04-08T08:48:17.603Z,"14km ENE of Ridgecrest, CA",earthquake,0.21,0.56,0.201,25.0,automatic,ci,ci
 2023-04-08T08:41:18.170Z,19.408332824707,-155.274673461914,8.46000003814697,2.0,ml,21.0,78.0,,0.140000001,hv,hv73359082,2023-04-08T08:46:50.570Z,"5 km SW of Volcano, Hawaii",earthquake,0.44,0.370000005,0.61,4.0,automatic,hv,hv
+2023-04-08T09:01:42.591Z,58.2544,-155.137,2.0,1.1,ml,,,,0.53,ak,ak0234i817ub,2023-04-08T09:03:47.410Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-08T08:59:40.360Z,63.5799,-150.0765,133.7,1.7,ml,,,,0.37,ak,ak0234i7s7lu,2023-04-08T09:02:17.196Z,Central Alaska,earthquake,,0.9,,,automatic,ak,ak
+2023-04-08T08:57:52.740Z,39.2174988,-122.8638306,6.2,1.85,md,8.0,155.0,0.09524,0.03,nc,nc73869165,2023-04-08T09:12:11.449Z,"7km NE of Upper Lake, CA",earthquake,0.65,1.1,0.08,5.0,automatic,nc,nc
