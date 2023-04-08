@@ -11006,3 +11006,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T12:36:02.270Z,33.5703333,-116.7268333,-0.31,0.48,ml,9.0,134.0,0.08046,0.19,ci,ci40438192,2023-04-08T12:39:31.852Z,"5km WNW of Anza, CA",earthquake,0.6,31.61,0.159,6.0,automatic,ci,ci
 2023-04-08T12:14:49.908Z,23.409,121.4683,31.621,4.4,mb,26.0,96.0,0.158,0.62,us,us6000k2v4,2023-04-08T12:43:37.040Z,Taiwan,earthquake,2.62,5.825,0.138,15.0,reviewed,us,us
 2023-04-08T11:30:00.197Z,18.814,145.7459,177.924,4.4,mb,44.0,115.0,3.554,0.52,us,us6000k2v3,2023-04-08T12:34:28.040Z,"Pagan region, Northern Mariana Islands",earthquake,11.8,8.106,0.071,59.0,reviewed,us,us
+2023-04-08T13:02:30.660Z,33.2513333,-116.0495,5.31,1.49,ml,46.0,31.0,0.09821,0.29,ci,ci40438272,2023-04-08T13:06:09.639Z,"10km WSW of Salton City, CA",earthquake,0.3,1.25,0.16,26.0,automatic,ci,ci
+2023-04-08T12:56:41.600Z,38.7910004,-122.7624969,1.95,1.64,md,29.0,65.0,0.009854,0.05,nc,nc73869220,2023-04-08T13:08:10.838Z,"2km NNW of The Geysers, CA",earthquake,0.23,0.38,0.2,31.0,automatic,nc,nc
