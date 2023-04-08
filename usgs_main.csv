@@ -11031,3 +11031,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T04:20:43.122Z,61.4444,-146.5956,28.3,0.8,ml,,,,0.39,ak,ak0234i562xi,2023-04-08T15:12:27.141Z,Southern Alaska,earthquake,,1.6,,,reviewed,ak,ak
 2023-04-08T15:19:43.560Z,35.6500015,-120.9553299,5.21,2.44,md,45.0,68.0,0.07102,0.09,nc,nc73869255,2023-04-08T15:28:10.879Z,"11km SW of Lake Nacimiento, CA",earthquake,0.2,0.6,0.11,46.0,automatic,nc,nc
 2023-04-08T15:03:47.770Z,17.9636666666667,-66.8721666666667,17.96,2.31,md,6.0,205.0,0.01318,0.15,pr,pr71402938,2023-04-08T15:24:16.310Z,Puerto Rico,earthquake,0.77,0.96,0.0942749576331818,4.0,reviewed,pr,pr
+2023-04-08T15:29:25.631Z,62.6317,-149.0115,45.2,1.7,ml,,,,0.72,ak,ak0234ibrs7n,2023-04-08T15:31:17.891Z,Central Alaska,earthquake,,0.5,,,automatic,ak,ak
+2023-04-08T09:17:17.675Z,50.189,179.3416,26.7,2.9,ml,,,,0.35,ak,ak0234i84mff,2023-04-08T15:37:23.559Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,3.3,,,reviewed,ak,ak
