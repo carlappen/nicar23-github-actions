@@ -11067,3 +11067,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T14:44:48.927Z,28.7306,86.7005,57.329,4.3,mb,22.0,138.0,0.775,0.63,us,us6000k2vg,2023-04-08T19:16:58.040Z,"87 km N of Lobujya, Nepal",earthquake,7.04,16.483,0.108,24.0,reviewed,us,us
 2023-04-08T15:40:19.980Z,2.4954,99.0206,158.98,4.4,mb,27.0,88.0,1.867,0.82,us,us6000k2vs,2023-04-08T19:37:14.040Z,"20 km SSE of Parapat, Indonesia",earthquake,7.49,8.671,0.108,25.0,reviewed,us,us
 2023-04-08T15:40:14.337Z,42.2393,143.0453,68.549,4.2,mb,17.0,128.0,0.239,0.57,us,us6000k2vt,2023-04-08T19:33:28.040Z,"Hokkaido, Japan region",earthquake,6.67,7.846,0.176,9.0,reviewed,us,us
+2023-04-08T19:46:33.890Z,33.586,-116.8038333,7.43,0.5,ml,21.0,69.0,0.03404,0.18,ci,ci40438448,2023-04-08T19:50:00.230Z,"12km WNW of Anza, CA",earthquake,0.38,0.6,0.088,9.0,automatic,ci,ci
