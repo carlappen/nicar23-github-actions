@@ -10907,3 +10907,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T03:55:14.013Z,62.6545,-153.3473,5.2,2.6,ml,,,,1.19,ak,ak0234i4s4md,2023-04-08T04:09:42.040Z,"65 km SE of Nikolai, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-08T03:44:25.070Z,-1.8756,138.9148,28.085,4.4,mb,18.0,171.0,6.74,0.31,us,us6000k2t1,2023-04-08T04:01:27.040Z,"207 km WNW of Abepura, Indonesia",earthquake,14.89,7.152,0.149,14.0,reviewed,us,us
 2023-04-08T03:30:54.560Z,38.9393333,-123.3536667,2.79,1.22,md,10.0,81.0,0.04818,0.1,nc,nc73868930,2023-04-08T04:09:40.851Z,"8km S of Boonville, CA",earthquake,0.32,0.89,0.078,9.0,reviewed,nc,nc
+2023-04-08T04:33:12.830Z,38.8380013,-122.8115005,1.86,0.53,md,8.0,88.0,0.01463,0.01,nc,nc73868940,2023-04-08T04:34:48.125Z,"8km WNW of Cobb, CA",earthquake,0.39,1.1,0.32,10.0,automatic,nc,nc
+2023-04-08T04:27:20.960Z,19.2509994506836,-155.397506713867,30.7600002288818,1.82000005,md,31.0,150.0,,0.129999995,hv,hv73358732,2023-04-08T04:30:33.460Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.67,0.75,1.55999994,10.0,automatic,hv,hv
+2023-04-07T07:44:53.574Z,-20.793,-69.7143,60.824,4.1,mb,7.0,125.0,0.327,0.2,us,us6000k2ly,2023-04-08T04:35:05.040Z,"78 km SE of Iquique, Chile",earthquake,4.05,7.095,0.368,2.0,reviewed,us,us
