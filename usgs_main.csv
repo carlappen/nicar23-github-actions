@@ -11033,3 +11033,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T15:03:47.770Z,17.9636666666667,-66.8721666666667,17.96,2.31,md,6.0,205.0,0.01318,0.15,pr,pr71402938,2023-04-08T15:24:16.310Z,Puerto Rico,earthquake,0.77,0.96,0.0942749576331818,4.0,reviewed,pr,pr
 2023-04-08T15:29:25.631Z,62.6317,-149.0115,45.2,1.7,ml,,,,0.72,ak,ak0234ibrs7n,2023-04-08T15:31:17.891Z,Central Alaska,earthquake,,0.5,,,automatic,ak,ak
 2023-04-08T09:17:17.675Z,50.189,179.3416,26.7,2.9,ml,,,,0.35,ak,ak0234i84mff,2023-04-08T15:37:23.559Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,3.3,,,reviewed,ak,ak
+2023-04-08T15:46:40.340Z,38.7919998,-122.7611694,2.44,1.1,md,16.0,108.0,0.008688,0.03,nc,nc73869265,2023-04-08T15:48:17.868Z,"2km NNW of The Geysers, CA",earthquake,0.32,0.57,0.23,19.0,automatic,nc,nc
+2023-04-08T09:22:07.700Z,60.6459,-150.7033,17.2,0.9,ml,,,,0.3,ak,ak0234i85ila,2023-04-08T15:41:28.360Z,"12 km NNE of Sterling, Alaska",earthquake,,0.6,,,reviewed,ak,ak
