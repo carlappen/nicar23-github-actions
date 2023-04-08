@@ -11041,3 +11041,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T16:32:21.485Z,62.5794,-149.1498,0.0,1.6,ml,,,,0.96,ak,ak0234icdun8,2023-04-08T16:34:25.732Z,"51 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-08T16:22:36.320Z,38.7628326,-122.7353363,1.59,0.95,md,11.0,101.0,0.008283,0.03,nc,nc73869275,2023-04-08T16:35:12.164Z,"2km SE of The Geysers, CA",earthquake,0.47,0.58,0.21,11.0,automatic,nc,nc
 2023-04-08T16:20:10.110Z,33.675,-116.7788333,10.66,0.51,ml,18.0,74.0,0.06487,0.13,ci,ci40438368,2023-04-08T16:23:40.647Z,"9km SW of Idyllwild, CA",earthquake,0.29,0.51,0.179,13.0,automatic,ci,ci
+2023-04-08T16:27:33.707Z,-16.5627,175.021,24.835,5.3,mww,26.0,105.0,3.128,0.56,us,us6000k2vx,2023-04-08T16:48:03.040Z,"283 km WNW of Lautoka, Fiji",earthquake,6.07,6.367,0.098,10.0,reviewed,us,us
