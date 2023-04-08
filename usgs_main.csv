@@ -11056,3 +11056,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T17:58:11.450Z,33.4933333,-116.524,13.71,0.85,ml,13.0,179.0,0.1921,0.25,ci,ci40438400,2023-04-08T18:01:47.531Z,"16km ESE of Anza, CA",earthquake,1.14,2.85,0.169,15.0,automatic,ci,ci
 2023-04-08T18:18:27.780Z,33.6995,-116.8123333,15.24,1.08,ml,42.0,36.0,0.07537,0.2,ci,ci40438408,2023-04-08T18:22:07.791Z,"9km SE of Valle Vista, CA",earthquake,0.27,0.47,0.214,27.0,automatic,ci,ci
 2023-04-08T18:14:21.510Z,38.7944984,-122.7509995,2.25,0.69,md,7.0,91.0,0.01584,0.02,nc,nc73869310,2023-04-08T18:15:56.956Z,"2km NNE of The Geysers, CA",earthquake,0.42,1.18,0.23,6.0,automatic,nc,nc
+2023-04-08T18:28:41.470Z,36.8051682,-121.3259964,9.22,1.72,md,26.0,70.0,0.0989,0.1,nc,nc73869315,2023-04-08T18:30:17.264Z,"2km NNW of Tres Pinos, CA",earthquake,0.37,0.66,0.23,22.0,automatic,nc,nc
