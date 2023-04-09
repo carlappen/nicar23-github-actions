@@ -11154,3 +11154,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T02:54:42.742Z,62.8104,-151.8651,6.8,1.9,ml,,,,0.62,ak,ak0234jrpw2a,2023-04-09T02:56:33.513Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
 2023-04-09T02:52:48.710Z,33.0428333,-116.3961667,8.56,0.47,ml,10.0,130.0,0.07186,0.28,ci,ci40438608,2023-04-09T02:56:34.465Z,"20km ESE of Julian, CA",earthquake,0.61,1.48,0.179,3.0,automatic,ci,ci
 2023-04-09T02:35:34.510Z,17.9296666666667,-66.9251666666667,5.71,3.12,md,16.0,203.0,0.06283,0.16,pr,pr71402998,2023-04-09T02:52:24.520Z,"4 km SSW of Guánica, Puerto Rico",earthquake,0.56,0.26,0.241609224589526,8.0,reviewed,pr,pr
+2023-04-09T03:17:50.236Z,63.2754,-149.7937,78.6,1.5,ml,,,,0.49,ak,ak0234js3er3,2023-04-09T03:19:50.931Z,"44 km WSW of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-04-09T03:10:31.412Z,60.0353,-141.0309,0.0,3.3,ml,,,,0.51,ak,ak0234js1vad,2023-04-09T03:17:41.040Z,"91 km NW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-09T03:09:06.501Z,60.5068,-142.9927,0.0,1.2,ml,,,,0.76,ak,ak0234js1lne,2023-04-09T03:10:45.151Z,"103 km S of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
