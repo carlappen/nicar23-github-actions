@@ -11249,3 +11249,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T11:48:36.988Z,60.864,-150.921,26.4,1.9,ml,,,,0.11,ak,ak0234jx1hrm,2023-04-09T11:49:55.296Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-09T11:47:21.740Z,35.7756653,-117.5793304,5.0,1.25,ml,14.0,90.0,0.1544,0.13,ci,ci40438784,2023-04-09T11:49:26.915Z,"16km W of Searles Valley, CA",earthquake,0.61,1.06,0.253,3.0,automatic,ci,ci
 2023-04-09T11:38:38.520Z,38.8373337,-122.8278351,1.92,0.36,md,8.0,88.0,0.006106,0.01,nc,nc73869760,2023-04-09T11:50:11.890Z,"9km NW of The Geysers, CA",earthquake,0.52,1.18,0.26,9.0,automatic,nc,nc
+2023-04-09T12:02:31.767Z,37.8104,-115.9662,8.7,1.6,ml,19.0,132.32,0.666,0.4375,nn,nn00858002,2023-04-09T12:05:22.718Z,Nevada,earthquake,,1.5,0.9,13.0,automatic,nn,nn
+2023-04-09T11:54:49.663Z,60.3568,-152.073,73.1,2.0,ml,,,,0.27,ak,ak0234jx2t1i,2023-04-09T11:56:09.132Z,"40 km WNW of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-09T11:52:49.510Z,17.9688333333333,-66.9506666666667,9.56,2.49,md,8.0,187.0,0.06825,0.08,pr,pr71403073,2023-04-09T12:01:03.640Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.43,0.8,0.0538489752424749,6.0,reviewed,pr,pr
+2023-04-09T11:49:32.200Z,35.1528333,-118.1986667,10.99,1.02,ml,15.0,67.0,0.1998,0.23,ci,ci40438792,2023-04-09T11:52:59.935Z,"11km NNW of Mojave, CA",earthquake,0.57,1.11,0.147,8.0,automatic,ci,ci
