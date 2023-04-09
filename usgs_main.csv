@@ -11198,3 +11198,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T07:10:24.140Z,35.1618333,-118.2023333,15.06,1.11,ml,11.0,92.0,0.2055,0.27,ci,ci40438672,2023-04-09T07:13:54.803Z,"12km NNW of Mojave, CA",earthquake,0.7,1.36,0.175,13.0,automatic,ci,ci
 2023-04-09T07:04:15.790Z,38.8073349,-122.8255005,1.56,0.92,md,10.0,119.0,0.003256,0.02,nc,nc73869640,2023-04-09T07:15:11.281Z,"7km WNW of The Geysers, CA",earthquake,0.32,0.9,0.18,10.0,automatic,nc,nc
 2023-04-09T07:02:18.045Z,63.069,-150.3173,93.2,1.5,ml,,,,0.28,ak,ak0234juduy4,2023-04-09T07:04:20.527Z,"67 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-09T06:46:11.521Z,12.6823,-88.6658,35.0,4.3,mb,10.0,206.0,0.85,0.62,us,us6000k2z0,2023-04-09T07:15:15.040Z,"67 km S of Puerto El Triunfo, El Salvador",earthquake,4.69,2.007,0.153,12.0,reviewed,us,us
