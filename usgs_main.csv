@@ -11246,3 +11246,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T10:31:20.480Z,8.924,93.9567,10.0,5.5,mww,108.0,45.0,2.965,0.67,us,us6000k2zy,2023-04-09T10:51:38.573Z,"Nicobar Islands, India region",earthquake,7.11,1.843,0.065,23.0,reviewed,us,us
 2023-04-09T11:15:30.690Z,33.7801667,-117.7381667,9.59,1.49,ml,42.0,37.0,0.04813,0.21,ci,ci40438776,2023-04-09T11:19:15.788Z,"5km ENE of North Tustin, CA",earthquake,0.27,0.53,0.138,29.0,automatic,ci,ci
 2023-04-09T11:30:08.592Z,37.7665,-116.0099,2.0,1.6,ml,20.0,191.5,0.611,0.3753,nn,nn00857999,2023-04-09T11:32:32.717Z,"27 km WNW of Rachel, Nevada",earthquake,,24.8,0.94,13.0,automatic,nn,nn
+2023-04-09T11:48:36.988Z,60.864,-150.921,26.4,1.9,ml,,,,0.11,ak,ak0234jx1hrm,2023-04-09T11:49:55.296Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-09T11:47:21.740Z,35.7756653,-117.5793304,5.0,1.25,ml,14.0,90.0,0.1544,0.13,ci,ci40438784,2023-04-09T11:49:26.915Z,"16km W of Searles Valley, CA",earthquake,0.61,1.06,0.253,3.0,automatic,ci,ci
+2023-04-09T11:38:38.520Z,38.8373337,-122.8278351,1.92,0.36,md,8.0,88.0,0.006106,0.01,nc,nc73869760,2023-04-09T11:50:11.890Z,"9km NW of The Geysers, CA",earthquake,0.52,1.18,0.26,9.0,automatic,nc,nc
