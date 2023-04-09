@@ -11194,3 +11194,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T06:48:13.920Z,33.3861667,-116.9011667,11.86,0.76,ml,33.0,40.0,0.1094,0.18,ci,ci40438664,2023-04-09T06:51:51.962Z,"5km NW of Palomar Observatory, CA",earthquake,0.23,1.04,0.14,20.0,automatic,ci,ci
 2023-04-09T06:46:33.120Z,34.3666667,-119.9116667,9.48,1.25,ml,9.0,254.0,0.1442,0.25,ci,ci40438656,2023-04-09T06:51:22.724Z,"7km SW of Isla Vista, CA",earthquake,1.36,2.21,0.168,8.0,automatic,ci,ci
 2023-04-09T05:24:33.769Z,-19.287,-70.2701,48.522,4.2,mb,17.0,172.0,0.914,0.18,us,us6000k2yu,2023-04-09T06:52:04.040Z,"89 km S of Arica, Chile",earthquake,4.18,8.152,0.2,7.0,reviewed,us,us
+2023-04-09T07:12:17.600Z,33.5740013,-116.8056641,9.22,1.16,ml,12.0,114.0,0.05772,0.17,ci,ci40438680,2023-04-09T07:14:24.530Z,"12km W of Anza, CA",earthquake,0.65,1.14,0.511,8.0,automatic,ci,ci
+2023-04-09T07:10:24.140Z,35.1618333,-118.2023333,15.06,1.11,ml,11.0,92.0,0.2055,0.27,ci,ci40438672,2023-04-09T07:13:54.803Z,"12km NNW of Mojave, CA",earthquake,0.7,1.36,0.175,13.0,automatic,ci,ci
+2023-04-09T07:04:15.790Z,38.8073349,-122.8255005,1.56,0.92,md,10.0,119.0,0.003256,0.02,nc,nc73869640,2023-04-09T07:15:11.281Z,"7km WNW of The Geysers, CA",earthquake,0.32,0.9,0.18,10.0,automatic,nc,nc
+2023-04-09T07:02:18.045Z,63.069,-150.3173,93.2,1.5,ml,,,,0.28,ak,ak0234juduy4,2023-04-09T07:04:20.527Z,"67 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
