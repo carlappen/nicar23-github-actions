@@ -11212,3 +11212,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T08:22:53.780Z,33.6686667,-116.7681667,11.26,0.13,ml,15.0,87.0,0.06184,0.19,ci,ci40438728,2023-04-09T08:26:24.161Z,"9km SSW of Idyllwild, CA",earthquake,0.52,0.87,0.183,6.0,automatic,ci,ci
 2023-04-09T08:13:42.240Z,33.5363333,-116.5578333,15.22,0.85,ml,35.0,60.0,0.03079,0.18,ci,ci40438720,2023-04-09T08:17:12.910Z,"11km E of Anza, CA",earthquake,0.26,0.37,0.254,23.0,automatic,ci,ci
 2023-04-09T07:14:18.127Z,36.5374,70.9351,181.332,4.1,mb,36.0,77.0,2.52,0.68,us,us6000k2z2,2023-04-09T08:25:19.040Z,"37 km SSE of Jurm, Afghanistan",earthquake,9.15,9.236,0.091,33.0,reviewed,us,us
+2023-04-09T08:51:28.149Z,37.7653,-116.01,2.2,1.5,ml,22.0,191.37,0.61,0.3541,nn,nn00857986,2023-04-09T08:54:01.914Z,"27 km WNW of Rachel, Nevada",earthquake,,12.8,0.92,14.0,automatic,nn,nn
+2023-04-09T08:50:13.500Z,33.574,-116.6476667,9.77,0.2,ml,11.0,96.0,0.04941,0.06,ci,ci40438736,2023-04-09T08:53:48.160Z,"3km NE of Anza, CA",earthquake,0.23,0.35,0.106,5.0,automatic,ci,ci
