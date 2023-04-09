@@ -11225,3 +11225,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T09:42:01.980Z,38.7708321,-122.7268295,1.1,1.03,md,7.0,111.0,0.009353,0.02,nc,nc73869705,2023-04-09T09:43:36.006Z,"3km ESE of The Geysers, CA",earthquake,0.53,0.79,0.29,7.0,automatic,nc,nc
 2023-04-09T09:36:39.570Z,36.1023333,-117.8908333,2.19,1.48,ml,14.0,124.0,0.03286,0.19,ci,ci40438744,2023-04-09T09:40:11.212Z,"8km NE of Coso Junction, CA",earthquake,0.43,0.61,0.178,11.0,automatic,ci,ci
 2023-04-09T09:31:19.450Z,19.4526672363281,-155.960998535156,5.73000001907349,2.77,ml,28.0,264.0,,0.349999994,hv,hv73359912,2023-04-09T09:42:37.000Z,"6 km SW of Captain Cook, Hawaii",earthquake,1.63,0.850000024,2.53,14.0,automatic,hv,hv
+2023-04-09T09:50:20.272Z,37.7527,-116.0199,4.0,1.4,ml,12.0,189.79,0.595,0.4132,nn,nn00857994,2023-04-09T09:52:50.413Z,"27 km WNW of Rachel, Nevada",earthquake,,13.2,0.12,5.0,automatic,nn,nn
+2023-04-09T09:29:47.365Z,9.1324,93.9541,10.486,4.6,mb,49.0,69.0,2.776,0.63,us,us6000k2zp,2023-04-09T09:49:16.040Z,"Nicobar Islands, India region",earthquake,8.29,4.485,0.084,42.0,reviewed,us,us
