@@ -11143,3 +11143,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T02:01:45.480Z,33.709,-116.7516667,16.46,0.6,ml,15.0,73.0,0.03133,0.13,ci,ci40438568,2023-04-09T02:05:26.786Z,"5km SW of Idyllwild, CA",earthquake,0.33,0.48,0.154,9.0,automatic,ci,ci
 2023-04-09T01:57:01.210Z,38.7818336,-122.7645035,0.14,1.11,md,12.0,74.0,0.01114,0.03,nc,nc73869545,2023-04-09T02:19:14.543Z,"1km NW of The Geysers, CA",earthquake,0.26,0.45,0.1,12.0,automatic,nc,nc
 2023-04-09T01:56:57.398Z,29.1261,-97.7817,5.0,2.5,mb_lg,12.0,121.0,0.084,1.22,us,us6000k2xv,2023-04-09T02:06:47.040Z,"15 km S of Nixon, Texas",earthquake,4.82,2.013,0.102,25.0,reviewed,us,us
+2023-04-09T02:39:35.740Z,38.8105011,-122.7856674,1.29,1.07,md,16.0,36.0,0.004768,0.02,nc,nc73869570,2023-04-09T02:41:10.390Z,"4km NW of The Geysers, CA",earthquake,0.26,0.41,0.31,16.0,automatic,nc,nc
+2023-04-09T02:31:12.380Z,33.517,-116.5321667,11.64,0.49,ml,21.0,84.0,0.04041,0.25,ci,ci40438592,2023-04-09T02:34:47.973Z,"14km ESE of Anza, CA",earthquake,0.49,0.82,0.238,9.0,automatic,ci,ci
+2023-04-09T02:24:53.350Z,33.6575,-116.7665,14.02,0.78,ml,29.0,52.0,0.06367,0.16,ci,ci40438584,2023-04-09T02:28:33.074Z,"10km SSW of Idyllwild, CA",earthquake,0.3,0.51,0.158,20.0,automatic,ci,ci
+2023-04-09T02:21:46.810Z,62.8708,-151.0795,106.4,1.7,ml,,,,0.23,ak,ak0234jritqx,2023-04-09T02:24:22.448Z,"44 km NNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-09T02:14:51.482Z,-21.7226,170.9713,138.83,4.9,mb,32.0,109.0,3.385,0.88,us,us6000k2xz,2023-04-09T02:30:24.040Z,southeast of the Loyalty Islands,earthquake,8.94,8.101,0.108,27.0,reviewed,us,us
