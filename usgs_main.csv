@@ -11350,3 +11350,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T18:29:36.090Z,36.0118332,-120.5695038,3.77,1.88,md,28.0,46.0,0.02678,0.06,nc,nc73869880,2023-04-09T18:32:36.169Z,"18km NW of Parkfield, CA",earthquake,0.23,0.36,0.09,16.0,automatic,nc,nc
 2023-04-09T18:04:42.490Z,18.0168333333333,-67.0601666666667,7.81,2.69,md,13.0,96.0,0.04817,0.07,pr,pr71403363,2023-04-09T18:32:03.050Z,Mona Passage,earthquake,0.31,0.15,0.0014631920197414,4.0,reviewed,pr,pr
 2023-04-09T18:01:03.250Z,54.1446666666667,-165.9645,3.78,0.85,ml,9.0,96.0,,0.29,av,av91841666,2023-04-09T18:31:21.580Z,"12 km W of Akutan, Alaska",earthquake,0.41,0.83,0.367447491964402,9.0,reviewed,av,av
+2023-04-09T18:40:40.867Z,62.9095,-148.3469,1.1,2.1,ml,,,,0.88,ak,ak0234k15tkm,2023-04-09T18:43:40.058Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
