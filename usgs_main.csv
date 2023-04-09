@@ -11362,3 +11362,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T19:15:14.836Z,63.2021,-149.5422,15.9,1.4,ml,,,,0.8,ak,ak0234k1lu9i,2023-04-09T19:17:51.318Z,"36 km SW of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-09T18:45:36.893Z,24.3322,123.0306,53.659,4.9,mwr,66.0,97.0,0.136,0.63,us,us6000k341,2023-04-09T19:19:45.040Z,"15 km SSE of Yonakuni, Japan",earthquake,6.13,2.796,0.068,21.0,reviewed,us,us
 2023-04-09T19:21:40.310Z,38.8656654,-122.7958298,1.65,0.7,md,10.0,163.0,0.01084,0.03,nc,nc73869900,2023-04-09T19:23:16.517Z,"8km NW of Cobb, CA",earthquake,0.48,0.66,0.3,10.0,automatic,nc,nc
+2023-04-09T04:05:24.790Z,46.89783333333333,-121.73133333333334,2.07,0.36,ml,11.0,283.0,0.02702,0.1,uw,uw61916801,2023-04-09T19:46:06.060Z,"27 km NE of Ashford, Washington",earthquake,0.49,0.63,0.0338739629131913,4.0,reviewed,uw,uw
