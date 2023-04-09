@@ -11150,3 +11150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T02:14:51.482Z,-21.7226,170.9713,138.83,4.9,mb,32.0,109.0,3.385,0.88,us,us6000k2xz,2023-04-09T02:30:24.040Z,southeast of the Loyalty Islands,earthquake,8.94,8.101,0.108,27.0,reviewed,us,us
 2023-04-09T02:48:50.810Z,33.0345001,-116.394165,7.19,1.45,ml,47.0,77.0,0.06403,0.2,ci,ci40438600,2023-04-09T02:51:27.290Z,"20km ESE of Julian, CA",earthquake,0.27,1.02,0.142,3.0,automatic,ci,ci
 2023-04-09T02:43:41.500Z,38.7921677,-122.7578354,1.5,2.24,md,54.0,45.0,0.008571,0.09,nc,nc73869575,2023-04-09T02:51:10.735Z,"2km N of The Geysers, CA",earthquake,0.17,0.28,0.15,57.0,automatic,nc,nc
+2023-04-09T02:55:01.785Z,62.8079,-151.7902,0.0,2.0,ml,,,,0.64,ak,ak0234jrq0ma,2023-04-09T02:56:58.787Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
+2023-04-09T02:54:42.742Z,62.8104,-151.8651,6.8,1.9,ml,,,,0.62,ak,ak0234jrpw2a,2023-04-09T02:56:33.513Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-04-09T02:52:48.710Z,33.0428333,-116.3961667,8.56,0.47,ml,10.0,130.0,0.07186,0.28,ci,ci40438608,2023-04-09T02:56:34.465Z,"20km ESE of Julian, CA",earthquake,0.61,1.48,0.179,3.0,automatic,ci,ci
+2023-04-09T02:35:34.510Z,17.9296666666667,-66.9251666666667,5.71,3.12,md,16.0,203.0,0.06283,0.16,pr,pr71402998,2023-04-09T02:52:24.520Z,"4 km SSW of Guánica, Puerto Rico",earthquake,0.56,0.26,0.241609224589526,8.0,reviewed,pr,pr
