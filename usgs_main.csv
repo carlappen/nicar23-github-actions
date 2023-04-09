@@ -11357,3 +11357,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T19:08:01.820Z,36.4763336,-120.8991699,13.49,2.16,md,45.0,52.0,0.1297,0.19,nc,nc73869895,2023-04-09T19:09:38.009Z,"21km WNW of New Idria, CA",earthquake,0.38,0.71,0.2,33.0,automatic,nc,nc
 2023-04-09T18:38:41.300Z,17.9491666666667,-66.9833333333333,8.23,2.02,md,6.0,215.0,0.06136,0.09,pr,pr71403403,2023-04-09T18:57:32.870Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,0.54,0.92,0.0880417685649573,2.0,reviewed,pr,pr
 2023-04-09T18:36:15.720Z,17.9428333333333,-66.979,8.33,2.99,md,16.0,206.0,0.06749,0.13,pr,pr71403393,2023-04-09T19:10:11.520Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,0.32,0.6,0.142388121561609,18.0,reviewed,pr,pr
+2023-04-09T19:18:40.695Z,36.7544,-115.9385,5.5,0.5,ml,18.0,196.58,0.044,0.1814,nn,nn00858015,2023-04-09T19:20:46.687Z,"31 km NW of Indian Springs, Nevada",earthquake,,0.8,0.14,10.0,automatic,nn,nn
+2023-04-09T19:15:43.204Z,37.7697,-116.0139,2.3,1.4,ml,14.0,191.7,0.613,0.3829,nn,nn00858012,2023-04-09T19:19:26.483Z,"27 km WNW of Rachel, Nevada",earthquake,,13.1,1.0,5.0,automatic,nn,nn
+2023-04-09T19:15:14.836Z,63.2021,-149.5422,15.9,1.4,ml,,,,0.8,ak,ak0234k1lu9i,2023-04-09T19:17:51.318Z,"36 km SW of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-09T18:45:36.893Z,24.3322,123.0306,53.659,4.9,mwr,66.0,97.0,0.136,0.63,us,us6000k341,2023-04-09T19:19:45.040Z,"15 km SSE of Yonakuni, Japan",earthquake,6.13,2.796,0.068,21.0,reviewed,us,us
