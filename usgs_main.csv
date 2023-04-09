@@ -11171,3 +11171,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T04:30:48.860Z,38.8100014,-122.7853317,1.21,1.05,md,18.0,63.0,0.004874,0.02,nc,nc73869605,2023-04-09T04:32:25.810Z,"4km NW of The Geysers, CA",earthquake,0.22,0.39,0.29,18.0,automatic,nc,nc
 2023-04-09T04:25:51.370Z,33.3161667,-116.3135,9.94,0.89,ml,22.0,80.0,0.09913,0.18,ci,ci40438616,2023-04-09T04:29:28.883Z,"9km NE of Borrego Springs, CA",earthquake,0.4,0.77,0.153,19.0,automatic,ci,ci
 2023-04-09T03:36:38.970Z,61.2608333333333,-152.2135,8.23,-0.6,ml,4.0,162.0,,0.18,av,av91840601,2023-04-09T04:28:07.090Z,"61 km WNW of Tyonek, Alaska",earthquake,0.99,1.74,0.18284508623443,4.0,reviewed,av,av
+2023-04-09T04:43:00.607Z,62.6311,-151.3968,81.0,1.6,ml,,,,0.44,ak,ak0234jsub58,2023-04-09T04:44:31.275Z,"35 km WNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-09T04:38:23.030Z,51.8936666666667,-178.172333333333,11.33,1.45,ml,4.0,286.0,,0.18,av,av91840666,2023-04-09T04:44:52.980Z,"105 km W of Adak, Alaska",earthquake,1.38,1.13,0.230670352198163,4.0,reviewed,av,av
+2023-04-09T03:43:07.877Z,51.8367,-178.1233,5.0,2.5,ml,5.0,185.0,0.053,0.23,us,us6000k2yi,2023-04-09T04:43:31.040Z,"102 km W of Adak, Alaska",earthquake,1.94,1.897,0.115,10.0,reviewed,us,us
