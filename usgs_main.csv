@@ -11259,3 +11259,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T12:17:33.679Z,8.9691,93.9718,10.0,5.6,mww,104.0,40.0,4.746,0.78,us,us6000k314,2023-04-09T12:35:29.040Z,"Nicobar Islands, India region",earthquake,7.64,1.84,0.069,20.0,reviewed,us,us
 2023-04-09T12:15:51.580Z,35.159,-118.1956667,3.0,1.17,ml,19.0,80.0,0.2063,0.19,ci,ci40438808,2023-04-09T12:19:28.514Z,"12km N of Mojave, CA",earthquake,0.32,1.34,0.143,15.0,automatic,ci,ci
 2023-04-09T12:06:02.800Z,35.5213333,-118.3845,4.35,2.31,ml,33.0,35.0,0.1589,0.18,ci,ci40438800,2023-04-09T12:09:35.024Z,"12km SE of Bodfish, CA",earthquake,0.24,1.14,0.276,26.0,automatic,ci,ci
+2023-04-09T13:08:56.000Z,17.96,-66.954,10.0,4.8,Ml,20.0,,,,pt,pt23099002,2023-04-09T13:13:33.841Z,"5 km WSW of Guánica, Puerto Rico",earthquake,,,,25.0,reviewed,pt,pt
+2023-04-09T13:07:41.040Z,33.2653333,-116.769,4.42,0.55,ml,13.0,102.0,0.03051,0.21,ci,ci40438824,2023-04-09T13:11:13.969Z,"3km NNW of Lake Henshaw, CA",earthquake,0.54,0.96,0.11,7.0,automatic,ci,ci
+2023-04-09T13:05:19.295Z,37.7543,-116.0187,4.0,1.5,ml,15.0,206.52,0.597,0.3663,nn,nn00858004,2023-04-09T13:07:53.181Z,"27 km WNW of Rachel, Nevada",earthquake,,13.4,0.9,9.0,automatic,nn,nn
+2023-04-09T13:04:08.530Z,38.793499,-122.765831,3.63,1.05,md,16.0,76.0,0.008573,0.02,nc,nc73869795,2023-04-09T13:05:47.093Z,"2km NNW of The Geysers, CA",earthquake,0.31,0.72,0.24,17.0,automatic,nc,nc
+2023-04-09T12:55:01.290Z,35.4966667,-118.3935,4.97,0.97,ml,13.0,77.0,0.1783,0.15,ci,ci40438816,2023-04-09T12:58:31.313Z,"14km SE of Bodfish, CA",earthquake,0.31,2.56,0.168,8.0,automatic,ci,ci
+2023-04-09T12:47:52.012Z,8.9052,93.9381,10.342,4.4,mb,28.0,107.0,2.975,0.34,us,us6000k31k,2023-04-09T13:05:59.040Z,"Nicobar Islands, India region",earthquake,7.33,4.864,0.135,16.0,reviewed,us,us
