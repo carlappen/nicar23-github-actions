@@ -11148,3 +11148,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T02:24:53.350Z,33.6575,-116.7665,14.02,0.78,ml,29.0,52.0,0.06367,0.16,ci,ci40438584,2023-04-09T02:28:33.074Z,"10km SSW of Idyllwild, CA",earthquake,0.3,0.51,0.158,20.0,automatic,ci,ci
 2023-04-09T02:21:46.810Z,62.8708,-151.0795,106.4,1.7,ml,,,,0.23,ak,ak0234jritqx,2023-04-09T02:24:22.448Z,"44 km NNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-09T02:14:51.482Z,-21.7226,170.9713,138.83,4.9,mb,32.0,109.0,3.385,0.88,us,us6000k2xz,2023-04-09T02:30:24.040Z,southeast of the Loyalty Islands,earthquake,8.94,8.101,0.108,27.0,reviewed,us,us
+2023-04-09T02:48:50.810Z,33.0345001,-116.394165,7.19,1.45,ml,47.0,77.0,0.06403,0.2,ci,ci40438600,2023-04-09T02:51:27.290Z,"20km ESE of Julian, CA",earthquake,0.27,1.02,0.142,3.0,automatic,ci,ci
+2023-04-09T02:43:41.500Z,38.7921677,-122.7578354,1.5,2.24,md,54.0,45.0,0.008571,0.09,nc,nc73869575,2023-04-09T02:51:10.735Z,"2km N of The Geysers, CA",earthquake,0.17,0.28,0.15,57.0,automatic,nc,nc
