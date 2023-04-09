@@ -11239,3 +11239,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T10:32:07.120Z,33.6645,-116.7723333,10.39,0.43,ml,16.0,107.0,0.06722,0.14,ci,ci40438760,2023-04-09T10:35:43.459Z,"10km SSW of Idyllwild, CA",earthquake,0.37,0.68,0.203,9.0,automatic,ci,ci
 2023-04-09T10:26:53.480Z,40.3031654,-124.4544983,19.19,2.94,md,20.0,251.0,0.1315,0.18,nc,nc73869735,2023-04-09T10:33:10.434Z,"15km W of Petrolia, CA",earthquake,2.62,0.62,0.1,14.0,automatic,nc,nc
 2023-04-09T09:25:53.091Z,9.3898,93.9696,10.0,4.4,mb,20.0,106.0,2.554,0.33,us,us6000k2zr,2023-04-09T10:36:09.040Z,"285 km SSE of Port Blair, India",earthquake,9.73,1.911,0.179,9.0,reviewed,us,us
+2023-04-09T10:37:32.935Z,37.769,-116.0131,0.3,1.5,ml,16.0,191.66,0.612,0.3848,nn,nn00857997,2023-04-09T10:40:01.539Z,"27 km WNW of Rachel, Nevada",earthquake,,48.6,0.94,9.0,automatic,nn,nn
+2023-04-09T10:37:24.220Z,32.839,-115.443,4.39,1.0,ml,6.0,102.0,0.02352,0.14,ci,ci40438768,2023-04-09T10:41:03.991Z,"7km WNW of Holtville, CA",earthquake,0.5,0.5,0.186,10.0,automatic,ci,ci
