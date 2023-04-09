@@ -11382,3 +11382,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T09:11:01.110Z,38.821,-122.7831667,1.61,0.41,md,17.0,89.0,0.007969,0.01,nc,nc73869680,2023-04-09T21:03:40.143Z,"5km W of Cobb, CA",earthquake,0.3,0.55,0.166,16.0,reviewed,nc,nc
 2023-04-08T23:33:29.190Z,38.4301667,-122.6913333,7.66,1.23,md,30.0,50.0,0.01476,0.06,nc,nc73869485,2023-04-09T21:01:11.185Z,"2km SSE of Santa Rosa, CA",earthquake,0.17,0.34,0.196,24.0,reviewed,nc,nc
 2023-04-09T21:05:07.250Z,38.8256683,-122.8073349,1.66,0.79,md,9.0,142.0,0.003119,0.02,nc,nc73869945,2023-04-09T21:06:42.151Z,"7km NW of The Geysers, CA",earthquake,0.5,0.99,0.14,11.0,automatic,nc,nc
+2023-04-09T21:17:28.340Z,38.8243332,-122.803833,2.68,0.91,md,13.0,75.0,0.004964,0.01,nc,nc73869950,2023-04-09T21:19:07.433Z,"7km NW of The Geysers, CA",earthquake,0.34,0.68,0.19,13.0,automatic,nc,nc
+2023-04-09T21:16:33.191Z,56.7677,-157.8197,88.9,2.6,ml,,,,0.29,ak,ak0234k2sylz,2023-04-09T21:18:30.173Z,"53 km ESE of Port Heiden, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-09T20:55:58.186Z,9.0077,93.925,10.0,5.2,mww,110.0,42.0,2.877,0.85,us,us6000k34r,2023-04-09T21:20:12.040Z,"Nicobar Islands, India region",earthquake,6.68,1.754,0.093,11.0,reviewed,us,us
