@@ -11235,3 +11235,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T10:19:52.840Z,38.8359985,-122.7990036,2.4,0.33,md,9.0,114.0,0.007179,0.02,nc,nc73869725,2023-04-09T10:21:30.862Z,"7km WNW of Cobb, CA",earthquake,0.42,1.46,0.22,9.0,automatic,nc,nc
 2023-04-09T10:14:55.646Z,59.9135,-152.8498,101.5,2.0,ml,,,,0.98,ak,ak0234jw8t98,2023-04-09T10:17:15.543Z,"59 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-09T10:10:39.132Z,62.5037,-151.647,97.4,2.0,ml,,,,1.21,ak,ak0234jw7x49,2023-04-09T10:12:18.205Z,"45 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-09T10:32:53.920Z,37.3366661,-121.7003326,7.68,1.27,md,17.0,68.0,0.0463,0.05,nc,nc73869740,2023-04-09T10:34:31.423Z,"12km ESE of Alum Rock, CA",earthquake,0.22,0.67,0.12,11.0,automatic,nc,nc
+2023-04-09T10:32:07.120Z,33.6645,-116.7723333,10.39,0.43,ml,16.0,107.0,0.06722,0.14,ci,ci40438760,2023-04-09T10:35:43.459Z,"10km SSW of Idyllwild, CA",earthquake,0.37,0.68,0.203,9.0,automatic,ci,ci
+2023-04-09T10:26:53.480Z,40.3031654,-124.4544983,19.19,2.94,md,20.0,251.0,0.1315,0.18,nc,nc73869735,2023-04-09T10:33:10.434Z,"15km W of Petrolia, CA",earthquake,2.62,0.62,0.1,14.0,automatic,nc,nc
+2023-04-09T09:25:53.091Z,9.3898,93.9696,10.0,4.4,mb,20.0,106.0,2.554,0.33,us,us6000k2zr,2023-04-09T10:36:09.040Z,"285 km SSE of Port Blair, India",earthquake,9.73,1.911,0.179,9.0,reviewed,us,us
