@@ -11399,3 +11399,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T19:39:57.540Z,51.8566666666667,-178.084833333333,3.78,1.62,ml,5.0,207.0,,0.16,av,av91841756,2023-04-09T22:31:12.160Z,"99 km W of Adak, Alaska",earthquake,0.87,0.57,0.16646553843995,5.0,reviewed,av,av
 2023-04-09T19:35:25.960Z,53.397,-168.1685,-1.0,-0.34,ml,4.0,209.0,,0.07,av,av91841751,2023-04-09T22:28:30.390Z,"68 km NE of Nikolski, Alaska",earthquake,0.6,4.92,0.238318255526172,4.0,reviewed,av,av
 2023-04-09T22:52:00.029Z,62.1294,-149.1601,33.1,1.9,ml,,,,0.37,ak,ak0234k3m1fm,2023-04-09T22:53:56.979Z,"36 km E of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-09T23:07:15.600Z,38.7876663,-122.7676697,1.81,0.74,md,10.0,80.0,0.01436,0.02,nc,nc73869990,2023-04-09T23:08:52.290Z,"2km NW of The Geysers, CA",earthquake,0.32,0.66,0.06,10.0,automatic,nc,nc
+2023-04-09T23:03:50.238Z,65.0204,-147.0323,10.0,1.9,ml,,,,1.12,ak,ak0234k3x2tr,2023-04-09T23:05:58.006Z,"16 km N of Two Rivers, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2023-04-09T23:02:27.613Z,60.4286,-151.1086,35.7,2.4,ml,,,,0.24,ak,ak0234k3wtd5,2023-04-09T23:08:06.400Z,"Kenai Peninsula, Alaska",earthquake,,6.4,,,automatic,ak,ak
+2023-04-09T23:00:01.870Z,17.9308333333333,-66.967,15.71,2.29,md,5.0,230.0,0.08293,0.06,pr,pr71403493,2023-04-09T23:11:28.490Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.88,0.69,0.0481266899015969,2.0,reviewed,pr,pr
