@@ -11241,3 +11241,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T09:25:53.091Z,9.3898,93.9696,10.0,4.4,mb,20.0,106.0,2.554,0.33,us,us6000k2zr,2023-04-09T10:36:09.040Z,"285 km SSE of Port Blair, India",earthquake,9.73,1.911,0.179,9.0,reviewed,us,us
 2023-04-09T10:37:32.935Z,37.769,-116.0131,0.3,1.5,ml,16.0,191.66,0.612,0.3848,nn,nn00857997,2023-04-09T10:40:01.539Z,"27 km WNW of Rachel, Nevada",earthquake,,48.6,0.94,9.0,automatic,nn,nn
 2023-04-09T10:37:24.220Z,32.839,-115.443,4.39,1.0,ml,6.0,102.0,0.02352,0.14,ci,ci40438768,2023-04-09T10:41:03.991Z,"7km WNW of Holtville, CA",earthquake,0.5,0.5,0.186,10.0,automatic,ci,ci
+2023-04-09T10:52:33.350Z,38.8359985,-122.8061676,2.35,0.29,md,7.0,84.0,0.01259,0.01,nc,nc73869750,2023-04-09T10:54:11.484Z,"7km WNW of Cobb, CA",earthquake,0.51,1.57,0.2,9.0,automatic,nc,nc
+2023-04-09T10:51:55.730Z,38.8359985,-122.7921677,1.9,1.06,md,16.0,66.0,0.002797,0.02,nc,nc73869745,2023-04-09T10:53:31.378Z,"6km WNW of Cobb, CA",earthquake,0.27,0.43,0.19,17.0,automatic,nc,nc
+2023-04-09T10:31:20.480Z,8.924,93.9567,10.0,5.5,mww,108.0,45.0,2.965,0.67,us,us6000k2zy,2023-04-09T10:51:38.573Z,"Nicobar Islands, India region",earthquake,7.11,1.843,0.065,23.0,reviewed,us,us
