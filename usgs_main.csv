@@ -11398,3 +11398,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T19:40:15.740Z,51.8628333333333,-178.097333333333,3.05,1.67,ml,4.0,213.0,,0.14,av,av91097233,2023-04-09T22:33:18.840Z,"100 km W of Adak, Alaska",earthquake,0.66,2.66,0.177388249969185,4.0,reviewed,av,av
 2023-04-09T19:39:57.540Z,51.8566666666667,-178.084833333333,3.78,1.62,ml,5.0,207.0,,0.16,av,av91841756,2023-04-09T22:31:12.160Z,"99 km W of Adak, Alaska",earthquake,0.87,0.57,0.16646553843995,5.0,reviewed,av,av
 2023-04-09T19:35:25.960Z,53.397,-168.1685,-1.0,-0.34,ml,4.0,209.0,,0.07,av,av91841751,2023-04-09T22:28:30.390Z,"68 km NE of Nikolski, Alaska",earthquake,0.6,4.92,0.238318255526172,4.0,reviewed,av,av
+2023-04-09T22:52:00.029Z,62.1294,-149.1601,33.1,1.9,ml,,,,0.37,ak,ak0234k3m1fm,2023-04-09T22:53:56.979Z,"36 km E of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
