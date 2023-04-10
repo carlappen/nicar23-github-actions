@@ -11505,3 +11505,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T06:33:31.949Z,59.151,-153.0476,67.3,2.2,ml,,,,0.34,ak,ak0234lhig3u,2023-04-10T06:35:26.843Z,"68 km WSW of Nanwalek, Alaska",earthquake,,2.0,,,automatic,ak,ak
 2023-04-10T06:14:48.753Z,32.26226807,-101.9327601,8.925984701,3.6,ml,31.0,62.0,0.03872593918,0.1,tx,tx2023gzjd,2023-04-10T06:44:29.009Z,"20 km NW of Stanton, Texas",earthquake,0.5775057391,0.9353123041,0.1,15.0,reviewed,tx,tx
 2023-04-09T23:41:03.740Z,-3.502,149.0893,10.0,5.8,mww,74.0,58.0,12.292,0.85,us,us6000k35r,2023-04-10T06:44:05.313Z,"215 km WSW of Kavieng, Papua New Guinea",earthquake,9.9,1.875,0.061,26.0,reviewed,us,us
+2023-04-10T06:41:26.200Z,17.9551666666667,-66.9668333333333,15.65,2.23,md,4.0,206.0,0.07502,0.09,pr,pr71403633,2023-04-10T07:03:51.720Z,"6 km SW of Fuig, Puerto Rico",earthquake,0.96,0.87,0.0611297215732935,4.0,reviewed,pr,pr
