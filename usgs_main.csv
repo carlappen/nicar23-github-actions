@@ -11748,3 +11748,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T23:12:54.640Z,18.019,-66.956,16.61,2.23,md,3.0,214.0,0.08511,0.01,pr,pr71403833,2023-04-10T23:26:56.710Z,"3 km SSW of Liborio Negron Torres, Puerto Rico",earthquake,2.6,1.27,0.036271645527894,3.0,reviewed,pr,pr
 2023-04-10T23:31:12.860Z,17.9481666666667,-66.9565,13.91,2.8,md,12.0,215.0,0.07824,0.23,pr,pr71403853,2023-04-10T23:43:16.040Z,Puerto Rico region,earthquake,0.77,0.79,0.0830480918309784,8.0,reviewed,pr,pr
 2023-04-10T23:25:21.330Z,17.9435,-66.9673333333333,15.74,1.79,md,3.0,221.0,0.0776,0.05,pr,pr71403863,2023-04-10T23:37:44.320Z,"7 km WSW of Guánica, Puerto Rico",earthquake,2.54,0.98,0.0067096200948642,3.0,reviewed,pr,pr
+2023-04-10T23:50:46.965Z,61.485,-150.012,29.5,1.5,ml,,,,0.52,ak,ak0234lrqhq0,2023-04-10T23:53:06.914Z,"5 km SW of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
