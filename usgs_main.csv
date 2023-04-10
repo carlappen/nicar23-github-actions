@@ -11569,3 +11569,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T13:41:27.130Z,33.3361667,-116.2651667,4.4,1.65,ml,7.0,156.0,0.5596,0.28,ci,ci40439256,2023-04-10T13:45:07.379Z,"14km NE of Borrego Springs, CA",earthquake,2.15,31.61,0.458,16.0,automatic,ci,ci
 2023-04-10T13:35:29.387Z,66.3695,-154.7399,0.0,1.9,ml,,,,1.09,ak,ak0234llowl3,2023-04-10T13:45:16.200Z,"41 km NNW of Hughes, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-09T16:40:18.310Z,35.2073333,-118.678,8.64,0.0,ml,4.0,143.0,0.02527,0.03,ci,ci40438888,2023-04-10T13:47:03.376Z,"14km E of Arvin, CA",earthquake,0.38,0.5,0.162,1.0,reviewed,ci,ci
+2023-04-10T14:06:17.080Z,38.7991676,-122.7733307,1.62,1.37,md,8.0,77.0,0.01074,0.02,nc,nc73870240,2023-04-10T14:07:53.010Z,"3km NNW of The Geysers, CA",earthquake,0.37,1.25,0.11,9.0,automatic,nc,nc
+2023-04-10T14:04:04.190Z,35.7910004,-120.3533325,-0.25,0.73,md,6.0,167.0,0.02102,0.01,nc,nc73870235,2023-04-10T14:05:42.846Z,"9km NNW of Cholame, CA",earthquake,0.67,0.98,0.08,3.0,automatic,nc,nc
+2023-04-10T13:56:09.770Z,62.7369,-149.0354,46.8,2.5,ml,,,,0.74,ak,ak0234lltd1z,2023-04-10T13:58:01.331Z,"63 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-10T13:52:53.040Z,33.589,-116.6115,13.14,0.97,ml,30.0,41.0,0.01585,0.15,ci,ci40439264,2023-04-10T13:56:27.170Z,"7km ENE of Anza, CA",earthquake,0.25,0.37,0.184,27.0,automatic,ci,ci
+2023-04-10T13:51:24.146Z,63.0234,-150.4581,104.5,1.7,ml,,,,0.31,ak,ak0234llsbmm,2023-04-10T13:58:03.990Z,Central Alaska,earthquake,,1.6,,,automatic,ak,ak
+2023-04-09T19:11:01.310Z,34.4631667,-117.9573333,9.04,0.45,ml,15.0,54.0,0.01428,0.11,ci,ci40438960,2023-04-10T14:01:27.478Z,"6km SW of Pearblossom, CA",earthquake,0.23,0.4,0.345,4.0,reviewed,ci,ci
+2023-04-09T17:34:46.920Z,35.6921667,-117.5843333,2.16,0.56,ml,6.0,152.0,0.1335,0.14,ci,ci40438912,2023-04-10T13:56:21.315Z,"11km NE of Ridgecrest, CA",earthquake,0.71,0.72,0.038,2.0,reviewed,ci,ci
