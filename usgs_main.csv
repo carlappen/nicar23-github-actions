@@ -11663,3 +11663,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T19:22:02.570Z,17.9775,-66.9823333333333,6.51,1.69,md,5.0,172.0,0.05945,0.08,pr,pr71403798,2023-04-10T19:35:30.490Z,"6 km E of La Parguera, Puerto Rico",earthquake,1.54,1.08,0.0835820085301997,5.0,reviewed,pr,pr
 2023-04-10T19:34:25.120Z,17.9935,-66.9686666666667,15.41,1.62,md,3.0,186.0,0.07579,0.08,pr,pr71403813,2023-04-10T19:45:08.640Z,Puerto Rico region,earthquake,3.16,1.06,0.0153843273980645,3.0,reviewed,pr,pr
 2023-04-10T19:23:05.750Z,17.9541666666667,-66.9795,17.36,1.67,md,4.0,207.0,0.06345,0.13,pr,pr71403803,2023-04-10T19:40:02.540Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,1.05,1.21,0.0001864953042185,3.0,reviewed,pr,pr
+2023-04-10T19:47:42.470Z,61.9996,-150.5131,11.0,2.8,ml,,,,0.51,ak,ak0234lpc3t3,2023-04-10T19:49:32.861Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-04-10T17:46:50.190Z,58.1845,-155.3145,0.6,0.47,ml,5.0,157.0,,0.06,av,av91097268,2023-04-10T19:53:12.940Z,"85 km NW of Karluk, Alaska",earthquake,0.23,1.01,0.277921172271965,6.0,reviewed,av,av
