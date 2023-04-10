@@ -11515,3 +11515,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T07:25:33.200Z,18.0658333333333,-66.9581666666667,6.95,1.85,md,4.0,200.0,0.1174,0.13,pr,pr71403668,2023-04-10T07:43:27.320Z,"1 km S of Sabana Grande, Puerto Rico",earthquake,1.76,1.7,0.02324350126507,3.0,reviewed,pr,pr
 2023-04-10T07:49:21.580Z,33.2988333,-116.7446667,11.97,0.39,ml,9.0,109.0,0.06379,0.11,ci,ci40439152,2023-04-10T07:52:52.186Z,"7km NNE of Lake Henshaw, CA",earthquake,0.6,0.74,0.085,5.0,automatic,ci,ci
 2023-04-10T06:39:36.600Z,17.9536666666667,-66.9706666666667,16.68,1.84,md,4.0,207.0,0.07175,0.08,pr,pr71403678,2023-04-10T07:53:09.300Z,"6 km WSW of Fuig, Puerto Rico",earthquake,2.18,0.75,0.097168238538003,3.0,reviewed,pr,pr
+2023-04-10T08:28:54.881Z,60.4678,-152.7507,116.5,2.3,ml,,,,0.51,ak,ak0234lioajn,2023-04-10T08:31:50.815Z,Southern Alaska,earthquake,,0.7,,,automatic,ak,ak
