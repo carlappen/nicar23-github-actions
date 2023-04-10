@@ -11464,3 +11464,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T02:27:10.177Z,37.5733,-117.5891,2.1,1.4,ml,10.0,144.07,0.207,0.2683,nn,nn00858039,2023-04-10T02:29:36.518Z,"20 km SSE of Silver Peak, Nevada",earthquake,,5.8,1.42,5.0,automatic,nn,nn
 2023-04-10T02:27:05.590Z,38.8050003,-122.7789993,2.25,0.75,md,11.0,79.0,0.008351,0.02,nc,nc73870095,2023-04-10T02:40:11.267Z,"4km NNW of The Geysers, CA",earthquake,0.35,0.58,0.12,11.0,automatic,nc,nc
 2023-04-10T02:40:39.750Z,33.5295,-116.728,3.66,0.28,ml,16.0,55.0,0.03664,0.21,ci,ci40439096,2023-04-10T02:44:13.715Z,"6km WSW of Anza, CA",earthquake,0.4,0.78,0.171,5.0,automatic,ci,ci
+2023-04-10T02:53:01.997Z,36.6889,71.0363,207.57,4.0,mb,26.0,104.0,2.689,0.7,us,us6000k37j,2023-04-10T03:09:43.040Z,"26 km SE of Jurm, Afghanistan",earthquake,9.09,13.243,0.184,8.0,reviewed,us,us
