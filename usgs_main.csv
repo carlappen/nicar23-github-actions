@@ -11582,3 +11582,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T14:20:00.932Z,60.9344,-150.8596,58.0,1.9,ml,,,,0.77,ak,ak0234lm728t,2023-04-10T14:22:39.857Z,"9 km W of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-10T13:39:10.141Z,51.8494,-178.0233,4.7,2.0,ml,,,,0.41,ak,ak0234llppzq,2023-04-10T14:23:47.010Z,"95 km W of Adak, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2023-04-09T20:29:40.064Z,31.67294964,-104.3930038,9.113696289,2.2,ml,28.0,57.0,0.03726391683,0.3,tx,tx2023gypy,2023-04-10T14:36:49.548Z,"55 km S of Whites City, New Mexico",earthquake,0.947739135,1.035830832,0.1,11.0,reviewed,tx,tx
+2023-04-10T14:51:01.090Z,33.480999,-116.4980011,13.25,3.02,ml,97.0,24.0,0.07374,0.23,ci,ci40439288,2023-04-10T14:53:24.157Z,"18km ESE of Anza, CA",earthquake,0.21,0.39,0.228,17.0,automatic,ci,ci
+2023-04-10T14:50:54.500Z,33.4878349,-116.4923325,12.22,1.82,ml,62.0,25.0,0.06601,0.26,ci,ci40439280,2023-04-10T14:53:25.157Z,"18km ESE of Anza, CA",earthquake,0.25,0.59,0.473,29.0,automatic,ci,ci
+2023-04-10T14:49:35.779Z,65.0536,-150.179,3.2,1.3,ml,,,,0.76,ak,ak0234lmdcp5,2023-04-10T14:51:33.043Z,"22 km ENE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-10T14:46:55.213Z,56.7204,-156.086,15.0,2.3,ml,,,,0.34,ak,ak0234lmcr1t,2023-04-10T14:48:24.750Z,Alaska Peninsula,earthquake,,1.3,,,automatic,ak,ak
+2023-04-10T08:33:24.108Z,-32.3637,-71.4382,51.829,4.1,mb,32.0,142.0,0.506,0.62,us,us6000k38q,2023-04-10T14:45:16.040Z,"Near the coast of Valparaiso, Chile",earthquake,3.74,7.28,0.213,6.0,reviewed,us,us
