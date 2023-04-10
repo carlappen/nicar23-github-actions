@@ -11501,3 +11501,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T05:34:22.406Z,12.5018,-87.6928,72.046,4.7,mb,147.0,105.0,0.684,0.48,us,us6000k383,2023-04-10T06:03:24.040Z,"37 km SW of Jiquilillo, Nicaragua",earthquake,5.67,7.269,0.028,397.0,reviewed,us,us
 2023-04-10T06:27:00.590Z,33.1885,-116.0266667,4.48,0.78,ml,15.0,79.0,0.04367,0.22,ci,ci40439128,2023-04-10T06:30:39.871Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.48,0.92,0.131,10.0,automatic,ci,ci
 2023-04-10T06:14:49.638Z,32.2454,-101.9251,9.871,4.1,mb,73.0,26.0,0.235,0.89,us,us6000k388,2023-04-10T06:31:39.935Z,"18 km NW of Stanton, Texas",earthquake,3.31,6.088,0.09,34.0,reviewed,us,us
+2023-04-10T06:34:58.610Z,33.3893333,-116.898,9.97,0.7,ml,26.0,40.0,0.112,0.26,ci,ci40439136,2023-04-10T06:38:37.224Z,"5km NW of Palomar Observatory, CA",earthquake,0.43,1.56,0.23,18.0,automatic,ci,ci
+2023-04-10T06:33:31.949Z,59.151,-153.0476,67.3,2.2,ml,,,,0.34,ak,ak0234lhig3u,2023-04-10T06:35:26.843Z,"68 km WSW of Nanwalek, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2023-04-10T06:14:48.753Z,32.26226807,-101.9327601,8.925984701,3.6,ml,31.0,62.0,0.03872593918,0.1,tx,tx2023gzjd,2023-04-10T06:44:29.009Z,"20 km NW of Stanton, Texas",earthquake,0.5775057391,0.9353123041,0.1,15.0,reviewed,tx,tx
+2023-04-09T23:41:03.740Z,-3.502,149.0893,10.0,5.8,mww,74.0,58.0,12.292,0.85,us,us6000k35r,2023-04-10T06:44:05.313Z,"215 km WSW of Kavieng, Papua New Guinea",earthquake,9.9,1.875,0.061,26.0,reviewed,us,us
