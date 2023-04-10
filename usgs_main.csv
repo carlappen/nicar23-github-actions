@@ -11499,3 +11499,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T06:09:28.310Z,38.760334,-122.7286682,2.5,2.44,md,58.0,38.0,0.003231,0.06,nc,nc73870150,2023-04-10T06:20:16.603Z,"3km SE of The Geysers, CA",earthquake,0.16,0.28,0.18,71.0,automatic,nc,nc
 2023-04-10T05:58:50.429Z,62.8701,-150.6218,88.5,2.2,ml,,,,1.2,ak,ak0234lh2etu,2023-04-10T06:02:11.773Z,"42 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-04-10T05:34:22.406Z,12.5018,-87.6928,72.046,4.7,mb,147.0,105.0,0.684,0.48,us,us6000k383,2023-04-10T06:03:24.040Z,"37 km SW of Jiquilillo, Nicaragua",earthquake,5.67,7.269,0.028,397.0,reviewed,us,us
+2023-04-10T06:27:00.590Z,33.1885,-116.0266667,4.48,0.78,ml,15.0,79.0,0.04367,0.22,ci,ci40439128,2023-04-10T06:30:39.871Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.48,0.92,0.131,10.0,automatic,ci,ci
+2023-04-10T06:14:49.638Z,32.2454,-101.9251,9.871,4.1,mb,73.0,26.0,0.235,0.89,us,us6000k388,2023-04-10T06:31:39.935Z,"18 km NW of Stanton, Texas",earthquake,3.31,6.088,0.09,34.0,reviewed,us,us
