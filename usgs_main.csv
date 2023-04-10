@@ -11470,3 +11470,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T03:15:35.310Z,38.7806664,-122.7543335,0.77,0.75,md,8.0,70.0,0.01335,0.02,nc,nc73870100,2023-04-10T03:17:12.552Z,"0km NNE of The Geysers, CA",earthquake,0.33,0.71,0.33,7.0,automatic,nc,nc
 2023-04-10T03:05:05.980Z,17.949,-66.9378333333333,15.22,2.14,md,4.0,213.0,0.06148,0.05,pr,pr71403568,2023-04-10T03:17:09.280Z,"4 km SW of Guánica, Puerto Rico",earthquake,1.91,0.65,0.148859823951309,4.0,reviewed,pr,pr
 2023-04-10T02:52:41.700Z,17.9485,-66.9623333333333,14.35,1.93,md,7.0,214.0,0.08068,0.14,pr,pr71403558,2023-04-10T03:15:29.390Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.8,0.95,0.156186315946941,3.0,reviewed,pr,pr
+2023-04-10T02:53:04.020Z,17.912,-66.949,15.25,1.39,md,5.0,237.0,0.09133,0.1,pr,pr71403578,2023-04-10T03:28:15.580Z,"7 km SSW of Guánica, Puerto Rico",earthquake,0.99,0.75,0.0827274017640371,3.0,reviewed,pr,pr
