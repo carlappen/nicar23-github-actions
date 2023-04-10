@@ -11535,3 +11535,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T10:22:03.206Z,63.9797,-150.4157,0.0,1.8,ml,,,,0.76,ak,ak0234ljtret,2023-04-10T10:24:24.167Z,"63 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-10T10:21:11.493Z,37.2889,-117.6699,4.6,0.5,ml,9.0,163.2,0.059,0.3253,nn,nn00858052,2023-04-10T10:23:30.080Z,"51 km S of Silver Peak, Nevada",earthquake,,2.1,0.59,4.0,automatic,nn,nn
 2023-04-10T09:47:33.150Z,18.1126666666667,-66.9943333333333,14.55,2.6,md,15.0,61.0,0.05895,0.41,pr,pr71403683,2023-04-10T10:17:21.290Z,Puerto Rico region,earthquake,0.63,1.67,0.0645974032267822,6.0,reviewed,pr,pr
+2023-04-10T11:00:21.440Z,34.1071667,-117.3148333,15.68,1.23,ml,41.0,52.0,0.08077,0.19,ci,ci40439184,2023-04-10T11:11:18.590Z,"3km SW of San Bernardino, CA",earthquake,0.27,0.61,0.254,30.0,automatic,ci,ci
+2023-04-10T10:49:37.043Z,-15.8779,-173.792,142.695,4.5,mb,38.0,76.0,2.763,1.35,us,us6000k39c,2023-04-10T11:12:39.040Z,"8 km N of Hihifo, Tonga",earthquake,8.0,7.618,0.083,42.0,reviewed,us,us
