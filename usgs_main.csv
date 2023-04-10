@@ -11603,3 +11603,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T15:22:06.034Z,-48.1751,-9.9402,10.0,4.9,mb,34.0,78.0,23.803,0.94,us,us6000k3ar,2023-04-10T15:53:01.040Z,southern Mid-Atlantic Ridge,earthquake,5.97,1.861,0.099,32.0,reviewed,us,us
 2023-04-10T15:54:05.530Z,38.788166,-122.7458344,1.61,1.16,md,16.0,85.0,0.008655,0.02,nc,nc73870285,2023-04-10T16:10:10.216Z,"2km NE of The Geysers, CA",earthquake,0.24,0.51,0.18,16.0,automatic,nc,nc
 2023-04-10T15:47:39.420Z,17.971,-66.9818333333333,6.97,2.72,md,12.0,182.0,0.0594,0.1,pr,pr71403728,2023-04-10T16:02:39.820Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.48,0.3,0.121212046997109,7.0,reviewed,pr,pr
+2023-04-10T16:26:35.420Z,38.8206673,-122.7821655,1.46,0.85,md,10.0,77.0,0.007487,0.02,nc,nc73870295,2023-04-10T16:28:13.034Z,"5km W of Cobb, CA",earthquake,0.37,0.67,0.2,11.0,automatic,nc,nc
+2023-04-10T16:12:00.643Z,61.1641,-148.3948,42.1,2.5,ml,,,,1.24,ak,ak0234lnc7pc,2023-04-10T16:15:21.013Z,"43 km SE of Knik River, Alaska",earthquake,,19.3,,,automatic,ak,ak
+2023-04-10T16:02:58.890Z,17.9586666666667,-66.963,14.23,2.3,md,9.0,200.0,0.07805,0.11,pr,pr71403748,2023-04-10T16:22:29.040Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.84,0.73,0.06780530783226,7.0,reviewed,pr,pr
+2023-04-10T15:51:49.070Z,17.998,-66.85,16.54,2.04,md,5.0,158.0,0.036,0.06,pr,pr71403743,2023-04-10T16:20:42.550Z,"3 km SE of Palomas, Puerto Rico",earthquake,0.63,0.75,0.0190589067164333,3.0,reviewed,pr,pr
+2023-04-09T19:26:34.380Z,35.79016667,-96.98583333,6.83,1.26,ml,49.0,46.0,0.1790648614,0.17,ok,ok2023gynu,2023-04-10T16:23:15.068Z,"3 km SE of Carney, Oklahoma",earthquake,,0.4,0.21,4.0,reviewed,ok,ok
