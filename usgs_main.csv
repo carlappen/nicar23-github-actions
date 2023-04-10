@@ -11656,3 +11656,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T19:07:21.230Z,38.7929993,-122.7628326,2.12,0.73,md,8.0,124.0,0.0196,0.03,nc,nc73870355,2023-04-10T19:08:58.178Z,"2km NNW of The Geysers, CA",earthquake,0.39,1.29,0.34,8.0,automatic,nc,nc
 2023-04-10T17:27:50.300Z,58.1843338012695,-155.315994262695,3.74000000953674,0.65,ml,11.0,158.0,,0.140000001,av,av91843001,2023-04-10T19:11:15.280Z,"85 km NW of Karluk, Alaska",earthquake,0.32,0.550000012,0.313462410660111,12.0,reviewed,av,av
 2023-04-10T17:27:39.580Z,58.1946666666667,-155.329833333333,-2.2,0.19,ml,8.0,149.0,,0.25,av,av91842996,2023-04-10T19:14:16.110Z,Alaska Peninsula,earthquake,0.5,1.55,0.270426659077559,8.0,reviewed,av,av
+2023-04-10T19:17:22.733Z,58.198,-155.3097,1.1,1.4,ml,,,,0.35,ak,ak0234lp5msx,2023-04-10T19:18:50.510Z,"86 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-10T19:15:35.445Z,62.7919,-151.033,110.7,1.4,ml,,,,0.36,ak,ak0234lp58co,2023-04-10T19:17:21.838Z,"35 km NNW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
