@@ -11554,3 +11554,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T11:32:41.561Z,-23.8609,179.9941,522.49,4.3,mb,35.0,101.0,5.185,0.81,us,us6000k39l,2023-04-10T11:56:24.040Z,south of the Fiji Islands,earthquake,14.53,10.312,0.061,76.0,reviewed,us,us
 2023-04-10T11:21:22.782Z,8.9557,93.7833,10.05,4.5,mb,29.0,107.0,2.871,0.52,us,us6000k39m,2023-04-10T12:07:28.040Z,"Nicobar Islands, India region",earthquake,5.93,4.621,0.14,15.0,reviewed,us,us
 2023-04-10T09:43:16.886Z,32.2152,-101.9093,7.074,2.7,mb_lg,41.0,34.0,0.235,0.78,us,us6000k390,2023-04-10T12:11:13.040Z,"14 km NW of Stanton, Texas",earthquake,3.82,7.523,0.061,70.0,reviewed,us,us
+2023-04-10T12:38:03.715Z,61.8217,-151.9267,106.9,1.2,ml,,,,0.36,ak,ak0234ll429c,2023-04-10T12:40:49.021Z,"33 km SW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-04-10T12:32:34.030Z,38.8396683,-122.8148346,1.25,0.93,md,16.0,64.0,0.01616,0.02,nc,nc73870220,2023-04-10T12:44:10.931Z,"8km WNW of Cobb, CA",earthquake,0.22,0.46,0.24,17.0,automatic,nc,nc
+2023-04-10T11:51:48.560Z,18.2161666666667,-67.1841666666667,6.17,2.39,md,4.0,142.0,0.2204,0.1,pr,pr71403698,2023-04-10T12:31:31.590Z,"5 km WNW of Mayagüez, Puerto Rico",earthquake,0.37,0.74,0.094320399626961,3.0,reviewed,pr,pr
+2023-04-10T02:48:49.710Z,47.704166666666666,-121.93416666666668,25.71,1.38,ml,26.0,69.0,0.03866,0.12,uw,uw61916856,2023-04-10T12:45:32.180Z,"1 km NW of Lake Marcel-Stillwater, Washington",earthquake,0.24,0.33,0.1456272208560639,12.0,reviewed,uw,uw
