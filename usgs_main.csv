@@ -11637,3 +11637,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T18:22:21.210Z,36.6588326,-121.274498,5.1,1.72,md,16.0,138.0,0.04793,0.11,nc,nc73870320,2023-04-10T18:24:28.229Z,"15km SSE of Tres Pinos, CA",earthquake,0.5,1.17,0.22,19.0,automatic,nc,nc
 2023-04-10T17:07:07.730Z,53.8755,-166.594333333333,5.56,0.07,ml,6.0,147.0,,0.13,av,av91842961,2023-04-10T18:29:19.380Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.44,0.98,0.270817577868186,6.0,reviewed,av,av
 2023-04-10T02:03:35.510Z,37.5233333,-117.9791667,4.93,2.37,md,24.0,115.0,0.3221,0.18,nc,nc73870085,2023-04-10T18:28:58.670Z,"17km N of Deep Springs, CA",earthquake,0.51,8.92,0.253,29.0,reviewed,nc,nc
+2023-04-10T18:39:37.566Z,61.3259,-150.4015,44.8,2.0,ml,,,,0.18,ak,ak0234looy3g,2023-04-10T18:41:09.753Z,"22 km W of Point MacKenzie, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-04-10T18:37:27.090Z,38.8149986,-122.8303299,1.33,0.98,md,18.0,50.0,0.006187,0.03,nc,nc73870325,2023-04-10T18:39:03.426Z,"8km WNW of The Geysers, CA",earthquake,0.19,0.37,0.23,21.0,automatic,nc,nc
+2023-04-10T17:10:26.600Z,53.8756666666667,-166.592333333333,5.93,0.62,ml,11.0,115.0,,0.15,av,av91842971,2023-04-10T18:33:31.760Z,"3 km WSW of Dutch Harbor, Alaska",earthquake,0.38,0.7,0.297486672996676,11.0,reviewed,av,av
+2023-04-10T03:32:26.150Z,37.5203333,-117.9858333,12.36,2.17,md,18.0,115.0,0.316,0.19,nc,nc73870110,2023-04-10T18:39:30.948Z,"16km N of Deep Springs, CA",earthquake,0.38,2.14,0.165,19.0,reviewed,nc,nc
