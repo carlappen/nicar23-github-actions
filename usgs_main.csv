@@ -11661,3 +11661,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T19:32:59.538Z,59.4771,-144.5918,35.6,2.3,ml,,,,0.49,ak,ak0234lp8xdt,2023-04-10T19:34:51.493Z,Gulf of Alaska,earthquake,,4.9,,,automatic,ak,ak
 2023-04-10T19:32:08.706Z,63.5946,-150.6489,1.2,1.7,ml,,,,0.99,ak,ak0234lp8tgm,2023-04-10T19:34:07.703Z,"53 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-10T19:22:02.570Z,17.9775,-66.9823333333333,6.51,1.69,md,5.0,172.0,0.05945,0.08,pr,pr71403798,2023-04-10T19:35:30.490Z,"6 km E of La Parguera, Puerto Rico",earthquake,1.54,1.08,0.0835820085301997,5.0,reviewed,pr,pr
+2023-04-10T19:34:25.120Z,17.9935,-66.9686666666667,15.41,1.62,md,3.0,186.0,0.07579,0.08,pr,pr71403813,2023-04-10T19:45:08.640Z,Puerto Rico region,earthquake,3.16,1.06,0.0153843273980645,3.0,reviewed,pr,pr
+2023-04-10T19:23:05.750Z,17.9541666666667,-66.9795,17.36,1.67,md,4.0,207.0,0.06345,0.13,pr,pr71403803,2023-04-10T19:40:02.540Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,1.05,1.21,0.0001864953042185,3.0,reviewed,pr,pr
