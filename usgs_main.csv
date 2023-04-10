@@ -11601,3 +11601,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T07:23:05.030Z,36.44716667,-98.79616667,7.19,1.17,ml,49.0,83.0,0.00449911712,0.22,ok,ok2023gzlk,2023-04-10T15:36:12.705Z,"16 km SSE of Waynoka, Oklahoma",earthquake,,0.3,0.2,18.0,reviewed,ok,ok
 2023-04-10T15:44:00.970Z,37.4678345,-121.7761688,7.29,1.19,md,10.0,124.0,0.02599,0.03,nc,nc73870275,2023-04-10T15:45:37.796Z,"12km NNE of Alum Rock, CA",earthquake,0.76,0.67,0.14,7.0,automatic,nc,nc
 2023-04-10T15:22:06.034Z,-48.1751,-9.9402,10.0,4.9,mb,34.0,78.0,23.803,0.94,us,us6000k3ar,2023-04-10T15:53:01.040Z,southern Mid-Atlantic Ridge,earthquake,5.97,1.861,0.099,32.0,reviewed,us,us
+2023-04-10T15:54:05.530Z,38.788166,-122.7458344,1.61,1.16,md,16.0,85.0,0.008655,0.02,nc,nc73870285,2023-04-10T16:10:10.216Z,"2km NE of The Geysers, CA",earthquake,0.24,0.51,0.18,16.0,automatic,nc,nc
+2023-04-10T15:47:39.420Z,17.971,-66.9818333333333,6.97,2.72,md,12.0,182.0,0.0594,0.1,pr,pr71403728,2023-04-10T16:02:39.820Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.48,0.3,0.121212046997109,7.0,reviewed,pr,pr
