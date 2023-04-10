@@ -11581,3 +11581,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T07:14:13.560Z,53.8321,-166.7809,9.7,0.8,ml,,,,0.47,ak,ak0234lhzmw0,2023-04-10T14:16:20.542Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-04-10T14:20:00.932Z,60.9344,-150.8596,58.0,1.9,ml,,,,0.77,ak,ak0234lm728t,2023-04-10T14:22:39.857Z,"9 km W of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-10T13:39:10.141Z,51.8494,-178.0233,4.7,2.0,ml,,,,0.41,ak,ak0234llppzq,2023-04-10T14:23:47.010Z,"95 km W of Adak, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2023-04-09T20:29:40.064Z,31.67294964,-104.3930038,9.113696289,2.2,ml,28.0,57.0,0.03726391683,0.3,tx,tx2023gypy,2023-04-10T14:36:49.548Z,"55 km S of Whites City, New Mexico",earthquake,0.947739135,1.035830832,0.1,11.0,reviewed,tx,tx
