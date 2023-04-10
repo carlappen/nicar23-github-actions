@@ -11490,3 +11490,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T04:54:20.512Z,-14.1164,-73.5092,89.105,4.2,mb,41.0,127.0,3.876,0.82,us,us6000k37y,2023-04-10T05:23:36.040Z,"8 km NNE of Pampachiri, Peru",earthquake,8.69,11.88,0.1,28.0,reviewed,us,us
 2023-04-10T04:08:03.610Z,18.0031666666667,-66.9633333333333,14.91,1.87,md,4.0,166.0,0.08398,0.08,pr,pr71403613,2023-04-10T05:27:58.210Z,"4 km SSW of Liborio Negron Torres, Puerto Rico",earthquake,2.7,1.59,0.069417816976229,4.0,reviewed,pr,pr
 2023-04-09T06:43:48.480Z,35.9623333,-120.5073333,2.69,-0.3,md,11.0,75.0,0.01088,0.06,nc,nc73869635,2023-04-10T05:26:04.816Z,"10km NW of Parkfield, CA",earthquake,0.27,0.47,0.048,2.0,reviewed,nc,nc
+2023-04-10T05:33:30.239Z,36.6522,-116.2655,7.3,-0.1,ml,8.0,191.5,0.059,0.0521,nn,nn00858047,2023-04-10T05:35:28.077Z,"52 km ESE of Beatty, Nevada",earthquake,,1.9,0.19,4.0,automatic,nn,nn
