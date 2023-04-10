@@ -11525,3 +11525,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T09:24:34.904Z,56.8271,-158.0571,0.0,2.6,ml,,,,0.82,ak,ak0234lj8tpe,2023-04-10T09:26:26.748Z,"37 km ESE of Port Heiden, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-10T09:38:04.880Z,38.7830009,-122.7259979,0.75,0.69,md,6.0,131.0,0.008387,0.01,nc,nc73870180,2023-04-10T09:39:41.450Z,"3km ENE of The Geysers, CA",earthquake,0.86,2.48,0.4,7.0,automatic,nc,nc
 2023-04-10T09:36:10.782Z,61.6209,-149.9589,26.7,1.9,ml,,,,0.44,ak,ak0234ljbcfq,2023-04-10T09:38:33.765Z,"7 km W of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-10T09:48:17.127Z,61.7078,-149.5259,37.6,2.0,ml,,,,0.43,ak,ak0234ljdxio,2023-04-10T09:50:42.098Z,"10 km NNE of Meadow Lakes, Alaska",earthquake,,8.5,,,automatic,ak,ak
+2023-04-10T09:47:14.149Z,37.3547,-117.7185,9.6,-0.1,ml,10.0,169.4,0.135,0.2759,nn,nn00858050,2023-04-10T09:49:40.049Z,"45 km S of Silver Peak, Nevada",earthquake,,1.2,1.05,5.0,automatic,nn,nn
+2023-04-10T09:47:01.300Z,34.8775,-116.6675,0.14,1.03,ml,10.0,76.0,0.1925,0.14,ci,ci40439168,2023-04-10T09:50:36.756Z,"32km E of Barstow, CA",earthquake,0.3,31.61,0.096,10.0,automatic,ci,ci
