@@ -11723,3 +11723,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T20:43:12.280Z,51.8565,-178.061333333333,-1.8,1.57,ml,5.0,179.0,,0.23,av,av91843311,2023-04-10T22:19:14.240Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.62,1.37,0.17702757665359,5.0,reviewed,av,av
 2023-04-10T21:14:15.230Z,51.856,-178.080333333333,3.79,1.55,ml,5.0,205.0,,0.19,av,av91843346,2023-04-10T22:29:13.240Z,"99 km W of Adak, Alaska",earthquake,0.77,0.64,0.224715040522303,5.0,reviewed,av,av
 2023-04-10T21:08:17.550Z,51.8535,-178.074666666667,3.4,1.13,ml,4.0,203.0,,0.17,av,av91843331,2023-04-10T22:26:38.520Z,"99 km W of Adak, Alaska",earthquake,0.75,1.2,0.303913860122242,4.0,reviewed,av,av
+2023-04-10T22:39:09.623Z,63.0021,-150.4882,92.1,1.8,ml,,,,0.46,ak,ak0234lr2mcy,2023-04-10T22:41:11.164Z,"58 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-10T22:33:36.048Z,61.3691,-150.1939,34.4,1.9,ml,,,,0.34,ak,ak0234lr1e3o,2023-04-10T22:35:46.970Z,"11 km W of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-10T22:21:40.270Z,38.4908333,-112.84,-1.11,2.13,ml,23.0,76.0,0.01181,0.17,uu,uu60536706,2023-04-10T22:45:50.700Z,"18 km NE of Milford, Utah",earthquake,0.25,0.21,0.177,11.0,reviewed,uu,uu
+2023-04-10T08:06:07.510Z,19.8468333333333,-155.358333333333,31.82,2.02,md,37.0,171.0,,0.14,hv,hv73360567,2023-04-10T22:40:50.490Z,"20 km SW of Laupāhoehoe, Hawaii",earthquake,0.44,0.84,0.085488549943594,14.0,reviewed,hv,hv
