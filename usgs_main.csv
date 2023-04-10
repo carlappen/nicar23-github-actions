@@ -11481,3 +11481,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T04:35:25.890Z,38.800499,-122.7721634,1.47,0.73,md,8.0,119.0,0.00973,0.02,nc,nc73870130,2023-04-10T04:37:01.676Z,"3km NNW of The Geysers, CA",earthquake,0.46,1.02,0.14,8.0,automatic,nc,nc
 2023-04-10T04:32:24.120Z,38.8371658,-122.810997,1.63,0.67,md,8.0,99.0,0.01377,0.01,nc,nc73870125,2023-04-10T04:34:02.290Z,"8km WNW of Cobb, CA",earthquake,0.41,1.7,0.2,8.0,automatic,nc,nc
 2023-04-10T04:37:45.630Z,33.415,-116.3765,10.47,0.46,ml,19.0,156.0,0.1503,0.16,ci,ci40439112,2023-04-10T04:41:12.278Z,"18km N of Borrego Springs, CA",earthquake,0.49,0.81,0.148,9.0,automatic,ci,ci
+2023-04-10T04:33:19.147Z,19.641,-64.3754,10.0,3.4,ml,18.0,233.0,1.395,0.17,us,us6000k37w,2023-04-10T04:53:24.040Z,"151 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,10.08,2.021,0.064,32.0,reviewed,us,us
+2023-04-10T00:34:26.920Z,38.8288333,-122.8556667,2.33,0.77,md,24.0,70.0,0.001595,0.02,nc,nc73870045,2023-04-10T04:49:54.930Z,"10km WNW of The Geysers, CA",earthquake,0.18,0.31,0.207,21.0,reviewed,nc,nc
