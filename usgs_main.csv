@@ -11594,3 +11594,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T15:08:38.549Z,61.1257,-151.3577,63.5,2.8,ml,,,,0.29,ak,ak0234lmq05q,2023-04-10T15:10:16.902Z,"13 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-10T15:07:42.390Z,19.1386661529541,-155.392669677734,31.7199993133545,2.61999989,md,32.0,217.0,,0.109999999,hv,hv73360712,2023-04-10T15:10:52.450Z,"11 km SE of Pāhala, Hawaii",earthquake,0.83,1.12,2.61999989,4.0,automatic,hv,hv
 2023-04-10T13:58:46.570Z,18.6555,-64.9485,75.0,3.54,md,18.0,248.0,0.3025,0.24,pr,pr2023100001,2023-04-10T15:17:29.788Z,"34 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.49,1.73,0.09,11.0,reviewed,pr,pr
+2023-04-10T15:26:19.090Z,38.8053322,-122.8164978,2.86,0.42,md,10.0,83.0,0.01677,0.03,nc,nc73870265,2023-04-10T15:27:52.647Z,"6km WNW of The Geysers, CA",earthquake,0.46,1.0,0.24,10.0,automatic,nc,nc
