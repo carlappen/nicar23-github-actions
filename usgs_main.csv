@@ -11608,3 +11608,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T16:02:58.890Z,17.9586666666667,-66.963,14.23,2.3,md,9.0,200.0,0.07805,0.11,pr,pr71403748,2023-04-10T16:22:29.040Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.84,0.73,0.06780530783226,7.0,reviewed,pr,pr
 2023-04-10T15:51:49.070Z,17.998,-66.85,16.54,2.04,md,5.0,158.0,0.036,0.06,pr,pr71403743,2023-04-10T16:20:42.550Z,"3 km SE of Palomas, Puerto Rico",earthquake,0.63,0.75,0.0190589067164333,3.0,reviewed,pr,pr
 2023-04-09T19:26:34.380Z,35.79016667,-96.98583333,6.83,1.26,ml,49.0,46.0,0.1790648614,0.17,ok,ok2023gynu,2023-04-10T16:23:15.068Z,"3 km SE of Carney, Oklahoma",earthquake,,0.4,0.21,4.0,reviewed,ok,ok
+2023-04-10T16:59:38.750Z,33.3341675,-115.6818314,9.05,1.33,ml,17.0,94.0,0.04681,0.19,ci,ci40439320,2023-04-10T17:01:44.017Z,"5km ESE of Bombay Beach, CA",earthquake,0.55,0.79,0.244,3.0,automatic,ci,ci
+2023-04-10T16:26:34.491Z,54.4205,-161.6139,25.4,1.6,ml,,,,0.53,ak,ak0234lnfac2,2023-04-10T16:58:34.488Z,"84 km SSE of King Cove, Alaska",earthquake,,5.5,,,reviewed,ak,ak
+2023-04-10T15:53:00.592Z,54.2959,-159.8829,15.4,2.3,ml,,,,0.65,ak,ak0234lmzlng,2023-04-10T16:51:32.485Z,south of Alaska,earthquake,,2.7,,,reviewed,ak,ak
