@@ -11665,3 +11665,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T19:23:05.750Z,17.9541666666667,-66.9795,17.36,1.67,md,4.0,207.0,0.06345,0.13,pr,pr71403803,2023-04-10T19:40:02.540Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,1.05,1.21,0.0001864953042185,3.0,reviewed,pr,pr
 2023-04-10T19:47:42.470Z,61.9996,-150.5131,11.0,2.8,ml,,,,0.51,ak,ak0234lpc3t3,2023-04-10T19:49:32.861Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
 2023-04-10T17:46:50.190Z,58.1845,-155.3145,0.6,0.47,ml,5.0,157.0,,0.06,av,av91097268,2023-04-10T19:53:12.940Z,"85 km NW of Karluk, Alaska",earthquake,0.23,1.01,0.277921172271965,6.0,reviewed,av,av
+2023-04-10T20:01:47.170Z,62.1842,-149.3804,18.3,1.4,ml,,,,0.36,ak,ak0234lpnou5,2023-04-10T20:03:29.793Z,"24 km E of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-10T19:53:37.485Z,64.9313,-148.9314,13.2,1.1,ml,,,,0.45,ak,ak0234lpddpd,2023-04-10T19:57:12.228Z,"31 km SE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-10T17:36:49.738Z,51.7476,179.0512,15.1,2.4,ml,,,,0.52,ak,ak0234lo2wcy,2023-04-10T20:13:38.880Z,"297 km W of Adak, Alaska",earthquake,,2.2,,,reviewed,ak,ak
+2023-04-10T09:52:03.330Z,38.7963333,-122.7495,1.63,0.47,md,19.0,94.0,0.009058,0.06,nc,nc73870185,2023-04-10T20:12:10.775Z,"2km NNE of The Geysers, CA",earthquake,0.17,0.25,0.223,17.0,reviewed,nc,nc
