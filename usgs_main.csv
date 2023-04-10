@@ -11519,3 +11519,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T08:39:12.670Z,33.0096667,-116.264,3.05,0.4,ml,8.0,158.0,0.06412,0.18,ci,ci40439160,2023-04-10T08:42:48.405Z,"19km SW of Ocotillo Wells, CA",earthquake,0.58,0.85,0.19,3.0,automatic,ci,ci
 2023-04-10T08:51:13.651Z,62.8061,-150.5685,79.2,2.6,ml,,,,0.51,ak,ak0234lit4rf,2023-04-10T08:53:20.876Z,Central Alaska,earthquake,,0.6,,,automatic,ak,ak
 2023-04-10T08:50:12.680Z,38.7879982,-122.7630005,1.9,0.25,md,9.0,110.0,0.01738,0.02,nc,nc73870165,2023-04-10T08:51:47.336Z,"1km NNW of The Geysers, CA",earthquake,0.51,1.09,0.04,8.0,automatic,nc,nc
+2023-04-10T08:58:47.981Z,63.6054,-150.7211,5.6,1.9,ml,,,,0.69,ak,ak0234liupge,2023-04-10T09:00:44.717Z,"50 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-10T08:57:54.919Z,58.2981,-154.9185,1.1,0.5,ml,,,,0.24,ak,ak0234liui9v,2023-04-10T08:59:31.811Z,"85 km NNW of Karluk, Alaska",earthquake,,3.6,,,automatic,ak,ak
