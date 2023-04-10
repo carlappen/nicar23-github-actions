@@ -11463,3 +11463,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T01:51:12.250Z,17.9313333333333,-66.9646666666667,16.15,2.29,md,7.0,229.0,0.08468,0.05,pr,pr71403543,2023-04-10T02:01:13.190Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.55,0.43,0.187148826766461,4.0,reviewed,pr,pr
 2023-04-10T02:27:10.177Z,37.5733,-117.5891,2.1,1.4,ml,10.0,144.07,0.207,0.2683,nn,nn00858039,2023-04-10T02:29:36.518Z,"20 km SSE of Silver Peak, Nevada",earthquake,,5.8,1.42,5.0,automatic,nn,nn
 2023-04-10T02:27:05.590Z,38.8050003,-122.7789993,2.25,0.75,md,11.0,79.0,0.008351,0.02,nc,nc73870095,2023-04-10T02:40:11.267Z,"4km NNW of The Geysers, CA",earthquake,0.35,0.58,0.12,11.0,automatic,nc,nc
+2023-04-10T02:40:39.750Z,33.5295,-116.728,3.66,0.28,ml,16.0,55.0,0.03664,0.21,ci,ci40439096,2023-04-10T02:44:13.715Z,"6km WSW of Anza, CA",earthquake,0.4,0.78,0.171,5.0,automatic,ci,ci
