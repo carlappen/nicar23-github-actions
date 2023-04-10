@@ -11615,3 +11615,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T16:56:06.850Z,18.0795,-66.9561666666667,4.71,1.66,md,3.0,260.0,0.1271,0.15,pr,pr71403778,2023-04-10T17:10:48.930Z,"0 km ENE of Sabana Grande, Puerto Rico",earthquake,2.26,10.62,0.0914600386022877,3.0,reviewed,pr,pr
 2023-04-10T16:54:52.670Z,17.9548333333333,-66.9616666666667,15.19,2.05,md,5.0,206.0,0.07991,0.08,pr,pr71403773,2023-04-10T17:04:51.560Z,Puerto Rico region,earthquake,0.75,0.64,0.147589625227057,5.0,reviewed,pr,pr
 2023-04-09T20:45:40.479Z,35.60533333,-98.02983333,7.0,1.52,ml,45.0,54.0,0.1529699821,0.45,ok,ok2023gyqk,2023-04-10T17:07:29.146Z,"8 km E of Calumet, Oklahoma",earthquake,,1.1,0.18,4.0,reviewed,ok,ok
+2023-04-10T17:34:18.526Z,62.1031,-150.8958,61.1,1.4,ml,,,,0.58,ak,ak0234lo2efw,2023-04-10T17:36:31.139Z,"29 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-10T17:29:17.495Z,63.1177,-150.4163,91.1,2.1,ml,,,,0.74,ak,ak0234lo1bp5,2023-04-10T17:31:11.728Z,"71 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
