@@ -11494,3 +11494,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T04:33:21.030Z,19.6796,-64.1885,34.0,4.2,md,12.0,314.0,1.5334,0.34,pr,pr2023100000,2023-04-10T05:43:36.436Z,"162 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.54,24.22,0.03,5.0,reviewed,pr,pr
 2023-04-10T05:53:48.100Z,38.8271675,-122.8236694,1.6,0.67,md,11.0,64.0,0.009753,0.01,nc,nc73870145,2023-04-10T05:55:21.794Z,"8km NW of The Geysers, CA",earthquake,0.32,0.66,0.37,11.0,automatic,nc,nc
 2023-04-10T05:34:59.460Z,17.9491666666667,-66.9561666666667,15.38,2.09,md,6.0,214.0,0.0776,0.04,pr,pr71403618,2023-04-10T05:52:58.930Z,Puerto Rico region,earthquake,0.52,0.56,0.113922831468182,3.0,reviewed,pr,pr
+2023-04-10T06:19:29.340Z,38.7638321,-122.7253342,3.14,1.17,md,13.0,91.0,0.002266,0.02,nc,nc73870160,2023-04-10T06:21:07.049Z,"3km ESE of The Geysers, CA",earthquake,0.51,0.84,0.16,13.0,automatic,nc,nc
+2023-04-10T06:09:45.900Z,35.9985,-117.3483333,4.14,1.79,ml,14.0,106.0,0.1196,0.18,ci,ci40439120,2023-04-10T06:13:25.696Z,"26km N of Searles Valley, CA",earthquake,0.57,1.51,0.085,11.0,automatic,ci,ci
+2023-04-10T06:09:28.310Z,38.760334,-122.7286682,2.5,2.44,md,58.0,38.0,0.003231,0.06,nc,nc73870150,2023-04-10T06:20:16.603Z,"3km SE of The Geysers, CA",earthquake,0.16,0.28,0.18,71.0,automatic,nc,nc
+2023-04-10T05:58:50.429Z,62.8701,-150.6218,88.5,2.2,ml,,,,1.2,ak,ak0234lh2etu,2023-04-10T06:02:11.773Z,"42 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-04-10T05:34:22.406Z,12.5018,-87.6928,72.046,4.7,mb,147.0,105.0,0.684,0.48,us,us6000k383,2023-04-10T06:03:24.040Z,"37 km SW of Jiquilillo, Nicaragua",earthquake,5.67,7.269,0.028,397.0,reviewed,us,us
