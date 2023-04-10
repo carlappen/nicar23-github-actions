@@ -11483,3 +11483,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T04:37:45.630Z,33.415,-116.3765,10.47,0.46,ml,19.0,156.0,0.1503,0.16,ci,ci40439112,2023-04-10T04:41:12.278Z,"18km N of Borrego Springs, CA",earthquake,0.49,0.81,0.148,9.0,automatic,ci,ci
 2023-04-10T04:33:19.147Z,19.641,-64.3754,10.0,3.4,ml,18.0,233.0,1.395,0.17,us,us6000k37w,2023-04-10T04:53:24.040Z,"151 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,10.08,2.021,0.064,32.0,reviewed,us,us
 2023-04-10T00:34:26.920Z,38.8288333,-122.8556667,2.33,0.77,md,24.0,70.0,0.001595,0.02,nc,nc73870045,2023-04-10T04:49:54.930Z,"10km WNW of The Geysers, CA",earthquake,0.18,0.31,0.207,21.0,reviewed,nc,nc
+2023-04-10T05:06:11.379Z,62.3541,-149.1563,1.1,1.8,ml,,,,0.32,ak,ak0234lgr6kx,2023-04-10T05:07:54.381Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-10T05:02:44.430Z,38.8231659,-122.8059998,2.39,1.01,md,20.0,48.0,0.003191,0.01,nc,nc73870140,2023-04-10T05:14:10.183Z,"7km NW of The Geysers, CA",earthquake,0.22,0.49,0.1,22.0,automatic,nc,nc
+2023-04-10T04:46:09.790Z,35.8883324,-120.4443359,9.56,1.03,md,13.0,105.0,0.01892,0.08,nc,nc73870135,2023-04-10T05:13:12.176Z,"2km SW of Parkfield, CA",earthquake,1.07,1.39,0.16,5.0,automatic,nc,nc
