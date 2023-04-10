@@ -11621,3 +11621,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T17:37:40.870Z,38.8148346,-122.8191681,0.99,0.75,md,15.0,59.0,0.009831,0.02,nc,nc73870310,2023-04-10T17:39:17.513Z,"7km NW of The Geysers, CA",earthquake,0.23,0.58,0.11,15.0,automatic,nc,nc
 2023-04-10T17:11:48.437Z,8.818,93.9091,10.067,4.7,mb,40.0,144.0,3.044,0.58,us,us6000k3b7,2023-04-10T17:40:51.040Z,"Nicobar Islands, India region",earthquake,9.78,5.651,0.102,29.0,reviewed,us,us
 2023-04-10T16:06:40.230Z,51.8546666666667,-177.924,8.22,1.19,ml,4.0,160.0,,0.25,av,av91842876,2023-04-10T17:41:55.450Z,"88 km W of Adak, Alaska",earthquake,1.11,2.09,0.260218753213973,4.0,reviewed,av,av
+2023-04-10T17:49:55.848Z,57.7122,-155.8323,45.0,1.9,ml,,,,1.24,ak,ak0234lo5p28,2023-04-10T17:51:48.705Z,Alaska Peninsula,earthquake,,2.5,,,automatic,ak,ak
+2023-04-10T17:46:30.454Z,58.1824,-155.3214,8.2,1.0,ml,,,,0.8,ak,ak0234lo4zzl,2023-04-10T17:49:15.190Z,"85 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-10T16:08:08.480Z,58.1733333333333,-155.336333333333,1.04,0.26,ml,5.0,238.0,,0.07,av,av91842881,2023-04-10T17:49:06.730Z,"85 km NW of Karluk, Alaska",earthquake,0.71,1.52,0.336201885499261,5.0,reviewed,av,av
