@@ -11492,3 +11492,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T06:43:48.480Z,35.9623333,-120.5073333,2.69,-0.3,md,11.0,75.0,0.01088,0.06,nc,nc73869635,2023-04-10T05:26:04.816Z,"10km NW of Parkfield, CA",earthquake,0.27,0.47,0.048,2.0,reviewed,nc,nc
 2023-04-10T05:33:30.239Z,36.6522,-116.2655,7.3,-0.1,ml,8.0,191.5,0.059,0.0521,nn,nn00858047,2023-04-10T05:35:28.077Z,"52 km ESE of Beatty, Nevada",earthquake,,1.9,0.19,4.0,automatic,nn,nn
 2023-04-10T04:33:21.030Z,19.6796,-64.1885,34.0,4.2,md,12.0,314.0,1.5334,0.34,pr,pr2023100000,2023-04-10T05:43:36.436Z,"162 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.54,24.22,0.03,5.0,reviewed,pr,pr
+2023-04-10T05:53:48.100Z,38.8271675,-122.8236694,1.6,0.67,md,11.0,64.0,0.009753,0.01,nc,nc73870145,2023-04-10T05:55:21.794Z,"8km NW of The Geysers, CA",earthquake,0.32,0.66,0.37,11.0,automatic,nc,nc
+2023-04-10T05:34:59.460Z,17.9491666666667,-66.9561666666667,15.38,2.09,md,6.0,214.0,0.0776,0.04,pr,pr71403618,2023-04-10T05:52:58.930Z,Puerto Rico region,earthquake,0.52,0.56,0.113922831468182,3.0,reviewed,pr,pr
