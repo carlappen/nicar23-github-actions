@@ -11840,3 +11840,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T05:58:33.142Z,66.8751,-146.9031,0.0,1.7,ml,,,,1.06,ak,ak0234n4lpzm,2023-04-11T06:02:07.656Z,"26 km SW of Venetie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-11T05:54:06.674Z,17.7923,-66.8219,10.0,3.6,ml,6.0,268.0,0.275,0.18,us,us6000k3fe,2023-04-11T06:21:05.845Z,"21 km SSE of Maria Antonia, Puerto Rico",earthquake,1.07,1.991,0.105,12.0,reviewed,us,us
 2023-04-11T05:53:59.582Z,17.875,-66.8045,10.0,3.2,ml,16.0,199.0,0.247,0.54,us,us6000k3fc,2023-04-11T06:17:27.040Z,Puerto Rico region,earthquake,1.48,1.966,0.077,22.0,reviewed,us,us
+2023-04-11T06:29:11.810Z,38.7986679,-122.7483368,2.17,0.75,md,8.0,180.0,0.009101,0.01,nc,nc73870555,2023-04-11T06:30:45.854Z,"2km NNE of The Geysers, CA",earthquake,0.53,0.96,0.05,7.0,automatic,nc,nc
+2023-04-11T06:26:27.540Z,37.5883331,-121.7058334,3.03,1.38,md,12.0,77.0,0.09379,0.05,nc,nc73870550,2023-04-11T06:28:06.176Z,"12km SSE of Livermore, CA",earthquake,0.26,1.65,0.2,11.0,automatic,nc,nc
+2023-04-11T06:20:33.780Z,17.9958333333333,-66.8335,14.14,2.32,md,7.0,174.0,0.04821,0.12,pr,pr71403993,2023-04-11T06:32:14.550Z,"1 km W of Indios, Puerto Rico",earthquake,0.62,0.7,0.033956257255372,4.0,reviewed,pr,pr
