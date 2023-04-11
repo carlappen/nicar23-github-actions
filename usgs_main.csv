@@ -11898,3 +11898,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T10:06:13.060Z,39.251,-123.1336667,7.51,1.23,md,15.0,115.0,0.1225,0.06,nc,nc73870665,2023-04-11T11:27:17.644Z,"6km ESE of Redwood Valley, CA",earthquake,0.28,0.75,0.095,13.0,reviewed,nc,nc
 2023-04-11T11:38:38.270Z,33.2041667,-116.1811667,2.66,1.23,ml,43.0,34.0,0.04961,0.27,ci,ci40439568,2023-04-11T11:42:06.895Z,"8km NW of Ocotillo Wells, CA",earthquake,0.33,0.53,0.139,26.0,automatic,ci,ci
 2023-04-11T11:36:16.630Z,58.1805,-155.3521,1.2,0.4,ml,,,,0.23,ak,ak0234n81klb,2023-04-11T11:38:12.130Z,"86 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-04-11T11:45:49.000Z,33.2041667,-116.1665,3.82,2.05,ml,61.0,33.0,0.04836,0.2,ci,ci40439576,2023-04-11T11:56:11.960Z,"8km NNW of Ocotillo Wells, CA",earthquake,0.18,0.85,0.141,26.0,automatic,ci,ci
