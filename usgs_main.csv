@@ -11872,3 +11872,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T09:31:15.130Z,38.7910004,-122.7278366,1.0,1.12,md,10.0,124.0,0.01041,0.02,nc,nc73870610,2023-04-11T09:32:51.152Z,"3km ENE of The Geysers, CA",earthquake,0.3,0.68,0.14,11.0,automatic,nc,nc
 2023-04-11T09:30:50.300Z,38.7903328,-122.7281647,1.03,0.89,md,8.0,91.0,0.009745,0.01,nc,nc73870605,2023-04-11T09:32:26.158Z,"3km ENE of The Geysers, CA",earthquake,0.24,0.71,0.17,9.0,automatic,nc,nc
 2023-04-11T09:30:39.474Z,63.5357,-147.9334,0.0,1.5,ml,,,,0.73,ak,ak0234n6tguj,2023-04-11T09:32:20.716Z,"53 km ENE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-11T09:46:22.180Z,38.7926674,-122.7468338,2.89,0.76,md,9.0,165.0,0.01229,0.01,nc,nc73870645,2023-04-11T09:48:01.283Z,"2km NNE of The Geysers, CA",earthquake,0.55,1.23,0.37,9.0,automatic,nc,nc
+2023-04-11T09:42:03.650Z,37.7158318,-122.5438309,10.56,1.73,md,21.0,103.0,0.09571,0.03,nc,nc73870640,2023-04-11T09:43:41.373Z,"4km WSW of San Francisco Zoo, CA",earthquake,0.23,0.62,0.19,16.0,automatic,nc,nc
