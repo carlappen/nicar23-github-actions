@@ -11888,3 +11888,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T10:40:26.441Z,62.1482,-150.5707,6.3,1.6,ml,,,,0.84,ak,ak0234n7h0lw,2023-04-11T10:42:33.557Z,"25 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-10T22:46:33.090Z,35.876,-120.5081667,9.27,0.52,md,17.0,214.0,0.03893,0.06,nc,nc73870395,2023-04-11T10:45:09.441Z,"7km WSW of Parkfield, CA",earthquake,0.72,0.39,0.154,6.0,reviewed,nc,nc
 2023-04-10T14:32:07.383Z,32.26501465,-101.9295446,5.91805013,2.2,ml,22.0,62.0,0.03755624056,0.1,tx,tx2023gzzp,2023-04-11T10:47:23.004Z,"20 km NW of Stanton, Texas",earthquake,0.6005072859,1.737000962,0.1,27.0,reviewed,tx,tx
+2023-04-11T10:53:27.380Z,19.2441673278809,-155.403671264648,31.8999996185303,2.0,md,34.0,150.0,,0.119999997,hv,hv73361297,2023-04-11T10:56:45.120Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.64,0.930000007,0.629999995,11.0,automatic,hv,hv
