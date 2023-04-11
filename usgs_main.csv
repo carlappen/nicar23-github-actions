@@ -11894,3 +11894,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T11:07:59.296Z,64.8712,-148.9401,17.5,1.0,ml,,,,0.32,ak,ak0234n7vg49,2023-04-11T11:09:58.239Z,"31 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-10T19:34:24.620Z,36.8525,-121.5786667,3.56,0.79,md,14.0,119.0,0.01194,0.09,nc,nc73870370,2023-04-11T11:07:44.322Z,"4km WNW of San Juan Bautista, CA",earthquake,0.31,0.48,0.263,12.0,reviewed,nc,nc
 2023-04-11T09:31:43.320Z,38.7915,-122.7276667,0.93,1.29,md,25.0,86.0,0.008786,0.03,nc,nc73870615,2023-04-11T11:24:16.691Z,"3km ENE of The Geysers, CA",earthquake,0.16,0.26,0.344,15.0,reviewed,nc,nc
+2023-04-11T10:53:37.990Z,36.5376667,-121.1188333,9.17,1.12,md,26.0,104.0,0.02155,0.09,nc,nc73870675,2023-04-11T11:30:18.844Z,"2km ENE of Pinnacles, CA",earthquake,0.23,0.37,0.253,22.0,reviewed,nc,nc
+2023-04-11T10:06:13.060Z,39.251,-123.1336667,7.51,1.23,md,15.0,115.0,0.1225,0.06,nc,nc73870665,2023-04-11T11:27:17.644Z,"6km ESE of Redwood Valley, CA",earthquake,0.28,0.75,0.095,13.0,reviewed,nc,nc
