@@ -11944,3 +11944,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T15:35:50.140Z,59.8282,-149.1865,3.2,2.1,ml,,,,1.14,ak,ak0234naf5u5,2023-04-11T15:38:32.188Z,"30 km SSE of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-11T15:34:55.509Z,61.8054,-151.674,75.0,1.2,ml,,,,0.19,ak,ak0234naeyku,2023-04-11T15:36:27.617Z,"25 km SW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-11T15:31:23.330Z,39.3056679,-122.8583298,0.27,2.35,md,25.0,130.0,0.18,0.33,nc,nc73870755,2023-04-11T15:38:10.728Z,"14km SE of Lake Pillsbury, CA",earthquake,0.61,15.41,0.2,19.0,automatic,nc,nc
+2023-04-11T15:40:53.616Z,63.0859,-151.5443,0.1,1.8,ml,,,,0.81,ak,ak0234nag8q9,2023-04-11T15:43:14.257Z,"51 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-11T15:15:01.190Z,17.98,-66.9636666666667,15.8,1.83,md,3.0,172.0,0.07739,0.03,pr,pr71404123,2023-04-11T15:40:46.020Z,"5 km W of Fuig, Puerto Rico",earthquake,2.82,1.1,0.161492737889245,3.0,reviewed,pr,pr
