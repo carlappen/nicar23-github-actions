@@ -11912,3 +11912,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T13:06:08.438Z,62.376,-149.0675,45.5,2.8,ml,,,,0.84,ak,ak0234n91zpf,2023-04-11T13:07:20.057Z,Central Alaska,earthquake,,0.9,,,automatic,ak,ak
 2023-04-11T13:06:03.796Z,63.107,-151.4407,7.9,2.6,ml,,,,0.46,ak,ak0234n91zbl,2023-04-11T13:08:23.410Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-11T03:24:42.799Z,35.792,-96.974,6.56,1.15,ml,72.0,48.0,0.1844638019,0.25,ok,ok2023hazb,2023-04-11T13:02:34.260Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.5,0.2,29.0,reviewed,ok,ok
+2023-04-11T13:25:49.822Z,59.0629,-151.1926,32.2,1.7,ml,,,,0.28,ak,ak0234n965hi,2023-04-11T13:27:19.363Z,"48 km SE of Port Graham, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-11T12:41:08.520Z,17.9415,-66.95,15.31,2.17,md,6.0,219.0,0.07515,0.12,pr,pr71404088,2023-04-11T13:20:41.580Z,Puerto Rico region,earthquake,0.71,0.72,0.10963047486316,6.0,reviewed,pr,pr
+2023-04-11T11:41:45.690Z,17.9506666666667,-66.9573333333333,15.66,2.53,md,5.0,212.0,0.07817,0.06,pr,pr71404063,2023-04-11T13:20:05.280Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.69,0.55,0.211613786389794,5.0,reviewed,pr,pr
