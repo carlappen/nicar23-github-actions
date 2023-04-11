@@ -11833,3 +11833,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T05:23:00.314Z,60.2458,-152.6731,106.5,1.6,ml,,,,0.23,ak,ak0234n4e5e7,2023-04-11T05:24:30.391Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-11T05:17:24.660Z,36.0358315,-120.6054993,1.32,1.28,md,14.0,103.0,0.03376,0.09,nc,nc73870525,2023-04-11T05:19:01.305Z,"22km NW of Parkfield, CA",earthquake,0.51,2.34,0.1,4.0,automatic,nc,nc
 2023-04-11T05:38:10.217Z,60.168,-152.8765,99.2,2.0,ml,,,,0.51,ak,ak0234n4hdya,2023-04-11T05:39:40.488Z,Southern Alaska,earthquake,,0.5,,,automatic,ak,ak
+2023-04-11T05:47:55.530Z,38.7961655,-122.7320023,0.77,0.73,md,8.0,140.0,0.01343,0.01,nc,nc73870535,2023-04-11T05:49:31.676Z,"3km NE of The Geysers, CA",earthquake,0.35,0.71,0.2,8.0,automatic,nc,nc
+2023-04-11T05:43:06.000Z,17.94,-66.9613333333333,14.4,1.92,md,4.0,226.0,0.08416,0.05,pr,pr71403928,2023-04-11T05:53:51.740Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.8,0.76,0.105634680982186,4.0,reviewed,pr,pr
