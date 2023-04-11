@@ -11843,3 +11843,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T06:29:11.810Z,38.7986679,-122.7483368,2.17,0.75,md,8.0,180.0,0.009101,0.01,nc,nc73870555,2023-04-11T06:30:45.854Z,"2km NNE of The Geysers, CA",earthquake,0.53,0.96,0.05,7.0,automatic,nc,nc
 2023-04-11T06:26:27.540Z,37.5883331,-121.7058334,3.03,1.38,md,12.0,77.0,0.09379,0.05,nc,nc73870550,2023-04-11T06:28:06.176Z,"12km SSE of Livermore, CA",earthquake,0.26,1.65,0.2,11.0,automatic,nc,nc
 2023-04-11T06:20:33.780Z,17.9958333333333,-66.8335,14.14,2.32,md,7.0,174.0,0.04821,0.12,pr,pr71403993,2023-04-11T06:32:14.550Z,"1 km W of Indios, Puerto Rico",earthquake,0.62,0.7,0.033956257255372,4.0,reviewed,pr,pr
+2023-04-11T05:54:00.730Z,17.9388,-66.8393,13.0,3.1,ml,18.0,192.0,0.0539,0.15,pr,pr2023101000,2023-04-11T06:40:44.734Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.76,0.39,0.0,0.0,reviewed,pr,pr
