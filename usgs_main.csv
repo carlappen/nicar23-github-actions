@@ -11858,3 +11858,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T08:26:58.326Z,64.5438,-148.2389,11.3,1.1,ml,,,,0.7,ak,ak0234n677nr,2023-04-11T08:29:27.396Z,"35 km SSW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-11T08:43:18.410Z,38.8246651,-122.8099976,3.4,0.75,md,9.0,95.0,0.00127,0.01,nc,nc73870570,2023-04-11T08:44:55.705Z,"7km NW of The Geysers, CA",earthquake,0.47,2.32,0.42,11.0,automatic,nc,nc
 2023-04-11T08:39:54.760Z,38.8301659,-122.8069992,3.32,0.67,md,10.0,125.0,0.007175,0.04,nc,nc73870565,2023-04-11T08:41:30.703Z,"7km W of Cobb, CA",earthquake,0.41,0.75,0.13,9.0,automatic,nc,nc
+2023-04-11T08:57:07.590Z,38.8364983,-122.8031693,2.31,0.79,md,11.0,59.0,0.0102,0.01,nc,nc73870575,2023-04-11T08:58:45.637Z,"7km WNW of Cobb, CA",earthquake,0.34,1.23,0.15,13.0,automatic,nc,nc
