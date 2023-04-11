@@ -11967,3 +11967,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T17:22:22.405Z,61.163,-150.07,9.9,1.7,ml,,,,0.28,ak,ak0234nbj6n4,2023-04-11T17:23:55.190Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
 2023-04-11T17:14:45.451Z,36.7433,-115.564,1.9,0.8,ml,8.0,300.26,0.33,0.2555,nn,nn00858084,2023-04-11T17:17:01.576Z,"21 km NNE of Indian Springs, Nevada",earthquake,,44.0,0.29,5.0,automatic,nn,nn
 2023-04-11T16:52:06.360Z,17.965,-66.958,5.71,2.84,md,13.0,192.0,0.07561,0.2,pr,pr71404153,2023-04-11T17:17:40.440Z,"5 km WSW of Fuig, Puerto Rico",earthquake,1.05,0.69,0.148360835764323,13.0,reviewed,pr,pr
+2023-04-11T17:32:24.235Z,61.2937,-152.4931,2.4,1.2,ml,,,,0.92,ak,ak0234nblbu2,2023-04-11T17:34:37.286Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
