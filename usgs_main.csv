@@ -11908,3 +11908,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T12:36:04.328Z,-5.9635,149.5785,44.203,5.6,mww,137.0,33.0,3.119,0.69,us,us6000k3hc,2023-04-11T12:55:40.040Z,"New Britain region, Papua New Guinea",earthquake,7.14,5.464,0.054,33.0,reviewed,us,us
 2023-04-11T08:59:44.600Z,51.0055,-176.2885,44.008,3.9,mb,50.0,205.0,0.912,0.84,us,us6000k3gf,2023-04-11T12:51:16.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,8.75,10.448,0.076,45.0,reviewed,us,us
 2023-04-11T06:13:58.509Z,35.62383333,-97.9815,7.02,1.27,ml,85.0,62.0,0.1304743965,0.3,ok,ok2023hbeq,2023-04-11T12:53:00.008Z,"10 km NNW of El Reno, Oklahoma",earthquake,,0.6,0.22,35.0,reviewed,ok,ok
+2023-04-11T13:08:28.456Z,60.5331,-151.9427,81.9,2.4,ml,,,,0.32,ak,ak0234n92gnx,2023-04-11T13:10:15.263Z,"35 km WSW of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-11T13:06:08.438Z,62.376,-149.0675,45.5,2.8,ml,,,,0.84,ak,ak0234n91zpf,2023-04-11T13:07:20.057Z,Central Alaska,earthquake,,0.9,,,automatic,ak,ak
+2023-04-11T13:06:03.796Z,63.107,-151.4407,7.9,2.6,ml,,,,0.46,ak,ak0234n91zbl,2023-04-11T13:08:23.410Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-11T03:24:42.799Z,35.792,-96.974,6.56,1.15,ml,72.0,48.0,0.1844638019,0.25,ok,ok2023hazb,2023-04-11T13:02:34.260Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.5,0.2,29.0,reviewed,ok,ok
