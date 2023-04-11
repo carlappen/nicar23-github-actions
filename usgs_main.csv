@@ -11883,3 +11883,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T10:25:27.560Z,19.2468338012695,-155.38850402832,29.9400005340576,2.07,ml,34.0,138.0,,0.189999998,hv,hv73361277,2023-04-11T10:30:57.940Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.93,0.839999974,0.2,5.0,automatic,hv,hv
 2023-04-11T10:37:15.207Z,62.3897,-148.7648,17.5,1.6,ml,,,,0.78,ak,ak0234n7gclc,2023-04-11T10:39:06.023Z,"61 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-11T10:35:39.630Z,35.5,-118.3951667,3.83,1.13,ml,20.0,67.0,0.1747,0.18,ci,ci40439560,2023-04-11T10:39:12.143Z,"13km SE of Bodfish, CA",earthquake,0.29,1.09,0.116,11.0,automatic,ci,ci
+2023-04-11T10:48:50.240Z,38.7928352,-122.7321701,1.24,0.76,md,6.0,130.0,0.01022,0.02,nc,nc73870670,2023-04-11T10:50:25.627Z,"3km NE of The Geysers, CA",earthquake,0.41,1.24,0.04,7.0,automatic,nc,nc
+2023-04-11T10:47:36.759Z,57.3383,-156.4858,90.5,2.6,ml,,,,0.3,ak,ak0234n7ijek,2023-04-11T10:49:27.502Z,"58 km ESE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-11T10:40:26.441Z,62.1482,-150.5707,6.3,1.6,ml,,,,0.84,ak,ak0234n7h0lw,2023-04-11T10:42:33.557Z,"25 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-10T22:46:33.090Z,35.876,-120.5081667,9.27,0.52,md,17.0,214.0,0.03893,0.06,nc,nc73870395,2023-04-11T10:45:09.441Z,"7km WSW of Parkfield, CA",earthquake,0.72,0.39,0.154,6.0,reviewed,nc,nc
+2023-04-10T14:32:07.383Z,32.26501465,-101.9295446,5.91805013,2.2,ml,22.0,62.0,0.03755624056,0.1,tx,tx2023gzzp,2023-04-11T10:47:23.004Z,"20 km NW of Stanton, Texas",earthquake,0.6005072859,1.737000962,0.1,27.0,reviewed,tx,tx
