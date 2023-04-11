@@ -11924,3 +11924,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T13:37:44.646Z,64.8231,-147.6741,14.5,0.6,ml,,,,0.23,ak,ak0234n98pog,2023-04-11T13:39:34.606Z,"2 km SE of Fairbanks, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-11T00:36:59.823Z,58.1385,-156.3575,4.5,1.1,ml,,,,0.71,ak,ak0234n1hzfi,2023-04-11T13:44:33.508Z,"60 km E of Egegik, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-04-10T20:10:29.061Z,51.8581,-178.0582,3.191,2.9,ml,12.0,104.0,0.027,0.82,us,us6000k3cz,2023-04-11T13:39:55.040Z,"98 km W of Adak, Alaska",earthquake,1.18,3.31,0.115,10.0,reviewed,us,us
+2023-04-11T13:53:50.770Z,38.5556679,-122.3126678,0.84,2.05,md,20.0,75.0,0.0501,0.15,nc,nc73870715,2023-04-11T13:55:27.098Z,"12km E of Angwin, CA",earthquake,0.3,1.65,0.15,18.0,automatic,nc,nc
+2023-04-11T01:52:21.657Z,63.0154,-151.7137,13.5,0.7,ml,,,,0.85,ak,ak0234n26o45,2023-04-11T13:50:05.749Z,Central Alaska,earthquake,,0.4,,,reviewed,ak,ak
