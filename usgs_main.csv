@@ -11940,3 +11940,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T14:12:28.080Z,17.9386666666667,-66.9555,15.8,2.41,md,7.0,222.0,0.0811,0.08,pr,pr71404103,2023-04-11T15:09:23.900Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.5,0.57,0.0758191380611701,5.0,reviewed,pr,pr
 2023-04-10T22:48:42.190Z,38.498,-112.8395,0.54,-0.58,md,10.0,110.0,0.0145,0.09,uu,uu60033119,2023-04-11T15:01:55.880Z,Utah,earthquake,0.37,1.02,0.306,3.0,reviewed,uu,uu
 2023-04-11T01:00:25.900Z,33.5288333,-116.727,4.77,0.41,ml,19.0,130.0,0.03747,0.08,ci,ci40439480,2023-04-11T15:24:41.648Z,"6km WSW of Anza, CA",earthquake,0.16,0.17,0.136,6.0,reviewed,ci,ci
+2023-04-11T15:36:57.148Z,58.4831,-153.7316,77.0,1.8,ml,,,,0.38,ak,ak0234nafe4y,2023-04-11T15:38:48.337Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-11T15:35:50.140Z,59.8282,-149.1865,3.2,2.1,ml,,,,1.14,ak,ak0234naf5u5,2023-04-11T15:38:32.188Z,"30 km SSE of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-11T15:34:55.509Z,61.8054,-151.674,75.0,1.2,ml,,,,0.19,ak,ak0234naeyku,2023-04-11T15:36:27.617Z,"25 km SW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-04-11T15:31:23.330Z,39.3056679,-122.8583298,0.27,2.35,md,25.0,130.0,0.18,0.33,nc,nc73870755,2023-04-11T15:38:10.728Z,"14km SE of Lake Pillsbury, CA",earthquake,0.61,15.41,0.2,19.0,automatic,nc,nc
