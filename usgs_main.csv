@@ -11929,3 +11929,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T14:02:18.300Z,38.8198318,-122.8219986,2.24,0.99,md,7.0,86.0,0.009971,0.01,nc,nc73870720,2023-04-11T14:14:11.215Z,"7km NW of The Geysers, CA",earthquake,0.47,1.18,0.16,8.0,automatic,nc,nc
 2023-04-11T05:39:41.288Z,57.4716,-154.8678,5.0,1.4,ml,,,,0.71,ak,ak0234n4hoii,2023-04-11T13:59:31.750Z,"26 km WSW of Karluk, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2023-04-10T22:32:06.970Z,38.4926667,-112.8363333,-0.28,1.33,ml,11.0,104.0,0.01488,0.08,uu,uu60536726,2023-04-11T14:02:21.350Z,Utah,earthquake,0.22,0.11,0.109,2.0,reviewed,uu,uu
+2023-04-11T00:24:01.450Z,36.2068333333333,-89.4985,4.41,1.43,md,7.0,116.0,0.03587,0.23,nm,nm60500603,2023-04-11T14:22:53.200Z,"6 km S of Ridgely, Tennessee",earthquake,0.81,2.05,0.137578010060774,7.0,reviewed,nm,nm
+2023-04-10T22:32:09.610Z,38.4913333,-112.8363333,0.17,1.38,md,11.0,102.0,0.01471,0.1,uu,uu60033109,2023-04-11T14:19:18.800Z,"18 km NE of Milford, Utah",earthquake,0.29,2.4,0.209,5.0,reviewed,uu,uu
