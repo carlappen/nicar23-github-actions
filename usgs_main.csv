@@ -11920,3 +11920,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T08:35:45.800Z,44.7778333,-110.9646667,8.69,0.34,md,7.0,204.0,0.03487,0.12,uu,uu60536756,2023-04-11T13:31:59.190Z,Wyoming,earthquake,1.02,1.29,0.222,5.0,reviewed,uu,uu
 2023-04-10T22:20:16.440Z,38.4916667,-112.8346667,-0.3,1.77,ml,12.0,103.0,0.01605,0.11,uu,uu60033104,2023-04-11T13:38:42.000Z,"18 km NE of Milford, Utah",earthquake,0.26,0.14,0.188,2.0,reviewed,uu,uu
 2023-04-10T22:20:04.060Z,38.4921667,-112.8368333,0.29,0.89,ml,10.0,103.0,0.01442,0.07,uu,uu60536691,2023-04-11T13:29:50.920Z,"18 km NE of Milford, Utah",earthquake,0.23,1.33,0.172,2.0,reviewed,uu,uu
+2023-04-11T13:44:35.360Z,38.7869987,-122.7278366,2.04,0.78,md,8.0,89.0,0.007897,0.01,nc,nc73870710,2023-04-11T13:46:11.651Z,"3km ENE of The Geysers, CA",earthquake,0.45,0.96,0.06,7.0,automatic,nc,nc
+2023-04-11T13:37:44.646Z,64.8231,-147.6741,14.5,0.6,ml,,,,0.23,ak,ak0234n98pog,2023-04-11T13:39:34.606Z,"2 km SE of Fairbanks, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-11T00:36:59.823Z,58.1385,-156.3575,4.5,1.1,ml,,,,0.71,ak,ak0234n1hzfi,2023-04-11T13:44:33.508Z,"60 km E of Egegik, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-04-10T20:10:29.061Z,51.8581,-178.0582,3.191,2.9,ml,12.0,104.0,0.027,0.82,us,us6000k3cz,2023-04-11T13:39:55.040Z,"98 km W of Adak, Alaska",earthquake,1.18,3.31,0.115,10.0,reviewed,us,us
