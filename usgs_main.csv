@@ -11827,3 +11827,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T04:47:58.528Z,64.9566,-147.022,17.3,1.8,ml,,,,0.3,ak,ak0234n3xzgs,2023-04-11T04:49:18.131Z,"9 km N of Two Rivers, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-11T04:46:49.654Z,60.8003,-152.3328,102.4,1.1,ml,,,,0.32,ak,ak0234n3xr2d,2023-04-11T04:48:20.567Z,"58 km WNW of Nikiski, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-04-11T04:44:06.637Z,62.3002,-151.1029,71.5,1.0,ml,,,,0.32,ak,ak0234n3x8bb,2023-04-11T04:45:54.779Z,"27 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-11T04:55:46.000Z,33.5796667,-116.811,9.08,0.16,ml,16.0,115.0,0.04157,0.19,ci,ci40439520,2023-04-11T04:59:22.637Z,"13km WNW of Anza, CA",earthquake,0.5,0.67,0.095,5.0,automatic,ci,ci
