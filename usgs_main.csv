@@ -11990,3 +11990,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T14:52:55.540Z,58.1728333333333,-155.2925,-0.84,-0.24,ml,8.0,165.0,,0.11,av,av91844456,2023-04-11T19:15:59.050Z,"83 km NW of Karluk, Alaska",earthquake,0.3,31.61,0.241699213186156,8.0,reviewed,av,av
 2023-04-11T01:07:13.650Z,17.788,-66.0055,9.16,2.1,md,4.0,306.0,0.2012,0.06,pr,pr71403878,2023-04-11T19:24:03.650Z,"20 km SSE of Arroyo, Puerto Rico",earthquake,0.81,1.03,0.172557590890905,4.0,reviewed,pr,pr
 2023-04-11T00:27:06.785Z,39.2371,-120.0808,9.9,0.4,ml,5.0,161.73,0.046,0.1326,nn,nn00858090,2023-04-11T19:17:30.646Z,"1 km N of Carnelian Bay, California",earthquake,,2.6,0.0,1.0,reviewed,nn,nn
+2023-04-11T03:44:38.114Z,36.7506,-116.2117,2.9,-0.1,ml,10.0,156.87,0.018,0.1332,nn,nn00858091,2023-04-11T19:29:54.596Z,Nevada,earthquake,,1.5,0.34,4.0,reviewed,nn,nn
