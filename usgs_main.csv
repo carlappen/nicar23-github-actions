@@ -11855,3 +11855,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T08:01:32.884Z,36.496,-116.2151,6.7,0.1,ml,8.0,180.33,0.069,0.0423,nn,nn00858074,2023-04-11T08:03:27.531Z,California-Nevada border region,earthquake,,10.4,0.98,5.0,automatic,nn,nn
 2023-04-11T07:35:57.290Z,18.1993,-68.1135,79.0,3.6,md,19.0,308.0,0.2196,0.4,pr,pr2023101001,2023-04-11T08:06:47.986Z,"52 km SE of Punta Cana, Dominican Republic",earthquake,2.66,1.66,0.14,10.0,reviewed,pr,pr
 2023-04-11T08:12:42.146Z,36.6914,-115.6053,13.7,0.8,ml,18.0,154.64,0.288,0.2267,nn,nn00858076,2023-04-11T08:14:48.767Z,"14 km NNE of Indian Springs, Nevada",earthquake,,2.0,0.08,7.0,automatic,nn,nn
+2023-04-11T08:26:58.326Z,64.5438,-148.2389,11.3,1.1,ml,,,,0.7,ak,ak0234n677nr,2023-04-11T08:29:27.396Z,"35 km SSW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
