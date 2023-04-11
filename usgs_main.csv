@@ -11896,3 +11896,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T09:31:43.320Z,38.7915,-122.7276667,0.93,1.29,md,25.0,86.0,0.008786,0.03,nc,nc73870615,2023-04-11T11:24:16.691Z,"3km ENE of The Geysers, CA",earthquake,0.16,0.26,0.344,15.0,reviewed,nc,nc
 2023-04-11T10:53:37.990Z,36.5376667,-121.1188333,9.17,1.12,md,26.0,104.0,0.02155,0.09,nc,nc73870675,2023-04-11T11:30:18.844Z,"2km ENE of Pinnacles, CA",earthquake,0.23,0.37,0.253,22.0,reviewed,nc,nc
 2023-04-11T10:06:13.060Z,39.251,-123.1336667,7.51,1.23,md,15.0,115.0,0.1225,0.06,nc,nc73870665,2023-04-11T11:27:17.644Z,"6km ESE of Redwood Valley, CA",earthquake,0.28,0.75,0.095,13.0,reviewed,nc,nc
+2023-04-11T11:38:38.270Z,33.2041667,-116.1811667,2.66,1.23,ml,43.0,34.0,0.04961,0.27,ci,ci40439568,2023-04-11T11:42:06.895Z,"8km NW of Ocotillo Wells, CA",earthquake,0.33,0.53,0.139,26.0,automatic,ci,ci
+2023-04-11T11:36:16.630Z,58.1805,-155.3521,1.2,0.4,ml,,,,0.23,ak,ak0234n81klb,2023-04-11T11:38:12.130Z,"86 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
