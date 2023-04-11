@@ -11926,3 +11926,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T20:10:29.061Z,51.8581,-178.0582,3.191,2.9,ml,12.0,104.0,0.027,0.82,us,us6000k3cz,2023-04-11T13:39:55.040Z,"98 km W of Adak, Alaska",earthquake,1.18,3.31,0.115,10.0,reviewed,us,us
 2023-04-11T13:53:50.770Z,38.5556679,-122.3126678,0.84,2.05,md,20.0,75.0,0.0501,0.15,nc,nc73870715,2023-04-11T13:55:27.098Z,"12km E of Angwin, CA",earthquake,0.3,1.65,0.15,18.0,automatic,nc,nc
 2023-04-11T01:52:21.657Z,63.0154,-151.7137,13.5,0.7,ml,,,,0.85,ak,ak0234n26o45,2023-04-11T13:50:05.749Z,Central Alaska,earthquake,,0.4,,,reviewed,ak,ak
+2023-04-11T14:02:18.300Z,38.8198318,-122.8219986,2.24,0.99,md,7.0,86.0,0.009971,0.01,nc,nc73870720,2023-04-11T14:14:11.215Z,"7km NW of The Geysers, CA",earthquake,0.47,1.18,0.16,8.0,automatic,nc,nc
+2023-04-11T05:39:41.288Z,57.4716,-154.8678,5.0,1.4,ml,,,,0.71,ak,ak0234n4hoii,2023-04-11T13:59:31.750Z,"26 km WSW of Karluk, Alaska",earthquake,,0.0,,,reviewed,ak,ak
+2023-04-10T22:32:06.970Z,38.4926667,-112.8363333,-0.28,1.33,ml,11.0,104.0,0.01488,0.08,uu,uu60536726,2023-04-11T14:02:21.350Z,Utah,earthquake,0.22,0.11,0.109,2.0,reviewed,uu,uu
