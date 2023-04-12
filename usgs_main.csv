@@ -12356,3 +12356,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T13:36:50.950Z,36.5485001,-121.1709976,1.1,2.05,md,24.0,90.0,0.0259,0.31,nc,nc73872330,2023-04-12T13:44:11.432Z,"3km NW of Pinnacles, CA",earthquake,0.52,1.18,0.14,20.0,automatic,nc,nc
 2023-04-12T11:29:39.930Z,36.9093333,-112.3436667,19.61,1.89,ml,9.0,148.0,0.1934,0.13,uu,uu60536916,2023-04-12T13:46:30.370Z,"16 km ESE of Fredonia, Arizona",earthquake,0.96,0.57,0.031,5.0,reviewed,uu,uu
 2023-04-11T22:57:29.140Z,41.5058333,-112.1761667,3.45,0.59,md,11.0,72.0,0.1011,0.13,uu,uu60536836,2023-04-12T13:42:21.520Z,"7 km SW of Corinne, Utah",earthquake,0.43,2.88,0.133,6.0,reviewed,uu,uu
+2023-04-12T13:47:47.090Z,38.7929993,-122.8128357,11.91,0.73,md,7.0,201.0,0.02028,0.04,nc,nc73872340,2023-04-12T13:49:25.768Z,"5km WNW of The Geysers, CA",earthquake,1.87,6.55,0.2,7.0,automatic,nc,nc
+2023-04-12T06:33:06.920Z,38.884,-111.895,21.02,1.52,ml,9.0,106.0,0.1858,0.13,uu,uu60536891,2023-04-12T13:55:18.980Z,"5 km SE of Aurora, Utah",earthquake,0.66,1.75,0.136,3.0,reviewed,uu,uu
