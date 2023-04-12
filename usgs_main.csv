@@ -12302,3 +12302,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T09:54:50.680Z,38.828167,-122.8181686,1.67,0.73,md,13.0,62.0,0.007917,0.03,nc,nc73872140,2023-04-12T09:56:25.660Z,"8km NW of The Geysers, CA",earthquake,0.33,0.61,0.39,12.0,automatic,nc,nc
 2023-04-12T10:20:43.252Z,62.2497,-147.2917,29.7,3.2,ml,,,,0.58,ak,ak0234ouw42d,2023-04-12T10:22:14.772Z,"35 km N of Eureka Roadhouse, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-12T10:09:08.291Z,37.5259,-117.9888,3.5,0.7,ml,11.0,193.87,0.4,0.3569,nn,nn00858118,2023-04-12T10:11:46.058Z,"17 km SSE of Dyer, Nevada",earthquake,,2.1,0.8,8.0,automatic,nn,nn
+2023-04-12T10:39:22.720Z,19.1366672515869,-155.498672485352,33.7200012207031,1.85000002,md,19.0,165.0,,0.189999998,hv,hv73361942,2023-04-12T10:42:27.660Z,"Island of Hawaii, Hawaii",earthquake,0.99,1.51999998,,4.0,automatic,hv,hv
+2023-04-12T10:37:09.240Z,19.2493324279785,-155.40950012207,28.8400001525879,2.45,ml,38.0,127.0,,0.170000002,hv,hv73361937,2023-04-12T10:42:39.510Z,"8 km NE of Pāhala, Hawaii",earthquake,0.64,0.75,3.41,7.0,automatic,hv,hv
