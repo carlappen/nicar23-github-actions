@@ -12275,3 +12275,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T08:09:40.150Z,38.8400002,-122.802002,2.13,0.93,md,15.0,68.0,0.009242,0.02,nc,nc73872020,2023-04-12T08:20:11.109Z,"7km WNW of Cobb, CA",earthquake,0.26,0.59,0.12,15.0,automatic,nc,nc
 2023-04-12T08:03:17.750Z,38.8370018,-122.7973328,2.85,0.67,md,8.0,119.0,0.005636,0.01,nc,nc73872015,2023-04-12T08:16:11.085Z,"7km WNW of Cobb, CA",earthquake,0.53,1.5,0.09,8.0,automatic,nc,nc
 2023-04-12T08:00:15.913Z,59.4781,-152.5673,78.2,1.7,ml,,,,0.36,ak,ak0234otkwfr,2023-04-12T08:02:17.192Z,"39 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-12T08:23:59.040Z,38.822834,-122.8386688,-0.14,0.65,md,8.0,80.0,0.002856,0.02,nc,nc73872040,2023-04-12T08:25:35.768Z,"9km NW of The Geysers, CA",earthquake,0.27,0.67,0.44,8.0,automatic,nc,nc
+2023-04-12T06:54:33.482Z,36.6839,71.0722,219.406,4.4,mb,44.0,73.0,2.563,0.71,us,us6000k3rd,2023-04-12T08:33:30.040Z,"29 km SE of Jurm, Afghanistan",earthquake,3.64,7.905,0.08,46.0,reviewed,us,us
