@@ -12464,3 +12464,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T20:27:40.091Z,62.2125,-149.4475,27.5,1.4,ml,,,,0.4,ak,ak0234p0vxw9,2023-04-12T20:31:19.549Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
 2023-04-12T17:10:38.422Z,36.7701,-115.6964,0.0,0.5,ml,4.0,279.05,0.236,0.1965,nn,nn00858135,2023-04-12T20:35:52.854Z,"22 km N of Indian Springs, Nevada",earthquake,,0.0,0.0,1.0,reviewed,nn,nn
 2023-04-12T08:25:31.976Z,37.1077,-116.244,3.6,-0.3,ml,5.0,135.3,0.025,0.0528,nn,nn00858134,2023-04-12T20:29:40.184Z,"50 km ENE of Beatty, Nevada",earthquake,,3.1,0.47,3.0,reviewed,nn,nn
+2023-04-12T20:39:24.112Z,62.0785,-150.29,4.7,1.7,ml,,,,0.55,ak,ak0234p0yh97,2023-04-12T20:41:14.630Z,"24 km WSW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-12T20:26:45.105Z,65.3957,-166.0172,6.5,3.1,ml,,,,1.03,ak,ak0234p0vqke,2023-04-12T20:37:38.316Z,northern Alaska,earthquake,,0.3,,,automatic,ak,ak
