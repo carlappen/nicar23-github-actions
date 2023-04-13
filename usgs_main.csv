@@ -12598,3 +12598,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-13T00:55:11.284Z,37.6961,142.4485,31.232,4.4,mb,27.0,209.0,3.271,0.5,us,us6000k3yb,2023-04-13T02:08:59.040Z,"128 km SE of Ishinomaki, Japan",earthquake,11.76,7.091,0.126,18.0,reviewed,us,us
 2023-04-13T02:41:48.246Z,58.2144,-155.6286,12.3,0.4,ml,,,,0.81,ak,ak0234qdsi5k,2023-04-13T02:43:32.029Z,"80 km SE of King Salmon, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-04-13T02:35:13.992Z,58.2454,-155.5616,5.2,0.4,ml,,,,0.14,ak,ak0234qdr57r,2023-04-13T02:36:56.084Z,"80 km SE of King Salmon, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-04-13T00:06:58.720Z,57.9153333333333,-155.544666666667,11.34,0.3,ml,11.0,184.0,,0.24,av,av91845991,2023-04-13T02:51:38.880Z,Alaska Peninsula,earthquake,0.91,1.85,0.240512785011081,11.0,reviewed,av,av
