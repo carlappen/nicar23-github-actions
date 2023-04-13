@@ -12647,3 +12647,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-13T06:43:42.470Z,38.8105011,-122.8028336,1.87,0.29,md,9.0,90.0,0.006404,0.01,nc,nc73872920,2023-04-13T06:45:17.890Z,"6km NW of The Geysers, CA",earthquake,0.37,1.04,0.08,9.0,automatic,nc,nc
 2023-04-13T07:13:02.955Z,63.5552,-147.3037,1.4,2.3,ml,,,,0.31,ak,ak0234qglkmv,2023-04-13T07:14:49.657Z,"82 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-13T07:09:01.742Z,63.402,-151.5518,25.1,1.7,ml,,,,1.3,ak,ak0234qgkpyf,2023-04-13T07:15:50.354Z,"17 km SSE of Denali National Park, Alaska",earthquake,,3.4,,,automatic,ak,ak
+2023-04-13T07:09:04.708Z,-23.9879,179.9733,520.776,4.3,mb,33.0,101.0,5.266,0.89,us,us6000k3zt,2023-04-13T07:31:42.040Z,south of the Fiji Islands,earthquake,15.1,8.615,0.119,24.0,reviewed,us,us
