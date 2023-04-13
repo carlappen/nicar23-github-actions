@@ -12661,3 +12661,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-13T07:42:55.490Z,38.7856674,-122.7483368,-0.69,1.94,md,15.0,125.0,0.009394,0.03,nc,nc73872955,2023-04-13T07:45:39.245Z,"1km NE of The Geysers, CA",earthquake,0.2,0.82,0.15,15.0,automatic,nc,nc
 2023-04-13T07:42:10.850Z,38.7709999,-122.7584991,0.09,3.91,mw,36.0,138.0,0.1605,0.23,nc,nc73872965,2023-04-13T07:50:16.320Z,"1km SSW of The Geysers, CA",earthquake,0.52,2.29,,4.0,reviewed,nc,nc
 2023-04-13T07:41:43.240Z,38.7886658,-122.765831,2.49,1.3,md,24.0,82.0,0.01286,0.03,nc,nc73872950,2023-04-13T07:43:18.270Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.48,0.23,24.0,automatic,nc,nc
+2023-04-13T08:07:55.630Z,38.7943344,-122.7698364,2.69,0.75,md,9.0,91.0,0.0101,0.02,nc,nc73873035,2023-04-13T08:09:33.201Z,"2km NNW of The Geysers, CA",earthquake,0.42,0.94,0.03,8.0,automatic,nc,nc
+2023-04-13T07:51:55.230Z,38.7816658,-122.7549973,0.88,0.99,md,10.0,117.0,0.01379,0.03,nc,nc73873025,2023-04-13T07:53:33.301Z,"0km NNE of The Geysers, CA",earthquake,0.32,0.53,0.27,10.0,automatic,nc,nc
