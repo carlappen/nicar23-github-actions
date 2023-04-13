@@ -12755,3 +12755,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-13T08:35:10.951Z,39.7234,-120.5869,10.2,1.1,ml,4.0,275.37,0.226,0.1682,nn,nn00858175,2023-04-13T17:01:13.880Z,"2 km SSW of Clio, California",earthquake,,8.8,0.32,3.0,reviewed,nn,nn
 2023-04-13T06:57:46.815Z,31.67636047,-104.1976179,7.211303711,2.1,ml,39.0,61.0,0.05755487088,0.3,tx,tx2023hexc,2023-04-13T17:04:00.365Z,"55 km NW of Toyah, Texas",earthquake,0.7427160493,1.049422218,0.1,19.0,reviewed,tx,tx
 2023-04-13T06:22:37.246Z,40.321,-119.9938,10.7,1.4,ml,6.0,275.24,0.251,0.1038,nn,nn00858173,2023-04-13T16:58:06.108Z,"23 km NNE of Herlong, California",earthquake,,2.0,1.27,4.0,reviewed,nn,nn
+2023-04-13T17:07:17.750Z,38.8083344,-122.7771683,-0.25,0.78,md,8.0,105.0,0.005633,0.02,nc,nc73873225,2023-04-13T17:08:53.607Z,"4km NNW of The Geysers, CA",earthquake,0.32,0.76,0.14,8.0,automatic,nc,nc
+2023-04-13T10:23:07.222Z,38.7415,-119.7145,7.2,0.4,ml,5.0,191.85,0.173,0.0375,nn,nn00858178,2023-04-13T17:19:47.689Z,"7 km NE of Markleeville, California",earthquake,,5.6,0.0,1.0,reviewed,nn,nn
