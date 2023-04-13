@@ -12596,3 +12596,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-13T01:54:24.050Z,17.9671666666667,-66.9596666666667,15.9,1.53,md,4.0,188.0,0.07694,0.06,pr,pr71404613,2023-04-13T02:11:20.760Z,"5 km WSW of Fuig, Puerto Rico",earthquake,2.57,0.68,0.0694208617142018,3.0,reviewed,pr,pr
 2023-04-13T01:50:27.931Z,-3.567,145.1565,10.0,4.9,mb,34.0,86.0,6.131,1.14,us,us6000k3yi,2023-04-13T02:05:50.040Z,"132 km ENE of Angoram, Papua New Guinea",earthquake,7.25,1.825,0.089,39.0,reviewed,us,us
 2023-04-13T00:55:11.284Z,37.6961,142.4485,31.232,4.4,mb,27.0,209.0,3.271,0.5,us,us6000k3yb,2023-04-13T02:08:59.040Z,"128 km SE of Ishinomaki, Japan",earthquake,11.76,7.091,0.126,18.0,reviewed,us,us
+2023-04-13T02:41:48.246Z,58.2144,-155.6286,12.3,0.4,ml,,,,0.81,ak,ak0234qdsi5k,2023-04-13T02:43:32.029Z,"80 km SE of King Salmon, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-04-13T02:35:13.992Z,58.2454,-155.5616,5.2,0.4,ml,,,,0.14,ak,ak0234qdr57r,2023-04-13T02:36:56.084Z,"80 km SE of King Salmon, Alaska",earthquake,,1.7,,,automatic,ak,ak
