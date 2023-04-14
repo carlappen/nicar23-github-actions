@@ -13030,3 +13030,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T14:42:32.390Z,19.3780002593994,-155.292831420898,1.82000005245209,1.86,ml,13.0,88.0,,0.129999995,hv,hv73363697,2023-04-14T14:48:01.700Z,"9 km SW of Volcano, Hawaii",earthquake,0.32,0.270000011,0.5,4.0,automatic,hv,hv
 2023-04-14T14:56:56.520Z,32.519001,-115.6276703,15.58,3.71,mlr,71.0,33.0,0.04327,0.33,ci,ci40440784,2023-04-14T15:12:16.277Z,"8km SSW of Progreso, B.C., MX",earthquake,0.36,0.79,0.353,14.0,reviewed,ci,ci
 2023-04-14T05:56:10.145Z,36.6557,-116.2707,6.2,0.1,ml,11.0,185.58,0.056,0.0771,nn,nn00858225,2023-04-14T15:08:43.148Z,"51 km ESE of Beatty, Nevada",earthquake,,1.7,0.11,4.0,reviewed,nn,nn
+2023-04-14T15:29:48.590Z,38.7618332,-122.723999,2.49,0.73,md,9.0,137.0,0.0007153,0.03,nc,nc73873600,2023-04-14T15:31:26.530Z,"3km WSW of Anderson Springs, CA",earthquake,0.53,0.83,0.11,8.0,automatic,nc,nc
+2023-04-14T15:13:20.660Z,35.02366667,-97.66516667,5.68,1.57,ml,76.0,34.0,0.1205763388,0.61,ok,ok2023hhiy,2023-04-14T15:24:59.036Z,"3 km WSW of Dibble, Oklahoma",earthquake,,1.1,0.24,34.0,reviewed,ok,ok
