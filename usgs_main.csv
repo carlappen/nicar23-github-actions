@@ -12961,3 +12961,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T03:45:58.966Z,32.0636,50.0818,10.0,4.5,mb,49.0,62.0,7.64,0.7,us,us6000k48e,2023-04-14T04:10:53.040Z,"50 km WSW of Fārsān, Iran",earthquake,3.4,1.869,0.081,45.0,reviewed,us,us
 2023-04-14T04:35:17.009Z,62.0999,-149.0502,38.8,1.3,ml,,,,0.33,ak,ak0234s2hd5g,2023-04-14T04:37:08.000Z,"38 km NNW of Sutton-Alpine, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-14T04:27:46.060Z,19.1693325042725,-155.478332519531,32.0800018310547,2.00999999,md,35.0,92.0,,0.109999999,hv,hv73363377,2023-04-14T04:31:03.990Z,"Island of Hawaii, Hawaii",earthquake,0.61,0.939999998,1.38999999,20.0,automatic,hv,hv
+2023-04-14T04:19:21.810Z,19.3926666666667,-155.280166666667,1.07,0.19,md,7.0,118.0,,0.05,hv,hv73363372,2023-04-14T04:45:23.450Z,"Island of Hawaii, Hawaii",earthquake,0.4,0.26,0.0121195762766662,2.0,reviewed,hv,hv
