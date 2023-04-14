@@ -13069,3 +13069,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T16:52:49.520Z,58.182,-155.391833333333,2.66,-0.11,ml,8.0,177.0,,0.18,av,av91848456,2023-04-14T18:30:38.810Z,"88 km NW of Karluk, Alaska",earthquake,0.45,0.52,0.132816096239447,8.0,reviewed,av,av
 2023-04-14T11:44:37.328Z,31.73066449,-104.2717849,4.743334961,1.7,ml,8.0,67.0,0.02922006825,0.2,tx,tx2023hhcb,2023-04-14T18:32:10.745Z,"50 km SSE of Whites City, New Mexico",earthquake,1.691009394,1.1413686,0.3,7.0,reviewed,tx,tx
 2023-04-14T06:53:58.894Z,37.1373,-116.3026,8.6,0.0,ml,8.0,81.38,0.039,0.1471,nn,nn00858242,2023-04-14T18:36:13.105Z,"47 km ENE of Beatty, Nevada",earthquake,,1.4,1.25,4.0,reviewed,nn,nn
+2023-04-14T14:11:10.030Z,58.1785,-155.312666666667,0.72,-0.39,ml,6.0,163.0,,0.03,av,av91848226,2023-04-14T18:43:24.980Z,"84 km NW of Karluk, Alaska",earthquake,0.2,0.92,0.303418293704416,7.0,reviewed,av,av
