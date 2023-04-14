@@ -13009,3 +13009,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T11:28:20.994Z,64.5088,-147.807,14.3,0.7,ml,,,,0.2,ak,ak0234s6lwop,2023-04-14T11:30:30.126Z,"33 km S of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-14T11:24:16.370Z,38.7808342,-122.7450027,0.57,1.29,md,16.0,76.0,0.0069,0.03,nc,nc73873550,2023-04-14T11:34:11.918Z,"1km ENE of The Geysers, CA",earthquake,0.21,0.46,0.2,17.0,automatic,nc,nc
 2023-04-14T11:43:57.210Z,58.6743,-154.4768,9.6,1.1,ml,,,,0.42,ak,ak0234s6p77t,2023-04-14T11:45:18.751Z,"86 km SSE of Kokhanok, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-04-14T11:51:31.177Z,59.8264,-152.5341,73.7,1.5,ml,,,,0.34,ak,ak0234s6quxp,2023-04-14T11:53:18.268Z,"39 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-14T11:50:44.148Z,60.0027,-152.0605,82.8,1.6,ml,,,,0.15,ak,ak0234s6qo8g,2023-04-14T11:53:23.677Z,"19 km WNW of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
