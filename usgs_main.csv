@@ -13193,3 +13193,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-15T03:51:01.736Z,2.2081,-79.0004,40.24,4.5,mb,40.0,149.0,0.922,1.24,us,us6000k4lx,2023-04-15T04:07:40.040Z,south of Panama,earthquake,4.64,8.54,0.092,35.0,reviewed,us,us
 2023-04-15T04:55:28.480Z,33.3948333,-116.8961667,13.93,0.86,ml,26.0,54.0,0.1136,0.18,ci,ci40440984,2023-04-15T04:59:04.546Z,"5km NW of Palomar Observatory, CA",earthquake,0.3,0.91,0.145,20.0,automatic,ci,ci
 2023-04-15T04:39:40.038Z,0.8948,99.3813,10.0,4.4,mb,19.0,204.0,1.851,0.63,us,us6000k4ma,2023-04-15T05:01:35.040Z,"northern Sumatra, Indonesia",earthquake,9.23,1.988,0.19,8.0,reviewed,us,us
+2023-04-15T05:06:53.130Z,61.7563,-149.9018,27.8,1.2,ml,,,,0.8,ak,ak0234tqg09t,2023-04-15T05:08:49.867Z,"7 km E of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-15T05:06:43.160Z,38.7804985,-122.7429962,0.13,1.86,md,25.0,76.0,0.02029,0.04,nc,nc73873820,2023-04-15T05:18:11.457Z,"1km ENE of The Geysers, CA",earthquake,0.18,0.43,0.16,25.0,automatic,nc,nc
+2023-04-15T04:57:45.670Z,17.9395,-66.9635,14.77,1.99,md,9.0,223.0,0.06152,0.08,pr,pr71405018,2023-04-15T05:12:32.800Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.58,0.44,0.0194369435128281,3.0,reviewed,pr,pr
