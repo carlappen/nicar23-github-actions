@@ -13322,3 +13322,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-15T19:33:38.510Z,19.2336673736572,-155.398498535156,32.9000015258789,1.94000006,md,32.0,140.0,,0.109999999,hv,hv73364782,2023-04-15T19:39:11.470Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.65,0.980000019,0.639999986,7.0,automatic,hv,hv
 2023-04-15T19:59:02.509Z,64.985,-147.456,1.2,1.6,ml,,,,0.72,ak,ak0234tz3bsa,2023-04-15T20:00:54.247Z,"8 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-15T17:13:45.733Z,-23.6187,-179.4776,537.497,4.9,mb,41.0,107.0,4.646,1.03,us,us6000k4rw,2023-04-15T20:00:55.040Z,south of the Fiji Islands,earthquake,15.18,11.189,0.094,38.0,reviewed,us,us
+2023-04-15T20:38:15.550Z,33.4706667,-116.564,9.14,0.78,ml,27.0,47.0,0.03992,0.13,ci,ci40441216,2023-04-15T20:41:54.811Z,"14km SE of Anza, CA",earthquake,0.21,0.39,0.16,20.0,automatic,ci,ci
