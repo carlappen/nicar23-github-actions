@@ -13344,3 +13344,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-15T22:11:06.615Z,61.3918,-150.0086,28.7,1.6,ml,,,,0.63,ak,ak0234u0lcjp,2023-04-15T22:14:00.130Z,"3 km NNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-15T22:07:14.170Z,33.9215,-118.6881667,18.03,1.74,ml,18.0,235.0,0.1287,0.26,ci,ci40441288,2023-04-15T22:10:50.758Z,"12km S of Malibu Beach, CA",earthquake,1.3,1.02,0.137,30.0,automatic,ci,ci
 2023-04-15T21:35:33.363Z,17.9025,-76.501,10.0,4.6,mwr,74.0,42.0,1.035,0.6,us,us6000k4sx,2023-04-15T22:12:06.057Z,"5 km SW of Seaforth, Jamaica",earthquake,3.82,1.832,0.069,20.0,reviewed,us,us
+2023-04-15T22:10:34.650Z,17.9548333333333,-66.9518333333333,15.49,2.38,md,11.0,207.0,0.04459,0.07,pr,pr71405093,2023-04-15T22:21:39.450Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.35,0.46,0.0622566713434884,4.0,reviewed,pr,pr
