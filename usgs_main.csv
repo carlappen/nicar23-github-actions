@@ -13185,3 +13185,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-15T02:06:11.370Z,19.3415,-155.193,4.86,1.93,md,35.0,102.0,,0.12,hv,hv73364082,2023-04-15T02:39:38.610Z,"Island of Hawaii, Hawaii",earthquake,0.34,0.78,0.068250316463543,10.0,reviewed,hv,hv
 2023-04-15T03:10:41.260Z,39.6175003,-123.4316635,6.08,2.0,md,14.0,137.0,0.02194,0.14,nc,nc73873795,2023-04-15T03:17:11.669Z,"9km SSE of Laytonville, CA",earthquake,0.52,0.79,0.14,8.0,automatic,nc,nc
 2023-04-15T02:40:52.673Z,39.2108,142.4447,50.41,4.4,mb,37.0,134.0,1.9,0.97,us,us6000k4lr,2023-04-15T03:00:40.040Z,"50 km ESE of Ōtsuchi, Japan",earthquake,8.75,7.592,0.094,34.0,reviewed,us,us
+2023-04-15T03:31:24.678Z,60.1283,-153.135,148.0,2.1,ml,,,,0.35,ak,ak0234tpefsr,2023-04-15T03:37:43.040Z,"66 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-15T03:30:17.130Z,32.4626667,-116.804,1.19,0.87,ml,11.0,183.0,0.1456,0.1,ci,ci40440976,2023-04-15T03:33:53.543Z,"20km SW of Tecate, B.C., MX",earthquake,0.52,0.45,0.205,5.0,automatic,ci,ci
