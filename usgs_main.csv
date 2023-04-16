@@ -13499,3 +13499,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T20:37:14.380Z,61.5441,-146.6557,30.9,2.1,ml,,,,0.58,ak,ak0234vn3f1q,2023-04-16T20:39:07.084Z,"48 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-16T20:31:16.990Z,17.9496666666667,-66.8395,11.78,2.35,md,8.0,209.0,0.04549,0.17,pr,pr71405403,2023-04-16T20:40:42.730Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.72,0.63,0.0945577349717031,5.0,reviewed,pr,pr
 2023-04-16T13:20:01.540Z,35.257,-120.7816667,4.81,0.72,md,12.0,51.0,0.02394,0.16,nc,nc73874225,2023-04-16T20:47:50.655Z,"8km SE of Baywood-Los Osos, CA",earthquake,0.41,0.83,0.157,10.0,reviewed,nc,nc
+2023-04-16T10:31:24.670Z,37.6168333,-122.4643333,6.82,0.46,md,9.0,113.0,0.02196,0.06,nc,nc73874210,2023-04-16T20:53:21.942Z,"2km E of Pacifica, CA",earthquake,0.33,0.69,0.159,9.0,reviewed,nc,nc
+2023-04-16T08:26:21.800Z,39.04,-123.0811667,-0.53,1.05,md,13.0,76.0,0.08992,0.08,nc,nc73874200,2023-04-16T20:56:52.726Z,"13km SE of Talmage, CA",earthquake,0.27,1.17,0.141,13.0,reviewed,nc,nc
