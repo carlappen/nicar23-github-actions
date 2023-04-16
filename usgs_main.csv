@@ -13523,3 +13523,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T23:35:31.080Z,38.8408318,-122.8176651,0.04,0.71,md,11.0,65.0,0.0141,0.01,nc,nc73874480,2023-04-16T23:37:10.249Z,"8km WNW of Cobb, CA",earthquake,0.25,0.72,0.42,14.0,automatic,nc,nc
 2023-04-16T23:31:33.750Z,38.8434982,-122.8795013,2.55,0.7,md,8.0,99.0,0.006105,0.03,nc,nc73874465,2023-04-16T23:33:10.625Z,"13km ENE of Cloverdale, CA",earthquake,0.5,0.81,0.58,8.0,automatic,nc,nc
 2023-04-16T22:13:44.724Z,38.6741,-119.7908,10.7,1.4,ml,13.0,150.89,0.021,0.117,nn,nn00858290,2023-04-16T23:35:08.007Z,"2 km SSW of Markleeville, California",earthquake,,1.2,0.22,2.0,reviewed,nn,nn
+2023-04-16T23:48:40.860Z,39.5768318,-120.0581665,2.25,1.88,md,7.0,105.0,0.08087,0.02,nc,nc73874485,2023-04-16T23:50:44.132Z,"11km NW of Verdi-Mogul, NV",earthquake,0.35,1.57,0.15,5.0,automatic,nc,nc
