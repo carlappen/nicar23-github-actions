@@ -13421,3 +13421,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T09:49:51.003Z,17.8002,-61.5084,25.82,5.2,mww,105.0,38.0,0.295,0.61,us,us6000k4vb,2023-04-16T10:11:42.303Z,"39 km ENE of Codrington, Antigua and Barbuda",earthquake,5.44,4.559,0.073,18.0,reviewed,us,us
 2023-04-16T10:21:54.293Z,61.5121,-149.6349,52.1,2.2,ml,,,,0.22,ak,ak0234vh1qmd,2023-04-16T10:27:33.945Z,"1 km W of Knik-Fairview, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-16T09:54:35.070Z,17.9456,-66.9595,6.0,3.94,md,25.0,210.0,0.0855,0.14,pr,pr2023106000,2023-04-16T10:36:56.448Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.75,0.38,0.1,22.0,reviewed,pr,pr
+2023-04-16T11:14:35.707Z,58.2643,-154.2819,84.1,1.9,ml,,,,0.17,ak,ak0234vhlms2,2023-04-16T11:16:31.748Z,Alaska Peninsula,earthquake,,0.6,,,automatic,ak,ak
