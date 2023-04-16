@@ -13413,3 +13413,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T08:08:32.230Z,38.800499,-122.8096695,1.91,0.75,md,8.0,95.0,0.0132,0.02,nc,nc73874190,2023-04-16T08:10:08.816Z,"5km WNW of The Geysers, CA",earthquake,0.51,0.97,0.28,7.0,automatic,nc,nc
 2023-04-16T08:01:39.763Z,59.9523,-153.5232,138.3,1.9,ml,,,,0.54,ak,ak0234vfqjyw,2023-04-16T08:04:45.790Z,"37 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-16T07:49:20.350Z,18.9655,-66.2178333333333,22.33,3.26,md,32.0,229.0,0.5581,0.23,pr,pr71405228,2023-04-16T08:19:00.160Z,"56 km N of Dorado, Puerto Rico",earthquake,0.66,12.95,0.0657670859775252,14.0,reviewed,pr,pr
+2023-04-16T08:36:42.157Z,4.0607,126.6858,57.438,4.3,mb,29.0,114.0,3.186,0.52,us,us6000k4v4,2023-04-16T09:12:47.040Z,"Pulau-Pulau Talaud, Indonesia",earthquake,9.66,8.972,0.106,27.0,reviewed,us,us
