@@ -13698,3 +13698,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T18:21:26.050Z,44.3701667,-110.6828333,3.72,0.68,md,8.0,137.0,0.08042,0.06,uu,uu60537286,2023-04-17T17:09:19.590Z,Wyoming,earthquake,0.47,1.61,0.202,5.0,reviewed,uu,uu
 2023-04-17T16:18:26.622Z,-31.8236,-178.6182,10.0,4.7,mb,26.0,158.0,2.623,0.89,us,us6000k53s,2023-04-17T17:20:44.040Z,Kermadec Islands region,earthquake,11.61,1.887,0.184,9.0,reviewed,us,us
 2023-04-16T18:25:16.130Z,44.3586667,-110.6688333,4.35,1.27,ml,11.0,146.0,0.07576,0.1,uu,uu60537291,2023-04-17T17:15:30.810Z,"48 km SE of West Yellowstone, Montana",earthquake,0.4,0.5,0.443,2.0,reviewed,uu,uu
+2023-04-17T16:51:19.011Z,19.4172,-70.1353,10.0,4.5,mb,68.0,79.0,0.68,0.86,us,us6000k53x,2023-04-17T17:34:59.932Z,"17 km NE of San Francisco de Macorís, Dominican Republic",earthquake,4.73,1.21,0.076,50.0,reviewed,us,us
