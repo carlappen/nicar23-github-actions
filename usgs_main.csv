@@ -13691,3 +13691,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T16:35:40.480Z,38.0945015,-122.7981644,12.23,2.3,md,7.0,220.0,0.4482,0.26,nc,nc73874775,2023-04-17T16:37:19.819Z,"2km NNE of Point Reyes Station, CA",earthquake,11.28,17.48,,1.0,automatic,nc,nc
 2023-04-17T16:51:20.000Z,19.313,-70.023,0.1,4.8,Ml,12.0,,,,pt,pt23107050,2023-04-17T16:54:40.794Z,"11 km N of Castillo, Dominican Republic",earthquake,,,,17.0,reviewed,pt,pt
 2023-04-17T14:34:15.288Z,42.0831,82.3073,10.0,4.3,mb,31.0,140.0,2.424,0.75,us,us6000k52b,2023-04-17T16:52:10.040Z,"northern Xinjiang, China",earthquake,4.7,1.963,0.119,20.0,reviewed,us,us
+2023-04-17T17:12:24.412Z,62.155,-152.0846,104.4,2.1,ml,,,,0.66,ak,ak0234x8p4l2,2023-04-17T17:14:20.042Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-17T05:25:58.580Z,44.3756667,-110.67,4.1,2.03,ml,17.0,66.0,0.07,0.1,uu,uu60537401,2023-04-17T16:59:28.560Z,Wyoming,earthquake,0.29,0.57,0.312,3.0,reviewed,uu,uu
+2023-04-17T05:18:25.870Z,44.379,-110.6775,4.2,1.75,ml,15.0,85.0,0.07439,0.1,uu,uu60537396,2023-04-17T17:06:42.230Z,"46 km SE of West Yellowstone, Montana",earthquake,0.32,0.46,0.376,2.0,reviewed,uu,uu
+2023-04-17T04:47:40.460Z,44.3881667,-110.666,2.03,0.24,md,6.0,132.0,0.06475,0.12,uu,uu60033149,2023-04-17T16:58:24.090Z,"46 km SE of West Yellowstone, Montana",earthquake,0.6,9.66,0.127,3.0,reviewed,uu,uu
+2023-04-16T18:21:26.050Z,44.3701667,-110.6828333,3.72,0.68,md,8.0,137.0,0.08042,0.06,uu,uu60537286,2023-04-17T17:09:19.590Z,Wyoming,earthquake,0.47,1.61,0.202,5.0,reviewed,uu,uu
