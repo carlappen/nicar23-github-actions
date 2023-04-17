@@ -13569,3 +13569,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T05:22:00.920Z,33.1570015,-116.5615005,15.27,1.2,ml,44.0,50.0,0.08331,0.19,ci,ci40441744,2023-04-17T05:24:16.149Z,"10km NNE of Julian, CA",earthquake,0.25,0.55,0.293,3.0,automatic,ci,ci
 2023-04-17T05:15:14.561Z,62.9331,-150.92,104.0,2.1,ml,,,,0.67,ak,ak0234x1kjq8,2023-04-17T05:17:26.318Z,"49 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-17T05:27:13.520Z,19.1299991607666,-155.897994995117,42.4700012207031,3.39,ml,47.0,225.0,,0.109999999,hv,hv73366297,2023-04-17T05:33:25.653Z,"15 km WNW of Hawaiian Ocean View, Hawaii",earthquake,0.53,0.620000005,1.83,23.0,automatic,hv,hv
+2023-04-17T05:35:28.800Z,33.4653333,-116.5761667,7.87,0.35,ml,17.0,131.0,0.03649,0.18,ci,ci40441752,2023-04-17T05:39:00.732Z,"14km SE of Anza, CA",earthquake,0.46,0.65,0.154,6.0,automatic,ci,ci
+2023-04-16T23:14:27.948Z,-26.5333,26.6724,10.0,4.0,mb,11.0,121.0,2.424,0.4,us,us6000k4z1,2023-04-17T05:38:01.040Z,"35 km N of Klerksdorp, South Africa",earthquake,11.3,1.3,0.259,5.0,reviewed,us,us
