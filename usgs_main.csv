@@ -13539,3 +13539,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T01:06:35.240Z,19.1428337097168,-155.488006591797,34.2099990844727,1.95000005,md,24.0,226.0,,0.100000001,hv,hv73366092,2023-04-17T01:09:46.660Z,"6 km S of Pāhala, Hawaii",earthquake,0.91,0.889999986,0.970000029,3.0,automatic,hv,hv
 2023-04-17T00:49:37.920Z,17.9855,-66.835,16.58,2.02,md,6.0,188.0,0.04339,0.05,pr,pr71405428,2023-04-17T01:10:42.900Z,"1 km WSW of Indios, Puerto Rico",earthquake,0.37,0.57,0.0019273377840933,3.0,reviewed,pr,pr
 2023-04-17T00:30:44.216Z,31.6472,-104.3721,5.0,2.7,ml,27.0,107.0,0.112,0.6,us,us6000k4yd,2023-04-17T00:52:54.040Z,"58 km S of Whites City, New Mexico",earthquake,1.38,1.169,0.046,62.0,reviewed,us,us
+2023-04-17T02:27:46.273Z,63.8942,-148.104,14.2,1.4,ml,,,,0.22,ak,ak0234wzuvya,2023-04-17T02:30:31.496Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-04-17T02:18:39.990Z,60.6831,-150.7182,48.4,1.9,ml,,,,0.34,ak,ak0234wzsy0v,2023-04-17T02:20:10.077Z,"16 km N of Sterling, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-17T02:09:22.420Z,38.8136673,-122.8216629,2.54,0.63,md,7.0,82.0,0.007579,0.01,nc,nc73874515,2023-04-17T02:27:17.317Z,"7km NW of The Geysers, CA",earthquake,0.69,1.59,0.37,9.0,automatic,nc,nc
+2023-04-17T02:02:31.193Z,65.0151,-149.5312,17.4,1.8,ml,,,,0.08,ak,ak0234wzphvz,2023-04-17T02:03:43.572Z,northern Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-04-17T02:00:03.651Z,60.8026,-147.1424,4.4,2.0,ml,,,,0.91,ak,ak0234wzp0bx,2023-04-17T02:02:34.546Z,Southern Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-04-17T01:56:48.150Z,34.0843333,-119.013,16.16,1.73,ml,25.0,118.0,0.1357,0.27,ci,ci40441712,2023-04-17T02:00:28.179Z,"15km S of Camarillo, CA",earthquake,0.87,1.22,0.172,27.0,automatic,ci,ci
+2023-04-17T01:47:06.100Z,17.9408333333333,-66.7006666666667,10.85,2.29,md,12.0,204.0,0.117,0.07,pr,pr71405438,2023-04-17T01:59:25.910Z,"6 km SSE of Tallaboa, Puerto Rico",earthquake,0.35,0.48,0.137265577138549,5.0,reviewed,pr,pr
+2023-04-16T23:00:35.620Z,47.628166666666665,-122.578,29.21,1.58,ml,29.0,86.0,0.0698,0.24,uw,uw61918161,2023-04-17T02:21:53.610Z,"4 km W of Bainbridge Island, Washington",earthquake,0.39,0.87,0.1942892132791254,14.0,reviewed,uw,uw
