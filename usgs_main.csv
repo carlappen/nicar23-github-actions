@@ -13919,3 +13919,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T17:53:22.835Z,63.7077,-149.9645,22.5,1.4,ml,,,,0.84,ak,ak0234ywh9bv,2023-04-18T17:55:18.863Z,"51 km WSW of Healy, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-04-18T14:37:25.710Z,33.8648333,-116.8455,15.37,0.87,ml,19.0,258.0,0.05075,0.09,ci,ci40442368,2023-04-18T17:59:48.392Z,"7km SSE of Banning, CA",earthquake,0.41,0.35,0.078,8.0,reviewed,ci,ci
 2023-04-18T00:02:49.882Z,36.6834,-116.2742,7.0,0.0,ml,13.0,94.5,0.056,0.1089,nn,nn00858368,2023-04-18T17:59:58.297Z,"49 km ESE of Beatty, Nevada",earthquake,,1.4,1.12,5.0,reviewed,nn,nn
+2023-04-18T18:16:30.199Z,61.1322,-147.327,11.4,1.6,ml,,,,0.72,ak,ak0234ywus0b,2023-04-18T18:18:13.598Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
+2023-04-18T07:50:51.360Z,37.3247,-116.4225,7.9,-0.1,ml,7.0,237.8,0.033,0.1622,nn,nn00858370,2023-04-18T18:27:52.295Z,"55 km NNE of Beatty, Nevada",earthquake,,1.8,0.8,4.0,reviewed,nn,nn
+2023-04-18T07:32:34.133Z,39.3979,-119.5124,10.0,1.2,ml,5.0,251.05,0.148,0.0794,nn,nn00858369,2023-04-18T18:15:28.871Z,"12 km WNW of Stagecoach, Nevada",earthquake,,11.8,0.47,3.0,reviewed,nn,nn
