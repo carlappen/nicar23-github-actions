@@ -13821,3 +13821,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T06:31:27.594Z,64.4556,-147.9298,14.8,1.1,ml,,,,0.54,ak,ak0234ypssaf,2023-04-18T06:32:53.649Z,Central Alaska,earthquake,,0.2,,,automatic,ak,ak
 2023-04-18T06:42:40.340Z,36.5486679,-121.0938339,7.41,1.97,md,27.0,79.0,0.05286,0.22,nc,nc73874990,2023-04-18T06:44:15.655Z,"5km ENE of Pinnacles, CA",earthquake,0.51,1.37,0.2,25.0,automatic,nc,nc
 2023-04-18T06:09:05.755Z,10.5276,-86.1527,42.311,4.5,mb,45.0,148.0,0.88,0.59,us,us6000k59e,2023-04-18T06:43:00.040Z,off the coast of Costa Rica,earthquake,4.48,9.364,0.047,133.0,reviewed,us,us
+2023-04-18T06:51:44.167Z,35.01259995,-97.66419983,2.620865345,2.47,ml,61.0,29.16410065,0.1106187478,0.5823083293,ok,ok2023hoak,2023-04-18T06:53:06.006Z,"3 km SW of Dibble, Oklahoma",earthquake,1.607389607,1.227321621,0.22,38.0,automatic,ok,ok
