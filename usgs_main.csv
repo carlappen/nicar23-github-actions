@@ -13790,3 +13790,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T22:31:13.739Z,38.6831,-119.7783,10.1,2.1,ml,8.0,205.97,0.011,0.1008,nn,nn00858336,2023-04-18T01:10:57.020Z,California-Nevada border region,earthquake,,1.5,1.1,2.0,reviewed,nn,nn
 2023-04-17T21:42:11.171Z,37.3328,-117.131,6.7,0.7,ml,5.0,204.15,0.108,0.1616,nn,nn00858334,2023-04-18T01:01:35.391Z,"42 km SSE of Goldfield, Nevada",earthquake,,10.6,0.96,4.0,reviewed,nn,nn
 2023-04-17T04:41:46.210Z,19.2308333333333,-155.416333333333,32.53,1.47,md,26.0,141.0,,0.1,hv,hv73366262,2023-04-18T01:31:06.800Z,"Island of Hawaii, Hawaii",earthquake,0.55,0.6,0.0760346281855844,13.0,reviewed,hv,hv
+2023-04-18T02:20:29.890Z,35.3215,-118.5673333,3.88,1.3,ml,10.0,91.0,0.1236,0.08,ci,ci40442200,2023-04-18T02:24:04.414Z,"24km NNW of Tehachapi, CA",earthquake,0.18,0.58,0.191,15.0,automatic,ci,ci
+2023-04-18T02:18:46.356Z,63.3958,-150.0197,122.2,1.5,ml,,,,1.22,ak,ak0234yncb0b,2023-04-18T02:20:42.114Z,"53 km W of Cantwell, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-04-18T02:14:18.770Z,38.7883339,-122.7683334,1.13,0.27,md,6.0,100.0,0.014,0.01,nc,nc73874945,2023-04-18T02:15:57.118Z,"2km NW of The Geysers, CA",earthquake,0.43,0.88,0.04,7.0,automatic,nc,nc
+2023-04-18T02:13:56.985Z,65.2287,-150.3333,9.0,1.4,ml,,,,0.67,ak,ak0234ynb98y,2023-04-18T02:16:18.502Z,"29 km NNE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-18T01:55:43.600Z,38.838665,-122.8361664,1.72,1.98,md,33.0,83.0,0.000536,0.03,nc,nc73874920,2023-04-18T02:14:15.011Z,"10km NW of The Geysers, CA",earthquake,0.17,0.28,0.18,36.0,automatic,nc,nc
+2023-04-18T01:51:05.020Z,17.9446666666667,-66.964,6.96,2.77,md,22.0,211.0,0.05938,0.09,pr,pr71405608,2023-04-18T02:15:40.460Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.34,0.16,0.144314368005363,8.0,reviewed,pr,pr
