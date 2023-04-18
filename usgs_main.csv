@@ -13895,3 +13895,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T12:53:12.040Z,17.9898333333333,-66.9455,7.67,2.1,md,5.0,159.0,0.06474,0.09,pr,pr71405738,2023-04-18T15:14:49.230Z,"3 km W of Fuig, Puerto Rico",earthquake,1.28,31.61,0.203617217257003,4.0,reviewed,pr,pr
 2023-04-18T09:32:14.050Z,44.3796667,-110.6726667,4.14,0.55,md,11.0,85.0,0.07086,0.12,uu,uu60537501,2023-04-18T15:10:08.880Z,"46 km SE of West Yellowstone, Montana",earthquake,0.36,0.61,0.411,9.0,reviewed,uu,uu
 2023-04-18T08:29:47.150Z,44.3311666666667,-115.051,4.46,2.21,ml,16.0,64.0,0.7837,0.16,mb,mb90010833,2023-04-18T15:00:27.710Z,"15 km NW of Stanley, Idaho",earthquake,0.37,1.09,0.317084731478868,13.0,reviewed,mb,mb
+2023-04-18T15:24:18.040Z,38.793499,-122.7225037,2.33,2.59,md,55.0,41.0,0.01512,0.08,nc,nc73875125,2023-04-18T15:31:10.956Z,"3km S of Cobb, CA",earthquake,0.18,0.33,0.18,71.0,automatic,nc,nc
+2023-04-18T07:58:23.714Z,55.3006,-159.266,18.7,3.3,ml,,,,0.57,ak,ak0234yqjzwv,2023-04-18T15:32:54.537Z,Alaska Peninsula,earthquake,,0.9,,,reviewed,ak,ak
