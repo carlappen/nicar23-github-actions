@@ -13871,3 +13871,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T13:19:34.170Z,40.3118324,-121.8895035,4.82,2.74,md,17.0,75.0,0.06902,0.21,nc,nc73875065,2023-04-18T13:26:11.210Z,"12km S of Manton, CA",earthquake,0.49,1.89,0.06,17.0,automatic,nc,nc
 2023-04-18T13:12:41.216Z,61.7079,-150.7745,46.3,1.4,ml,,,,0.17,ak,ak0234yturyx,2023-04-18T13:13:45.873Z,"22 km NW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-04-17T16:04:34.229Z,36.22816667,-95.82333333,0.0,1.23,ml,37.0,186.0,0.3185374921,0.48,ok,ok2023hmxd,2023-04-18T13:19:17.171Z,"5 km SSE of Owasso, Oklahoma",quarry blast,,0.8,0.18,17.0,reviewed,ok,ok
+2023-04-18T13:29:09.520Z,33.1785,-116.0358333,5.36,1.16,ml,27.0,44.0,0.04897,0.24,ci,ci40442344,2023-04-18T13:32:46.445Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.41,0.9,0.093,24.0,automatic,ci,ci
