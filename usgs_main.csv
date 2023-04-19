@@ -14176,3 +14176,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T01:35:19.407Z,39.3021,-119.8061,7.0,0.3,ml,7.0,71.53,0.038,0.1364,nn,nn00858409,2023-04-19T17:30:37.575Z,"13 km W of Virginia City, Nevada",earthquake,,2.1,0.54,5.0,reviewed,nn,nn
 2023-04-19T17:42:12.019Z,36.37155914,-98.15670776,3.290006399,3.23,ml,60.0,55.51238251,0.1928936988,0.5674461794,ok,ok2023hqrj,2023-04-19T17:43:47.030Z,"2 km SE of Meno, Oklahoma",earthquake,1.477893366,1.392011691,0.19,39.0,automatic,ok,ok
 2023-04-19T17:38:01.929Z,61.3324,-153.9291,3.5,1.2,ml,,,,0.36,ak,ak02350jxcgw,2023-04-19T17:40:04.446Z,"80 km E of Lime Village, Alaska",earthquake,,4.9,,,automatic,ak,ak
+2023-04-19T17:51:55.859Z,63.5447,-147.3355,0.0,1.8,ml,,,,0.7,ak,ak02350k08xt,2023-04-19T17:53:46.316Z,"81 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-19T17:49:13.430Z,36.6723328,-121.3408356,1.33,1.76,md,17.0,65.0,0.03535,0.16,nc,nc73875505,2023-04-19T17:50:52.349Z,"13km S of Tres Pinos, CA",earthquake,0.39,0.93,0.27,17.0,automatic,nc,nc
+2023-04-19T17:48:21.470Z,62.9225,-151.2544,118.6,1.7,ml,,,,0.2,ak,ak02350jzj4z,2023-04-19T17:50:00.796Z,"53 km NNW of Petersville, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2023-04-19T17:30:41.040Z,34.2086667,-117.4865,3.13,0.89,ml,14.0,69.0,0.01095,0.09,ci,ci40442768,2023-04-19T17:46:15.154Z,"6km SSE of Lytle Creek, CA",earthquake,0.19,0.27,0.133,7.0,reviewed,ci,ci
+2023-04-19T02:07:44.062Z,37.1693,-117.5143,3.0,0.8,ml,7.0,155.64,0.123,0.1805,nn,nn00858410,2023-04-19T17:49:13.657Z,"64 km SSW of Goldfield, Nevada",earthquake,,7.8,1.09,6.0,reviewed,nn,nn
