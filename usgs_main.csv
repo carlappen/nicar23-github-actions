@@ -14174,3 +14174,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T21:12:26.530Z,33.5795,-116.8063333,6.64,0.53,ml,17.0,98.0,0.03799,0.18,ci,ci40442520,2023-04-19T17:15:06.056Z,"13km WNW of Anza, CA",earthquake,0.47,0.74,0.133,5.0,reviewed,ci,ci
 2023-04-19T17:27:26.759Z,60.6021,-152.8469,112.1,1.8,ml,,,,0.77,ak,ak02350jv1ib,2023-04-19T17:32:15.074Z,Southern Alaska,earthquake,,1.7,,,automatic,ak,ak
 2023-04-19T01:35:19.407Z,39.3021,-119.8061,7.0,0.3,ml,7.0,71.53,0.038,0.1364,nn,nn00858409,2023-04-19T17:30:37.575Z,"13 km W of Virginia City, Nevada",earthquake,,2.1,0.54,5.0,reviewed,nn,nn
+2023-04-19T17:42:12.019Z,36.37155914,-98.15670776,3.290006399,3.23,ml,60.0,55.51238251,0.1928936988,0.5674461794,ok,ok2023hqrj,2023-04-19T17:43:47.030Z,"2 km SE of Meno, Oklahoma",earthquake,1.477893366,1.392011691,0.19,39.0,automatic,ok,ok
+2023-04-19T17:38:01.929Z,61.3324,-153.9291,3.5,1.2,ml,,,,0.36,ak,ak02350jxcgw,2023-04-19T17:40:04.446Z,"80 km E of Lime Village, Alaska",earthquake,,4.9,,,automatic,ak,ak
