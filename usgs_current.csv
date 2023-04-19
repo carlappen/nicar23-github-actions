@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-19T15:36:10.440Z,38.7868347,-122.7699966,0.98,2.38,md,48,51,0.01537,0.06,nc,nc73875470,2023-04-19T15:42:10.898Z,"2km NW of The Geysers, CA",earthquake,0.15,0.23,0.16,50,automatic,nc,nc
 2023-04-19T15:30:56.063Z,58.1829,-155.3138,3.6,0.3,ml,,,,3.25,ak,ak02350iovql,2023-04-19T15:33:51.203Z,"85 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-19T15:00:31.080Z,19.386999130249,-155.279159545898,1.00999999046326,1.80999994,md,13,67,,0.100000001,hv,hv73369327,2023-04-19T15:03:33.360Z,"Island of Hawaii, Hawaii",earthquake,0.36,0.200000003,1.67999995,9,automatic,hv,hv
 2023-04-19T14:44:11.274Z,60.1728,-152.7154,92.4,1.7,ml,,,,0.61,ak,ak02350i6co7,2023-04-19T14:46:42.590Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -215,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T15:52:33.650Z,38.7975006,-122.7198334,2.49,1.05,md,8,108,0.01942,0.02,nc,nc73875135,2023-04-18T16:32:16.339Z,"3km S of Cobb, CA",earthquake,0.37,1.29,0.21,7,automatic,nc,nc
 2023-04-18T15:50:49.830Z,58.2075,-155.213,3.63,-0.14,ml,8,113,,0.12,av,av91853876,2023-04-19T04:24:46.150Z,"84 km NNW of Karluk, Alaska",earthquake,0.3,1.24,0.173360816825539,8,reviewed,av,av
 2023-04-18T15:49:10.013Z,-19.59,-175.7974,212.43,4.6,mb,45,111,1.94,0.72,us,us6000k5bx,2023-04-18T16:46:59.040Z,"153 km W of Pangai, Tonga",earthquake,15.07,6.559,0.094,34,reviewed,us,us
-2023-04-18T15:43:30.190Z,51.8568333333333,-178.083666666667,4,1.24,ml,4,207,,0.16,av,av91853866,2023-04-19T04:18:09.360Z,"99 km W of Adak, Alaska",earthquake,0.66,0.56,0.189021881722559,4,reviewed,av,av
-2023-04-18T15:43:09.070Z,51.8598333333333,-178.084666666667,3.41,1.12,ml,4,205,,0.27,av,av91097808,2023-04-19T04:19:45.850Z,"99 km W of Adak, Alaska",earthquake,1.2,0.82,0.139503849136515,4,reviewed,av,av
