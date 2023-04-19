@@ -14155,3 +14155,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T14:06:17.724Z,-4.0747,100.2491,10.0,5.0,mb,84.0,169.0,2.714,0.86,us,us6000k5jl,2023-04-19T14:33:08.040Z,"225 km W of Bengkulu, Indonesia",earthquake,8.63,1.698,0.075,56.0,reviewed,us,us
 2023-04-19T14:44:11.274Z,60.1728,-152.7154,92.4,1.7,ml,,,,0.61,ak,ak02350i6co7,2023-04-19T14:46:42.590Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-19T00:33:13.380Z,33.6601667,-116.7565,14.36,0.54,ml,13.0,113.0,0.06191,0.09,ci,ci37530540,2023-04-19T14:42:15.102Z,"10km SSW of Idyllwild, CA",earthquake,0.29,0.51,0.126,7.0,reviewed,ci,ci
+2023-04-19T15:00:31.080Z,19.386999130249,-155.279159545898,1.00999999046326,1.80999994,md,13.0,67.0,,0.100000001,hv,hv73369327,2023-04-19T15:03:33.360Z,"7 km SW of Volcano, Hawaii",earthquake,0.36,0.200000003,1.67999995,9.0,automatic,hv,hv
+2023-04-19T14:40:06.490Z,37.4326667,-113.115,11.37,2.14,ml,18.0,80.0,0.07688,0.16,uu,uu60537666,2023-04-19T15:05:05.540Z,Utah,earthquake,0.41,0.6,0.116,10.0,reviewed,uu,uu
