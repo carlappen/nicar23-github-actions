@@ -14057,3 +14057,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T06:43:02.820Z,33.8258324,-117.6613312,2.29,2.14,ml,101.0,27.0,0.05863,0.21,ci,ci40442632,2023-04-19T06:46:37.561Z,"10km WSW of Corona, CA",earthquake,0.16,0.31,0.225,26.0,automatic,ci,ci
 2023-04-19T06:37:00.790Z,35.79895782,-96.97168732,1.657147288,2.68,ml,53.0,30.83778381,0.1803702563,0.6395783441,ok,ok2023hpvk,2023-04-19T06:44:17.244Z,"3 km ESE of Carney, Oklahoma",earthquake,1.567933574,1.326856407,0.23,43.0,automatic,ok,ok
 2023-04-19T06:35:44.930Z,35.851,-117.7643333,0.15,1.45,ml,10.0,157.0,0.04235,0.3,ci,ci40442624,2023-04-19T06:39:27.520Z,"16km SE of Little Lake, CA",earthquake,0.95,31.61,0.13,12.0,automatic,ci,ci
+2023-04-19T06:51:12.820Z,68.8768,-145.0836,0.0,2.8,ml,,,,0.84,ak,ak02350dgdwf,2023-04-19T06:53:53.284Z,"85 km NNE of Arctic Village, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-04-19T06:47:48.950Z,33.824,-117.6703333,2.56,1.38,ml,31.0,36.0,0.0585,0.27,ci,ci40442640,2023-04-19T06:51:22.608Z,"11km WSW of Corona, CA",earthquake,0.34,0.51,0.15,28.0,automatic,ci,ci
