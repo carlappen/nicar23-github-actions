@@ -14341,3 +14341,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T04:36:13.071Z,58.4129,-154.6911,250.0,0.9,ml,,,,0.92,ak,ak02351zpnio,2023-04-20T04:40:52.521Z,"95 km N of Karluk, Alaska",earthquake,,11.1,,,automatic,ak,ak
 2023-04-20T04:25:39.304Z,31.5829,-103.9487,9.702,3.4,ml,27.0,67.0,0.06,0.3,us,us6000k5nm,2023-04-20T04:39:38.040Z,"33 km NNW of Toyah, Texas",earthquake,1.15,8.506,0.071,76.0,reviewed,us,us
 2023-04-20T04:23:23.646Z,-30.9095,-71.496,42.104,4.3,mb,31.0,88.0,0.264,0.74,us,us6000k5nl,2023-04-20T04:38:05.040Z,"44 km SW of Ovalle, Chile",earthquake,6.47,7.468,0.267,4.0,reviewed,us,us
+2023-04-20T04:40:17.230Z,19.4025001525879,-155.234832763672,2.75,2.09,ml,19.0,91.0,,0.209999993,hv,hv73369842,2023-04-20T04:45:46.290Z,"4 km S of Volcano, Hawaii",earthquake,0.45,0.430000007,0.25,9.0,automatic,hv,hv
+2023-04-20T04:25:39.309Z,31.60049529,-103.9814042,10.34768066,3.401190232,mlv,21.0,73.0,0.05801870071,0.2,tx,tx2023hrmq,2023-04-20T04:45:21.565Z,"36 km NNW of Toyah, Texas",earthquake,0.9691528348,1.040917326,0.1906980672,16.0,reviewed,tx,tx
