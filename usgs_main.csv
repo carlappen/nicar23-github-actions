@@ -14526,3 +14526,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T20:26:11.826Z,57.4508,-154.2832,34.3,2.1,ml,,,,0.54,ak,ak0235296fyn,2023-04-20T20:28:39.280Z,"16 km SE of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-20T18:47:49.820Z,37.6013333,-122.4651667,6.64,0.39,md,6.0,130.0,0.03294,0.06,nc,nc73875925,2023-04-20T20:29:00.633Z,"2km SE of Pacifica, CA",earthquake,0.39,0.82,0.192,5.0,reviewed,nc,nc
 2023-04-20T00:59:04.840Z,57.5951666666667,-156.536833333333,6.53,0.37,ml,5.0,249.0,,0.18,av,av91855136,2023-04-20T20:26:18.650Z,"52 km E of Ugashik, Alaska",earthquake,0.97,1.87,0.149460887935566,5.0,reviewed,av,av
+2023-04-20T20:41:40.340Z,33.2696667,-116.414,4.46,0.91,ml,15.0,136.0,0.003025,0.16,ci,ci40443320,2023-04-20T20:45:11.789Z,"4km WNW of Borrego Springs, CA",earthquake,0.36,0.29,0.264,13.0,automatic,ci,ci
