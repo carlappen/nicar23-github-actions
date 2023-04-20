@@ -14336,3 +14336,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T04:09:31.260Z,34.0998333,-116.6401667,2.49,1.91,ml,58.0,33.0,0.0615,0.21,ci,ci40442968,2023-04-20T04:20:47.260Z,"8km NW of Morongo Valley, CA",earthquake,0.21,0.59,0.16,26.0,automatic,ci,ci
 2023-04-20T04:00:45.910Z,37.9236679,-121.838501,12.52,2.11,md,28.0,117.0,0.05547,0.16,nc,nc73875725,2023-04-20T04:16:11.525Z,"9km ESE of Clayton, CA",earthquake,0.39,1.35,0.17,26.0,automatic,nc,nc
 2023-04-20T03:58:33.750Z,37.9143333,-121.8324966,15.22,1.65,md,10.0,93.0,0.05909,0.23,nc,nc73875720,2023-04-20T04:16:10.385Z,"10km W of Brentwood, CA",earthquake,0.83,4.95,0.09,7.0,automatic,nc,nc
+2023-04-20T04:26:03.030Z,33.384,-116.8976667,11.76,2.02,ml,70.0,26.0,0.1124,0.23,ci,ci40442976,2023-04-20T04:29:47.061Z,"4km NW of Palomar Observatory, CA",earthquake,0.2,0.94,0.175,26.0,automatic,ci,ci
