@@ -14332,3 +14332,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T03:51:54.730Z,62.5158,-149.2367,44.3,1.8,ml,,,,0.6,ak,ak02351z7ivl,2023-04-20T03:53:47.829Z,"45 km E of Chase, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-20T03:48:12.934Z,61.5128,-146.4508,29.6,3.5,ml,,,,0.58,ak,ak02351z6sho,2023-04-20T03:49:50.670Z,"42 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-20T02:04:03.006Z,60.2924,-152.5804,113.7,1.2,ml,,,,0.24,ak,ak02351ybrjz,2023-04-20T03:57:01.515Z,"57 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2023-04-20T04:16:32.840Z,38.8235016,-122.8116684,1.17,0.7,md,8.0,86.0,0.00125,0.01,nc,nc73875735,2023-04-20T04:18:07.502Z,"7km NW of The Geysers, CA",earthquake,0.32,1.24,0.16,9.0,automatic,nc,nc
+2023-04-20T04:09:31.260Z,34.0998333,-116.6401667,2.49,1.91,ml,58.0,33.0,0.0615,0.21,ci,ci40442968,2023-04-20T04:20:47.260Z,"8km NW of Morongo Valley, CA",earthquake,0.21,0.59,0.16,26.0,automatic,ci,ci
+2023-04-20T04:00:45.910Z,37.9236679,-121.838501,12.52,2.11,md,28.0,117.0,0.05547,0.16,nc,nc73875725,2023-04-20T04:16:11.525Z,"9km ESE of Clayton, CA",earthquake,0.39,1.35,0.17,26.0,automatic,nc,nc
+2023-04-20T03:58:33.750Z,37.9143333,-121.8324966,15.22,1.65,md,10.0,93.0,0.05909,0.23,nc,nc73875720,2023-04-20T04:16:10.385Z,"10km W of Brentwood, CA",earthquake,0.83,4.95,0.09,7.0,automatic,nc,nc
