@@ -14337,3 +14337,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T04:00:45.910Z,37.9236679,-121.838501,12.52,2.11,md,28.0,117.0,0.05547,0.16,nc,nc73875725,2023-04-20T04:16:11.525Z,"9km ESE of Clayton, CA",earthquake,0.39,1.35,0.17,26.0,automatic,nc,nc
 2023-04-20T03:58:33.750Z,37.9143333,-121.8324966,15.22,1.65,md,10.0,93.0,0.05909,0.23,nc,nc73875720,2023-04-20T04:16:10.385Z,"10km W of Brentwood, CA",earthquake,0.83,4.95,0.09,7.0,automatic,nc,nc
 2023-04-20T04:26:03.030Z,33.384,-116.8976667,11.76,2.02,ml,70.0,26.0,0.1124,0.23,ci,ci40442976,2023-04-20T04:29:47.061Z,"4km NW of Palomar Observatory, CA",earthquake,0.2,0.94,0.175,26.0,automatic,ci,ci
+2023-04-20T04:37:56.460Z,34.0708333,-116.6936667,8.0,1.37,ml,46.0,70.0,0.0498,0.19,ci,ci40442984,2023-04-20T04:41:32.109Z,"11km WNW of Morongo Valley, CA",earthquake,0.22,0.59,0.181,27.0,automatic,ci,ci
+2023-04-20T04:36:13.071Z,58.4129,-154.6911,250.0,0.9,ml,,,,0.92,ak,ak02351zpnio,2023-04-20T04:40:52.521Z,"95 km N of Karluk, Alaska",earthquake,,11.1,,,automatic,ak,ak
+2023-04-20T04:25:39.304Z,31.5829,-103.9487,9.702,3.4,ml,27.0,67.0,0.06,0.3,us,us6000k5nm,2023-04-20T04:39:38.040Z,"33 km NNW of Toyah, Texas",earthquake,1.15,8.506,0.071,76.0,reviewed,us,us
+2023-04-20T04:23:23.646Z,-30.9095,-71.496,42.104,4.3,mb,31.0,88.0,0.264,0.74,us,us6000k5nl,2023-04-20T04:38:05.040Z,"44 km SW of Ovalle, Chile",earthquake,6.47,7.468,0.267,4.0,reviewed,us,us
