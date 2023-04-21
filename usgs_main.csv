@@ -14711,3 +14711,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T08:07:04.265Z,36.4621,-117.4329,0.0,1.1,ml,17.0,233.63,0.537,0.3175,nn,nn00858489,2023-04-21T08:09:28.707Z,"25 km NNE of Darwin, California",earthquake,,61.6,0.19,4.0,automatic,nn,nn
 2023-04-21T07:59:48.860Z,33.64,-116.6966667,14.56,0.21,ml,16.0,95.0,0.07247,0.12,ci,ci40443576,2023-04-21T08:03:26.791Z,"10km NNW of Anza, CA",earthquake,0.34,0.6,0.123,5.0,automatic,ci,ci
 2023-04-21T08:20:58.130Z,35.771,-117.584,8.29,1.02,ml,16.0,135.0,0.04598,0.17,ci,ci40443592,2023-04-21T08:24:31.901Z,"16km W of Searles Valley, CA",earthquake,0.35,0.84,0.159,10.0,automatic,ci,ci
+2023-04-21T08:30:28.889Z,63.3392,-145.418,8.9,0.6,ml,,,,0.37,ak,ak02353plhd5,2023-04-21T08:33:30.003Z,"29 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
