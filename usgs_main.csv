@@ -14678,3 +14678,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T03:44:03.110Z,33.6781667,-116.7303333,13.92,0.45,ml,19.0,72.0,0.03557,0.19,ci,ci40443480,2023-04-21T03:47:34.177Z,"7km S of Idyllwild, CA",earthquake,0.49,0.54,0.106,10.0,automatic,ci,ci
 2023-04-21T03:28:28.128Z,-40.7888,-88.8604,10.0,4.7,mb,25.0,246.0,13.353,0.72,us,us6000k5xs,2023-04-21T03:47:59.040Z,West Chile Rise,earthquake,11.55,2.015,0.065,72.0,reviewed,us,us
 2023-04-20T23:52:10.730Z,58.1676666666667,-155.507,1.82,-0.26,ml,8.0,236.0,,0.07,av,av91856266,2023-04-21T03:49:00.780Z,"88 km SE of King Salmon, Alaska",earthquake,0.45,0.29,0.0963966199681914,8.0,reviewed,av,av
+2023-04-21T04:15:49.467Z,58.2253,-154.0657,70.7,1.7,ml,,,,0.25,ak,ak02353n4ksi,2023-04-21T04:17:51.379Z,"70 km WNW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-21T04:03:01.710Z,33.6295,-116.7386667,15.32,0.44,ml,14.0,79.0,0.04155,0.1,ci,ci40443488,2023-04-21T04:06:41.976Z,"10km NW of Anza, CA",earthquake,0.31,0.68,0.131,8.0,automatic,ci,ci
+2023-04-21T03:57:51.157Z,58.7106,-152.6089,12.4,2.4,ml,,,,0.79,ak,ak02353ms5e3,2023-04-21T03:59:34.073Z,"74 km NNE of Aleneva, Alaska",earthquake,,0.4,,,automatic,ak,ak
