@@ -14781,3 +14781,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T01:26:21.930Z,46.6333333333333,-114.082666666667,7.14,1.94,ml,20.0,103.0,0.2041,0.06,mb,mb90011043,2023-04-21T15:22:38.280Z,Idaho-Montana border region,earthquake,0.25,1.64,0.316804544933198,18.0,reviewed,mb,mb
 2023-04-20T22:19:37.720Z,45.349,-112.635333333333,5.57,1.81,ml,19.0,100.0,0.03059,0.08,mb,mb90011038,2023-04-21T15:11:44.650Z,"14 km N of Dillon, Montana",earthquake,0.28,0.39,0.158232611779649,14.0,reviewed,mb,mb
 2023-04-21T15:24:31.688Z,60.137,-152.8458,105.5,1.5,ml,,,,0.72,ak,ak02353tq8io,2023-04-21T15:26:54.333Z,Southern Alaska,earthquake,,0.7,,,automatic,ak,ak
+2023-04-21T15:37:39.396Z,60.0473,-150.1214,114.6,1.8,ml,,,,1.23,ak,ak02353tt1f7,2023-04-21T15:40:25.446Z,"Kenai Peninsula, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-04-21T15:33:23.200Z,35.5018333,-118.392,6.49,0.94,ml,13.0,133.0,0.174,0.11,ci,ci40443744,2023-04-21T15:36:58.545Z,"13km SE of Bodfish, CA",earthquake,0.29,1.18,0.113,7.0,automatic,ci,ci
