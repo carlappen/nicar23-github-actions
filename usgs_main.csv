@@ -15117,3 +15117,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-22T16:10:48.772Z,59.2194,-153.2536,73.7,1.4,ml,,,,0.42,ak,ak02355hs1wt,2023-04-22T16:12:24.569Z,"77 km WSW of Nanwalek, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-04-22T15:51:31.810Z,17.9913333333333,-66.9393333333333,11.75,2.84,md,6.0,171.0,0.05943,0.34,pr,pr71406298,2023-04-22T16:13:18.780Z,"2 km W of Fuig, Puerto Rico",earthquake,1.1,2.19,0.0596938330257353,4.0,reviewed,pr,pr
 2023-04-22T16:33:03.556Z,63.2779,-151.1021,0.0,1.7,ml,,,,0.71,ak,ak02355hwvw3,2023-04-22T16:35:04.350Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-22T14:42:42.533Z,54.6721,-156.8854,26.7,3.5,ml,,,,1.0,ak,ak02355gs18e,2023-04-22T16:48:47.323Z,"199 km SE of Perryville, Alaska",earthquake,,1.2,,,reviewed,ak,ak
