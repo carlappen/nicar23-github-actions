@@ -15044,3 +15044,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-22T09:07:24.010Z,19.3346672058105,-155.113494873047,0.439999997615814,1.81,ml,33.0,128.0,,0.270000011,hv,hv73372247,2023-04-22T09:12:55.030Z,"14 km S of Fern Forest, Hawaii",earthquake,0.42,0.349999994,0.36,4.0,automatic,hv,hv
 2023-04-22T09:04:13.117Z,61.2733,-150.6267,46.0,1.8,ml,,,,0.64,ak,ak02355dknmk,2023-04-22T09:12:46.688Z,Southern Alaska,earthquake,,0.5,,,automatic,ak,ak
 2023-04-22T07:50:07.580Z,37.3363333,-121.697,8.09,0.94,md,34.0,34.0,0.0437,0.07,nc,nc73876525,2023-04-22T09:17:11.991Z,"12km ESE of Alum Rock, CA",earthquake,0.14,0.32,0.215,25.0,reviewed,nc,nc
+2023-04-22T09:23:13.579Z,38.4765,-119.5475,2.6,1.1,ml,9.0,94.16,0.112,0.1057,nn,nn00858540,2023-04-22T09:25:56.395Z,"7 km SW of Walker, California",earthquake,,1.0,0.12,3.0,automatic,nn,nn
