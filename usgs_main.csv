@@ -15225,3 +15225,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T02:06:14.940Z,19.4231666666667,-155.232666666667,1.59,0.76,md,12.0,157.0,,0.11,hv,hv73373142,2023-04-23T02:35:20.890Z,"Island of Hawaii, Hawaii",earthquake,0.28,0.26,0.032072306715443,2.0,reviewed,hv,hv
 2023-04-23T02:03:30.160Z,34.035,-117.7295,6.83,1.11,ml,25.0,53.0,0.08579,0.23,ci,ci40444328,2023-04-23T02:07:23.867Z,"4km SE of Pomona, CA",earthquake,0.35,1.0,0.248,31.0,automatic,ci,ci
 2023-04-23T02:03:02.020Z,19.4215,-155.232666666667,1.81,1.37,md,16.0,143.0,,0.1,hv,hv73373137,2023-04-23T02:26:09.430Z,"2 km S of Volcano, Hawaii",earthquake,0.27,0.26,0.0421607056143567,3.0,reviewed,hv,hv
+2023-04-23T02:28:37.520Z,-20.872,-173.492,10.0,5.1,mb,16.0,142.0,1.317,1.05,us,us6000k6hc,2023-04-23T02:48:31.040Z,"147 km SE of Pangai, Tonga",earthquake,5.5,1.923,0.18,10.0,reviewed,us,us
