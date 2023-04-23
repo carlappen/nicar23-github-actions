@@ -15309,3 +15309,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T13:20:27.760Z,33.1641655,-115.6448364,3.14,1.44,ml,21.0,83.0,0.02658,0.12,ci,ci40444488,2023-04-23T13:22:33.220Z,"13km WNW of Calipatria, CA",earthquake,0.37,0.46,0.295,8.0,automatic,ci,ci
 2023-04-23T13:07:50.510Z,35.6896667,-117.5245,1.77,0.45,ml,11.0,131.0,0.08564,0.27,ci,ci40444480,2023-04-23T13:11:24.662Z,"14km SW of Searles Valley, CA",earthquake,1.05,1.21,0.126,5.0,automatic,ci,ci
 2023-04-22T14:15:11.620Z,35.611,-84.4308333333333,4.19,1.97,md,12.0,116.0,0.177,0.18,se,se60521601,2023-04-23T13:18:26.290Z,eastern Tennessee,earthquake,0.39,1.07,0.0628022144161327,10.0,reviewed,se,se
+2023-04-23T13:24:57.720Z,33.1568333,-115.6393333,3.0,1.23,ml,17.0,85.0,0.02861,0.26,ci,ci40444496,2023-04-23T13:28:32.508Z,"12km WNW of Calipatria, CA",earthquake,0.59,0.75,0.187,21.0,automatic,ci,ci
