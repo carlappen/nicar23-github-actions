@@ -15289,3 +15289,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T09:59:30.496Z,63.1268,-150.4438,116.7,2.0,ml,,,,0.3,ak,ak023571ftuh,2023-04-23T10:01:51.570Z,"72 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-23T09:55:24.910Z,41.5096664,-112.1793365,7.33,2.46,ml,35.0,79.0,0.09661,0.15,uu,uu60537991,2023-04-23T10:08:25.040Z,"7 km SW of Corinne, Utah",earthquake,0.26,0.52,0.31,21.0,reviewed,uu,uu
 2023-04-23T10:26:53.400Z,34.036,-117.7313333,7.59,1.07,ml,23.0,81.0,0.08399,0.23,ci,ci40444432,2023-04-23T10:30:29.366Z,"4km SE of Pomona, CA",earthquake,0.44,0.89,0.205,29.0,automatic,ci,ci
+2023-04-23T10:36:05.080Z,36.9438324,-121.4400024,2.21,2.7,md,44.0,48.0,0.07265,0.1,nc,nc73876905,2023-04-23T10:39:25.203Z,"11km NNW of Hollister, CA",earthquake,0.18,0.77,0.12,49.0,automatic,nc,nc
