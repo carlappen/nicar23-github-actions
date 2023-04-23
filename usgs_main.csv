@@ -15310,3 +15310,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T13:07:50.510Z,35.6896667,-117.5245,1.77,0.45,ml,11.0,131.0,0.08564,0.27,ci,ci40444480,2023-04-23T13:11:24.662Z,"14km SW of Searles Valley, CA",earthquake,1.05,1.21,0.126,5.0,automatic,ci,ci
 2023-04-22T14:15:11.620Z,35.611,-84.4308333333333,4.19,1.97,md,12.0,116.0,0.177,0.18,se,se60521601,2023-04-23T13:18:26.290Z,eastern Tennessee,earthquake,0.39,1.07,0.0628022144161327,10.0,reviewed,se,se
 2023-04-23T13:24:57.720Z,33.1568333,-115.6393333,3.0,1.23,ml,17.0,85.0,0.02861,0.26,ci,ci40444496,2023-04-23T13:28:32.508Z,"12km WNW of Calipatria, CA",earthquake,0.59,0.75,0.187,21.0,automatic,ci,ci
+2023-04-23T13:47:18.560Z,32.9756667,-116.2265,6.03,1.15,ml,34.0,51.0,0.06796,0.21,ci,ci40444504,2023-04-23T13:50:53.697Z,"21km SSW of Ocotillo Wells, CA",earthquake,0.25,1.04,0.122,25.0,automatic,ci,ci
+2023-04-23T13:47:07.464Z,64.9779,-147.1271,10.8,1.2,ml,,,,0.86,ak,ak023573qxwa,2023-04-23T13:49:42.765Z,"12 km NNW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-23T09:46:47.300Z,36.3026666666667,-89.5323333333333,9.71,2.07,md,26.0,48.0,0.03529,0.07,nm,nm60521866,2023-04-23T13:47:34.550Z,"5 km NW of Ridgely, Tennessee",earthquake,0.41,0.44,0.163543557702864,26.0,reviewed,nm,nm
