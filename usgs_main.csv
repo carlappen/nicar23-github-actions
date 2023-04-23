@@ -15240,3 +15240,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T03:35:21.340Z,35.973835,-120.4713364,12.3,1.04,md,5.0,128.0,0.02645,0.12,nc,nc73876800,2023-04-23T03:37:01.411Z,"9km NNW of Parkfield, CA",earthquake,3.3,3.29,0.06,3.0,automatic,nc,nc
 2023-04-23T03:34:31.110Z,35.9710007,-120.4431686,5.3,1.04,md,8.0,183.0,0.03352,0.05,nc,nc73876795,2023-04-23T03:36:06.364Z,"8km N of Parkfield, CA",earthquake,1.17,0.8,0.12,6.0,automatic,nc,nc
 2023-04-23T03:33:51.840Z,35.954834,-120.4313354,8.41,1.18,md,12.0,92.0,0.03374,0.2,nc,nc73876790,2023-04-23T03:35:31.159Z,"6km N of Parkfield, CA",earthquake,0.75,2.03,0.16,6.0,automatic,nc,nc
+2023-04-23T03:49:47.778Z,62.0795,-148.9786,37.2,1.6,ml,,,,0.96,ak,ak02356xt4e1,2023-04-23T03:51:34.875Z,"35 km NNW of Sutton-Alpine, Alaska",earthquake,,1.0,,,automatic,ak,ak
