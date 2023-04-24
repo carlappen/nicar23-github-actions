@@ -15436,3 +15436,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T01:56:30.357Z,38.2061,-117.798,0.0,1.5,ml,11.0,135.29,0.147,0.3824,nn,nn00858594,2023-04-24T01:59:16.746Z,"34 km SE of Mina, Nevada",earthquake,,4.3,0.82,5.0,automatic,nn,nn
 2023-04-24T01:51:50.778Z,-29.8879,-177.5161,39.804,5.3,mb,62.0,37.0,0.716,1.17,us,us6000k6np,2023-04-24T02:09:18.040Z,"Kermadec Islands, New Zealand",earthquake,8.15,5.35,0.055,109.0,reviewed,us,us
 2023-04-24T01:50:09.015Z,58.1055,-154.5636,82.5,2.5,ml,,,,0.26,ak,ak02358k5qei,2023-04-24T01:51:50.754Z,"60 km N of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-24T02:41:29.420Z,19.2351665496826,-155.382339477539,27.6399993896484,1.95000005,md,20.0,164.0,,0.25999999,hv,hv73374137,2023-04-24T02:44:42.340Z,"10 km ENE of Pāhala, Hawaii",earthquake,1.29,1.89999998,1.34000003,9.0,automatic,hv,hv
+2023-04-24T02:41:25.830Z,33.5828333,-116.8065,7.94,1.11,ml,46.0,46.0,0.03701,0.2,ci,ci40444680,2023-04-24T02:44:57.373Z,"13km WNW of Anza, CA",earthquake,0.22,0.51,0.147,26.0,automatic,ci,ci
+2023-04-24T02:39:05.318Z,65.7626,-155.3892,0.0,3.1,ml,,,,0.88,ak,ak02358kostu,2023-04-24T02:42:10.393Z,"46 km E of Huslia, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-24T02:31:55.420Z,17.9421666666667,-66.9391666666667,13.37,2.71,md,5.0,224.0,0.06574,0.09,pr,pr71406448,2023-04-24T02:43:08.200Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.75,0.36,0.144514607578465,5.0,reviewed,pr,pr
+2023-04-24T02:17:56.596Z,-60.3893,-26.1923,10.0,5.6,mb,80.0,68.0,19.029,0.6,us,us6000k6ns,2023-04-24T02:39:37.498Z,South Sandwich Islands region,earthquake,11.61,1.868,0.054,120.0,reviewed,us,us
