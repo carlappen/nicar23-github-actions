@@ -15574,3 +15574,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T16:40:04.700Z,33.536,-116.7285,4.73,0.68,ml,28.0,56.0,0.03023,0.22,ci,ci40444936,2023-04-24T16:43:42.132Z,"6km WSW of Anza, CA",earthquake,0.28,0.41,0.123,18.0,automatic,ci,ci
 2023-04-24T16:38:11.160Z,33.4891667,-116.4805,13.47,1.48,ml,40.0,41.0,0.05712,0.2,ci,ci40444928,2023-04-24T16:42:05.126Z,"19km ESE of Anza, CA",earthquake,0.24,0.47,0.185,27.0,automatic,ci,ci
 2023-04-24T16:26:36.136Z,-30.011,-177.4773,35.0,5.0,mb,35.0,129.0,0.84,1.2,us,us6000k6st,2023-04-24T16:45:19.040Z,"Kermadec Islands, New Zealand",earthquake,6.3,1.833,0.092,38.0,reviewed,us,us
+2023-04-24T16:47:59.330Z,38.8419991,-122.878334,2.34,0.73,md,9.0,112.0,0.007844,0.02,nc,nc73877380,2023-04-24T16:49:38.318Z,"13km ENE of Cloverdale, CA",earthquake,0.4,0.7,0.11,9.0,automatic,nc,nc
+2023-04-24T16:33:46.492Z,-4.3798,143.2237,85.345,5.0,mb,67.0,63.0,11.048,0.81,us,us6000k6sw,2023-04-24T16:54:47.040Z,"48 km ESE of Ambunti, Papua New Guinea",earthquake,4.75,6.78,0.075,56.0,reviewed,us,us
