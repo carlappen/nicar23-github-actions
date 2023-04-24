@@ -15555,3 +15555,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T21:28:14.407Z,43.8627,-76.0316,5.0,1.4,ml,7.0,84.0,0.453,0.14,us,us6000k6s9,2023-04-24T15:08:05.040Z,"2 km W of Adams Center, New York",earthquake,1.96,1.997,0.115,10.0,reviewed,us,us
 2023-04-24T15:19:56.380Z,33.4678333,-116.4735,13.43,1.31,ml,42.0,81.0,0.06831,0.17,ci,ci40444888,2023-04-24T15:23:32.594Z,"21km ESE of Anza, CA",earthquake,0.23,0.45,0.173,28.0,automatic,ci,ci
 2023-04-23T23:23:32.153Z,43.8566,-76.0168,4.123,1.5,ml,6.0,108.0,0.447,0.23,us,us6000k6se,2023-04-24T15:22:25.040Z,"0 km WSW of Adams Center, New York",earthquake,1.14,5.921,0.105,12.0,reviewed,us,us
+2023-04-24T15:36:12.810Z,38.828167,-122.814003,1.84,0.61,md,11.0,60.0,0.005668,0.02,nc,nc73877355,2023-04-24T15:37:48.629Z,"8km NW of The Geysers, CA",earthquake,0.35,1.0,0.37,11.0,automatic,nc,nc
