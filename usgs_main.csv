@@ -15553,3 +15553,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T05:45:30.335Z,39.4131,-119.7314,7.3,0.2,ml,8.0,146.03,0.039,0.1708,nn,nn00858599,2023-04-24T15:01:33.761Z,"13 km NNW of Virginia City, Nevada",earthquake,,2.5,0.08,2.0,reviewed,nn,nn
 2023-04-23T21:58:13.472Z,43.8541,-76.0184,4.117,1.6,ml,15.0,82.0,0.444,0.53,us,us6000k6sc,2023-04-24T15:16:08.040Z,"1 km WSW of Adams Center, New York",earthquake,0.91,4.894,0.105,12.0,reviewed,us,us
 2023-04-23T21:28:14.407Z,43.8627,-76.0316,5.0,1.4,ml,7.0,84.0,0.453,0.14,us,us6000k6s9,2023-04-24T15:08:05.040Z,"2 km W of Adams Center, New York",earthquake,1.96,1.997,0.115,10.0,reviewed,us,us
+2023-04-24T15:19:56.380Z,33.4678333,-116.4735,13.43,1.31,ml,42.0,81.0,0.06831,0.17,ci,ci40444888,2023-04-24T15:23:32.594Z,"21km ESE of Anza, CA",earthquake,0.23,0.45,0.173,28.0,automatic,ci,ci
+2023-04-23T23:23:32.153Z,43.8566,-76.0168,4.123,1.5,ml,6.0,108.0,0.447,0.23,us,us6000k6se,2023-04-24T15:22:25.040Z,"0 km WSW of Adams Center, New York",earthquake,1.14,5.921,0.105,12.0,reviewed,us,us
