@@ -15509,3 +15509,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T10:56:07.230Z,32.7713333,-116.5791667,16.23,0.73,ml,12.0,148.0,0.1201,0.07,ci,ci40444800,2023-04-24T10:59:40.193Z,"7km SW of Pine Valley, CA",earthquake,0.3,0.57,0.134,7.0,automatic,ci,ci
 2023-04-24T10:54:50.688Z,58.1126,-155.5701,21.8,1.1,ml,,,,0.55,ak,ak02358pjkx8,2023-04-24T10:56:19.160Z,"89 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-24T10:52:27.330Z,33.2253333,-116.087,8.34,1.42,ml,42.0,52.0,0.09709,0.22,ci,ci40444792,2023-04-24T11:02:56.620Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.26,1.15,0.116,27.0,automatic,ci,ci
+2023-04-24T11:14:21.730Z,38.8133316,-122.8154984,2.73,0.77,md,11.0,60.0,0.01091,0.02,nc,nc73877290,2023-04-24T11:15:57.899Z,"6km NW of The Geysers, CA",earthquake,0.35,1.13,0.06,12.0,automatic,nc,nc
