@@ -15858,3 +15858,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T01:17:47.070Z,44.4645,-110.5885,4.55,0.78,md,11.0,123.0,0.0275,0.07,uu,uu60538196,2023-04-25T17:05:01.740Z,"46 km ESE of West Yellowstone, Montana",earthquake,0.65,0.39,0.27,4.0,reviewed,uu,uu
 2023-04-25T01:08:22.760Z,44.4643333,-110.6076667,4.25,1.44,md,10.0,117.0,0.03075,0.15,uu,uu60538186,2023-04-25T16:56:44.610Z,"45 km ESE of West Yellowstone, Montana",earthquake,0.47,0.41,0.403,5.0,reviewed,uu,uu
 2023-04-24T20:40:43.002Z,31.17491752,-103.2645297,1.491271973,2.4,ml,13.0,67.0,0.01280224305,0.1,tx,tx2023iaau,2023-04-25T16:56:27.358Z,"20 km WSW of Coyanosa, Texas",earthquake,0.7169122081,0.5434293302,0.3,20.0,reviewed,tx,tx
+2023-04-25T17:21:03.860Z,64.2516,-147.3789,0.0,1.4,ml,,,,0.39,ak,ak0235ah1seq,2023-04-25T17:23:03.900Z,"38 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-25T13:07:28.843Z,39.7976,-120.7193,10.5,1.0,ml,5.0,243.02,0.285,0.1223,nn,nn00858670,2023-04-25T17:19:42.290Z,Northern California,earthquake,,8.5,0.31,3.0,reviewed,nn,nn
+2023-04-25T12:07:30.817Z,39.836,-120.717,11.8,0.4,ml,3.0,307.49,0.276,0.0971,nn,nn00858669,2023-04-25T17:13:30.545Z,"3 km SW of Cromberg, California",earthquake,,8.9,0.32,3.0,reviewed,nn,nn
+2023-04-25T00:58:04.540Z,44.4341667,-110.5631667,0.29,1.64,md,7.0,62.0,0.01801,0.05,uu,uu60538156,2023-04-25T17:14:26.430Z,"49 km ESE of West Yellowstone, Montana",earthquake,0.42,0.19,0.473,3.0,reviewed,uu,uu
+2023-04-25T00:51:54.620Z,44.4466667,-110.6,4.33,1.68,md,9.0,129.0,0.01293,0.14,uu,uu60538146,2023-04-25T17:23:43.160Z,"46 km ESE of West Yellowstone, Montana",earthquake,0.57,0.47,0.201,5.0,reviewed,uu,uu
