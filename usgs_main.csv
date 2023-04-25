@@ -15711,3 +15711,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T02:07:06.770Z,18.0213333333333,-66.7508333333333,13.26,3.07,md,20.0,155.0,0.03875,0.11,pr,pr71406648,2023-04-25T02:36:38.590Z,"1 km ENE of Magas Arriba, Puerto Rico",earthquake,0.26,0.25,0.149073368057183,6.0,reviewed,pr,pr
 2023-04-25T02:50:17.380Z,63.2291,-151.3046,0.0,1.1,ml,,,,0.77,ak,ak0235a8aj5o,2023-04-25T02:53:10.460Z,"40 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-25T02:38:03.420Z,17.9315,-66.9448333333333,13.41,2.35,md,5.0,237.0,0.07598,0.06,pr,pr71406663,2023-04-25T02:49:48.880Z,Puerto Rico region,earthquake,0.76,0.52,0.0867323811509451,4.0,reviewed,pr,pr
+2023-04-25T03:25:09.530Z,38.8286667,-122.8154984,1.59,0.79,md,15.0,62.0,0.006757,0.03,nc,nc73877485,2023-04-25T03:26:44.138Z,"8km NW of The Geysers, CA",earthquake,0.27,0.72,0.14,17.0,automatic,nc,nc
+2023-04-24T08:51:52.770Z,60.046,-153.09,-2.42,-0.64,ml,5.0,110.0,,0.07,av,av91861806,2023-04-25T03:25:58.770Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.22,1.88,0.148772644671345,4.0,reviewed,av,av
