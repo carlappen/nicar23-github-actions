@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-25T18:18:33.800Z,38.8264999,-122.7868347,1.94,0.72,md,10,87,0.0122,0.02,nc,nc73877635,2023-04-25T18:20:07.988Z,"6km W of Cobb, CA",earthquake,0.54,1.28,0.15,11,automatic,nc,nc
+2023-04-25T18:18:33.800Z,38.8264999,-122.7868347,1.94,0.72,md,10,87,0.0122,0.02,nc,nc73877635,2023-04-25T18:34:11.171Z,"6km W of Cobb, CA",earthquake,0.54,1.28,0.15,11,automatic,nc,nc
 2023-04-25T18:17:30.525Z,59.9277,-151.9141,57.3,1.5,ml,,,,0.54,ak,ak0235ahmf7g,2023-04-25T18:18:59.778Z,"10 km WSW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-25T18:01:43.659Z,64.4026,-147.22,13,1.1,ml,,,,0.55,ak,ak0235ahj0rh,2023-04-25T18:04:55.342Z,"20 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-25T18:00:00.527Z,61.5241,-146.5828,18.4,2.6,ml,,,,0.76,ak,ak0235ahipq8,2023-04-25T18:09:27.021Z,"45 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-24T19:11:56.500Z,34.027,-117.0816667,16.81,0.81,ml,29,80,0.08045,0.16,ci,ci40445016,2023-04-25T16:52:08.702Z,"4km WSW of Yucaipa, CA",earthquake,0.27,0.68,0.108,18,reviewed,ci,ci
 2023-04-24T19:00:55.580Z,32.7548333,-116.9368333,4.67,1.12,ml,18,130,0.01974,0.18,ci,ci40445008,2023-04-25T13:47:24.305Z,"1km N of Rancho San Diego, CA",earthquake,0.39,0.68,0.304,5,reviewed,ci,ci
 2023-04-24T18:50:08.690Z,19.2373332977295,-155.414505004883,33.060001373291,1.89999998,md,31,130,,0.119999997,hv,hv73374967,2023-04-24T18:53:14.130Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.7,1.28999996,0.75,8,automatic,hv,hv
-2023-04-24T18:32:42.730Z,38.8103333,-122.7724991,1.42,0.71,md,7,129,0.007031,0.01,nc,nc73877400,2023-04-24T19:06:16.284Z,"4km NNW of The Geysers, CA",earthquake,0.53,1.01,0.45,8,automatic,nc,nc
