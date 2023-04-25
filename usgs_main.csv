@@ -15934,3 +15934,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T21:07:00.701Z,-58.7646,-25.1739,23.486,4.8,mb,37.0,90.0,15.814,0.72,us,us7000jvw1,2023-04-25T21:32:04.040Z,South Sandwich Islands region,earthquake,12.52,5.766,0.093,36.0,reviewed,us,us
 2023-04-25T17:40:14.439Z,52.1805,-173.7468,95.239,3.8,mb,67.0,188.0,0.236,0.62,us,us7000jvup,2023-04-25T21:41:17.376Z,"31 km E of Atka, Alaska",earthquake,10.31,5.169,0.069,54.0,reviewed,us,us
 2023-04-25T02:42:57.340Z,58.1803333333333,-155.319333333333,2.3,-0.36,ml,6.0,163.0,,0.08,av,av91862526,2023-04-25T21:36:49.710Z,"85 km NW of Karluk, Alaska",earthquake,0.25,0.42,0.272397832723971,6.0,reviewed,av,av
+2023-04-25T04:31:03.720Z,36.0116667,-120.5703333,3.14,0.84,md,14.0,114.0,0.02743,0.06,nc,nc73877510,2023-04-25T21:49:48.068Z,"18km NW of Parkfield, CA",earthquake,0.22,0.43,0.229,8.0,reviewed,nc,nc
