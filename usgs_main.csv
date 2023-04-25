@@ -15727,3 +15727,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T04:12:15.150Z,35.7639999,-121.2365036,9.17,3.23,ml,51.0,169.0,0.1058,0.1,nc,nc73877500,2023-04-25T04:19:10.713Z,"14km NNW of San Simeon, CA",earthquake,0.29,0.73,0.239,20.0,automatic,nc,nc
 2023-04-25T04:10:36.420Z,35.9426667,-117.6616667,8.55,1.03,ml,8.0,246.0,0.137,0.2,ci,ci40445120,2023-04-25T04:14:10.802Z,"22km E of Little Lake, CA",earthquake,1.73,2.97,0.13,5.0,automatic,ci,ci
 2023-04-25T03:28:22.918Z,31.6742,-104.3972,2.986,2.8,ml,37.0,56.0,0.089,0.76,us,us7000jvq0,2023-04-25T04:01:44.040Z,"55 km S of Whites City, New Mexico",earthquake,2.58,5.565,0.046,62.0,reviewed,us,us
+2023-04-25T04:44:34.420Z,19.3293342590332,-155.139663696289,3.41000008583069,1.92,ml,35.0,96.0,,0.180000007,hv,hv73375477,2023-04-25T04:50:04.880Z,"15 km S of Fern Forest, Hawaii",earthquake,0.4,1.10000002,0.27,6.0,automatic,hv,hv
