@@ -15889,3 +15889,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T01:02:20.370Z,44.4395,-110.6006667,4.89,1.41,ml,10.0,90.0,0.009412,0.16,uu,uu60033274,2023-04-25T19:02:25.640Z,"47 km ESE of West Yellowstone, Montana",earthquake,0.62,0.61,0.435,2.0,reviewed,uu,uu
 2023-04-25T18:39:28.640Z,37.001,-119.8183333,-0.39,1.76,md,8.0,209.0,0.08901,0.2,nc,nc73877645,2023-04-25T19:21:51.281Z,"5km ENE of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,1.66,31.61,0.111,11.0,reviewed,nc,nc
 2023-04-25T07:31:52.210Z,31.60688013,-103.9608573,8.68951416,2.2,ml,33.0,48.0,0.00781121777,0.1,tx,tx2023iawh,2023-04-25T19:19:20.870Z,"35 km WSW of Mentone, Texas",earthquake,0.4911005087,0.4781166143,0.2,19.0,reviewed,tx,tx
+2023-04-25T19:26:48.600Z,34.9113333,-117.872,3.15,2.18,ml,6.0,212.0,0.351,0.15,ci,ci40445472,2023-04-25T19:30:25.625Z,"5km E of Edwards Air Force Base, CA",earthquake,1.49,31.61,0.206,12.0,automatic,ci,ci
+2023-04-25T18:37:46.120Z,44.8033333,-110.8108333,4.7,1.39,ml,16.0,149.0,0.03198,0.13,uu,uu60538271,2023-04-25T19:30:46.480Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.48,0.44,0.509,3.0,reviewed,uu,uu
+2023-04-25T00:15:07.330Z,58.1918333333333,-155.272333333333,2.45,-0.69,ml,6.0,139.0,,0.06,av,av91862426,2023-04-25T19:35:42.400Z,"84 km NW of Karluk, Alaska",earthquake,0.33,0.58,0.18969579269986,6.0,reviewed,av,av
