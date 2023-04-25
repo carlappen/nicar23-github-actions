@@ -15723,3 +15723,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T03:47:55.280Z,60.8793,-150.0593,38.5,1.6,ml,,,,0.48,ak,ak0235a8veiw,2023-04-25T03:50:04.299Z,"23 km W of Hope, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-25T03:46:09.813Z,60.3549,-143.1311,6.8,1.4,ml,,,,0.59,ak,ak0235a8v3at,2023-04-25T03:48:06.764Z,"120 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-24T21:55:32.800Z,49.18416666666667,-122.10116666666669,-0.66,1.5,ml,8.0,278.0,0.4215,0.38,uw,uw61919416,2023-04-25T03:50:05.590Z,"11 km W of Chilliwack, Canada",explosion,2.45,31.61,0.1270609502190189,5.0,reviewed,uw,uw
+2023-04-25T04:13:32.540Z,33.362,-116.8456667,12.73,1.78,ml,64.0,25.0,0.01649,0.2,ci,ci40445136,2023-04-25T04:17:07.270Z,"2km ENE of Palomar Observatory, CA",earthquake,0.2,0.66,0.202,26.0,automatic,ci,ci
+2023-04-25T04:12:15.150Z,35.7639999,-121.2365036,9.17,3.23,ml,51.0,169.0,0.1058,0.1,nc,nc73877500,2023-04-25T04:19:10.713Z,"14km NNW of San Simeon, CA",earthquake,0.29,0.73,0.239,20.0,automatic,nc,nc
+2023-04-25T04:10:36.420Z,35.9426667,-117.6616667,8.55,1.03,ml,8.0,246.0,0.137,0.2,ci,ci40445120,2023-04-25T04:14:10.802Z,"22km E of Little Lake, CA",earthquake,1.73,2.97,0.13,5.0,automatic,ci,ci
+2023-04-25T03:28:22.918Z,31.6742,-104.3972,2.986,2.8,ml,37.0,56.0,0.089,0.76,us,us7000jvq0,2023-04-25T04:01:44.040Z,"55 km S of Whites City, New Mexico",earthquake,2.58,5.565,0.046,62.0,reviewed,us,us
