@@ -15793,3 +15793,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T09:14:43.890Z,38.4853333,-112.8488333,-0.14,0.83,ml,6.0,202.0,0.02079,0.06,uu,uu60538241,2023-04-25T13:26:09.080Z,"17 km NE of Milford, Utah",earthquake,0.65,0.22,0.143,2.0,reviewed,uu,uu
 2023-04-25T08:15:44.520Z,46.6331666666667,-114.085833333333,8.98,2.24,ml,21.0,122.0,0.2032,0.07,mb,mb90011388,2023-04-25T13:25:35.600Z,"0 km WNW of Florence, Montana",earthquake,0.3,0.92,0.41293803345598,12.0,reviewed,mb,mb
 2023-04-25T01:00:13.040Z,44.4475,-110.626,3.82,0.95,md,14.0,55.0,0.02917,0.13,uu,uu60538161,2023-04-25T13:33:53.550Z,"44 km ESE of West Yellowstone, Montana",earthquake,0.4,0.78,0.532,9.0,reviewed,uu,uu
+2023-04-25T13:34:45.964Z,63.6408,-151.5444,34.6,1.6,ml,,,,0.88,ak,ak0235aeqxjo,2023-04-25T13:36:36.647Z,"14 km NE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-24T20:17:37.455Z,31.72083436,-104.3034868,7.005639647999999,1.9,ml,33.0,62.0,0.05338468665,0.3,tx,tx2023iaaa,2023-04-25T13:40:13.444Z,"50 km S of Whites City, New Mexico",earthquake,0.7472514201,0.760671226,0.1,19.0,reviewed,tx,tx
