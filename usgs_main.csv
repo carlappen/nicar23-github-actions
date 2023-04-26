@@ -16190,3 +16190,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T09:16:01.115Z,39.3622,-120.0185,6.3,0.6,ml,6.0,171.36,0.071,0.146,nn,nn00858718,2023-04-26T17:19:03.894Z,"3 km S of Floriston, California",earthquake,,2.7,0.91,4.0,reviewed,nn,nn
 2023-04-26T08:15:08.180Z,33.1703333,-115.6933333,0.81,1.96,ml,7.0,214.0,0.0607,0.22,ci,ci37533564,2023-04-26T17:21:03.395Z,"16km NNW of Westmorland, CA",earthquake,1.31,2.93,0.019,1.0,reviewed,ci,ci
 2023-04-26T07:34:00.785Z,31.68417943,-104.3976805,6.979931641,2.5,ml,45.0,56.0,0.02436649539,0.3,tx,tx2023icrv,2023-04-26T17:19:09.465Z,"54 km S of Whites City, New Mexico",earthquake,0.8255680969,0.7701963245,0.1,23.0,reviewed,tx,tx
+2023-04-26T17:26:37.720Z,38.8131676,-122.7955017,1.8,1.08,md,18.0,39.0,0.005194,0.03,nc,nc73880631,2023-04-26T17:28:11.947Z,"5km NW of The Geysers, CA",earthquake,0.23,0.54,0.06,20.0,automatic,nc,nc
+2023-04-26T15:06:28.390Z,44.6161667,-110.7235,4.84,0.79,md,8.0,127.0,0.05839,0.08,uu,uu60538341,2023-04-26T17:28:07.580Z,"30 km E of West Yellowstone, Montana",earthquake,0.66,0.58,0.337,6.0,reviewed,uu,uu
+2023-04-26T09:41:12.968Z,38.7779,-118.6643,8.4,1.0,ml,10.0,87.61,0.515,0.1368,nn,nn00858720,2023-04-26T17:34:40.471Z,California-Nevada border region,earthquake,,2.6,0.2,5.0,reviewed,nn,nn
