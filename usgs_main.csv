@@ -16097,3 +16097,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T09:26:10.234Z,64.6698,-152.4916,15.727,3.7,ml,52.0,78.0,0.557,0.78,us,us7000jvzr,2023-04-26T09:35:12.040Z,"59 km SSW of Tanana, Alaska",earthquake,4.19,2.801,0.037,96.0,reviewed,us,us
 2023-04-26T09:47:39.780Z,33.3573333,-116.3475,11.55,0.82,ml,33.0,81.0,0.1063,0.19,ci,ci40445808,2023-04-26T09:51:10.249Z,"12km NNE of Borrego Springs, CA",earthquake,0.33,0.81,0.184,17.0,automatic,ci,ci
 2023-04-26T09:42:27.224Z,62.1584,-149.5973,41.2,1.7,ml,,,,0.27,ak,ak0235bzy7wi,2023-04-26T09:44:58.572Z,"13 km E of Susitna North, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-04-26T09:53:17.530Z,33.9783333,-116.7038333,16.84,0.69,ml,18.0,149.0,0.07589,0.15,ci,ci40445816,2023-04-26T09:56:46.534Z,"10km NE of Cabazon, CA",earthquake,0.45,0.7,0.196,16.0,automatic,ci,ci
