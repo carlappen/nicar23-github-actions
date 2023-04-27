@@ -16483,3 +16483,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T14:18:14.621Z,58.3274,-154.8582,1.1,0.8,ml,,,,0.16,ak,ak0235dqbk9i,2023-04-27T14:19:39.679Z,"87 km NNW of Karluk, Alaska",earthquake,,3.0,,,automatic,ak,ak
 2023-04-27T14:16:04.496Z,59.1127,-153.3738,142.7,1.4,ml,,,,0.51,ak,ak0235dqb41t,2023-04-27T14:18:39.942Z,"80 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-04-27T14:02:12.136Z,54.5733,-156.8407,16.116,4.0,mb,28.0,167.0,2.236,0.54,us,us7000jwag,2023-04-27T14:20:19.040Z,"208 km SE of Perryville, Alaska",earthquake,7.43,6.728,0.231,8.0,reviewed,us,us
+2023-04-27T13:43:06.831Z,37.1158,141.0486,64.1,4.3,mb,19.0,157.0,2.349,0.67,us,us7000jwa7,2023-04-27T14:30:53.040Z,"16 km ENE of Iwaki, Japan",earthquake,4.0,10.274,0.217,6.0,reviewed,us,us
