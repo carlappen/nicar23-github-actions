@@ -16414,3 +16414,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T08:01:19.641Z,61.4897,-146.5419,27.9,1.7,ml,,,,0.96,ak,ak0235dmnbuk,2023-04-27T08:04:08.268Z,"41 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-27T07:58:36.482Z,39.5093,-119.1533,10.3,1.9,ml,16.0,103.84,0.425,0.1853,nn,nn00858754,2023-04-27T08:00:47.378Z,"12 km NNE of Silver Springs, Nevada",earthquake,,1.4,0.23,8.0,automatic,nn,nn
 2023-04-27T07:43:38.176Z,26.0762,128.5545,10.0,5.3,mww,105.0,48.0,0.798,1.01,us,us7000jw7e,2023-04-27T08:02:45.040Z,"73 km SE of Ginoza, Japan",earthquake,5.65,1.835,0.066,22.0,reviewed,us,us
+2023-04-27T08:09:20.500Z,19.3361663818359,-155.123168945312,4.8600001335144,2.96,ml,37.0,116.0,,0.140000001,hv,hv73378487,2023-04-27T08:21:12.060Z,"14 km S of Fern Forest, Hawaii",earthquake,0.45,0.620000005,1.87,25.0,automatic,hv,hv
