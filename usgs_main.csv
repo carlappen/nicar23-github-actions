@@ -16370,3 +16370,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T01:55:29.274Z,-58.4346,-23.8858,10.0,5.1,mb,34.0,70.0,8.137,0.53,us,us7000jw5x,2023-04-27T02:17:15.040Z,South Sandwich Islands region,earthquake,11.86,1.924,0.09,40.0,reviewed,us,us
 2023-04-27T02:46:27.360Z,38.8204994,-122.821167,1.77,0.57,md,7.0,116.0,0.009135,0.01,nc,nc73880751,2023-04-27T02:48:03.641Z,"7km NW of The Geysers, CA",earthquake,0.72,1.42,0.2,8.0,automatic,nc,nc
 2023-04-27T02:44:56.217Z,63.1529,-144.2465,0.0,1.6,ml,,,,1.0,ak,ak0235djc0tx,2023-04-27T02:47:07.803Z,"35 km NW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-27T02:55:59.260Z,38.7949982,-122.7763367,0.3,0.4,md,8.0,114.0,0.009231,0.01,nc,nc73880756,2023-04-27T02:57:33.675Z,"3km NW of The Geysers, CA",earthquake,0.27,0.88,0.17,7.0,automatic,nc,nc
+2023-04-27T02:40:40.513Z,31.67,-104.4285,9.585,2.6,ml,19.0,119.0,0.062,0.47,us,us7000jw6b,2023-04-27T02:57:30.040Z,"56 km S of Whites City, New Mexico",earthquake,1.44,3.011,0.05,52.0,reviewed,us,us
