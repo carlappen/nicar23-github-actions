@@ -16652,3 +16652,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T11:56:13.605Z,36.4562,-115.7628,6.1,0.7,ml,10.0,326.64,0.261,0.1009,nn,nn00858785,2023-04-27T22:17:32.455Z,"15 km SSW of Indian Springs, Nevada",earthquake,,7.8,0.56,3.0,reviewed,nn,nn
 2023-04-27T11:27:59.741Z,41.6291,-120.3799,0.0,0.5,ml,3.0,329.2,0.28,0.1869,nn,nn00858784,2023-04-27T22:08:13.570Z,"13 km W of Lake City, California",earthquake,,0.0,0.63,2.0,reviewed,nn,nn
 2023-04-27T06:37:54.290Z,58.2826666666667,-155.000333333333,2.64,-0.85,ml,4.0,143.0,,0.06,av,av91098483,2023-04-27T22:10:56.370Z,"85 km NNW of Karluk, Alaska",earthquake,0.32,0.65,0.19432794463277,4.0,reviewed,av,av
+2023-04-27T12:03:47.348Z,39.3782,-119.9842,5.6,0.0,ml,3.0,260.22,0.095,0.0025,nn,nn00858786,2023-04-27T22:26:53.014Z,"3 km ESE of Floriston, California",earthquake,,8.8,0.0,1.0,reviewed,nn,nn
+2023-04-27T08:52:37.750Z,58.2201666666667,-155.0835,3.5,-0.41,ml,7.0,118.0,,0.1,av,av91865161,2023-04-27T22:30:32.020Z,"81 km NNW of Karluk, Alaska",earthquake,0.29,0.96,0.269949419569896,7.0,reviewed,av,av
