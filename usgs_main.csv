@@ -16746,3 +16746,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T03:40:16.480Z,32.697,-115.5308333,8.68,1.88,ml,20.0,62.0,0.09763,0.27,ci,ci40212319,2023-04-28T03:43:58.973Z,"4km NW of Calexico, CA",earthquake,0.55,1.63,0.243,28.0,automatic,ci,ci
 2023-04-28T03:15:38.820Z,18.0875,-67.0811666666667,18.06,1.69,md,4.0,159.0,0.06931,0.07,pr,pr71406963,2023-04-28T03:43:48.030Z,"0 km N of Sabana Eneas, Puerto Rico",earthquake,0.84,0.98,0.128793384848113,3.0,reviewed,pr,pr
 2023-04-28T03:13:51.683Z,-25.2657,178.424,598.467,6.6,mww,52.0,50.0,5.123,0.87,us,us7000jwhe,2023-04-28T03:45:26.089Z,south of the Fiji Islands,earthquake,12.31,5.411,0.098,10.0,reviewed,us,us
+2023-04-28T03:52:30.578Z,35.64795685,-97.96591187,4.490766048,1.84,ml,13.0,57.68686676,0.1389857531,0.5617534083,ok,ok2023igbn,2023-04-28T03:54:32.744Z,"8 km S of Okarche, Oklahoma",earthquake,3.072991981,2.773753324,0.19,12.0,automatic,ok,ok
+2023-04-28T03:50:59.623Z,64.9587,-149.2942,19.6,0.8,ml,,,,0.61,ak,ak0235f7i3h5,2023-04-28T03:55:27.743Z,"21 km S of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-28T03:46:03.921Z,64.9687,-149.3149,20.0,1.2,ml,,,,0.09,ak,ak0235f7h4bs,2023-04-28T03:47:33.099Z,"20 km S of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-28T03:41:18.469Z,31.6488,-104.2827,11.014,3.3,ml,27.0,65.0,0.187,0.45,us,us7000jwi4,2023-04-28T03:53:10.040Z,"59 km S of Whites City, New Mexico",earthquake,1.43,6.713,0.045,66.0,reviewed,us,us
+2023-04-28T03:34:10.983Z,-25.1079,178.3823,569.607,5.5,mww,64.0,55.0,5.27,0.94,us,us7000jwi2,2023-04-28T03:51:13.040Z,south of the Fiji Islands,earthquake,10.33,7.267,0.098,10.0,reviewed,us,us
