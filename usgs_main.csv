@@ -16899,3 +16899,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T14:51:53.680Z,33.5175,-116.4575,6.42,0.69,ml,8.0,227.0,0.02721,0.08,ci,ci40212847,2023-04-28T14:55:26.803Z,"20km ESE of Anza, CA",earthquake,0.64,31.61,0.111,15.0,automatic,ci,ci
 2023-04-28T08:05:07.918Z,31.65757734,-104.2739176,8.239624022999998,2.781108022,mlv,52.0,66.0,0.01601298744,0.2,tx,tx2023igjw,2023-04-28T15:04:52.085Z,"58 km S of Whites City, New Mexico",earthquake,0.655494633,0.7702329508,0.1800807812,36.0,reviewed,tx,tx
 2023-04-27T23:36:10.890Z,44.4563333,-110.2603333,10.62,1.91,md,20.0,155.0,0.05663,0.18,uu,uu60538506,2023-04-28T15:10:39.270Z,"64 km SSW of Silver Gate, Montana",earthquake,0.65,0.53,0.116,15.0,reviewed,uu,uu
+2023-04-28T15:15:46.259Z,60.2603,-152.786,113.3,1.6,ml,,,,0.4,ak,ak0235fefrnl,2023-04-28T15:17:45.311Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
+2023-04-28T14:26:44.155Z,-24.9306,178.961,608.807,4.8,mb,22.0,91.0,5.132,0.84,us,us7000jwnf,2023-04-28T15:18:39.040Z,south of the Fiji Islands,earthquake,19.39,18.254,0.114,24.0,reviewed,us,us
+2023-04-28T01:45:46.810Z,38.4811667,-112.8456667,-0.24,0.12,md,11.0,107.0,0.01157,0.07,uu,uu60538531,2023-04-28T15:24:01.190Z,"17 km ENE of Milford, Utah",earthquake,0.23,0.12,0.41,5.0,reviewed,uu,uu
