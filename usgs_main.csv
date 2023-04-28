@@ -16858,3 +16858,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T12:03:55.736Z,60.6036,-151.1819,33.7,1.8,ml,,,,0.74,ak,ak0235fckwyv,2023-04-28T12:06:25.472Z,"6 km NE of Kenai, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-28T12:02:27.940Z,32.6913333,-115.5271667,4.64,1.55,ml,16.0,67.0,0.09158,0.29,ci,ci40212663,2023-04-28T12:06:01.991Z,"3km WNW of Calexico, CA",earthquake,0.6,1.89,0.202,19.0,automatic,ci,ci
 2023-04-28T11:54:17.167Z,36.9862,-116.466,1.0,0.1,ml,9.0,122.0,0.048,0.2353,nn,nn00858835,2023-04-28T11:56:13.761Z,Nevada,earthquake,,0.8,1.27,5.0,automatic,nn,nn
+2023-04-28T12:34:58.020Z,33.4551667,-116.4725,10.06,0.45,ml,15.0,104.0,0.1154,0.28,ci,ci40212687,2023-04-28T12:38:30.366Z,"22km ESE of Anza, CA",earthquake,0.66,1.24,0.288,3.0,automatic,ci,ci
+2023-04-28T12:34:46.210Z,62.9302,-151.3152,107.1,1.8,ml,,,,0.36,ak,ak0235fcrjfx,2023-04-28T12:37:33.185Z,"55 km NNW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
