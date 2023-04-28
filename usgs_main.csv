@@ -16931,3 +16931,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T17:10:00.410Z,32.6986667,-115.538,8.85,1.82,ml,15.0,73.0,0.0964,0.24,ci,ci40213015,2023-04-28T17:13:42.173Z,"4km SSW of Heber, CA",earthquake,0.64,1.91,0.311,29.0,automatic,ci,ci
 2023-04-28T17:04:58.370Z,32.6961667,-115.535,4.72,1.95,ml,20.0,75.0,0.1318,0.25,ci,ci40213007,2023-04-28T17:08:45.547Z,"4km WNW of Calexico, CA",earthquake,0.54,1.57,0.302,28.0,automatic,ci,ci
 2023-04-28T04:58:33.790Z,38.4665,-112.7913333,4.73,-0.13,md,10.0,165.0,0.02348,0.07,uu,uu60538581,2023-04-28T17:16:12.830Z,"20 km ENE of Milford, Utah",earthquake,0.36,0.58,0.345,3.0,reviewed,uu,uu
+2023-04-28T17:18:50.787Z,63.1518,-151.3188,0.1,1.2,ml,,,,0.9,ak,ak0235ffnab2,2023-04-28T17:22:00.120Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-28T13:13:26.256Z,31.60747235,-104.0841808,8.959448242,2.3,ml,44.0,59.0,0.0271754271,0.3,tx,tx2023igua,2023-04-28T17:22:23.445Z,"42 km NW of Toyah, Texas",earthquake,0.5985794505,0.6334632759,0.2,19.0,reviewed,tx,tx
+2023-04-28T09:32:54.560Z,37.665,-118.8071667,3.21,0.19,md,9.0,218.0,0.01488,0.02,nc,nc73881351,2023-04-28T17:28:39.886Z,"15km ENE of Mammoth Lakes, CA",earthquake,0.8,0.8,0.238,10.0,reviewed,nc,nc
