@@ -16759,3 +16759,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T03:51:06.156Z,-25.0699,178.4673,571.557,5.5,mb,79.0,41.0,5.253,1.16,us,us7000jwiw,2023-04-28T04:11:52.067Z,south of the Fiji Islands,earthquake,10.44,7.942,0.069,72.0,reviewed,us,us
 2023-04-28T03:41:18.485Z,31.65726486,-104.2887165,7.391259766,3.1,ml,13.0,170.0,0.02486987522,0.2,tx,tx2023igbe,2023-04-28T03:56:38.517Z,"58 km S of Whites City, New Mexico",earthquake,1.066844063,1.019740027,0.3,9.0,reviewed,tx,tx
 2023-04-28T03:54:37.651Z,-16.7066,67.2722,10.0,5.0,mb,28.0,155.0,4.79,1.06,us,us7000jwjd,2023-04-28T04:19:57.040Z,Mid-Indian Ridge,earthquake,13.09,1.943,0.096,37.0,reviewed,us,us
+2023-04-28T04:37:00.111Z,60.0391,-153.3689,3.7,1.2,ml,,,,0.53,ak,ak0235f80m6z,2023-04-28T04:39:01.584Z,"49 km NE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-28T04:34:27.687Z,65.1163,-149.4733,10.5,0.8,ml,,,,0.48,ak,ak0235f80168,2023-04-28T04:36:17.261Z,northern Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-04-27T14:34:21.710Z,38.8193333,-122.8228333,2.34,-0.22,md,5.0,95.0,0.01076,0.03,nc,nc73880961,2023-04-28T04:38:00.705Z,"7km NW of The Geysers, CA",earthquake,0.45,0.96,0.114,4.0,reviewed,nc,nc
