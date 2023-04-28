@@ -17023,3 +17023,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T15:43:00.576Z,38.7101,-118.8188,8.6,1.0,ml,5.0,135.12,0.521,0.1261,nn,nn00858869,2023-04-28T21:35:21.845Z,"8 km NW of Walker Lake, Nevada",earthquake,,3.5,0.17,4.0,reviewed,nn,nn
 2023-04-28T04:33:47.650Z,60.0305,-153.093,-1.08,1.23,ml,6.0,114.0,,0.07,av,av91098568,2023-04-28T21:35:22.720Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.2,2.36,0.189495207373264,4.0,reviewed,av,av
 2023-04-28T01:26:32.240Z,46.38816666666666,-123.00883333333331,4.35,0.77,ml,8.0,248.0,0.2813,0.53,uw,uw61502558,2023-04-28T21:40:12.810Z,"2 km ENE of Ryderwood, Washington",earthquake,2.63,44.36,0.0935104512070712,5.0,reviewed,uw,uw
+2023-04-28T21:49:05.019Z,61.2656,-150.4032,34.8,1.4,ml,,,,0.64,ak,ak0235fi7kg5,2023-04-28T21:51:27.660Z,"25 km WSW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-28T21:42:15.337Z,19.1097,-67.7027,10.0,2.7,ml,15.0,238.0,0.85,0.25,us,us7000jwtr,2023-04-28T21:53:32.040Z,"93 km NW of San Antonio, Puerto Rico",earthquake,2.75,1.758,0.066,30.0,reviewed,us,us
+2023-04-28T21:14:43.050Z,52.2498333333333,-174.103333333333,11.24,0.25,ml,4.0,303.0,,0.16,av,av91867096,2023-04-28T21:53:31.660Z,"8 km NE of Atka, Alaska",earthquake,1.41,0.98,0.49669023967136,4.0,reviewed,av,av
+2023-04-27T23:46:49.530Z,43.663,-121.404,-1.74,1.66,ml,9.0,208.0,0.03662,0.17,uw,uw61919951,2023-04-28T21:49:24.970Z,"8 km E of La Pine, Oregon",explosion,0.79,31.61,0.0757877153406098,7.0,reviewed,uw,uw
