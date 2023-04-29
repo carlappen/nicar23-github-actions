@@ -17274,3 +17274,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T14:35:24.040Z,32.719,-115.5441667,9.59,2.02,ml,26.0,40.0,0.07944,0.29,ci,ci40214495,2023-04-29T14:39:01.048Z,"2km SW of Heber, CA",earthquake,0.56,1.12,0.28,27.0,automatic,ci,ci
 2023-04-29T14:34:39.750Z,38.5340004,-122.7848358,12.55,1.99,md,5.0,150.0,0.2432,0.06,nc,nc73881826,2023-04-29T14:36:13.557Z,"3km ESE of Windsor, CA",earthquake,6.22,5.39,0.45,2.0,automatic,nc,nc
 2023-04-29T14:31:21.660Z,35.6105,-117.486,6.56,0.66,ml,9.0,80.0,0.07446,0.19,ci,ci40214487,2023-04-29T14:35:03.857Z,"17km E of Ridgecrest, CA",earthquake,0.6,1.55,0.079,5.0,automatic,ci,ci
+2023-04-29T14:48:55.060Z,32.7103348,-115.5400009,10.29,3.03,ml,51.0,48.0,0.06217,0.24,ci,ci40214511,2023-04-29T14:53:17.379Z,"2km SSW of Heber, CA",earthquake,0.26,0.54,0.321,22.0,automatic,ci,ci
+2023-04-29T14:47:32.081Z,56.8134,-158.1289,3.8,2.3,ml,,,,0.51,ak,ak0235h1kid4,2023-04-29T14:49:16.873Z,"60 km NNE of Chignik, Alaska",earthquake,,5.4,,,automatic,ak,ak
+2023-04-29T14:43:57.632Z,63.28,-151.5362,1.9,1.2,ml,,,,0.91,ak,ak0235h1jphd,2023-04-29T14:46:56.574Z,"30 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-29T14:07:02.186Z,13.2167,50.98,10.0,4.7,mb,36.0,106.0,8.121,0.94,us,us7000jwyx,2023-04-29T14:44:58.040Z,"140 km N of Caluula, Somalia",earthquake,9.25,1.888,0.089,38.0,reviewed,us,us
