@@ -17463,3 +17463,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T22:56:32.000Z,33.0321667,-116.0081667,1.53,1.14,ml,26.0,51.0,0.1432,0.25,ci,ci40215207,2023-04-29T23:00:07.160Z,"17km SE of Ocotillo Wells, CA",earthquake,0.38,0.85,0.151,20.0,automatic,ci,ci
 2023-04-29T22:53:52.150Z,19.6529998779297,-156.066833496094,-1.22000002861023,2.52,ml,28.0,222.0,,0.349999994,hv,hv73383657,2023-04-29T23:11:53.572Z,"7 km WNW of Kailua-Kona, Hawaii",earthquake,2.25,0.810000002,0.21,5.0,automatic,hv,hv
 2023-04-29T22:37:57.156Z,-4.9285,133.8739,10.0,5.1,mb,62.0,42.0,2.571,0.93,us,us7000jx29,2023-04-29T23:02:55.040Z,"146 km ENE of Tual, Indonesia",earthquake,8.12,1.851,0.064,80.0,reviewed,us,us
+2023-04-29T23:29:58.331Z,63.2446,-145.3489,2.2,1.6,ml,,,,0.77,ak,ak0235h6tly1,2023-04-29T23:32:01.743Z,"21 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
