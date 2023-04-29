@@ -17200,3 +17200,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T10:06:16.270Z,38.8338318,-122.8148346,1.86,1.14,md,19.0,56.0,0.01107,0.01,nc,nc73881741,2023-04-29T10:07:52.293Z,"8km W of Cobb, CA",earthquake,0.22,0.47,0.15,21.0,automatic,nc,nc
 2023-04-29T09:58:58.990Z,37.6496658,-118.9448318,4.63,0.81,md,10.0,150.0,0.01683,0.02,nc,nc73881736,2023-04-29T10:08:10.564Z,"3km ENE of Mammoth Lakes, CA",earthquake,0.97,1.1,0.15,9.0,automatic,nc,nc
 2023-04-29T10:21:38.537Z,61.4444,-149.9816,34.2,2.1,ml,,,,0.33,ak,ak0235gz17tp,2023-04-29T10:23:08.442Z,"8 km S of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-29T10:34:47.569Z,64.3359,-148.1746,15.4,0.9,ml,,,,0.1,ak,ak0235gz40tw,2023-04-29T10:35:58.360Z,"48 km E of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
