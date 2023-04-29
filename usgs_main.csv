@@ -17298,3 +17298,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T15:09:12.230Z,32.7061667,-115.5295,6.97,1.74,ml,16.0,116.0,0.09699,0.24,ci,ci40214527,2023-04-29T15:12:49.233Z,"3km S of Heber, CA",earthquake,0.52,1.4,0.228,27.0,automatic,ci,ci
 2023-04-29T15:09:01.441Z,65.4393,-148.0537,13.4,0.7,ml,,,,0.26,ak,ak0235h1xqey,2023-04-29T15:11:04.015Z,"24 km ESE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-29T14:53:13.580Z,19.418,-155.325833333333,4.21,0.69,md,16.0,158.0,,0.07,hv,hv73382872,2023-04-29T15:10:26.050Z,"10 km WSW of Volcano, Hawaii",earthquake,0.39,0.55,0.198395386235951,4.0,reviewed,hv,hv
+2023-04-29T15:23:28.320Z,32.7033333,-115.5425,1.08,1.59,ml,12.0,107.0,0.1298,0.24,ci,ci40214559,2023-04-29T15:27:08.255Z,"3km SSW of Heber, CA",earthquake,0.73,31.61,0.213,19.0,automatic,ci,ci
+2023-04-29T15:20:31.010Z,19.4163333333333,-155.265,1.46,0.48,md,20.0,104.0,,0.1,hv,hv73382932,2023-04-29T15:31:50.240Z,"4 km SW of Volcano, Hawaii",earthquake,0.18,0.31,0.115841211159465,6.0,reviewed,hv,hv
