@@ -17254,3 +17254,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T13:34:09.207Z,54.7519,-157.8341,35.5,2.8,ml,,,,0.58,ak,ak0235h0w9i6,2023-04-29T13:36:32.304Z,"153 km SSE of Perryville, Alaska",earthquake,,15.4,,,automatic,ak,ak
 2023-04-29T13:43:34.000Z,32.6863327,-115.5266647,4.47,1.97,ml,31.0,64.0,0.08709,0.2,ci,ci40214439,2023-04-29T13:45:48.775Z,"3km WNW of Calexico, CA",earthquake,0.3,0.79,0.268,19.0,automatic,ci,ci
 2023-04-29T13:39:42.230Z,33.389,-116.894,14.41,0.92,ml,34.0,36.0,0.04398,0.19,ci,ci40214415,2023-04-29T13:43:25.271Z,"5km NW of Palomar Observatory, CA",earthquake,0.28,0.57,0.148,22.0,automatic,ci,ci
+2023-04-29T13:49:21.650Z,33.5255,-116.47,15.43,0.61,ml,18.0,162.0,0.03707,0.22,ci,ci40214463,2023-04-29T13:52:52.872Z,"19km E of Anza, CA",earthquake,0.67,0.59,0.15,12.0,automatic,ci,ci
