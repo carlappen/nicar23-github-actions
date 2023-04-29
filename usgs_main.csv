@@ -17203,3 +17203,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T10:34:47.569Z,64.3359,-148.1746,15.4,0.9,ml,,,,0.1,ak,ak0235gz40tw,2023-04-29T10:35:58.360Z,"48 km E of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-29T10:37:54.540Z,36.5773315,-121.2133331,4.84,2.36,md,43.0,76.0,0.02318,0.17,nc,nc73881746,2023-04-29T10:44:13.791Z,"8km NW of Pinnacles, CA",earthquake,0.33,0.84,0.1,38.0,automatic,nc,nc
 2023-04-29T10:23:19.190Z,17.9216666666667,-66.9485,6.21,2.27,md,5.0,229.0,0.08464,0.25,pr,pr71407213,2023-04-29T10:40:54.600Z,"7 km SW of Guánica, Puerto Rico",earthquake,1.44,0.63,0.0319312424076688,5.0,reviewed,pr,pr
+2023-04-29T10:55:35.413Z,61.7403,-147.3086,89.0,1.2,ml,,,,0.73,ak,ak0235gz8hxh,2023-04-29T10:57:01.929Z,"19 km ESE of Glacier View, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-04-29T10:55:32.190Z,32.7056656,-115.5463333,6.13,1.96,ml,37.0,95.0,0.06167,0.26,ci,ci40214127,2023-04-29T10:57:38.616Z,"3km SSW of Heber, CA",earthquake,0.37,1.07,0.291,19.0,automatic,ci,ci
+2023-04-29T10:50:47.770Z,34.1456667,-116.5978333,-0.2,1.43,ml,35.0,41.0,0.1147,0.21,ci,ci40214119,2023-04-29T10:54:24.118Z,"11km N of Morongo Valley, CA",earthquake,0.25,31.61,0.155,28.0,automatic,ci,ci
+2023-04-29T10:50:15.156Z,59.6357,-153.6854,239.4,2.0,ml,,,,0.81,ak,ak0235gz7dsb,2023-04-29T10:52:49.915Z,"29 km SE of Pedro Bay, Alaska",earthquake,,8.2,,,automatic,ak,ak
+2023-04-29T10:23:53.230Z,17.944,-66.9581666666667,16.85,2.63,md,10.0,215.0,0.05485,0.12,pr,pr71407223,2023-04-29T10:56:29.010Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.57,0.53,0.0803456350165632,4.0,reviewed,pr,pr
+2023-04-29T10:20:43.540Z,17.941,-66.9473333333333,15.02,2.77,md,20.0,216.0,0.04816,0.15,pr,pr71407218,2023-04-29T10:50:46.720Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.47,0.43,0.032218571387324,7.0,reviewed,pr,pr
