@@ -4,11 +4,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T11:18:41.922Z,59.8606,-153.4362,150.2,1.6,ml,,,,0.32,ak,ak0235in5d2y,2023-04-30T11:20:22.413Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-30T11:07:39.660Z,33.5838333,-116.8046667,8.01,0.43,ml,19,67,0.03526,0.15,ci,ci40215959,2023-04-30T11:11:14.794Z,"13km WNW of Anza, CA",earthquake,0.35,0.65,0.184,9,automatic,ci,ci
 2023-04-30T10:59:28.718Z,60.9651,-150.9707,59.2,1.5,ml,,,,0.31,ak,ak0235imsorr,2023-04-30T11:00:54.979Z,"14 km SE of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-04-30T10:51:04.110Z,18.8043333333333,-67.3261666666667,4.38,3.23,md,23,217,0.3529,0.24,pr,pr71407288,2023-04-30T11:30:43.800Z,"Mona Passage",earthquake,0.66,0.99,0.0759003368628832,7,reviewed,pr,pr
 2023-04-30T10:48:42.580Z,33.1941667,-115.5875,5.2,1.98,ml,10,113,0.07311,0.26,ci,ci40215951,2023-04-30T10:52:17.633Z,"8km SW of Niland, CA",earthquake,0.69,1.9,0.274,29,automatic,ci,ci
 2023-04-30T10:47:50.600Z,33.199,-115.601,1.58,1.3,ml,10,137,0.02403,0.21,ci,ci40215943,2023-04-30T10:51:22.116Z,"9km WSW of Niland, CA",earthquake,0.59,0.69,0.193,23,automatic,ci,ci
 2023-04-30T10:42:47.280Z,33.196,-115.6125,2.7,1.2,ml,9,130,0.01867,0.18,ci,ci40215935,2023-04-30T10:46:26.113Z,"10km WSW of Niland, CA",earthquake,0.86,0.47,0.223,18,automatic,ci,ci
 2023-04-30T10:27:58.581Z,62.153,-150.8658,54,1.8,ml,,,,0.51,ak,ak0235imlw5u,2023-04-30T10:29:50.069Z,"33 km ENE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-04-30T10:20:33.200Z,39.4495,-122.8895,0.82,1.81,md,22,118,0.1997,0.13,nc,nc73882256,2023-04-30T11:11:17.790Z,"8km NE of Lake Pillsbury, CA",earthquake,0.29,1.91,0.181,24,reviewed,nc,nc
+2023-04-30T10:20:33.200Z,39.4495,-122.8895,0.82,1.81,md,22,118,0.1997,0.13,nc,nc73882256,2023-04-30T11:35:18.925Z,"8km NE of Lake Pillsbury, CA",earthquake,0.29,1.91,0.181,24,reviewed,nc,nc
 2023-04-30T10:18:24.810Z,38.7821655,-122.7543335,1.14,0.56,md,8,120,0.0138,0.02,nc,nc73882251,2023-04-30T10:58:15.708Z,"1km NNE of The Geysers, CA",earthquake,0.43,0.92,0.3,9,automatic,nc,nc
 2023-04-30T10:15:02.248Z,61.3203,-150.1209,38.4,1.2,ml,,,,0.15,ak,ak0235imj780,2023-04-30T10:16:10.994Z,"8 km WSW of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-30T10:11:17.500Z,38.7804985,-122.7423325,0.82,1.05,md,9,110,0.005166,0.01,nc,nc73882246,2023-04-30T10:38:13.587Z,"1km ENE of The Geysers, CA",earthquake,0.31,0.61,0.08,8,automatic,nc,nc
@@ -417,5 +418,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T11:57:43.930Z,19.4218330383301,-155.274169921875,0.340000003576279,1.87,md,17,101,,0.109999999,hv,hv73382552,2023-04-29T12:00:31.820Z,"4 km WSW of Volcano, Hawaii",earthquake,0.2,0.400000006,0.620000005,9,automatic,hv,hv
 2023-04-29T11:44:21.947Z,40.1586,-121.0357,4.2,0.9,ml,4,285.07,0.595,0.0556,nn,nn00858893,2023-04-29T15:48:22.020Z,"3 km ESE of Canyondam, California",earthquake,,4.3,0.13,4,reviewed,nn,nn
 2023-04-29T11:43:21.400Z,38.8153343,-122.8241653,2.08,0.84,md,17,53,0.007552,0.02,nc,nc73881771,2023-04-29T13:40:10.970Z,"7km NW of The Geysers, CA",earthquake,0.26,0.42,0.22,17,automatic,nc,nc
-2023-04-29T11:37:51.216Z,63.4234,-151.3863,2,1.4,ml,,,,0.37,ak,ak0235gzq3v5,2023-04-29T11:39:54.025Z,"21 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-29T11:34:18.909Z,41.4721,-106.7741,5,2.5,ml,7,148,0.852,0.34,us,us7000jwxz,2023-04-29T11:56:22.040Z,"3 km NE of Saratoga, Wyoming",earthquake,1.72,1.919,0.071,26,reviewed,us,us
