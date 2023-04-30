@@ -17715,3 +17715,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T16:32:27.780Z,33.1954994,-115.5851669,2.37,1.79,ml,39.0,44.0,0.03125,0.19,ci,ci40216167,2023-04-30T16:34:48.385Z,"8km SW of Niland, CA",earthquake,0.32,0.42,0.326,26.0,automatic,ci,ci
 2023-04-30T16:28:30.510Z,39.3821678,-122.8993301,0.28,1.59,md,10.0,115.0,0.1774,0.15,nc,nc73882306,2023-04-30T16:30:05.090Z,"6km ESE of Lake Pillsbury, CA",earthquake,0.59,12.03,0.09,4.0,automatic,nc,nc
 2023-04-30T15:48:32.743Z,18.6102,-103.9016,56.144,4.5,mb,24.0,227.0,2.731,0.91,us,us7000jx76,2023-04-30T16:33:41.040Z,"24 km SW of Cerro de Ortega, Mexico",earthquake,7.92,11.312,0.061,79.0,reviewed,us,us
+2023-04-30T16:37:02.837Z,62.2405,-149.9081,16.5,1.2,ml,,,,0.57,ak,ak0235iq8inf,2023-04-30T16:39:17.931Z,"9 km NNW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
