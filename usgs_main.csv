@@ -17621,3 +17621,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T08:10:30.570Z,33.198,-115.594,1.55,1.62,ml,7.0,123.0,0.02736,0.12,ci,ci40215791,2023-04-30T08:14:05.756Z,"8km WSW of Niland, CA",earthquake,0.44,1.2,0.313,14.0,automatic,ci,ci
 2023-04-30T08:10:01.100Z,32.7006667,-115.5301667,3.6,1.86,ml,17.0,75.0,0.0997,0.3,ci,ci40215783,2023-04-30T08:13:46.755Z,"3km S of Heber, CA",earthquake,0.6,1.31,0.204,29.0,automatic,ci,ci
 2023-04-30T08:08:28.720Z,33.195,-115.5903333,2.15,1.64,ml,20.0,96.0,0.0275,0.17,ci,ci40215775,2023-04-30T08:12:12.750Z,"8km SW of Niland, CA",earthquake,0.33,0.35,0.245,31.0,automatic,ci,ci
+2023-04-30T08:32:47.800Z,62.7923,-148.773,11.9,0.9,ml,,,,0.3,ak,ak0235ilg2p8,2023-04-30T08:34:25.405Z,Central Alaska,earthquake,,0.2,,,automatic,ak,ak
+2023-04-30T08:24:03.050Z,32.8066667,-115.6486667,8.79,1.63,ml,5.0,259.0,0.3708,0.17,ci,ci40215839,2023-04-30T08:27:41.065Z,"9km WSW of Imperial, CA",earthquake,2.78,31.61,0.147,11.0,automatic,ci,ci
