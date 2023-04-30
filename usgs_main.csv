@@ -17623,3 +17623,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T08:08:28.720Z,33.195,-115.5903333,2.15,1.64,ml,20.0,96.0,0.0275,0.17,ci,ci40215775,2023-04-30T08:12:12.750Z,"8km SW of Niland, CA",earthquake,0.33,0.35,0.245,31.0,automatic,ci,ci
 2023-04-30T08:32:47.800Z,62.7923,-148.773,11.9,0.9,ml,,,,0.3,ak,ak0235ilg2p8,2023-04-30T08:34:25.405Z,Central Alaska,earthquake,,0.2,,,automatic,ak,ak
 2023-04-30T08:24:03.050Z,32.8066667,-115.6486667,8.79,1.63,ml,5.0,259.0,0.3708,0.17,ci,ci40215839,2023-04-30T08:27:41.065Z,"9km WSW of Imperial, CA",earthquake,2.78,31.61,0.147,11.0,automatic,ci,ci
+2023-04-30T08:35:34.350Z,33.2098333,-115.5988333,1.14,1.23,ml,11.0,156.0,0.03325,0.23,ci,ci40215847,2023-04-30T08:39:10.703Z,"8km WSW of Niland, CA",earthquake,0.81,31.61,0.125,22.0,automatic,ci,ci
