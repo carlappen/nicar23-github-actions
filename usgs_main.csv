@@ -17718,3 +17718,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T16:37:02.837Z,62.2405,-149.9081,16.5,1.2,ml,,,,0.57,ak,ak0235iq8inf,2023-04-30T16:39:17.931Z,"9 km NNW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-30T16:29:02.679Z,1.3235,126.3001,28.646,5.1,mb,51.0,85.0,1.199,0.71,us,us7000jx7c,2023-04-30T16:46:40.040Z,"131 km E of Bitung, Indonesia",earthquake,7.8,5.616,0.048,142.0,reviewed,us,us
 2023-04-30T16:23:41.320Z,17.9611666666667,-66.9605,7.05,2.32,md,11.0,197.0,0.05056,0.12,pr,pr71407318,2023-04-30T16:53:24.440Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.58,0.27,0.0468957589521872,4.0,reviewed,pr,pr
+2023-04-30T16:54:26.150Z,38.8231659,-122.7653351,1.82,1.1,md,21.0,121.0,0.008124,0.02,nc,nc73882311,2023-04-30T17:06:10.978Z,"4km W of Cobb, CA",earthquake,0.26,0.4,0.16,21.0,automatic,nc,nc
+2023-04-30T16:53:32.390Z,33.1858333,-115.6038333,2.35,1.17,ml,11.0,89.0,0.01295,0.15,ci,ci40216191,2023-04-30T16:57:05.728Z,"10km SW of Niland, CA",earthquake,0.44,0.33,0.17,18.0,automatic,ci,ci
