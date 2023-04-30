@@ -17524,3 +17524,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T04:08:08.100Z,35.8456667,-117.702,4.83,1.22,ml,17.0,98.0,0.0631,0.19,ci,ci40215407,2023-04-30T04:11:37.115Z,"21km ESE of Little Lake, CA",earthquake,0.31,0.65,0.2,11.0,automatic,ci,ci
 2023-04-30T04:01:23.580Z,38.8631668,-122.7848358,2.08,0.76,md,10.0,174.0,0.0256,0.03,nc,nc73882131,2023-04-30T04:18:13.422Z,"7km NW of Cobb, CA",earthquake,0.66,0.78,0.47,10.0,automatic,nc,nc
 2023-04-30T04:00:43.710Z,19.1926670074463,-155.512664794922,35.1199989318848,2.17,ml,39.0,88.0,,0.119999997,hv,hv73383942,2023-04-30T04:06:14.790Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.66,0.930000007,2.81,10.0,automatic,hv,hv
+2023-04-30T04:07:43.797Z,-10.7958,113.3698,25.735,4.5,mb,17.0,123.0,2.436,1.32,us,us7000jx3k,2023-04-30T04:24:09.040Z,"277 km S of Kencong, Indonesia",earthquake,8.84,2.632,0.22,7.0,reviewed,us,us
