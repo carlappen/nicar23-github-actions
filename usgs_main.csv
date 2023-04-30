@@ -17788,3 +17788,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T22:14:24.861Z,59.7597,-153.0866,96.6,0.8,ml,,,,0.44,ak,ak0235ito72r,2023-04-30T22:16:35.092Z,"57 km E of Pedro Bay, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-04-30T07:24:55.300Z,58.2408333333333,-155.1555,3.21,-0.31,ml,6.0,211.0,,0.08,av,av91868936,2023-04-30T22:20:48.100Z,"85 km NNW of Karluk, Alaska",earthquake,0.55,0.99,0.0895729839508985,8.0,reviewed,av,av
 2023-04-30T07:38:50.850Z,60.0103333333333,-153.121666666667,-1.42,-0.86,ml,5.0,148.0,,0.13,av,av91868951,2023-04-30T22:30:07.380Z,Southern Alaska,earthquake,0.62,10.55,0.223368538788443,5.0,reviewed,av,av
+2023-04-30T22:36:25.280Z,57.9964,-154.9894,90.4,1.0,ml,,,,0.1,ak,ak0235itsyao,2023-04-30T22:37:59.337Z,"57 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
