@@ -17673,3 +17673,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T12:59:21.186Z,59.2608,-152.1134,62.0,1.5,ml,,,,0.5,ak,ak0235inzjee,2023-04-30T13:02:14.650Z,"15 km SW of Nanwalek, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-04-30T12:58:01.090Z,32.7975,-115.63,14.39,1.26,ml,6.0,219.0,0.1545,0.27,ci,ci40216031,2023-04-30T13:01:39.678Z,"7km W of El Centro, CA",earthquake,2.69,2.05,0.375,12.0,automatic,ci,ci
 2023-04-30T12:54:20.889Z,58.2491,-155.2015,1.2,0.4,ml,,,,0.42,ak,ak0235inygso,2023-04-30T12:55:55.036Z,Alaska Peninsula,earthquake,,1.1,,,automatic,ak,ak
+2023-04-30T13:16:36.740Z,32.7065,-115.5351667,8.87,1.85,ml,25.0,49.0,0.09303,0.28,ci,ci40216039,2023-04-30T13:20:13.907Z,"3km S of Heber, CA",earthquake,0.57,1.39,0.206,27.0,automatic,ci,ci
+2023-04-30T13:02:07.807Z,61.3829,-151.9026,88.0,1.4,ml,,,,0.52,ak,ak0235io8qli,2023-04-30T13:14:15.412Z,"51 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
