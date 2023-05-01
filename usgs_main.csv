@@ -17904,3 +17904,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T10:10:51.460Z,19.4286670684814,-155.317337036133,2.25,1.84,ml,17.0,93.0,,0.100000001,hv,hv73385582,2023-05-01T10:16:21.040Z,"8 km W of Volcano, Hawaii",earthquake,0.31,0.419999987,0.12,3.0,automatic,hv,hv
 2023-05-01T10:10:46.525Z,64.6724,-146.9037,0.3,1.0,ml,,,,0.32,ak,ak0235ka1kjw,2023-05-01T10:12:43.332Z,Central Alaska,earthquake,,2.0,,,automatic,ak,ak
 2023-05-01T10:09:19.160Z,38.7290001,-122.9166641,6.23,2.38,md,49.0,48.0,0.06773,0.07,nc,nc73882661,2023-05-01T10:25:12.435Z,"12km SE of Cloverdale, CA",earthquake,0.19,0.58,0.18,60.0,automatic,nc,nc
+2023-05-01T10:30:05.430Z,38.7978325,-122.7671661,3.88,0.79,md,7.0,124.0,0.01687,0.02,nc,nc73882671,2023-05-01T10:31:40.071Z,"2km NNW of The Geysers, CA",earthquake,0.68,2.73,0.13,9.0,automatic,nc,nc
