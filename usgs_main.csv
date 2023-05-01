@@ -17950,3 +17950,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T22:01:52.969Z,35.256,-97.78083333,7.0,1.66,ml,30.0,37.0,0.02699470272,0.45,ok,ok2023ilcm,2023-05-01T16:24:04.696Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,1.0,0.13,3.0,reviewed,ok,ok
 2023-05-01T16:30:47.770Z,36.4346657,-121.0230026,5.72,1.97,md,21.0,146.0,0.01044,0.15,nc,nc73882746,2023-05-01T16:32:24.607Z,"15km SE of Pinnacles, CA",earthquake,0.59,0.69,0.15,19.0,automatic,nc,nc
 2023-04-30T22:26:59.890Z,36.70916667,-98.7245,5.76,1.75,ml,46.0,68.0,0.1223759857,0.15,ok,ok2023ildh,2023-05-01T16:32:53.030Z,"5 km E of Avard, Oklahoma",earthquake,,0.4,0.14,4.0,reviewed,ok,ok
+2023-04-30T20:06:54.840Z,39.0728333,-111.7766667,15.46,1.55,ml,21.0,62.0,0.2674,0.15,uu,uu60538801,2023-05-01T16:45:59.570Z,"6 km SSE of Centerfield, Utah",earthquake,0.36,0.56,0.163,3.0,reviewed,uu,uu
