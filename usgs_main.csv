@@ -17944,3 +17944,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T15:45:02.080Z,33.7,-116.6953333,16.6,0.79,ml,26.0,66.0,0.01925,0.23,ci,ci40216687,2023-05-01T15:48:36.366Z,"5km SSE of Idyllwild, CA",earthquake,0.4,0.57,0.199,20.0,automatic,ci,ci
 2023-04-30T19:12:21.789Z,35.14183333,-97.77283333,7.23,1.2,ml,29.0,90.0,0.05758869913,0.36,ok,ok2023ikww,2023-05-01T15:48:54.477Z,"9 km ESE of Amber, Oklahoma",earthquake,,0.9,0.32,3.0,reviewed,ok,ok
 2023-05-01T08:20:39.680Z,33.8851667,-118.6956667,10.35,1.25,ml,14.0,243.0,0.1507,0.12,ci,ci40216503,2023-05-01T16:11:50.089Z,"16km S of Malibu Beach, CA",earthquake,0.59,1.03,0.059,8.0,reviewed,ci,ci
+2023-05-01T16:11:21.309Z,59.9805,-152.2338,34.0,1.6,ml,,,,0.18,ak,ak0235kdmbya,2023-05-01T16:13:07.854Z,"28 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-01T15:55:18.651Z,26.0271,128.6477,10.0,4.6,mb,50.0,71.0,0.873,1.22,us,us7000jxcx,2023-05-01T16:26:00.040Z,"83 km SE of Taira, Japan",earthquake,5.87,1.848,0.08,47.0,reviewed,us,us
+2023-05-01T15:06:05.246Z,39.6236,20.599,17.841,4.4,mb,65.0,65.0,1.476,1.02,us,us7000jxcm,2023-05-01T16:18:37.040Z,"14 km SW of Rodotópi, Greece",earthquake,4.84,4.536,0.126,18.0,reviewed,us,us
+2023-04-30T22:01:52.969Z,35.256,-97.78083333,7.0,1.66,ml,30.0,37.0,0.02699470272,0.45,ok,ok2023ilcm,2023-05-01T16:24:04.696Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,1.0,0.13,3.0,reviewed,ok,ok
