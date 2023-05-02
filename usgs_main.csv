@@ -18221,3 +18221,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T21:48:55.476Z,61.038,-151.8114,78.7,0.6,ml,,,,0.13,ak,ak0235m4culn,2023-05-02T21:50:29.553Z,Southern Alaska,earthquake,,0.9,,,automatic,ak,ak
 2023-05-02T20:36:03.510Z,38.2691667,-112.6275,7.55,1.28,ml,8.0,219.0,0.0127,0.07,uu,uu60538966,2023-05-02T21:49:06.780Z,"1 km SE of Beaver, Utah",earthquake,0.46,0.53,0.148,3.0,reviewed,uu,uu
 2023-05-02T16:26:48.000Z,45.913833333333336,-118.362,-0.66,2.08,ml,4.0,96.0,0.06715,0.08,uw,uw61912027,2023-05-02T21:49:23.960Z,"2 km SE of Milton-Freewater, Oregon",explosion,0.39,31.61,0.1083040549359242,1.0,reviewed,uw,uw
+2023-05-02T21:54:57.670Z,18.0925,-67.0285,23.61,1.86,md,6.0,104.0,0.09911,0.15,pr,pr71407563,2023-05-02T22:01:35.460Z,"2 km NE of San Germán, Puerto Rico",earthquake,0.65,1.33,0.106287493128825,6.0,reviewed,pr,pr
+2023-05-02T21:54:41.774Z,60.2967,-153.1339,133.8,1.6,ml,,,,0.31,ak,ak0235m4e3u9,2023-05-02T21:56:41.737Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
+2023-05-02T21:20:30.028Z,55.7822,160.75,149.679,4.0,mb,22.0,122.0,3.025,0.54,us,us7000jxlm,2023-05-02T22:02:11.040Z,"60 km S of Klyuchi, Russia",earthquake,13.27,11.8,0.144,13.0,reviewed,us,us
