@@ -18246,3 +18246,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T06:00:56.630Z,51.8625,-178.093333333333,3.33,0.83,ml,4.0,210.0,,0.24,av,av91098808,2023-05-02T22:55:19.740Z,"100 km W of Adak, Alaska",earthquake,0.95,0.7,0.216121741222913,4.0,reviewed,av,av
 2023-05-02T06:00:26.780Z,51.8635,-178.092666666667,3.44,1.17,ml,4.0,208.0,,0.24,av,av91871191,2023-05-02T22:53:03.050Z,"100 km W of Adak, Alaska",earthquake,0.96,0.7,0.243347011190763,4.0,reviewed,av,av
 2023-05-02T07:45:18.170Z,51.8633333333333,-177.916,6.37,0.98,ml,4.0,177.0,,0.11,av,av91871311,2023-05-02T23:19:06.680Z,"88 km W of Adak, Alaska",earthquake,0.54,1.25,0.198956408204847,4.0,reviewed,av,av
+2023-05-02T23:20:04.899Z,64.942,-147.2947,0.0,1.6,ml,,,,0.97,ak,ak0235m5dlux,2023-05-02T23:23:14.765Z,"14 km WNW of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-02T09:22:12.190Z,58.2405,-155.144833333333,3.87,0.42,ml,9.0,202.0,,0.11,av,av91871356,2023-05-02T23:27:45.580Z,"85 km NNW of Karluk, Alaska",earthquake,0.57,0.53,0.139407389557717,10.0,reviewed,av,av
