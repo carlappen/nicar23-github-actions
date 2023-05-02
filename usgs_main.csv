@@ -18113,3 +18113,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T11:46:05.147Z,38.3777,-96.8782,5.0,2.3,mb_lg,23.0,104.0,0.736,0.55,us,us7000jxhg,2023-05-02T12:19:22.860Z,Kansas,earthquake,2.51,2.001,0.128,16.0,reviewed,us,us
 2023-05-02T00:21:17.760Z,35.7945,-96.97366667,7.13,1.1,ml,64.0,45.0,0.1826641551,0.23,ok,ok2023inco,2023-05-02T12:12:28.358Z,"3 km ESE of Carney, Oklahoma",earthquake,,0.5,0.2,24.0,reviewed,ok,ok
 2023-05-02T12:27:37.100Z,33.6816667,-116.7605,11.55,0.45,ml,18.0,112.0,0.04856,0.24,ci,ci40217191,2023-05-02T12:31:04.345Z,"8km SSW of Idyllwild, CA",earthquake,0.61,0.82,0.159,8.0,automatic,ci,ci
+2023-05-01T13:29:51.370Z,46.1093333333333,-111.9355,5.01,0.6,ml,4.0,199.0,0.2743,0.2,mb,mb90011978,2023-05-02T13:11:54.030Z,Western Montana,earthquake,1.45,12.54,0.312099251050982,2.0,reviewed,mb,mb
