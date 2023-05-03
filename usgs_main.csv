@@ -18343,3 +18343,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T05:21:46.363Z,59.8506,-153.0503,123.1,1.1,ml,,,,0.11,ak,ak0235ni7gdo,2023-05-03T05:23:17.023Z,"59 km E of Pedro Bay, Alaska",earthquake,,4.0,,,automatic,ak,ak
 2023-05-03T05:08:59.158Z,62.9345,-150.9692,95.6,1.6,ml,,,,0.41,ak,ak0235ni4p23,2023-05-03T05:10:59.002Z,"49 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-03T05:05:28.630Z,33.6463333,-116.7153333,12.24,0.51,ml,20.0,87.0,0.06467,0.11,ci,ci40217847,2023-05-03T05:08:52.394Z,"10km S of Idyllwild, CA",earthquake,0.26,0.63,0.199,9.0,automatic,ci,ci
+2023-05-03T05:30:07.560Z,19.4166660308838,-155.262496948242,1.5,1.92999995,md,22.0,108.0,,0.0799999982,hv,hv73387557,2023-05-03T05:33:17.040Z,"Island of Hawaii, Hawaii",earthquake,0.22,0.349999994,1.29999995,14.0,automatic,hv,hv
+2023-05-03T05:04:06.312Z,28.1291,105.1823,44.289,4.9,mb,85.0,32.0,7.905,0.83,us,us7000jxp5,2023-05-03T05:27:21.040Z,"Sichuan-Guizhou border region, China",earthquake,6.49,6.822,0.05,123.0,reviewed,us,us
