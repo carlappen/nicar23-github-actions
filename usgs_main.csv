@@ -18713,3 +18713,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T11:38:17.595Z,35.23389816,-98.03975677,6.423193455,3.2,ml,36.0,35.36764526,0.0332569927,0.4523653302,ok,ok2023irpx,2023-05-04T11:39:35.193Z,"9 km WNW of Pocasset, Oklahoma",earthquake,,2.575634765,0.3,11.0,automatic,ok,ok
 2023-05-04T11:37:43.905Z,63.1312,-148.7585,5.3,1.5,ml,,,,0.35,ak,ak0235p9etrq,2023-05-04T11:39:23.505Z,"30 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-04T11:35:23.280Z,39.9194984,-123.5666656,5.28,2.18,md,11.0,96.0,0.1218,0.19,nc,nc73883771,2023-05-04T11:42:10.578Z,"27km NNW of Laytonville, CA",earthquake,0.74,3.06,0.04,9.0,automatic,nc,nc
+2023-05-04T11:08:48.290Z,18.4866666666667,-67.4135,17.35,2.83,md,8.0,246.0,0.1193,0.12,pr,pr71407988,2023-05-04T11:43:12.250Z,"23 km NW of Rincón, Puerto Rico",earthquake,0.78,0.41,0.0262012310334951,4.0,reviewed,pr,pr
