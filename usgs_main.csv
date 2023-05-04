@@ -18668,3 +18668,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T06:22:30.056Z,65.4359,-148.0331,7.6,1.4,ml,,,,0.15,ak,ak0235p6cexp,2023-05-04T06:23:56.620Z,"25 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-04T06:12:59.690Z,34.0093333,-116.9426667,13.34,0.85,ml,22.0,77.0,0.08419,0.12,ci,ci40218783,2023-05-04T06:16:26.151Z,"9km NNE of Beaumont, CA",earthquake,0.31,0.84,0.151,19.0,automatic,ci,ci
 2023-05-04T05:29:16.303Z,42.105,140.967,129.066,4.3,mb,36.0,84.0,1.316,0.59,us,us6000k9eb,2023-05-04T06:15:23.040Z,"Hokkaido, Japan region",earthquake,8.27,9.535,0.104,26.0,reviewed,us,us
+2023-05-04T06:24:16.800Z,63.4973,-148.359,15.1,0.9,ml,,,,0.7,ak,ak0235p6ctcu,2023-05-04T06:35:15.817Z,"31 km ENE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
