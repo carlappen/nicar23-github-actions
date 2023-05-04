@@ -18664,3 +18664,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T12:48:21.120Z,38.819,-122.7656667,1.76,0.4,md,11.0,134.0,0.01192,0.01,nc,nc73883396,2023-05-04T05:21:48.204Z,"4km W of Cobb, CA",earthquake,0.83,0.5,0.181,9.0,reviewed,nc,nc
 2023-05-04T05:24:12.280Z,33.326,-116.8961667,19.71,0.71,ml,24.0,44.0,0.03931,0.18,ci,ci40218775,2023-05-04T05:27:46.570Z,"4km SW of Palomar Observatory, CA",earthquake,0.36,0.8,0.135,12.0,automatic,ci,ci
 2023-05-04T05:41:24.800Z,38.8408318,-122.8791656,2.47,1.23,md,24.0,93.0,0.004242,0.02,nc,nc73883706,2023-05-04T05:43:00.613Z,"13km ENE of Cloverdale, CA",earthquake,0.25,0.45,0.21,26.0,automatic,nc,nc
+2023-05-04T06:22:47.261Z,60.0935,-151.9321,91.4,1.3,ml,,,,0.58,ak,ak0235p6cg9i,2023-05-04T06:25:05.566Z,"15 km WNW of Ninilchik, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2023-05-04T06:22:30.056Z,65.4359,-148.0331,7.6,1.4,ml,,,,0.15,ak,ak0235p6cexp,2023-05-04T06:23:56.620Z,"25 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-04T06:12:59.690Z,34.0093333,-116.9426667,13.34,0.85,ml,22.0,77.0,0.08419,0.12,ci,ci40218783,2023-05-04T06:16:26.151Z,"9km NNE of Beaumont, CA",earthquake,0.31,0.84,0.151,19.0,automatic,ci,ci
+2023-05-04T05:29:16.303Z,42.105,140.967,129.066,4.3,mb,36.0,84.0,1.316,0.59,us,us6000k9eb,2023-05-04T06:15:23.040Z,"Hokkaido, Japan region",earthquake,8.27,9.535,0.104,26.0,reviewed,us,us
