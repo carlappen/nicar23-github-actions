@@ -18753,3 +18753,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T09:10:31.370Z,47.081833333333336,-121.91016666666668,18.82,0.37,ml,15.0,166.0,0.1,0.08,uw,uw61912602,2023-05-04T17:49:23.140Z,"10 km ESE of Wilkeson, Washington",earthquake,0.37,0.57,0.1472455042775481,5.0,reviewed,uw,uw
 2023-05-04T18:03:08.191Z,61.4076,-150.4156,35.0,1.9,ml,,,,0.38,ak,ak0235pddhwj,2023-05-04T18:04:47.004Z,"16 km SSE of Susitna, Alaska",earthquake,,21.5,,,automatic,ak,ak
 2023-05-04T18:01:34.520Z,33.0908333,-117.6161667,14.08,1.69,ml,23.0,197.0,0.3307,0.17,ci,ci40219023,2023-05-04T18:05:18.798Z,"26km WSW of Carlsbad, CA",earthquake,0.78,1.25,0.203,28.0,automatic,ci,ci
+2023-05-04T18:21:33.840Z,34.851,-116.3533333,5.05,2.35,ml,22.0,69.0,0.0263,0.14,ci,ci40219039,2023-05-04T18:25:16.908Z,"23km NW of Ludlow, CA",earthquake,0.25,0.48,0.173,26.0,automatic,ci,ci
+2023-05-04T18:20:12.032Z,38.1521,-117.8425,9.3,1.7,ml,8.0,131.84,0.121,0.1969,nn,nn00859057,2023-05-04T18:22:55.248Z,"35 km SE of Mina, Nevada",earthquake,,0.4,0.82,6.0,automatic,nn,nn
+2023-05-04T13:04:56.140Z,56.9113333333333,-158.058166666667,-2.53,1.57,ml,5.0,274.0,,0.25,av,av91098943,2023-05-04T18:25:48.530Z,"71 km NNE of Chignik, Alaska",earthquake,1.21,2.44,0.208028940642372,5.0,reviewed,av,av
