@@ -19056,3 +19056,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T15:37:25.320Z,58.183,-155.2371,0.0,1.4,ml,,,,0.39,ak,ak0235qzbv90,2023-05-05T15:39:26.814Z,"82 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-05T15:26:50.871Z,61.3812,-150.082,31.9,1.2,ml,,,,0.35,ak,ak0235qz9kcj,2023-05-05T15:38:54.303Z,"6 km WNW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-04T20:29:22.613Z,32.22381592,-103.1010623,5.600138346,2.1,ml,14.0,53.0,0.1106700808,0.3,tx,tx2023ishl,2023-05-05T15:40:29.735Z,"15 km NE of Jal, New Mexico",earthquake,1.196597871,2.5786970810000005,0.3,12.0,reviewed,tx,tx
+2023-05-05T15:47:47.690Z,32.5921667,-115.452,13.44,1.81,ml,9.0,115.0,0.2126,0.27,ci,ci40219423,2023-05-05T15:51:24.235Z,"7km SSE of Mexicali, B.C., MX",earthquake,0.94,3.23,0.247,19.0,automatic,ci,ci
+2023-05-05T15:35:31.079Z,35.798,-96.65366667,7.93,1.19,ml,61.0,46.0,0.1340736902,0.23,ok,ok2023ittg,2023-05-05T15:46:54.257Z,"5 km N of Stroud, Oklahoma",earthquake,,0.6,0.18,25.0,reviewed,ok,ok
