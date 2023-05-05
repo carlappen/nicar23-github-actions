@@ -18931,3 +18931,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T03:27:55.220Z,18.072,-66.915,21.78,2.49,md,8.0,86.0,0.1022,0.14,pr,pr71408053,2023-05-05T04:13:47.900Z,"3 km NNW of Lluveras, Puerto Rico",earthquake,0.53,1.26,0.11637944869314,8.0,reviewed,pr,pr
 2023-05-04T22:40:44.530Z,60.4371666666667,-152.7415,11.34,-1.22,ml,6.0,173.0,,0.06,av,av91874151,2023-05-05T04:04:33.020Z,"73 km NW of Ninilchik, Alaska",earthquake,0.8,0.45,0.210330898225388,6.0,reviewed,av,av
 2023-05-04T22:39:38.770Z,58.2735,-154.982666666667,3.21,0.86,ml,11.0,133.0,,0.11,av,av91874146,2023-05-05T04:00:50.120Z,"84 km NNW of Karluk, Alaska",earthquake,0.27,0.69,0.359938723768038,4.0,reviewed,av,av
+2023-05-05T04:21:39.410Z,38.8390007,-122.796669,0.82,0.89,md,14.0,78.0,0.004975,0.02,nc,nc73883991,2023-05-05T04:23:15.579Z,"7km WNW of Cobb, CA",earthquake,0.22,0.47,0.25,15.0,automatic,nc,nc
+2023-05-05T04:20:23.766Z,60.3833,-152.5636,87.2,1.4,ml,,,,0.71,ak,ak0235qsogaw,2023-05-05T04:22:30.916Z,"61 km NW of Ninilchik, Alaska",earthquake,,1.8,,,automatic,ak,ak
