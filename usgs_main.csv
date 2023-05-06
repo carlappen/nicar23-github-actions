@@ -19441,3 +19441,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T21:02:42.790Z,32.6461667,-115.5118333,2.19,1.85,ml,18.0,79.0,0.1502,0.33,ci,ci40220087,2023-05-06T21:06:22.358Z,"4km SSW of Calexico, CA",earthquake,0.69,0.95,0.198,27.0,automatic,ci,ci
 2023-05-06T18:48:17.189Z,50.676,156.5187,105.485,4.2,mb,48.0,153.0,2.543,0.72,us,us6000ka2q,2023-05-06T21:09:22.040Z,"27 km E of Severo-Kuril’sk, Russia",earthquake,8.73,7.762,0.085,38.0,reviewed,us,us
 2023-05-06T19:46:24.727Z,-6.1582,129.1053,243.981,4.4,mb,41.0,101.0,1.809,0.96,us,usd000jl9q,2023-05-06T21:19:06.040Z,Banda Sea,earthquake,9.13,6.105,0.112,23.0,reviewed,us,us
+2023-05-06T21:45:04.399Z,60.3308,-147.7244,13.1,1.6,ml,,,,0.46,ak,ak0235sqhhhj,2023-05-06T21:47:14.733Z,"33 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-06T21:40:13.690Z,35.7705,-117.597,2.16,1.62,ml,17.0,132.0,0.1417,0.18,ci,ci40220119,2023-05-06T21:43:47.900Z,"17km W of Searles Valley, CA",earthquake,0.52,0.75,0.098,7.0,automatic,ci,ci
+2023-05-06T21:39:53.510Z,35.7741667,-117.5943333,6.22,1.76,ml,20.0,69.0,0.1428,0.14,ci,ci40220111,2023-05-06T21:43:27.894Z,"17km W of Searles Valley, CA",earthquake,0.28,1.0,0.158,22.0,automatic,ci,ci
+2023-05-06T21:38:52.465Z,65.3669,-144.5805,0.0,1.5,ml,,,,1.0,ak,ak0235sqg36m,2023-05-06T21:41:46.168Z,northern Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-05-06T21:25:14.918Z,25.2948,143.6708,10.0,4.5,mb,14.0,229.0,11.543,0.79,us,us6000ka3b,2023-05-06T21:47:16.040Z,"Volcano Islands, Japan region",earthquake,11.43,2.002,0.15,13.0,reviewed,us,us
