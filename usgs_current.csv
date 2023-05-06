@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-06T21:47:57.638Z,65.4066,-144.7858,0,2.1,ml,,,,0.61,ak,ak0235sqi10z,2023-05-06T21:50:04.987Z,"18 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-06T21:45:04.399Z,60.3308,-147.7244,13.1,1.6,ml,,,,0.46,ak,ak0235sqhhhj,2023-05-06T21:47:14.733Z,"33 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-06T21:40:13.690Z,35.7705,-117.597,2.16,1.62,ml,17,132,0.1417,0.18,ci,ci40220119,2023-05-06T21:43:47.900Z,"17km W of Searles Valley, CA",earthquake,0.52,0.75,0.098,7,automatic,ci,ci
-2023-05-06T21:39:53.510Z,35.7741667,-117.5943333,6.22,1.76,ml,20,69,0.1428,0.14,ci,ci40220111,2023-05-06T21:43:27.894Z,"17km W of Searles Valley, CA",earthquake,0.28,1,0.158,22,automatic,ci,ci
+2023-05-06T21:39:53.510Z,35.7741667,-117.5943333,6.22,1.76,ml,20,69,0.1428,0.14,ci,ci40220111,2023-05-06T21:50:50.060Z,"17km W of Searles Valley, CA",earthquake,0.28,1,0.158,22,automatic,ci,ci
 2023-05-06T21:38:52.465Z,65.3669,-144.5805,0,1.5,ml,,,,1,ak,ak0235sqg36m,2023-05-06T21:41:46.168Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-06T21:25:14.918Z,25.2948,143.6708,10,4.5,mb,14,229,11.543,0.79,us,us6000ka3b,2023-05-06T21:47:16.040Z,"Volcano Islands, Japan region",earthquake,11.43,2.002,0.15,13,reviewed,us,us
 2023-05-06T21:02:42.790Z,32.6461667,-115.5118333,2.19,1.85,ml,18,79,0.1502,0.33,ci,ci40220087,2023-05-06T21:06:22.358Z,"4km SSW of Calexico, CA",earthquake,0.69,0.95,0.198,27,automatic,ci,ci
@@ -126,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T08:36:56.070Z,33.4731667,-116.5533333,9.75,0.59,ml,21,110,0.04614,0.17,ci,ci40219735,2023-05-06T08:40:25.600Z,"14km SE of Anza, CA",earthquake,0.35,0.6,0.084,14,automatic,ci,ci
 2023-05-06T08:26:15.950Z,38.7891655,-122.754837,0.17,1.19,md,12,84,0.01206,0.04,nc,nc73884466,2023-05-06T11:13:14.790Z,"1km N of The Geysers, CA",earthquake,0.28,0.58,0.16,13,automatic,nc,nc
 2023-05-06T08:18:24.810Z,19.4048328399658,-155.264007568359,0.839999973773956,1.88999999,md,13,123,,0.170000002,hv,hv73390607,2023-05-06T08:21:20.730Z,"5 km SW of Volcano, Hawaii",earthquake,0.27,0.340000004,1.57000005,10,automatic,hv,hv
-2023-05-06T08:12:14.531Z,39.3662,-119.8397,7.1,0.4,ml,7,116.64,0.057,0.1106,nn,nn00859143,2023-05-06T16:16:36.103Z,"Nevada",earthquake,,2.3,0,1,reviewed,nn,nn
+2023-05-06T08:12:14.531Z,39.3662,-119.8397,7.1,0.4,ml,7,116.64,0.057,0.1106,nn,nn00859143,2023-05-06T16:16:36.103Z,"15 km ESE of Floriston, California",earthquake,,2.3,0,1,reviewed,nn,nn
 2023-05-06T08:11:28.230Z,38.8045006,-122.7833328,1.46,0.76,md,8,80,0.009973,0.03,nc,nc73884461,2023-05-06T08:26:14.765Z,"4km NW of The Geysers, CA",earthquake,0.44,0.75,0.06,7,automatic,nc,nc
 2023-05-06T08:01:02.922Z,28.9039,86.619,40.24,4.3,mb,36,97,1.614,0.69,us,us6000k9zr,2023-05-06T08:30:17.040Z,"western Xizang",earthquake,6.62,10.676,0.104,26,reviewed,us,us
 2023-05-06T08:00:15.680Z,38.8166656,-122.8248367,1.96,0.76,md,7,130,0.008493,0.01,nc,nc73884456,2023-05-06T10:45:12.630Z,"7km NW of The Geysers, CA",earthquake,0.58,1.3,0.17,8,automatic,nc,nc
