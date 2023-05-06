@@ -19406,3 +19406,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T17:26:35.130Z,35.207,-118.6743333,5.94,1.76,ml,36.0,51.0,0.02677,0.18,ci,ci40220007,2023-05-06T17:30:23.640Z,"14km E of Arvin, CA",earthquake,0.26,0.75,0.131,25.0,automatic,ci,ci
 2023-05-06T17:35:25.450Z,33.4751667,-116.4241667,12.67,0.53,ml,20.0,81.0,0.04812,0.27,ci,ci40220015,2023-05-06T17:38:57.687Z,"24km SSW of La Quinta, CA",earthquake,0.52,1.06,0.085,12.0,automatic,ci,ci
 2023-05-06T17:34:57.820Z,60.2599,-152.4387,80.3,0.7,ml,,,,0.25,ak,ak0235so1iba,2023-05-06T17:36:25.279Z,Southern Alaska,earthquake,,1.6,,,automatic,ak,ak
+2023-05-06T14:10:06.430Z,39.0073333,-123.471,2.76,1.19,md,13.0,106.0,0.06599,0.11,nc,nc73884536,2023-05-06T17:51:48.391Z,"9km W of Boonville, CA",earthquake,0.3,1.64,0.232,12.0,reviewed,nc,nc
+2023-05-06T12:21:59.580Z,38.7946667,-122.7608333,2.23,0.47,md,10.0,113.0,0.006014,0.01,nc,nc73884516,2023-05-06T17:54:18.535Z,"2km NNW of The Geysers, CA",earthquake,0.32,0.52,0.053,9.0,reviewed,nc,nc
