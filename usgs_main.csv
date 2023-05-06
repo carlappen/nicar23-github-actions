@@ -19368,3 +19368,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T14:46:00.811Z,64.3529,-149.4071,3.6,1.0,ml,,,,0.52,ak,ak0235smbnox,2023-05-06T14:48:05.987Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
 2023-05-06T14:42:35.760Z,32.6818333,-115.5286667,3.39,2.26,ml,19.0,72.0,0.1139,0.27,ci,ci40219855,2023-05-06T14:46:18.796Z,"3km W of Calexico, CA",earthquake,0.61,1.08,0.168,28.0,automatic,ci,ci
 2023-05-06T14:41:30.850Z,32.7041667,-115.5388333,7.08,2.55,ml,30.0,61.0,0.09218,0.29,ci,ci40219847,2023-05-06T14:52:08.250Z,"3km SSW of Heber, CA",earthquake,0.53,1.36,0.217,26.0,automatic,ci,ci
+2023-05-06T15:04:26.062Z,62.0583,-148.0099,21.2,0.8,ml,,,,0.38,ak,ak0235smo566,2023-05-06T15:06:14.278Z,"33 km NW of Glacier View, Alaska",earthquake,,0.9,,,automatic,ak,ak
