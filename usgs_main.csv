@@ -19348,3 +19348,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T12:29:27.138Z,37.8151,36.5778,10.0,4.2,mb,17.0,95.0,0.298,0.77,us,us6000ka0l,2023-05-06T12:43:54.040Z,"23 km SSE of Göksun, Turkey",earthquake,3.7,1.961,0.186,8.0,reviewed,us,us
 2023-05-06T12:47:20.470Z,17.9051666666667,-66.8728333333333,9.17,2.08,md,5.0,234.0,0.06978,0.09,pr,pr71408313,2023-05-06T12:57:14.000Z,"8 km SSE of Guánica, Puerto Rico",earthquake,1.65,1.16,0.117095041164415,4.0,reviewed,pr,pr
 2023-05-06T13:21:55.339Z,62.4512,-149.3128,12.6,1.1,ml,,,,0.26,ak,ak0235slkze5,2023-05-06T13:23:17.466Z,Central Alaska,earthquake,,0.3,,,automatic,ak,ak
+2023-05-06T13:31:17.378Z,63.2891,-144.8652,0.0,1.8,ml,,,,0.78,ak,ak0235sln1mh,2023-05-06T13:33:17.554Z,"41 km SSW of Dry Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-06T13:18:35.700Z,17.9265,-66.9555,15.69,1.88,md,6.0,230.0,0.08717,0.08,pr,pr71408318,2023-05-06T13:32:29.760Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.79,0.59,0.139315987653547,4.0,reviewed,pr,pr
