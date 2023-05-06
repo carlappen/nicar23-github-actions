@@ -19273,3 +19273,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T04:58:28.129Z,62.5299,-148.9983,33.0,1.4,ml,,,,0.46,ak,ak0235sgfycc,2023-05-06T04:59:58.060Z,"57 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-05T21:32:36.790Z,58.2495,-155.075666666667,4.91,-0.55,ml,9.0,104.0,,0.14,av,av91875491,2023-05-06T05:07:22.370Z,"84 km NNW of Karluk, Alaska",earthquake,0.32,0.67,0.228383582804827,9.0,reviewed,av,av
 2023-05-05T21:24:22.390Z,51.8518333333333,-178.078,2.72,0.46,ml,5.0,206.0,,0.12,av,av91875481,2023-05-06T05:03:44.210Z,"99 km W of Adak, Alaska",earthquake,0.56,1.75,0.294070980720253,5.0,reviewed,av,av
+2023-05-06T04:56:24.948Z,15.8759,-92.3701,177.901,5.0,mww,57.0,123.0,0.462,1.02,us,us6000k9yt,2023-05-06T05:14:59.040Z,"8 km SW of Nueva América, Mexico",earthquake,8.72,5.816,0.098,10.0,reviewed,us,us
+2023-05-05T21:04:21.320Z,58.2655,-155.101,4.13,-0.39,ml,5.0,116.0,,0.1,av,av91099168,2023-05-06T05:19:50.710Z,"86 km NNW of Karluk, Alaska",earthquake,0.42,1.29,0.219914153847336,5.0,reviewed,av,av
+2023-05-05T18:20:32.430Z,36.3788333,-121.2211667,6.99,1.26,md,21.0,55.0,0.1268,0.09,nc,nc73884286,2023-05-06T05:23:53.561Z,"7km NNE of Greenfield, CA",earthquake,0.3,1.32,0.129,15.0,reviewed,nc,nc
