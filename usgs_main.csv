@@ -19538,3 +19538,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T07:03:59.660Z,34.0793333,-117.135,0.23,1.4,ml,8.0,121.0,0.1451,0.3,ci,ci40220255,2023-05-07T07:07:35.312Z,"1km N of Mentone, CA",earthquake,1.34,31.61,0.493,9.0,automatic,ci,ci
 2023-05-07T07:00:31.247Z,60.0611,-152.8079,102.9,1.4,ml,,,,0.29,ak,ak0235u5f6c7,2023-05-07T07:02:28.597Z,Southern Alaska,earthquake,,0.4,,,automatic,ak,ak
 2023-05-07T07:26:45.138Z,63.3969,-150.9041,0.0,1.0,ml,,,,0.67,ak,ak0235u5ks1t,2023-05-07T07:28:50.492Z,"43 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-07T07:39:36.540Z,59.621,-152.3009,63.6,1.2,ml,,,,0.54,ak,ak0235u5njp2,2023-05-07T07:41:21.308Z,"31 km WSW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-05-07T07:37:50.630Z,35.5816667,-119.8125,0.34,1.25,ml,12.0,199.0,0.1869,0.22,ci,ci40220271,2023-05-07T07:41:23.390Z,"31km NNE of Simmler, CA",earthquake,1.85,31.61,0.22,14.0,automatic,ci,ci
