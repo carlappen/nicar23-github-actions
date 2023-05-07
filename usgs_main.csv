@@ -19493,3 +19493,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T02:50:05.119Z,60.839,-152.9232,247.0,1.6,ml,,,,0.88,ak,ak0235u2qo4f,2023-05-07T02:53:26.647Z,"90 km W of Nikiski, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-05-07T02:46:03.000Z,38.8113327,-122.7556686,1.13,0.74,md,8.0,113.0,0.01115,0.01,nc,nc73884771,2023-05-07T02:47:38.843Z,"3km WSW of Cobb, CA",earthquake,0.31,0.72,0.05,8.0,automatic,nc,nc
 2023-05-07T02:43:32.181Z,64.5336,-150.255,20.0,1.0,ml,,,,0.47,ak,ak0235u2p876,2023-05-07T02:45:13.928Z,"54 km W of Four Mile Road, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-05-07T03:02:19.903Z,59.7404,-153.8067,144.7,1.5,ml,,,,0.96,ak,ak0235u31uh4,2023-05-07T03:06:43.921Z,"17 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
