@@ -19659,3 +19659,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T18:34:55.180Z,35.5601654,-118.893837,9.65,1.9,ml,30.0,79.0,0.08865,0.26,ci,ci40220511,2023-05-07T18:37:01.646Z,"19km NE of Oildale, CA",earthquake,0.33,0.76,0.183,11.0,automatic,ci,ci
 2023-05-07T18:34:42.188Z,62.7727,-149.686,75.3,1.0,ml,,,,0.37,ak,ak0235uc697e,2023-05-07T18:36:47.427Z,"41 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-07T18:28:31.490Z,60.9736,-151.7988,108.6,0.9,ml,,,,0.64,ak,ak0235uc4y31,2023-05-07T18:31:15.863Z,"Kenai Peninsula, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2023-05-07T18:39:36.240Z,33.1755,-116.4093333,10.38,0.93,ml,24.0,72.0,0.09268,0.27,ci,ci40220519,2023-05-07T18:43:15.996Z,"10km SSW of Borrego Springs, CA",earthquake,0.46,1.03,0.166,18.0,automatic,ci,ci
