@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-07T08:31:38.012Z,61.7174,-148.4448,4.4,1.2,ml,,,,0.71,ak,ak0235u679op,2023-05-07T08:33:55.776Z,"8 km S of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-07T08:28:23.735Z,35.24039459,-98.04353333,0.1106850579,3.09,ml,94,21.16207886,0.03449582309,0.686646429,ok,ok2023iwwe,2023-05-07T08:33:23.582Z,"9 km WNW of Pocasset, Oklahoma",earthquake,1.314774281,1.006373082,0.27,50,automatic,ok,ok
 2023-05-07T08:18:07.841Z,58.1231,-155.5659,59.6,0.9,ml,,,,0.92,ak,ak0235u64f1s,2023-05-07T08:20:02.267Z,"89 km SE of King Salmon, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-05-07T08:13:08.957Z,61.0034,-148.107,3.8,1.7,ml,,,,0.56,ak,ak0235u63cjz,2023-05-07T08:15:07.222Z,"40 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-07T07:54:43.108Z,58.1605,-153.0518,63.3,1.7,ml,,,,0.55,ak,ak0235u5qrxy,2023-05-07T08:03:22.071Z,"Kodiak Island region, Alaska",earthquake,,3.1,,,automatic,ak,ak
@@ -216,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T09:26:04.577Z,65.4119,-148.0647,14.1,0.9,ml,,,,0.23,ak,ak0235sj87mx,2023-05-06T09:27:32.911Z,"25 km ESE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-06T09:00:17.300Z,38.7791672,-122.7570038,1.32,1.03,md,12,82,0.01086,0.02,nc,nc73884476,2023-05-06T11:40:11.962Z,"0km NNW of The Geysers, CA",earthquake,0.31,0.59,0.26,12,automatic,nc,nc
 2023-05-06T08:46:37.290Z,38.7985001,-122.7781677,3.22,0.74,md,12,76,0.009289,0.01,nc,nc73884471,2023-05-06T09:03:16.011Z,"3km NW of The Geysers, CA",earthquake,0.41,1.12,0.36,11,automatic,nc,nc
-2023-05-06T08:36:56.070Z,33.4731667,-116.5533333,9.75,0.59,ml,21,110,0.04614,0.17,ci,ci40219735,2023-05-06T08:40:25.600Z,"14km SE of Anza, CA",earthquake,0.35,0.6,0.084,14,automatic,ci,ci
