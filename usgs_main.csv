@@ -19648,3 +19648,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T17:03:29.223Z,61.417,-146.6157,20.1,1.9,ml,,,,0.82,ak,ak0235ube5ei,2023-05-07T17:05:36.876Z,"34 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-07T17:01:41.510Z,33.1168333,-115.6233333,6.13,1.47,ml,26.0,77.0,0.03648,0.24,ci,ci40220495,2023-05-07T17:05:14.825Z,"9km N of Westmorland, CA",earthquake,0.4,1.11,0.291,28.0,automatic,ci,ci
 2023-05-07T16:57:58.140Z,37.4571648,-121.7941666,1.91,1.59,md,8.0,63.0,0.008406,0.03,nc,nc73885001,2023-05-07T17:14:11.932Z,"10km ENE of Milpitas, CA",earthquake,0.32,0.43,0.09,5.0,automatic,nc,nc
+2023-05-07T17:20:17.291Z,56.0948,-158.9544,18.5,1.2,ml,,,,0.18,ak,ak0235ubhrnl,2023-05-07T17:22:31.311Z,Alaska Peninsula,earthquake,,1.8,,,automatic,ak,ak

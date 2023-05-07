@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-07T17:10:44.567Z,61.0236,-152.2754,111.9,0.2,ml,,,,0.41,ak,ak0235ubfokk,2023-05-07T17:13:26.857Z,"Southern Alaska",earthquake,,2.6,,,automatic,ak,ak
+2023-05-07T17:20:17.291Z,56.0948,-158.9544,18.5,1.2,ml,,,,0.18,ak,ak0235ubhrnl,2023-05-07T17:22:31.311Z,"Alaska Peninsula",earthquake,,1.8,,,automatic,ak,ak
 2023-05-07T17:03:29.223Z,61.417,-146.6157,20.1,1.9,ml,,,,0.82,ak,ak0235ube5ei,2023-05-07T17:05:36.876Z,"34 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-07T17:01:41.510Z,33.1168333,-115.6233333,6.13,1.47,ml,26,77,0.03648,0.24,ci,ci40220495,2023-05-07T17:05:14.825Z,"9km N of Westmorland, CA",earthquake,0.4,1.11,0.291,28,automatic,ci,ci
 2023-05-07T16:57:58.140Z,37.4571648,-121.7941666,1.91,1.59,md,8,63,0.008406,0.03,nc,nc73885001,2023-05-07T17:14:11.932Z,"10km ENE of Milpitas, CA",earthquake,0.32,0.43,0.09,5,automatic,nc,nc
@@ -224,6 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T17:30:17.508Z,61.4423,-150.0722,30.1,1.4,ml,,,,0.48,ak,ak0235so0kc6,2023-05-06T17:32:07.686Z,"10 km NNW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-06T17:27:05.280Z,38.7818336,-122.7328339,1.79,0.78,md,7,165,0.003349,0.02,nc,nc73884576,2023-05-06T19:00:14.738Z,"2km ENE of The Geysers, CA",earthquake,0.69,1.37,0.13,7,automatic,nc,nc
 2023-05-06T17:26:35.130Z,35.207,-118.6743333,5.94,1.76,ml,36,51,0.02677,0.18,ci,ci40220007,2023-05-06T17:37:44.990Z,"14km E of Arvin, CA",earthquake,0.26,0.75,0.131,25,automatic,ci,ci
-2023-05-06T17:19:04.770Z,32.6953333,-115.5368333,4.66,1.64,ml,12,99,0.09942,0.29,ci,ci40219991,2023-05-06T17:22:47.601Z,"4km WNW of Calexico, CA",earthquake,0.89,2.06,0.169,24,automatic,ci,ci
-2023-05-06T17:16:42.364Z,38.1549,-117.7884,5.2,1.5,ml,12,134.16,0.1,0.3195,nn,nn00859147,2023-05-06T17:19:29.822Z,"38 km SE of Mina, Nevada",earthquake,,0.6,0.86,7,automatic,nn,nn
-2023-05-06T17:16:35.890Z,33.5926667,-116.6161667,12.69,0.53,ml,19,71,0.0177,0.09,ci,ci40219983,2023-05-07T14:49:52.165Z,"7km NE of Anza, CA",earthquake,0.21,0.35,0.249,4,reviewed,ci,ci
