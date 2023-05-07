@@ -19602,3 +19602,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T13:38:19.720Z,34.0496667,-116.419,4.88,1.33,ml,34.0,58.0,0.03109,0.21,ci,ci40220383,2023-05-07T13:41:56.185Z,"7km S of Yucca Valley, CA",earthquake,0.3,0.5,0.181,27.0,automatic,ci,ci
 2023-05-07T13:37:41.160Z,19.1568336486816,-155.468338012695,29.9599990844727,2.5,ml,43.0,123.0,,0.119999997,hv,hv73391597,2023-05-07T13:43:11.370Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.58,0.680000007,2.7,11.0,automatic,hv,hv
 2023-05-07T07:24:40.380Z,38.8281667,-122.8536667,2.74,0.1,md,25.0,62.0,0.00258,0.03,nc,nc73884871,2023-05-07T13:41:44.640Z,"10km NW of The Geysers, CA",earthquake,0.16,0.23,0.374,25.0,reviewed,nc,nc
+2023-05-07T13:50:28.037Z,58.2212,-154.652,34.8,0.9,ml,,,,0.54,ak,ak0235u9ahzw,2023-05-07T13:53:41.641Z,"73 km N of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-05-07T13:43:58.395Z,59.5363,-152.1702,28.1,2.0,ml,,,,0.9,ak,ak0235u991vj,2023-05-07T13:46:32.314Z,Southern Alaska,earthquake,,4.9,,,automatic,ak,ak
