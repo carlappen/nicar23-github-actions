@@ -19505,3 +19505,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T03:53:27.380Z,19.3964996337891,-155.313659667969,3.59999990463257,2.1500001,md,19.0,60.0,,0.300000012,hv,hv73391242,2023-05-07T03:56:25.870Z,"9 km WSW of Volcano, Hawaii",earthquake,0.64,0.920000017,1.47000003,10.0,automatic,hv,hv
 2023-05-07T04:21:27.211Z,58.1251,-155.578,17.5,0.8,ml,,,,0.53,ak,ak0235u3rd9t,2023-05-07T04:22:31.938Z,"89 km SE of King Salmon, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-05-07T02:39:58.558Z,13.0802,144.4353,54.179,4.5,mb,24.0,144.0,0.659,0.35,us,us6000ka5e,2023-05-07T04:26:07.934Z,"32 km SW of Merizo Village, Guam",earthquake,10.91,8.667,0.128,18.0,reviewed,us,us
+2023-05-07T04:36:05.910Z,38.8195,-122.8223343,2.25,1.31,md,27.0,47.0,0.01034,0.02,nc,nc73884786,2023-05-07T04:37:39.010Z,"7km NW of The Geysers, CA",earthquake,0.19,0.32,0.17,27.0,automatic,nc,nc
+2023-05-07T04:29:51.220Z,33.0198333,-115.8976667,0.67,1.08,ml,6.0,217.0,0.3452,0.14,ci,ci40220223,2023-05-07T04:33:16.403Z,"26km ESE of Ocotillo Wells, CA",earthquake,2.15,31.61,0.225,6.0,automatic,ci,ci
+2023-05-07T04:12:43.382Z,-22.4215,-68.7303,111.063,4.4,mwr,33.0,65.0,0.734,1.19,us,us6000ka5c,2023-05-07T04:31:15.040Z,"20 km E of Calama, Chile",earthquake,5.68,6.056,,,reviewed,us,guc
