@@ -19749,3 +19749,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T03:58:09.173Z,57.5982,-155.6352,76.6,1.1,ml,,,,0.27,ak,ak0235vqx69h,2023-05-08T03:59:22.137Z,"70 km W of Karluk, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2023-05-08T03:57:40.250Z,19.4141674041748,-155.315505981445,3.46000003814697,2.11,ml,27.0,79.0,,0.140000001,hv,hv73392187,2023-05-08T04:03:11.060Z,"9 km WSW of Volcano, Hawaii",earthquake,0.33,0.519999981,0.76,6.0,automatic,hv,hv
 2023-05-08T03:53:41.127Z,31.6331,-104.4858,8.78,2.7,mb_lg,35.0,81.0,0.038,0.63,us,us6000kab7,2023-05-08T04:14:43.040Z,"61 km S of Whites City, New Mexico",earthquake,2.79,7.401,0.096,44.0,reviewed,us,us
+2023-05-08T04:03:24.899Z,12.9959,57.9456,10.0,4.7,mb,79.0,117.0,12.0,0.54,us,us6000kabb,2023-05-08T04:23:38.040Z,Owen Fracture Zone region,earthquake,9.6,1.833,0.067,68.0,reviewed,us,us
