@@ -19810,3 +19810,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T11:54:07.940Z,19.333833694458,-155.273834228516,-0.970000028610229,1.83,ml,28.0,112.0,,0.330000013,hv,hv73392667,2023-05-08T11:59:39.360Z,"12 km SSW of Volcano, Hawaii",earthquake,0.44,0.300000012,0.29,4.0,automatic,hv,hv
 2023-05-08T11:36:28.425Z,11.7025,35.9956,9.774,4.4,mb,47.0,69.0,6.715,0.41,us,us6000kacz,2023-05-08T11:57:40.040Z,"152 km W of Bahir Dar, Ethiopia",earthquake,11.82,5.213,0.091,35.0,reviewed,us,us
 2023-05-08T06:29:55.880Z,33.2801666666667,-83.0073333333333,10.95,2.47,md,10.0,103.0,0.406,0.27,se,se60500698,2023-05-08T12:00:22.702Z,"2 km W of Sparta, Georgia",earthquake,0.57,0.91,0.0661072566773759,10.0,reviewed,se,se
+2023-05-08T12:23:05.050Z,17.9508,-66.9633,6.0,3.39,md,16.0,206.0,0.083,0.12,pr,pr2023128000,2023-05-08T12:50:26.660Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.6,0.31,0.12,7.0,reviewed,pr,pr
+2023-05-08T08:58:13.340Z,33.9404,74.9795,10.0,4.0,mb,19.0,141.0,1.453,0.68,us,us6000kace,2023-05-08T12:37:36.040Z,"4 km NW of Awantipur, India",earthquake,8.0,1.9,0.195,7.0,reviewed,us,us
