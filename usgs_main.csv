@@ -20146,3 +20146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T21:47:32.050Z,33.1841667,-116.8113333,0.44,1.26,ml,10.0,185.0,0.3238,0.31,ci,ci40221879,2023-05-09T21:51:09.470Z,"8km SW of Lake Henshaw, CA",earthquake,1.3,31.61,0.405,12.0,automatic,ci,ci
 2023-05-09T22:12:48.840Z,38.7955017,-122.7988358,-0.15,0.85,md,10.0,77.0,0.007892,0.03,nc,nc73885821,2023-05-09T22:14:25.442Z,"4km WNW of The Geysers, CA",earthquake,0.24,0.57,0.22,10.0,automatic,nc,nc
 2023-05-09T21:57:39.980Z,17.9968333333333,-66.8245,14.57,2.48,md,10.0,163.0,0.05644,0.17,pr,pr71408683,2023-05-09T22:13:03.580Z,"0 km WNW of Indios, Puerto Rico",earthquake,0.46,0.73,0.0596892042642889,6.0,reviewed,pr,pr
+2023-05-09T22:35:22.710Z,33.4031677,-116.3831635,5.08,1.04,ml,23.0,86.0,0.07378,0.17,ci,ci40221903,2023-05-09T22:37:38.721Z,"16km N of Borrego Springs, CA",earthquake,0.39,1.72,0.219,10.0,automatic,ci,ci
+2023-05-09T22:33:33.889Z,59.9629,-153.2101,144.0,2.6,ml,,,,1.12,ak,ak0235xpmg98,2023-05-09T22:36:29.801Z,"53 km ENE of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-05-09T22:27:26.810Z,33.0251667,-116.0026667,1.78,1.6,ml,34.0,53.0,0.1408,0.27,ci,ci40221895,2023-05-09T22:37:50.920Z,"18km SE of Ocotillo Wells, CA",earthquake,0.34,0.81,0.161,27.0,automatic,ci,ci
+2023-05-09T22:14:37.698Z,37.536,137.2641,6.014,5.3,mb,84.0,88.0,1.242,0.88,us,us6000kaqu,2023-05-09T22:34:08.040Z,"near the west coast of Honshu, Japan",earthquake,5.51,4.271,0.029,389.0,reviewed,us,us
