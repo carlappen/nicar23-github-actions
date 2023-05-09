@@ -20065,3 +20065,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T15:19:13.637Z,63.8679,-148.7368,78.0,1.7,ml,,,,1.75,ak,ak0235xlddfn,2023-05-09T15:21:19.769Z,"11 km E of Healy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-09T02:56:38.280Z,33.5208333,-116.5178333,12.51,0.34,ml,13.0,208.0,0.03819,0.12,ci,ci40221335,2023-05-09T15:21:25.395Z,"15km ESE of Anza, CA",earthquake,0.39,0.44,0.133,7.0,reviewed,ci,ci
 2023-05-09T02:56:34.470Z,33.5226667,-116.5223333,12.43,0.12,ml,8.0,204.0,0.03549,0.09,ci,ci37537724,2023-05-09T15:24:37.522Z,"14km ESE of Anza, CA",earthquake,0.6,0.63,0.106,5.0,reviewed,ci,ci
+2023-05-09T12:21:32.227Z,37.3241,-115.3791,0.0,1.1,ml,10.0,171.08,0.273,0.1648,nn,nn00859197,2023-05-09T15:34:05.353Z,"19 km WSW of Alamo, Nevada",earthquake,,0.0,0.13,8.0,reviewed,nn,nn
