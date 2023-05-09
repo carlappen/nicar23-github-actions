@@ -20009,3 +20009,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T09:18:51.409Z,60.5663,-145.2088,18.1,1.6,ml,,,,0.57,ak,ak0235xhsn04,2023-05-09T09:21:22.524Z,"30 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-09T09:31:16.920Z,35.720665,-117.569664,3.42,1.44,ml,22.0,115.0,0.1036,0.15,ci,ci40221487,2023-05-09T09:33:22.564Z,"15km NE of Ridgecrest, CA",earthquake,0.32,1.31,0.231,5.0,automatic,ci,ci
 2023-05-09T09:22:03.280Z,19.416166305542,-155.277496337891,-1.12000000476837,1.84,ml,15.0,107.0,,0.300000012,hv,hv73393757,2023-05-09T09:27:34.610Z,"5 km WSW of Volcano, Hawaii",earthquake,0.3,0.610000014,0.34,6.0,automatic,hv,hv
+2023-05-09T09:40:53.940Z,38.7871666,-122.7665024,3.72,0.77,md,8.0,132.0,0.01445,0.02,nc,nc73885606,2023-05-09T09:42:29.886Z,"1km NW of The Geysers, CA",earthquake,0.75,1.66,0.26,9.0,automatic,nc,nc
+2023-05-09T09:34:06.500Z,35.7305,-117.5631667,1.83,0.92,ml,9.0,150.0,0.1309,0.16,ci,ci40221495,2023-05-09T09:37:45.359Z,"15km WSW of Searles Valley, CA",earthquake,0.71,0.88,0.12,8.0,automatic,ci,ci
+2023-05-09T09:32:42.641Z,59.7228,-155.0683,202.9,2.2,ml,,,,0.75,ak,ak0235xhvmiw,2023-05-09T09:36:21.559Z,"9 km W of Newhalen, Alaska",earthquake,,2.7,,,automatic,ak,ak
