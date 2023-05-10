@@ -20316,3 +20316,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T17:10:47.587Z,31.61297666,-103.9942372,8.45814209,2.3,ml,19.0,38.0,0.02119730821,0.1,tx,tx2023jbek,2023-05-10T14:14:07.881Z,"38 km NNW of Toyah, Texas",earthquake,0.4390856823,0.5050247994,0.1,24.0,reviewed,tx,tx
 2023-05-10T14:42:40.457Z,61.4105,-147.6527,34.9,1.3,ml,,,,0.14,ak,ak0235z8g9v1,2023-05-10T14:44:21.633Z,"44 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-10T14:33:01.470Z,38.7643318,-122.7200012,3.8,1.18,md,6.0,159.0,0.004681,0.06,nc,nc73886141,2023-05-10T14:34:35.469Z,"3km WSW of Anderson Springs, CA",earthquake,4.75,4.8,0.35,6.0,automatic,nc,nc
+2023-05-10T14:48:56.200Z,38.8336678,-122.7884979,1.91,1.02,md,11.0,63.0,0.004949,0.02,nc,nc73886146,2023-05-10T14:50:29.678Z,"6km WNW of Cobb, CA",earthquake,0.29,0.54,0.23,12.0,automatic,nc,nc
+2023-05-10T14:48:24.330Z,33.4693333,-116.5566667,10.87,0.67,ml,29.0,61.0,0.0457,0.18,ci,ci40222223,2023-05-10T14:51:57.445Z,"14km SE of Anza, CA",earthquake,0.28,0.61,0.191,14.0,automatic,ci,ci
+2023-05-10T14:43:29.260Z,35.7155,-117.5641667,1.91,0.78,ml,8.0,110.0,0.1036,0.14,ci,ci40222207,2023-05-10T14:46:58.415Z,"15km NE of Ridgecrest, CA",earthquake,0.39,0.61,0.091,8.0,automatic,ci,ci
