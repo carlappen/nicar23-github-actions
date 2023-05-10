@@ -20314,3 +20314,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T13:00:40.545Z,-25.3122,-179.3707,416.099,4.9,mb,101.0,104.0,4.122,0.83,us,us6000kauv,2023-05-10T14:17:25.040Z,south of the Fiji Islands,earthquake,11.78,6.635,0.055,107.0,reviewed,us,us
 2023-05-10T12:17:36.540Z,33.7121667,-116.8306667,14.95,0.59,ml,24.0,155.0,0.08159,0.14,ci,ci40222151,2023-05-10T14:12:55.835Z,"7km SE of Valle Vista, CA",earthquake,0.35,0.44,0.096,7.0,reviewed,ci,ci
 2023-05-09T17:10:47.587Z,31.61297666,-103.9942372,8.45814209,2.3,ml,19.0,38.0,0.02119730821,0.1,tx,tx2023jbek,2023-05-10T14:14:07.881Z,"38 km NNW of Toyah, Texas",earthquake,0.4390856823,0.5050247994,0.1,24.0,reviewed,tx,tx
+2023-05-10T14:42:40.457Z,61.4105,-147.6527,34.9,1.3,ml,,,,0.14,ak,ak0235z8g9v1,2023-05-10T14:44:21.633Z,"44 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-10T14:33:01.470Z,38.7643318,-122.7200012,3.8,1.18,md,6.0,159.0,0.004681,0.06,nc,nc73886141,2023-05-10T14:34:35.469Z,"3km WSW of Anderson Springs, CA",earthquake,4.75,4.8,0.35,6.0,automatic,nc,nc
