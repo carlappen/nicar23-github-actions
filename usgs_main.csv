@@ -20576,3 +20576,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T10:06:42.900Z,17.9553333333333,-66.8385,18.17,2.2,md,8.0,207.0,0.04347,0.09,pr,pr71408893,2023-05-11T10:19:33.260Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.53,0.72,0.0578892886850169,6.0,reviewed,pr,pr
 2023-05-11T09:14:44.854Z,-20.4478,-68.7728,118.507,4.2,mb,31.0,47.0,0.871,1.03,us,us6000kb29,2023-05-11T10:25:54.040Z,"93 km E of La Tirana, Chile",earthquake,3.66,9.911,0.167,10.0,reviewed,us,us
 2023-05-11T02:32:45.253Z,31.67215409,-104.3736174,6.440063477,2.1,ml,33.0,57.0,0.04530963025,0.2,tx,tx2023jdsl,2023-05-11T10:25:09.492Z,"55 km S of Whites City, New Mexico",earthquake,0.7214221883,0.6748050049,0.1,18.0,reviewed,tx,tx
+2023-05-11T10:33:41.930Z,38.8406677,-122.876503,2.63,0.88,md,12.0,87.0,0.005951,0.02,nc,nc73886481,2023-05-11T10:35:17.323Z,"13km NW of The Geysers, CA",earthquake,0.43,0.68,0.24,14.0,automatic,nc,nc
