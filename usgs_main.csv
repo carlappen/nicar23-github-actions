@@ -20614,3 +20614,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T15:03:01.380Z,19.4061660766602,-155.279495239258,1.58000004291534,2.17,ml,22.0,55.0,,0.239999995,hv,hv73396667,2023-05-11T15:08:31.910Z,"6 km SW of Volcano, Hawaii",earthquake,0.44,0.330000013,0.25,8.0,automatic,hv,hv
 2023-05-11T14:55:33.950Z,33.5285,-116.4198333,9.04,0.63,ml,19.0,138.0,0.007063,0.15,ci,ci40222863,2023-05-11T14:59:14.202Z,"18km SW of La Quinta, CA",earthquake,0.35,0.61,0.069,15.0,automatic,ci,ci
 2023-05-11T14:36:38.057Z,1.2392,97.1193,34.605,4.9,mb,52.0,119.0,0.461,0.98,us,us6000kb41,2023-05-11T14:57:49.040Z,"55 km W of Gunungsitoli, Indonesia",earthquake,8.31,5.379,0.075,56.0,reviewed,us,us
+2023-05-11T15:21:10.702Z,60.9223,-151.0214,11.1,1.7,ml,,,,0.76,ak,ak02360wghmw,2023-05-11T15:24:04.108Z,"17 km SSE of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-11T15:18:01.420Z,38.831665,-122.8166656,1.48,0.77,md,17.0,54.0,0.009732,0.03,nc,nc73886556,2023-05-11T15:19:38.565Z,"8km NW of The Geysers, CA",earthquake,0.26,0.41,0.16,16.0,automatic,nc,nc
+2023-05-11T15:17:10.551Z,59.957,-149.1297,0.8,2.2,ml,,,,0.69,ak,ak02360wfmr3,2023-05-11T15:19:17.636Z,"21 km SE of Lowell Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-11T15:16:05.840Z,38.8069992,-122.817337,2.74,1.09,md,23.0,58.0,0.009438,0.02,nc,nc73886551,2023-05-11T15:17:43.404Z,"6km WNW of The Geysers, CA",earthquake,0.22,0.41,0.19,26.0,automatic,nc,nc
