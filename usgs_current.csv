@@ -201,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T11:59:11.200Z,38.783165,-122.7458344,0.99,0.78,md,8,90,0.00712,0.02,nc,nc73886101,2023-05-10T14:14:14.200Z,"1km NE of The Geysers, CA",earthquake,0.55,0.88,0.06,9,automatic,nc,nc
 2023-05-10T11:52:00.510Z,44.8448333333333,-111.846333333333,8.92,1.32,ml,25,78,0.1725,0.18,mb,mb90013208,2023-05-10T19:49:24.750Z,"50 km S of Virginia City, Montana",earthquake,0.43,0.93,0.17131201050627,13,reviewed,mb,mb
 2023-05-10T11:46:33.960Z,56.1835,-159.457,17.89,-0.26,ml,7,86,,0.31,av,av91881251,2023-05-11T03:43:55.200Z,"31 km N of Ivanof Bay, Alaska",earthquake,1,1.8,0.195657583722067,7,reviewed,av,av
-2023-05-10T11:41:07.590Z,56.1931666666667,-159.468166666667,20.52,0.45,ml,7,96,,0.19,av,av91881246,2023-05-11T03:43:19.880Z,"32 km N of Ivanof Bay, Alaska",earthquake,0.67,1.07,0.2477570952678,7,reviewed,av,av
-2023-05-10T11:40:15.447Z,36.7215,-116.2561,6.9,-0.2,ml,6,157.8,0.022,0.0539,nn,nn00859328,2023-05-11T00:08:08.355Z,"49 km ESE of Beatty, Nevada",earthquake,,2,0.02,2,reviewed,nn,nn
