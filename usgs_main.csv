@@ -20916,3 +20916,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T08:33:21.998Z,37.8712,36.2276,4.527,4.5,mwr,57.0,57.0,0.305,0.74,us,us6000kbcq,2023-05-12T09:09:59.040Z,"17 km SE of Saimbeyli, Turkey",earthquake,2.89,4.758,0.071,19.0,reviewed,us,us
 2023-05-12T01:19:29.840Z,40.2425,-121.1446667,7.75,1.86,md,19.0,55.0,0.005224,0.24,nc,nc73886816,2023-05-12T09:18:11.700Z,"4km NNE of Prattville, CA",earthquake,0.66,0.51,0.211,15.0,reviewed,nc,nc
 2023-05-12T09:59:02.780Z,38.8343315,-122.8209991,2.5,0.32,md,8.0,99.0,0.01209,0.02,nc,nc73887036,2023-05-12T10:00:35.574Z,"8km NW of The Geysers, CA",earthquake,0.56,0.92,0.15,10.0,automatic,nc,nc
+2023-05-12T10:18:41.482Z,40.2077,-121.1109,8.0,5.2,mw,8.0,,,,ew,ew1683886730,2023-05-12T10:18:55.362Z,"3 km E of Prattville, California",earthquake,10.308,5.0,0.3,8.0,automatic,ew,ew
+2023-05-12T10:09:46.730Z,38.8303337,-122.8153305,1.49,0.76,md,15.0,48.0,0.008054,0.02,nc,nc73887041,2023-05-12T10:20:11.083Z,"8km NW of The Geysers, CA",earthquake,0.22,0.72,0.3,16.0,automatic,nc,nc
+2023-05-12T09:45:28.530Z,7.0512,-76.0172,51.35,4.6,mb,122.0,124.0,0.983,0.52,us,us6000kbd5,2023-05-12T10:21:21.140Z,"12 km WNW of Peque, Colombia",earthquake,7.44,7.533,0.036,234.0,reviewed,us,us
