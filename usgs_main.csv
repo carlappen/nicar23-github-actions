@@ -20857,3 +20857,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T05:18:45.290Z,19.4020004272461,-155.289672851562,1.67999994754791,1.79,ml,19.0,98.0,,0.119999997,hv,hv73397597,2023-05-12T05:24:16.100Z,"7 km SW of Volcano, Hawaii",earthquake,0.32,0.209999993,0.23,3.0,automatic,hv,hv
 2023-05-12T05:17:16.780Z,40.2061653,-121.1090012,-1.41,2.94,md,38.0,48.0,0.3142,0.34,nc,nc73886936,2023-05-12T05:26:20.299Z,"4km E of Prattville, CA",earthquake,0.54,2.04,0.13,24.0,automatic,nc,nc
 2023-05-12T04:34:50.012Z,10.0398,126.1699,10.0,4.6,mb,44.0,68.0,3.008,1.05,us,us6000kbbe,2023-05-12T05:20:36.040Z,"14 km E of Santa Monica, Philippines",earthquake,11.03,1.823,0.084,44.0,reviewed,us,us
+2023-05-12T05:30:01.391Z,58.2613,-155.6019,1.1,2.4,ml,,,,0.72,ak,ak02362e3esr,2023-05-12T05:31:57.027Z,"77 km SE of King Salmon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-12T05:28:40.490Z,38.7908325,-122.7360001,1.69,0.44,md,8.0,103.0,0.007605,0.01,nc,nc73886951,2023-05-12T05:30:15.742Z,"2km NE of The Geysers, CA",earthquake,0.32,1.21,0.27,8.0,automatic,nc,nc
+2023-05-12T05:27:56.644Z,58.1366,-155.2728,0.1,0.5,ml,,,,0.98,ak,ak02362e2vw6,2023-05-12T05:30:22.994Z,"79 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
