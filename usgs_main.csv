@@ -21210,3 +21210,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-13T04:38:59.890Z,38.8364983,-122.8030014,2.31,0.73,md,10.0,62.0,0.01007,0.01,nc,nc73887496,2023-05-13T04:40:32.856Z,"7km WNW of Cobb, CA",earthquake,0.37,1.39,0.13,10.0,automatic,nc,nc
 2023-05-13T04:37:28.161Z,61.4912,-147.3348,24.1,1.4,ml,,,,0.75,ak,ak0236412vrk,2023-05-13T04:39:25.823Z,"39 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-13T04:36:13.590Z,63.1256,-144.3861,4.1,1.2,ml,,,,0.7,ak,ak0236412mxb,2023-05-13T04:38:04.672Z,Central Alaska,earthquake,,0.5,,,automatic,ak,ak
+2023-05-13T04:46:20.377Z,57.8946,-155.4166,61.0,1.0,ml,,,,0.94,ak,ak0236414slx,2023-05-13T04:48:16.367Z,"67 km WNW of Karluk, Alaska",earthquake,,1.0,,,automatic,ak,ak
