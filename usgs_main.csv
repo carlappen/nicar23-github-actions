@@ -21195,3 +21195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-13T03:36:31.300Z,38.8334999,-122.8044968,2.16,1.27,md,22.0,51.0,0.01099,0.01,nc,nc73887471,2023-05-13T03:38:08.015Z,"7km W of Cobb, CA",earthquake,0.2,0.5,0.2,23.0,automatic,nc,nc
 2023-05-13T03:32:12.952Z,58.1388,-153.7974,21.2,1.9,ml,,,,0.82,ak,ak023640gcen,2023-05-13T03:34:44.277Z,"Kodiak Island region, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-13T02:15:23.290Z,19.231,-155.453833333333,32.17,1.37,md,13.0,104.0,,0.1,hv,hv73399347,2023-05-13T03:35:16.160Z,"4 km NE of Pāhala, Hawaii",earthquake,0.74,0.83,0.0585686783007083,8.0,reviewed,hv,hv
+2023-05-13T04:06:30.840Z,33.5418333,-116.777,11.26,0.51,ml,14.0,68.0,0.03527,0.31,ci,ci40224119,2023-05-13T04:10:04.562Z,"10km W of Anza, CA",earthquake,0.73,1.91,0.215,11.0,automatic,ci,ci
+2023-05-13T04:04:33.810Z,58.2633,-154.9638,20.3,0.7,ml,,,,0.51,ak,ak023640vtkl,2023-05-13T04:06:31.511Z,"83 km NNW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-05-13T04:02:47.860Z,58.5984,-155.1548,243.5,0.1,ml,,,,1.0,ak,ak023640vkml,2023-05-13T04:07:32.376Z,Alaska Peninsula,earthquake,,2.1,,,automatic,ak,ak
+2023-05-13T03:53:58.238Z,61.0718,-151.3298,9.1,4.3,ml,,,,1.03,ak,ak023640kxsy,2023-05-13T04:10:30.255Z,"10 km W of Tyonek, Alaska",earthquake,,0.4,,,reviewed,ak,ak
