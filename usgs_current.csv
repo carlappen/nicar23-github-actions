@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-27T13:22:12.180Z,19.1856670379639,-155.513000488281,27.8600006103516,1.84000003,md,18,83,,0.159999996,hv,hv73424337,2023-05-27T13:25:15.950Z,"Island of Hawaii, Hawaii",earthquake,0.76,1.12,0.550000012,5,automatic,hv,hv
 2023-05-27T12:34:28.920Z,36.3790016,-120.7296677,8.74,1.42,md,7,211,0.1727,0.03,nc,nc73890590,2023-05-27T13:08:09.746Z,"7km SW of New Idria, CA",earthquake,0.82,1.39,0.1,6,automatic,nc,nc
 2023-05-27T12:32:15.313Z,58.9857,-151.0085,34.2,2,ml,,,,0.47,ak,ak0236rbc3y3,2023-05-27T12:35:05.694Z,"62 km SE of Port Graham, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-05-27T12:31:31.974Z,61.9525,-149.8741,33.9,1.4,ml,,,,0.51,ak,ak0236rbbxil,2023-05-27T12:33:08.813Z,"23 km S of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
