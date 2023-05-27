@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-27T03:13:45.087Z,62.834,-148.4803,53.5,1.8,ml,,,,0.58,ak,ak0236r5v770,2023-05-27T03:15:34.051Z,"66 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-27T02:53:54.390Z,33.5945,-116.8216667,13.22,1.08,ml,41,43,0.04158,0.21,ci,ci40234727,2023-05-27T02:57:35.700Z,"14km WNW of Anza, CA",earthquake,0.27,0.48,0.156,26,automatic,ci,ci
 2023-05-27T02:30:06.785Z,62.9848,-150.7401,95.1,1.9,ml,,,,0.4,ak,ak0236r5dbt2,2023-05-27T02:32:01.017Z,"54 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-27T02:17:31.679Z,35.0668602,-97.87082672,8.03780365,1.76,ml,14,72.93678284,0.1245865673,0.4179557682,ok,ok2023kgxz,2023-05-27T02:20:12.714Z,"6 km ENE of Chickasha, Oklahoma",earthquake,3.717271882,4.045823409,0.24,6,automatic,ok,ok
+2023-05-27T02:17:31.679Z,35.0668602,-97.87082672,8.03780365,1.76,ml,14,72.93678284,0.1245865673,0.4179557682,ok,ok2023kgxz,2023-05-27T03:38:21.854Z,"6 km ENE of Chickasha, Oklahoma",earthquake,3.717271882,4.045823409,0.24,6,automatic,ok,ok
 2023-05-27T02:14:25.260Z,38.8101654,-122.7856674,1.15,0.8,md,14,73,0.004969,0.02,nc,nc73890465,2023-05-27T02:30:13.909Z,"4km NW of The Geysers, CA",earthquake,0.28,0.62,0.15,15,automatic,nc,nc
 2023-05-27T02:09:17.600Z,19.4393,-65.6695,111,3.85,md,12,274,1.1961,0.52,pr,pr2023147000,2023-05-27T02:53:00.214Z,"113 km N of Suárez, Puerto Rico",earthquake,8.07,11.17,0.05,4,reviewed,pr,pr
 2023-05-27T01:50:35.920Z,33.6786667,-116.7206667,15.39,1.07,ml,34,85,0.03287,0.2,ci,ci40234703,2023-05-27T01:54:16.261Z,"7km S of Idyllwild, CA",earthquake,0.29,0.46,0.205,26,automatic,ci,ci
