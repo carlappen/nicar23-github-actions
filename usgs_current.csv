@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-07T09:38:40.440Z,37.9876671,-122.2488327,7.62,1.13,md,14,101,0.02661,0.05,nc,nc73898101,2023-06-07T09:40:14.538Z,"4km ENE of El Sobrante, CA",earthquake,0.28,0.62,0.09,10,automatic,nc,nc
+2023-06-07T09:48:47.070Z,38.7845001,-122.7405014,-0.74,0.4,md,7,98,0.00321,0.02,nc,nc73898106,2023-06-07T09:50:24.236Z,"2km ENE of The Geysers, CA",earthquake,0.87,6.01,0.17,7,automatic,nc,nc
+2023-06-07T09:48:10.506Z,59.4214,-152.9551,74.9,2,ml,,,,0.38,ak,ak02379gk1ne,2023-06-07T09:50:07.049Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-07T09:45:59.890Z,35.8716667,-117.708,9.57,0.7,ml,8,157,0.07811,0.14,ci,ci40479816,2023-06-07T09:49:29.559Z,"19km ESE of Little Lake, CA",earthquake,0.51,1.13,0.15,4,automatic,ci,ci
+2023-06-07T09:38:40.440Z,37.9876671,-122.2488327,7.62,1.13,md,14,101,0.02661,0.05,nc,nc73898101,2023-06-07T09:50:10.026Z,"4km ENE of El Sobrante, CA",earthquake,0.28,0.62,0.09,10,automatic,nc,nc
 2023-06-07T09:30:49.849Z,62.0879,-150.4201,17.9,1.5,ml,,,,0.54,ak,ak02379gg9so,2023-06-07T09:32:35.950Z,"27 km SSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-07T09:22:10.270Z,19.3956661224365,-155.271667480469,1.12000000476837,1.74,ml,17,61,,0.109999999,hv,hv73444062,2023-06-07T09:27:41.360Z,"6 km SW of Volcano, Hawaii",earthquake,0.32,0.200000003,0.24,8,automatic,hv,hv
 2023-06-07T09:07:38.712Z,62.4841,-152.1127,107.3,1.2,ml,,,,0.27,ak,ak02379gbbgv,2023-06-07T09:09:38.061Z,"66 km NW of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -121,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T00:08:04.650Z,36.9589996,-121.4394989,7.12,1.62,md,24,40,0.07542,0.1,nc,nc73897901,2023-06-07T03:12:14.755Z,"13km ESE of Gilroy, CA",earthquake,0.27,0.75,0.2,20,automatic,nc,nc
 2023-06-07T00:05:27.906Z,64.0437,-148.7908,3.2,1.4,ml,,,,0.77,ak,ak02379axyra,2023-06-07T00:07:19.398Z,"16 km E of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-07T00:03:37.590Z,19.1671657562256,-155.476837158203,33.1100006103516,1.8,ml,39,91,,0.180000007,hv,hv73443127,2023-06-07T00:09:09.810Z,"3 km S of Pāhala, Hawaii",earthquake,0.66,0.910000026,4.38,7,automatic,hv,hv
-2023-06-07T00:02:57.450Z,19.1590003967285,-155.45783996582,30.5300006866455,1.8,ml,9,247,,0.0500000007,hv,hv73443122,2023-06-07T00:08:28.350Z,"Hawaii region, Hawaii",earthquake,1.09,1.52999997,4.63,6,automatic,hv,hv
+2023-06-07T00:02:57.450Z,19.1590003967285,-155.45783996582,30.5300006866455,1.8,ml,9,247,,0.0500000007,hv,hv73443122,2023-06-07T00:08:28.350Z,"Island of Hawaii, Hawaii",earthquake,1.09,1.52999997,4.63,6,automatic,hv,hv
 2023-06-07T00:00:25.610Z,-60.4502,-26.996,35,5.1,mb,28,83,14.765,0.54,us,us7000k6rl,2023-06-07T00:13:14.040Z,"South Sandwich Islands region",earthquake,13.94,1.953,0.088,42,reviewed,us,us
 2023-06-06T23:49:16.040Z,33.4328333,-116.5396667,10.75,0.66,ml,18,69,0.08087,0.25,ci,ci40479680,2023-06-06T23:52:48.831Z,"18km SE of Anza, CA",earthquake,0.64,1.37,0.161,17,automatic,ci,ci
 2023-06-06T23:48:08.805Z,35.13484573,-97.71569061,5.326478004,2.02,ml,11,76.35035706,0.09897850454,0.4403971473,ok,ok2023lavp,2023-06-06T23:58:05.765Z,"5 km W of Blanchard, Oklahoma",earthquake,3.385505558,5.35794994,0.29,7,automatic,ok,ok
@@ -269,5 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T10:03:26.830Z,33.5306667,-116.7288333,3.33,0.55,ml,27,44,0.03536,0.1,ci,ci40479312,2023-06-06T21:34:48.520Z,"6km WSW of Anza, CA",earthquake,0.15,0.36,0.141,17,reviewed,ci,ci
 2023-06-06T09:57:29.080Z,19.2390003204346,-155.462173461914,33.9900016784668,1.8,ml,41,109,,0.0900000036,hv,hv73442242,2023-06-06T10:03:00.330Z,"4 km NNE of Pāhala, Hawaii",earthquake,0.52,0.589999974,3.96,4,automatic,hv,hv
 2023-06-06T09:55:15.650Z,45.6193333333333,-111.747,1.56,0.53,ml,9,96,0.08534,0.07,mb,mb90016938,2023-06-06T23:09:10.040Z,"9 km SSE of Harrison, Montana",earthquake,0.29,0.8,0.0820393745300263,4,reviewed,mb,mb
-2023-06-06T09:52:27.883Z,59.1524,-152.4927,46.7,2.2,ml,,,,0.39,ak,ak02377t1ld0,2023-06-06T10:14:49.294Z,"39 km SW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-06-06T09:50:35.930Z,39.5176667,-123.3318333,8.65,2.01,md,19,56,0.04881,0.07,nc,nc73897646,2023-06-06T21:22:16.713Z,"9km NNE of Brooktrails, CA",earthquake,0.22,0.36,0.152,23,reviewed,nc,nc
