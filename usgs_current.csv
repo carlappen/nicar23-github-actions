@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-16T04:35:09.985Z,58.7967,-153.5358,15,2.1,ml,,,,0.96,ak,ak0237o9c7ms,2023-06-16T04:41:01.176Z,"Kodiak Island region, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-06-16T03:58:29.360Z,34.0303333,-116.7416667,15.4,1.4,ml,51,36,0.05511,0.14,ci,ci40486992,2023-06-16T04:09:23.740Z,"13km NNE of Cabazon, CA",earthquake,0.17,0.44,0.194,26,automatic,ci,ci
 2023-06-16T03:46:21.840Z,38.8261681,-122.8063354,1.97,0.77,md,8,109,0.004024,0.01,nc,nc73901636,2023-06-16T04:12:15.121Z,"7km NW of The Geysers, CA",earthquake,0.38,1.05,0.16,9,automatic,nc,nc
 2023-06-16T03:42:16.140Z,38.7588348,-122.7268295,1.84,1.24,md,9,141,0.003155,0.03,nc,nc73901631,2023-06-16T04:20:10.177Z,"3km SE of The Geysers, CA",earthquake,0.44,1.14,0.15,11,automatic,nc,nc
@@ -189,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T05:01:28.740Z,36.5505,-121.1301667,2.62,1.53,md,26,116,0.02235,0.13,nc,nc73901271,2023-06-15T19:42:16.008Z,"2km NNE of Pinnacles, CA",earthquake,0.29,0.38,0.181,24,reviewed,nc,nc
 2023-06-15T04:59:12.882Z,63.2632,-151.3474,0,1.6,ml,,,,0.67,ak,ak0237mly0mw,2023-06-15T05:01:17.136Z,"36 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-15T04:52:55.285Z,60.4069,-147.7851,9.1,1.9,ml,,,,0.53,ak,ak0237mlwlw8,2023-06-15T04:54:33.332Z,"39 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-15T04:44:09.140Z,35.6483333,-118.3161667,7.52,1.7,ml,24,69,0.05499,0.15,ci,ci40486288,2023-06-15T13:16:00.250Z,"14km ESE of Wofford Heights, CA",earthquake,0.24,0.57,0.241,21,reviewed,ci,ci
