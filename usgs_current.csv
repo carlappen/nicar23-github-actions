@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T01:49:57.094Z,-0.189,125.2256,53.441,4.8,mb,55,38,2.344,0.9,us,us7000k9hf,2023-06-19T02:06:09.040Z,"112 km SE of Modisi, Indonesia",earthquake,7.69,7.703,0.07,62,reviewed,us,us
 2023-06-19T01:46:05.380Z,38.8064995,-122.7613297,6.94,0.79,md,12,155,0.01656,0.07,nc,nc73902731,2023-06-19T02:04:12.881Z,"3km N of The Geysers, CA",earthquake,0.94,1.22,0.3,12,automatic,nc,nc
 2023-06-19T01:45:28.218Z,58.1655,-155.3519,8.4,0.8,ml,,,,0.6,ak,ak0237t684yd,2023-06-19T01:47:19.840Z,"85 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-19T01:40:23.195Z,15.2785,96.3165,4.52,5.6,mww,117,38,2.851,0.62,us,us7000k9he,2023-06-19T03:42:21.203Z,"130 km SSE of Pyapon, Myanmar",earthquake,7.26,3.561,0.078,16,reviewed,us,us
+2023-06-19T01:40:23.195Z,15.2785,96.3165,4.52,5.6,mww,117,38,2.851,0.62,us,us7000k9he,2023-06-19T03:44:04.718Z,"130 km SSE of Pyapon, Myanmar",earthquake,7.26,3.561,0.078,16,reviewed,us,us
 2023-06-19T01:36:51.413Z,66.6266,-146.2812,14.3,2.4,ml,,,,0.62,ak,ak0237t669at,2023-06-19T01:39:20.000Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-19T01:22:00.960Z,33.3231667,-116.3443333,14.33,0.79,ml,17,131,0.08201,0.23,ci,ci40488456,2023-06-19T01:25:35.442Z,"8km NNE of Borrego Springs, CA",earthquake,0.66,1.23,0.112,15,automatic,ci,ci
 2023-06-19T01:19:31.120Z,37.4824982,-118.7458344,8.03,1.96,md,14,118,0.1261,0.06,nc,nc73902721,2023-06-19T03:30:16.422Z,"10km SSW of Toms Place, CA",earthquake,0.5,1.74,0.15,11,automatic,nc,nc
@@ -179,5 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T04:03:13.414Z,61.1006,-150.3627,1.6,1.5,ml,,,,0.42,ak,ak0237rk8225,2023-06-18T04:05:00.629Z,"26 km NE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-18T03:58:39.266Z,-23.1515,-66.3282,226.463,4.5,mwr,64,43,1.716,0.91,us,us7000k9al,2023-06-18T04:16:20.040Z,"66 km W of El Aguilar, Argentina",earthquake,7.9,7.235,,,reviewed,us,guc
 2023-06-18T03:57:57.670Z,38.8185005,-122.8216629,2.67,1.49,md,25,48,0.01029,0.05,nc,nc73902361,2023-06-18T06:26:13.211Z,"7km NW of The Geysers, CA",earthquake,0.22,0.47,0.14,27,automatic,nc,nc
-2023-06-18T03:53:35.940Z,44.5258333333333,-115.234,12.55,2.23,ml,10,93,0.6371,0.07,mb,mb90018718,2023-06-18T14:30:15.700Z,"41 km NW of Stanley, Idaho",earthquake,0.38,1,0.203968825780424,21,reviewed,mb,mb
-2023-06-18T03:44:59.090Z,39.0893333,-123.0895,10.52,4.35,mw,92,64,0.04182,0.11,nc,nc73902356,2023-06-19T02:03:22.687Z,"8km SE of Talmage, CA",earthquake,0.13,0.35,,4,reviewed,nc,nc
