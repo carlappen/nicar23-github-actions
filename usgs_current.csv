@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-22T19:50:18.963Z,62.1827,-149.4511,33.5,3.7,ml,,,,0.8,ak,ak0237yfl15l,2023-06-22T19:55:15.595Z,"20 km E of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-22T19:47:37.800Z,19.3136672973633,-155.217163085938,-0.25,2.16,ml,40,128,,0.230000004,hv,hv73458757,2023-06-22T19:53:09.300Z,"14 km S of Volcano, Hawaii",earthquake,0.32,0.270000011,0.18,13,automatic,hv,hv
+2023-06-22T19:46:52.720Z,38.8383331,-122.8353348,1.62,1.15,md,23,49,0.0002818,0.02,nc,nc73904021,2023-06-22T19:49:37.271Z,"10km NW of The Geysers, CA",earthquake,0.2,0.33,0.19,23,automatic,nc,nc
+2023-06-22T19:33:44.122Z,-28.7244,-176.6314,10,5.1,mb,21,83,1.25,1.11,us,us7000kaf3,2023-06-22T19:54:01.040Z,"Kermadec Islands region",earthquake,10.22,1.915,0.095,36,reviewed,us,us
 2023-06-22T19:32:42.350Z,36.5876656,-121.4086685,1.94,1.49,md,10,89,0.01128,0.04,nc,nc73904011,2023-06-22T19:47:11.727Z,"10km NNE of Gonzales, CA",earthquake,0.62,0.25,0.11,8,automatic,nc,nc
 2023-06-22T19:27:56.693Z,12.1441,-88.2701,35,4.9,mb,42,172,1.69,0.95,us,us7000kaf1,2023-06-22T19:40:01.040Z,"111 km SW of Jiquilillo, Nicaragua",earthquake,2.68,1.966,0.039,210,reviewed,us,us
 2023-06-22T19:18:09.610Z,38.8300018,-122.8148346,2.38,0.76,md,9,98,0.007573,0,nc,nc73904006,2023-06-22T19:19:43.223Z,"8km NW of The Geysers, CA",earthquake,0.47,1.4,0.15,11,automatic,nc,nc
