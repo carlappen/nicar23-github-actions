@@ -96,6 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T02:25:57.269Z,65.6969,-145.295,5.4,1.4,ml,,,,0.9,ak,ak0237zsuqge,2023-06-23T02:28:37.655Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-23T02:22:52.275Z,56.6388,-148.9231,10,2.9,ml,15,265,2.298,0.28,us,us7000kahi,2023-06-23T02:35:20.040Z,"Gulf of Alaska",earthquake,4.93,2.021,0.069,28,reviewed,us,us
 2023-06-23T02:15:20.007Z,39.6135,-119.9633,7.2,2.3,ml,28,67.76,0.006,0.1437,nn,nn00861594,2023-06-23T15:39:20.114Z,"Nevada",earthquake,,0.9,0.24,8,reviewed,nn,nn
+2023-06-23T02:10:06.562Z,31.43949959,-103.7479056,0.5015136719,1.9,ml,10,62,0.1230396312,0.1,tx,tx2023megj,2023-06-23T15:55:44.583Z,"14 km NNE of Toyah, Texas",earthquake,1.271044485,2.153071632,0.1,25,reviewed,tx,tx
 2023-06-23T02:01:50.430Z,38.823,-122.794,2.65,0.42,md,27,34,0.01256,0.03,nc,nc73904106,2023-06-23T11:50:13.396Z,"6km NNW of The Geysers, CA",earthquake,0.14,0.29,0.146,26,reviewed,nc,nc
 2023-06-23T01:50:02.200Z,35.5028333,-118.398,8.22,1.25,ml,17,40,0.1712,0.13,ci,ci40492496,2023-06-23T01:53:27.447Z,"13km SE of Bodfish, CA",earthquake,0.25,1.25,0.227,13,automatic,ci,ci
 2023-06-23T01:37:15.310Z,35.6141667,-118.3846667,6.82,0.66,ml,8,184,0.0851,0.07,ci,ci40492488,2023-06-23T13:34:46.010Z,"8km E of Lake Isabella, CA",earthquake,0.45,0.54,0.211,5,reviewed,ci,ci
@@ -183,6 +184,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T17:04:25.730Z,33.6578333,-116.6936667,14.69,0.26,ml,11,85,0.01991,0.07,ci,ci40492032,2023-06-22T18:28:11.360Z,"9km SSE of Idyllwild, CA",earthquake,0.24,0.48,0.042,3,reviewed,ci,ci
 2023-06-22T17:03:25.530Z,59.4354,-152.9375,93.5,1.5,ml,,,,0.48,ak,ak0237ye43u1,2023-06-22T17:05:51.784Z,"58 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-22T17:00:31.490Z,38.0145,-122.084,13.09,1.54,md,22,95,0.05512,0.08,nc,nc73903946,2023-06-23T03:51:15.536Z,"1km ENE of Vine Hill, CA",earthquake,0.4,0.84,0.18,24,reviewed,nc,nc
+2023-06-22T16:42:42.324Z,21.2446,93.8082,41.552,4.4,mb,17,183,2.626,1.08,us,us7000kaec,2023-06-23T15:59:51.040Z,"111 km WNW of Chauk, Myanmar",earthquake,12.41,13.437,0.161,11,reviewed,us,us
 2023-06-22T16:37:42.474Z,-15.6248,167.5798,138.753,4.6,mb,21,162,5.815,0.87,us,us7000kadr,2023-06-22T17:17:32.040Z,"46 km ESE of Luganville, Vanuatu",earthquake,13.43,8.636,0.126,21,reviewed,us,us
 2023-06-22T16:36:29.090Z,36.7496667,-121.3573333,4.23,1.61,md,33,103,0.04301,0.14,nc,nc73903941,2023-06-23T02:59:20.251Z,"6km SW of Tres Pinos, CA",earthquake,0.3,0.93,0.293,30,reviewed,nc,nc
 2023-06-22T16:23:49.367Z,66.1295,-147.7529,8.5,1.3,ml,,,,0.56,ak,ak0237ydn0e0,2023-06-22T16:26:07.007Z,"30 km SSW of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
