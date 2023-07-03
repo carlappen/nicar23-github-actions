@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-03T19:12:49.020Z,38.8334999,-122.8180008,1.72,0.79,md,17,58,0.01184,0.01,nc,nc73908391,2023-07-03T19:15:44.291Z,"8km NW of The Geysers, CA",earthquake,0.25,0.47,0.19,18,automatic,nc,nc
 2023-07-03T18:57:53.600Z,38.7900009,-122.7613297,3.6,1.41,md,22,78,0.01956,0.11,nc,nc73908386,2023-07-03T19:09:11.236Z,"2km NNW of The Geysers, CA",earthquake,0.45,0.87,0.2,22,automatic,nc,nc
 2023-07-03T18:54:47.045Z,57.745,-155.919,17.4,1.6,ml,,,,0.36,ak,ak0238glxc1s,2023-07-03T18:56:26.568Z,"89 km WNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-03T18:50:01.138Z,58.1897,-155.2668,1.1,0.8,ml,,,,0.27,ak,ak0238glwdn5,2023-07-03T18:51:36.575Z,"84 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -36,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-03T15:06:14.107Z,58.336,-152.9107,69.9,1.9,ml,,,,0.59,ak,ak0238gjuobm,2023-07-03T15:07:52.511Z,"30 km N of Aleneva, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-03T15:04:36.480Z,45.4375,-111.7975,4.64,0.05,ml,4,185,0.1984,0.03,mb,mb90020648,2023-07-03T16:02:21.050Z,"11 km NNW of Ennis, Montana",earthquake,2.09,6.13,0.410377561470938,2,reviewed,mb,mb
 2023-07-03T14:59:20.395Z,60.6396,-151.7692,71.3,1.8,ml,,,,0.52,ak,ak0238gjkm5j,2023-07-03T15:01:15.817Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-03T14:47:29.646Z,61.2982,-149.5885,28.2,4.6,ml,,,,0.62,ak,ak0238gji26s,2023-07-03T19:11:43.319Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-07-03T14:47:29.646Z,61.2982,-149.5885,28.2,4.6,ml,,,,0.62,ak,ak0238gji26s,2023-07-03T19:21:58.921Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-07-03T14:43:16.500Z,34.2941667,-116.8373333,5.72,1.58,ml,40,40,0.05434,0.17,ci,ci40502608,2023-07-03T14:46:53.516Z,"4km N of Big Bear City, CA",earthquake,0.23,0.69,0.155,28,automatic,ci,ci
 2023-07-03T14:33:21.060Z,38.8349991,-122.7894974,1.88,0.56,md,9,84,0.003469,0.01,nc,nc73908296,2023-07-03T14:36:03.388Z,"6km WNW of Cobb, CA",earthquake,0.43,0.46,0.36,8,automatic,nc,nc
 2023-07-03T14:22:52.390Z,17.969,-67.0651666666667,7.73,2.25,md,3,224,0.01994,0.13,pr,pr71416103,2023-07-03T15:01:46.080Z,"2 km WSW of La Parguera, Puerto Rico",earthquake,3.27,0.5,0.0091647400957211,2,reviewed,pr,pr
@@ -209,7 +210,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T21:53:19.470Z,33.465,-116.5631667,9.43,0.34,ml,15,108,0.04406,0.13,ci,ci40502296,2023-07-03T17:37:55.856Z,"14km SE of Anza, CA",earthquake,0.29,0.5,0.154,11,reviewed,ci,ci
 2023-07-02T21:51:04.663Z,32.4549,47.4496,10,4.3,mb,27,159,5.794,0.68,us,us6000kpqc,2023-07-02T22:06:19.040Z,"31 km SSE of Dehlorān, Iran",earthquake,6.76,1.918,0.105,26,reviewed,us,us
 2023-07-02T21:48:49.030Z,47.6666666666667,-113.5715,5,0.49,ml,10,136,0.3293,0.13,mb,mb90020613,2023-07-03T15:03:55.260Z,"Western Montana",earthquake,0.53,8.94,0.113256953134586,3,reviewed,mb,mb
-2023-07-02T21:48:39.847Z,37.2622,-117.6161,5.5,0.8,ml,13,169.52,0.302,0.2185,nn,nn00862059,2023-07-02T21:51:12.017Z,"54 km S of Silver Peak, Nevada",earthquake,,2.7,0.77,8,automatic,nn,nn
+2023-07-02T21:48:40.214Z,37.2837,-117.5961,8.5,1.1,ml,9,95.39,0.065,0.169,nn,nn00862059,2023-07-03T19:15:50.692Z,"California-Nevada border region",earthquake,,3,0.76,7,reviewed,nn,nn
 2023-07-02T21:25:22.480Z,18.0058333333333,-66.7511666666667,10.7,2.49,md,9,181,0.1257,0.07,pr,pr71415903,2023-07-02T21:37:58.080Z,"2 km SE of Magas Arriba, Puerto Rico",earthquake,0.39,0.66,0.0119433187410003,4,reviewed,pr,pr
 2023-07-02T21:24:20.730Z,38.8364983,-122.7904968,1.88,0.67,md,12,57,0.001912,0.01,nc,nc73908001,2023-07-02T21:25:56.516Z,"6km WNW of Cobb, CA",earthquake,0.32,0.82,0.2,13,automatic,nc,nc
 2023-07-02T21:18:49.420Z,35.4841667,-118.3466667,2.53,1.08,ml,13,69,0.2017,0.13,ci,ci40502288,2023-07-03T18:11:27.294Z,"18km SE of Bodfish, CA",earthquake,0.24,0.94,0.169,10,reviewed,ci,ci
