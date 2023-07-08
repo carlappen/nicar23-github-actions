@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T10:05:26.138Z,61.3551,-141.0964,0,2,ml,,,,0.62,ak,ak0238n30phh,2023-07-07T10:07:40.499Z,"97 km E of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-07T09:58:25.680Z,37.743,-122.5523333,4.43,1.65,md,45,159,0.08052,0.08,nc,nc73909851,2023-07-07T17:33:14.916Z,"4km WNW of San Francisco Zoo, CA",earthquake,0.22,0.51,0.242,37,reviewed,nc,nc
 2023-07-07T09:54:24.630Z,38.831665,-122.8111649,1.77,0.76,md,13,89,0.008302,0.01,nc,nc73909846,2023-07-07T10:23:14.369Z,"8km NW of The Geysers, CA",earthquake,0.33,0.79,0.11,13,automatic,nc,nc
-2023-07-07T09:52:47.079Z,38.5344,-118.1444,7,0.8,ml,5,206.57,0.4,0.1309,nn,nn00862313,2023-07-08T02:22:46.552Z,"California-Nevada border region",earthquake,,2,0.25,2,reviewed,nn,nn
