@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-12T17:37:35.230Z,33.4723333,-115.7976667,6.46,1.07,ml,19,66,0.05888,0.25,ci,ci39610834,2023-07-12T17:41:04.416Z,"14km ESE of North Shore, CA",earthquake,0.45,1.14,0.115,14,automatic,ci,ci
+2023-07-12T17:51:32.510Z,34.8328333,-118.9781667,15.36,1.24,ml,20,75,0.05797,0.22,ci,ci39610850,2023-07-12T17:55:01.636Z,"3km WNW of Frazier Park, CA",earthquake,0.43,0.69,0.26,14,automatic,ci,ci
+2023-07-12T17:51:07.978Z,61.2508,-150.4635,40.7,3.2,ml,,,,0.18,ak,ak0238vh5aq5,2023-07-12T17:52:22.570Z,"Southern Alaska",earthquake,,2.1,,,automatic,ak,ak
+2023-07-12T17:37:35.230Z,33.4723333,-115.7976667,6.46,1.07,ml,19,66,0.05888,0.25,ci,ci39610834,2023-07-12T17:48:21.860Z,"14km ESE of North Shore, CA",earthquake,0.45,1.14,0.115,14,automatic,ci,ci
 2023-07-12T17:21:49.730Z,32.9801667,-116.3175,8.73,1.04,ml,33,52,0.02812,0.22,ci,ci39610826,2023-07-12T17:25:29.555Z,"25km SW of Ocotillo Wells, CA",earthquake,0.29,0.61,0.222,20,automatic,ci,ci
-2023-07-12T17:16:15.300Z,38.779335,-122.7286682,0.38,1.56,md,25,75,0.01796,0.07,nc,nc73911956,2023-07-12T17:46:12.622Z,"2 km E of The Geysers, CA",earthquake,0.25,0.54,0.16,23,automatic,nc,nc
+2023-07-12T17:16:15.300Z,38.779335,-122.7286682,0.38,1.56,md,25,75,0.01796,0.07,nc,nc73911956,2023-07-12T17:51:10.653Z,"2 km E of The Geysers, CA",earthquake,0.25,0.54,0.16,23,automatic,nc,nc
 2023-07-12T16:34:46.420Z,19.1486663818359,-155.467666625977,30.2800006866455,1.99000001,md,36,170,,0.109999999,hv,hv73479627,2023-07-12T16:37:53.960Z,"6 km S of Pāhala, Hawaii",earthquake,0.61,1.09000003,1.03999996,12,automatic,hv,hv
 2023-07-12T16:33:07.761Z,61.9888,-149.9529,43.2,0.9,ml,,,,0.54,ak,ak0238vgg07s,2023-07-12T16:34:40.320Z,"19 km SSW of Susitna North, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-07-12T16:26:33.290Z,38.8388329,-122.8069992,2.07,1.08,md,20,84,0.01301,0.02,nc,nc73911941,2023-07-12T17:25:13.622Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.55,0.12,22,automatic,nc,nc
@@ -99,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T05:19:41.880Z,35.8564987,-121.4654999,-0.46,1.52,md,11,213,0.2441,0.13,nc,nc73911751,2023-07-12T09:43:13.837Z,"20 km SSE of Lopez Point, CA",earthquake,1.14,9.07,0.1,6,automatic,nc,nc
 2023-07-12T05:18:01.401Z,-21.9831,-68.79,124.714,4.2,mb,22,46,0.896,0.6,us,us7000kf12,2023-07-12T06:18:41.040Z,"54 km NNE of Calama, Chile",earthquake,5.16,10.384,0.187,8,reviewed,us,us
 2023-07-12T05:12:57.430Z,38.8404999,-122.8748322,2.54,1.84,md,35,55,0.004876,0.03,nc,nc73911736,2023-07-12T08:47:20.502Z,"12 km NW of The Geysers, CA",earthquake,0.2,0.33,0.13,39,automatic,nc,nc
-2023-07-12T05:12:02.770Z,38.754,-122.7398333,0.9,1.15,md,38,54,0.003887,0.07,nc,nc73911741,2023-07-12T17:35:11.560Z,"3 km SSE of The Geysers, CA",earthquake,0.16,0.23,0.163,33,reviewed,nc,nc
+2023-07-12T05:12:02.770Z,38.754,-122.7398333,0.9,1.15,md,38,54,0.003887,0.07,nc,nc73911741,2023-07-12T17:56:13.686Z,"3 km SSE of The Geysers, CA",earthquake,0.16,0.23,0.163,33,reviewed,nc,nc
 2023-07-12T05:10:08.369Z,61.7591,-150.9426,55.5,1.1,ml,,,,0.18,ak,ak0238v9rb50,2023-07-12T05:11:18.861Z,"33 km NW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-07-12T05:05:38.930Z,52.7801666666667,-169.876166666667,13.02,0.42,ml,5,226,,0.26,av,av91109998,2023-07-12T05:38:51.460Z,"70 km WSW of Nikolski, Alaska",earthquake,4.32,1.75,0.304081904820507,5,reviewed,av,av
 2023-07-12T04:59:57.730Z,38.8248329,-122.7923355,0.72,0.28,md,8,88,0.01365,0.02,nc,nc73911731,2023-07-12T05:27:16.324Z,"6 km W of Cobb, CA",earthquake,0.41,1.4,0.13,9,automatic,nc,nc
