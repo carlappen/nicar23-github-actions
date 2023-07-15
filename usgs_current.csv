@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-15T13:58:06.090Z,38.8371658,-122.8018341,1.86,0.5,md,9,117,0.009059,0.01,nc,nc73913271,2023-07-15T13:59:41.371Z,"7 km WNW of Cobb, CA",earthquake,0.37,1.08,0.39,8,automatic,nc,nc
+2023-07-15T14:11:40.057Z,64.9118,-147.7976,13.1,1.9,ml,,,,0.58,ak,ak02390dqj85,2023-07-15T14:14:06.139Z,"4 km W of Farmers Loop, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-07-15T14:02:29.880Z,38.8358345,-122.81633,6.77,0.63,md,9,208,0.01335,0.04,nc,nc73913276,2023-07-15T14:05:16.407Z,"8 km W of Cobb, CA",earthquake,1.64,1,0.2,9,automatic,nc,nc
+2023-07-15T13:58:06.090Z,38.8371658,-122.8018341,1.86,0.5,md,9,117,0.009059,0.01,nc,nc73913271,2023-07-15T14:21:14.802Z,"7 km WNW of Cobb, CA",earthquake,0.37,1.08,0.39,8,automatic,nc,nc
 2023-07-15T13:41:48.210Z,58.2688,-154.9305,1.2,0.5,ml,,,,0.59,ak,ak02390dbjr0,2023-07-15T13:45:11.829Z,"82 km NNW of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-07-15T13:03:03.820Z,38.8311653,-122.8153305,2.5,0.74,md,8,103,0.008778,0.02,nc,nc73913256,2023-07-15T13:26:13.473Z,"8 km NW of The Geysers, CA",earthquake,0.45,1.82,0.28,8,automatic,nc,nc
 2023-07-15T12:50:28.950Z,17.9421666666667,-66.8541666666667,16.66,2.07,md,9,213,0.0405,0.11,pr,pr71418008,2023-07-15T13:04:57.580Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.66,0.45,0.051630319541485,6,reviewed,pr,pr
@@ -45,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T08:43:46.621Z,58.183,-155.3782,1.2,0,ml,,,,0.15,ak,ak02390act0m,2023-07-15T08:44:52.058Z,"Alaska Peninsula",earthquake,,1.5,,,automatic,ak,ak
 2023-07-15T08:39:13.665Z,64.8342,-147.4143,15,0.7,ml,,,,0.5,ak,ak02390abvly,2023-07-15T08:40:47.102Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-15T08:32:15.570Z,44.6145,-112.574333333333,6.94,1.07,ml,8,80,0.04982,0.05,mb,mb90021573,2023-07-15T14:03:51.910Z,"2 km SSE of Lima, Montana",earthquake,0.38,0.56,0.221804480842626,17,reviewed,mb,mb
+2023-07-15T08:28:39.880Z,44.6178333333333,-112.572666666667,7.09,1.46,ml,9,80,0.05094,0.07,mb,mb90021568,2023-07-15T14:09:12.430Z,"2 km SE of Lima, Montana",earthquake,0.36,0.59,0.160513438937816,11,reviewed,mb,mb
 2023-07-15T08:28:33.986Z,60.9278,-149.3479,23.5,1.7,ml,,,,0.46,ak,ak02390a9kau,2023-07-15T08:30:16.687Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-15T08:25:33.780Z,33.9903333,-116.441,1.57,1.83,ml,57,34,0.05631,0.17,ci,ci39613482,2023-07-15T08:29:05.153Z,"6km ENE of Desert Hot Springs, CA",earthquake,0.18,0.34,0.196,26,automatic,ci,ci
 2023-07-15T08:14:34.970Z,18.6925,-66.4543333333333,36.9,3.3,md,12,217,0.2258,0.27,pr,pr71417973,2023-07-15T11:48:57.526Z,"Puerto Rico region",earthquake,1.07,1.77,0.121967209206794,8,reviewed,pr,pr
@@ -54,6 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T07:59:36.235Z,61.1093,-150.4479,8.9,1.6,ml,,,,0.45,ak,ak023909us2f,2023-07-15T08:01:42.036Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-15T07:55:03.278Z,56.1112,-158.2541,65.5,1.6,ml,,,,0.88,ak,ak023909tunr,2023-07-15T07:56:50.629Z,"22 km SSE of Chignik, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-07-15T07:54:16.260Z,58.1999,-155.2756,6.3,-0.1,ml,,,,0.89,ak,ak023909tnyz,2023-07-15T07:56:44.824Z,"85 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-15T07:54:01.430Z,44.6295,-112.5765,7.78,1.2,ml,10,67,0.04973,0.07,mb,mb90021563,2023-07-15T14:22:12.950Z,"1 km ESE of Lima, Montana",earthquake,0.34,0.43,0.141488025365813,13,reviewed,mb,mb
 2023-07-15T07:51:52.550Z,44.615,-112.576166666667,7.38,1.84,ml,9,80,0.04849,0.05,mb,mb90021558,2023-07-15T13:45:37.120Z,"2 km SSE of Lima, Montana",earthquake,0.27,0.5,0.193073889595259,27,reviewed,mb,mb
 2023-07-15T07:42:00.193Z,60.6476,-152.0851,82.4,0.9,ml,,,,0.49,ak,ak023909r2ci,2023-07-15T07:52:09.230Z,"42 km W of Salamatof, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-15T07:37:27.245Z,54.3323,-159.6883,35,3.1,ml,27,212,1.117,0.47,us,us7000kfxx,2023-07-15T08:10:36.040Z,"123 km SSE of Sand Point, Alaska",earthquake,6.86,2.018,0.085,18,reviewed,us,us
@@ -218,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T14:27:26.590Z,38.8271675,-122.8171692,0.3,0.63,md,7,112,0.006701,0.04,nc,nc73912916,2023-07-14T16:38:18.057Z,"8 km NW of The Geysers, CA",earthquake,0.39,0.96,0.36,8,automatic,nc,nc
 2023-07-14T14:27:23.724Z,-50.3778,139.3177,10,4.8,mb,23,112,9.273,1.01,us,us7000kfrn,2023-07-14T14:41:55.040Z,"western Indian-Antarctic Ridge",earthquake,12.79,1.948,0.124,20,reviewed,us,us
 2023-07-14T14:24:55.236Z,39.4194,-119.9339,6.9,0.6,ml,9,108.75,0.134,0.1879,nn,nn00862610,2023-07-14T17:53:20.150Z,"8 km ENE of Floriston, California",earthquake,,2.4,0.46,6,reviewed,nn,nn
-2023-07-14T14:13:25.246Z,62.8597,-148.9686,5.2,3.1,ml,,,,0.9,ak,ak0238yq7l0r,2023-07-15T08:18:41.040Z,"59 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-14T14:05:49.140Z,39.2703333,-123.7063333,0.64,1.29,md,12,145,0.05313,0.1,nc,nc73912911,2023-07-14T23:25:15.595Z,"9 km ESE of Mendocino, CA",earthquake,0.38,1.75,0.323,11,reviewed,nc,nc
