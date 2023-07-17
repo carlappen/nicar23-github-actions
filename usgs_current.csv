@@ -1,14 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-17T11:32:28.560Z,35.8843333,-117.6926667,1.91,0.98,ml,14,120,0.0957,0.15,ci,ci39614658,2023-07-17T11:35:57.852Z,"20km ESE of Little Lake, CA",earthquake,0.28,0.45,0.134,6,automatic,ci,ci
+2023-07-17T11:31:47.765Z,63.1261,-151.3582,0,1.4,ml,,,,0.67,ak,ak02393n58bc,2023-07-17T11:33:46.216Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-17T11:24:41.390Z,38.6531,-118.2672,6.9,1.9,ml,13,101.59,0.416,0.1798,nn,nn00862855,2023-07-17T11:27:18.410Z,"Nevada",earthquake,,1.3,0.31,8,automatic,nn,nn
 2023-07-17T11:19:11.553Z,58.1754,-156.0174,50.7,1.3,ml,,,,1.09,ak,ak02393n2kxf,2023-07-17T11:21:14.257Z,"Alaska Peninsula",earthquake,,5.8,,,automatic,ak,ak
-2023-07-17T11:17:40.570Z,33.9488333,-117.7308333,11.61,1.39,ml,32,34,0.05453,0.2,ci,ci39614642,2023-07-17T11:21:16.828Z,"6km SSE of Chino Hills, CA",earthquake,0.3,0.46,0.277,29,automatic,ci,ci
+2023-07-17T11:17:40.570Z,33.9488333,-117.7308333,11.61,1.39,ml,32,34,0.05453,0.2,ci,ci39614642,2023-07-17T11:28:47.300Z,"6km SSE of Chino Hills, CA",earthquake,0.3,0.46,0.277,29,automatic,ci,ci
 2023-07-17T11:10:09.246Z,61.1688,-147.0597,27.3,1.3,ml,,,,0.73,ak,ak02393n0nb0,2023-07-17T11:12:18.473Z,"38 km W of Valdez, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-17T11:09:47.220Z,33.4753333,-116.4931667,13.16,0.83,ml,31,97,0.074,0.22,ci,ci39614634,2023-07-17T11:13:24.484Z,"19km ESE of Anza, CA",earthquake,0.34,0.63,0.12,21,automatic,ci,ci
 2023-07-17T11:05:19.680Z,34.7121667,-120.3135,4.58,1.03,ml,12,113,0.03613,0.15,ci,ci39614626,2023-07-17T11:09:00.768Z,"5km SW of Los Alamos, CA",earthquake,0.45,0.68,0.067,9,automatic,ci,ci
 2023-07-17T10:55:29.588Z,62.0406,-150.5004,20.4,1.2,ml,,,,0.23,ak,ak02393mowhq,2023-07-17T10:57:06.935Z,"33 km SSW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-17T10:48:10.714Z,61.7774,-150.3892,16,1.1,ml,,,,0.39,ak,ak02393mnd0x,2023-07-17T10:51:25.284Z,"18 km W of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-17T10:44:43.490Z,38.8093338,-122.8233337,2.22,1.05,md,13,73,0.00459,0.03,nc,nc73913936,2023-07-17T11:04:11.995Z,"7 km WNW of The Geysers, CA",earthquake,0.28,0.46,0.09,14,automatic,nc,nc
-2023-07-17T10:40:53.054Z,61.4415,-149.4788,37.2,3.4,ml,,,,0.73,ak,ak02393mlqi5,2023-07-17T11:25:54.012Z,"10 km SE of Knik-Fairview, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-07-17T10:40:53.054Z,61.4415,-149.4788,37.2,3.4,ml,,,,0.73,ak,ak02393mlqi5,2023-07-17T11:31:08.230Z,"10 km SE of Knik-Fairview, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-07-17T10:34:30.960Z,38.8165016,-122.8206635,2.17,1.32,md,18,55,0.01012,0.02,nc,nc73913926,2023-07-17T11:08:11.027Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.37,0.09,16,automatic,nc,nc
 2023-07-17T10:15:11.719Z,61.0286,-148.4101,8.2,1.1,ml,,,,0.59,ak,ak02393mgagz,2023-07-17T10:16:31.698Z,"32 km NNE of Whittier, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-07-17T10:01:34.974Z,54.6478,-159.7509,2.8,2.4,ml,,,,0.36,ak,ak02393md4ps,2023-07-17T11:11:43.664Z,"south of Alaska",earthquake,,1.3,,,reviewed,ak,ak
