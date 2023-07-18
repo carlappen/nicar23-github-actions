@@ -161,4 +161,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T16:28:58.307Z,58.2511,-155.0915,32.4,0.7,ml,,,,0.38,ak,ak02393q3s06,2023-07-17T16:30:19.041Z,"84 km NNW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-17T16:23:36.678Z,27.6423,130.7721,10.722,5,mb,83,107,1.86,0.79,us,us7000kgde,2023-07-17T16:42:25.040Z,"145 km SE of Tatsugō, Japan",earthquake,5.43,4.413,0.041,187,reviewed,us,us
 2023-07-17T16:01:53.461Z,60.9299,-150.9702,32.4,1.4,ml,,,,0.71,ak,ak02393pxzaq,2023-07-17T16:04:08.173Z,"15 km W of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-17T15:53:43.850Z,35.91566667,-95.13933333,0,1.54,ml,50,128,0.2681473803,0.5,ok,ok2023nxdo,2023-07-17T16:23:13.572Z,"1 km S of Hulbert, Oklahoma",quarry blast,,0.6,0.2,13,reviewed,ok,ok
