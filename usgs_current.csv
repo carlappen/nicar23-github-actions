@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-23T19:24:20.640Z,61.9594,-149.4438,50.8,1,ml,,,,0.17,ak,ak0239dp380g,2023-07-23T19:32:36.053Z,"26 km NNW of Fishhook, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-23T19:21:22.433Z,58.3794,-154.2893,40,1.5,ml,,,,0.99,ak,ak0239dp2l03,2023-07-23T19:22:44.612Z,"88 km WNW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-07-23T19:10:05.290Z,33.73,-116.836,14.56,0.6,ml,12,115,0.0848,0.18,ci,ci39619970,2023-07-23T19:13:37.965Z,"6km ESE of Valle Vista, CA",earthquake,0.63,0.79,0.203,11,automatic,ci,ci
 2023-07-23T18:38:17.506Z,63.7974,-149.3389,111.7,1.6,ml,,,,0.3,ak,ak0239doks6u,2023-07-23T18:40:17.691Z,"19 km WSW of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -184,5 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T19:54:11.340Z,36.7765007,-121.3376694,4.3,1.6,md,11,125,,0.1,nc,nc73915611,2023-07-22T23:42:15.205Z,"2 km SW of Tres Pinos, CA",earthquake,0.4,1.53,0.2,8,automatic,nc,nc
 2023-07-22T19:47:26.615Z,61.6794,-148.1646,24.6,0.9,ml,,,,0.07,ak,ak0239c1otg5,2023-07-22T19:48:30.399Z,"20 km SE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-22T19:37:00.315Z,64.92,-147.9186,13.6,0.6,ml,,,,0.24,ak,ak0239c1mm9b,2023-07-22T19:38:30.340Z,"8 km NW of College, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-22T19:33:50.983Z,36.08879089,-98.51564789,3.430542946,1.81,ml,14,90.3062439,0.1646320969,0.3266352641,ok,ok2023ogoi,2023-07-22T19:37:19.298Z,"5 km SSE of Longdale, Oklahoma",earthquake,4.519066483,2.747744346,0.21,8,automatic,ok,ok
-2023-07-22T19:32:07.660Z,19.3848323822021,-155.070007324219,4.59999990463257,2.48,ml,29,161,,0.300000012,hv,hv73492917,2023-07-22T19:37:38.510Z,"11 km SE of Fern Forest, Hawaii",earthquake,0.86,0.75999999,0.46,3,automatic,hv,hv
