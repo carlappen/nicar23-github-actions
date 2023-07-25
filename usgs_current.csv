@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T06:08:01.430Z,35.8091667,-117.6131667,10.6,0.76,ml,9,127,0.1233,0.23,ci,ci39621322,2023-07-25T06:11:30.689Z,"19km WNW of Searles Valley, CA",earthquake,0.8,1.6,0.273,4,automatic,ci,ci
 2023-07-25T06:07:20.618Z,62.7425,-150.6381,84.7,1.4,ml,,,,0.73,ak,ak0239gsbmyl,2023-07-25T06:09:24.174Z,"28 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-25T05:49:31.355Z,13.0153,-89.1916,64.517,4.3,mb,35,174,0.683,0.99,us,us7000ki5v,2023-07-25T06:22:35.040Z,"54 km SSE of La Libertad, El Salvador",earthquake,6.58,5.552,0.05,114,reviewed,us,us
-2023-07-25T05:44:50.996Z,37.5831,35.9568,10,5.5,mww,110,56,0.309,0.75,us,us7000ki5u,2023-07-25T08:25:58.015Z,"Central Turkey",earthquake,4.75,1.868,0.045,48,reviewed,us,us
+2023-07-25T05:44:50.996Z,37.5831,35.9568,10,5.5,mww,110,56,0.309,0.75,us,us7000ki5u,2023-07-25T11:54:52.530Z,"Central Turkey",earthquake,4.75,1.868,0.045,48,reviewed,us,us
 2023-07-25T05:34:32.338Z,60.8569,-150.8532,13.3,1.6,ml,,,,0.52,ak,ak0239grw0ld,2023-07-25T05:36:06.539Z,"11 km SW of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-25T05:12:02.910Z,38.8371658,-122.8075027,1.99,1.09,md,18,53,0.01346,0.02,nc,nc73916396,2023-07-25T07:53:19.770Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.64,0.18,19,automatic,nc,nc
 2023-07-25T05:11:46.892Z,62.566,-151.2456,80.4,1.2,ml,,,,0.57,ak,ak0239grr48x,2023-07-25T05:14:07.122Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -176,8 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T12:04:19.515Z,54.8386,-160.641,42.729,4.5,mwr,76,146,0.521,0.98,us,us7000khyj,2023-07-24T16:25:18.890Z,"56 km S of Sand Point, Alaska",earthquake,7.08,6.099,0.049,40,reviewed,us,us
 2023-07-24T12:01:24.430Z,38.8339996,-122.9551697,4.62,1.14,md,8,176,0.01294,0.02,nc,nc73916136,2023-07-24T12:47:15.858Z,"6 km ENE of Cloverdale, CA",earthquake,1.6,2.07,0.12,8,automatic,nc,nc
 2023-07-24T11:58:14.176Z,60.2591,-147.0542,10.7,1.4,ml,,,,0.76,ak,ak0239f82de5,2023-07-24T12:00:48.146Z,"57 km ENE of Chenega, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2023-07-24T11:54:26.500Z,48.51016666666666,-122.03166666666667,6.82,0.84,ml,5,110,0.12,0.06,uw,uw61943281,2023-07-24T17:08:04.610Z,"2 km SE of Lyman, Washington",earthquake,0.32,1.68,0.1650143931354685,4,reviewed,uw,uw
-2023-07-24T11:52:05.530Z,33.7075,-116.7316667,18.79,0.45,ml,12,108,0.01504,0.11,ci,ci39620314,2023-07-24T13:06:12.267Z,"4km SSW of Idyllwild, CA",earthquake,0.38,0.44,0.129,10,reviewed,ci,ci
-2023-07-24T11:50:55.440Z,33.9375,-116.542,10.02,0.3,ml,17,84,0.1108,0.11,ci,ci39620306,2023-07-24T21:27:02.451Z,"4km N of Garnet, CA",earthquake,0.21,0.86,0.123,9,reviewed,ci,ci
-2023-07-24T11:48:07.696Z,62.248,-151.3875,78.2,1.1,ml,,,,0.25,ak,ak0239f807zw,2023-07-24T12:00:50.207Z,"28 km N of Skwentna, Alaska",earthquake,,3.2,,,automatic,ak,ak
-2023-07-24T11:47:47.299Z,59.9694,-151.8495,67.5,1.8,ml,,,,0.21,ak,ak0239f8036x,2023-07-24T11:49:15.625Z,"7 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
