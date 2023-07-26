@@ -207,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T15:35:05.902Z,2.2578,126.8221,54.244,5.1,mb,104,74,1.573,0.9,us,us7000ki9d,2023-07-25T15:52:26.040Z,"144 km WNW of Tobelo, Indonesia",earthquake,7.03,6.676,0.062,85,reviewed,us,us
 2023-07-25T15:31:32.390Z,54.6043,-161.1932,41.126,3.8,mb,11,186,0.853,0.71,us,us7000ki98,2023-07-25T16:46:38.285Z,"Alaska Peninsula",earthquake,4.95,17.87,0.228,5,reviewed,us,us
 2023-07-25T15:27:47.780Z,35.736,-118.0571667,4.16,0.93,ml,19,43,0.1428,0.11,ci,ci39621586,2023-07-25T18:09:35.187Z,"24km WNW of Inyokern, CA",earthquake,0.2,0.55,0.201,12,reviewed,ci,ci
-2023-07-25T15:18:29.170Z,56.8481666666667,-158.115333333333,5.16,-0.78,ml,5,225,,0.07,av,av91976891,2023-07-25T20:22:06.220Z,"Alaska Peninsula",earthquake,0.53,0.47,0.385603658708624,5,reviewed,av,av
-2023-07-25T15:16:53.950Z,38.7921677,-122.7480011,2.24,0.63,md,8,132,0.01254,0.02,nc,nc73916521,2023-07-25T15:45:14.650Z,"2 km NNE of The Geysers, CA",earthquake,0.42,2.13,0.19,8,automatic,nc,nc
