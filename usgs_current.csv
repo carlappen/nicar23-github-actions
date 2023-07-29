@@ -209,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T13:53:40.337Z,63.5513,-150.6141,2,1,ml,,,,0.76,ak,ak0239lvdm4y,2023-07-28T13:56:18.291Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-28T13:43:14.830Z,43.3358,-127.5102,10,2.6,ml,21,287,2.551,0.19,us,us6000kw7i,2023-07-29T04:44:24.040Z,"253 km W of Langlois, Oregon",earthquake,5.09,2.026,0.046,62,reviewed,us,us
 2023-07-28T13:35:23.040Z,-24.2774,-179.9451,507.953,4.7,mb,35,76,5.284,1.06,us,us6000kw7h,2023-07-28T13:54:21.040Z,"south of the Fiji Islands",earthquake,12.44,8.398,0.032,305,reviewed,us,us
-2023-07-28T13:34:20.690Z,46.063,-119.62533333333333,7.16,0.88,ml,8,206,0.1555,0.15,uw,uw61944651,2023-07-28T20:30:32.920Z,"19 km SE of Prosser, Washington",earthquake,1.32,0.54,0.12289300529046421,7,reviewed,uw,uw
-2023-07-28T13:32:54.020Z,53.858,-166.902333333333,3.98,-0.12,ml,6,157,,0.22,av,av91981116,2023-07-29T03:24:30.170Z,"23 km W of Dutch Harbor, Alaska",earthquake,0.55,2.2,0.201137909715011,6,reviewed,av,av
-2023-07-28T13:25:56.540Z,54.2008333333333,-165.9985,7.8,0.15,ml,9,265,,0.1,av,av91981101,2023-07-29T03:30:32.210Z,"16 km WNW of Akutan, Alaska",earthquake,0.5,0.31,0.307690768731708,9,reviewed,av,av
