@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-31T05:43:50.360Z,59.8666,-152.291,91.9,0.3,ml,,,,0.65,ak,ak0239qp61tt,2023-07-31T05:46:11.969Z,"27 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-31T05:26:56.182Z,59.9408,-153.2188,124.3,1.6,ml,,,,0.15,ak,ak0239qp2fo2,2023-07-31T05:28:27.008Z,"52 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-31T05:24:57.650Z,34.1393333,-117.0153333,7.15,1.01,ml,26,39,0.07618,0.18,ci,ci39625930,2023-07-31T05:28:30.022Z,"12 km SE of Running Springs, CA",earthquake,0.26,0.62,0.158,27,automatic,ci,ci
 2023-07-31T05:21:25.716Z,57.9037,-155.0397,78.5,2.7,ml,,,,0.35,ak,ak0239qp1aq4,2023-07-31T05:23:00.538Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
@@ -208,7 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T05:56:20.090Z,38.8240013,-122.8058319,1.46,0.97,md,12,65,0.003368,0.02,nc,nc73918171,2023-07-30T08:39:14.325Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.63,0.4,11,automatic,nc,nc
 2023-07-30T05:53:23.826Z,-34.9012,-71.7467,53.524,4.4,mb,47,75,0.801,0.36,us,us6000kwmr,2023-07-31T04:39:06.647Z,"Libertador General Bernardo O'Higgins, Chile",earthquake,4.39,8.396,0.114,22,reviewed,us,us
 2023-07-30T05:49:13.750Z,33.3495,-116.3778333,6.05,0.5,ml,22,156,0.08751,0.13,ci,ci39625434,2023-07-30T14:16:54.585Z,"10 km N of Borrego Springs, CA",earthquake,0.34,0.84,0.128,11,reviewed,ci,ci
-2023-07-30T05:39:55.375Z,-6.766,116.0906,525.088,4.7,mb,56,44,2.56,0.6,us,us6000kwmp,2023-07-30T05:55:50.040Z,"175 km N of Gili Trawangan, Indonesia",earthquake,10.86,8.457,0.086,41,reviewed,us,us
-2023-07-30T05:39:23.473Z,61.0289,-148.4386,12.9,1.1,ml,,,,0.67,ak,ak0239p1lsyj,2023-07-30T05:41:15.100Z,"31 km NNE of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-30T05:39:09.733Z,12.8182,-90.9186,10,4.1,mb,35,213,1.546,0.54,us,us6000kwmq,2023-07-30T06:06:48.040Z,"123 km S of Puerto San José, Guatemala",earthquake,11.37,2.01,0.092,32,reviewed,us,us
-2023-07-30T05:38:27.901Z,40.2059,-119.9432,8.4,1.4,ml,9,239.11,0.165,0.1831,nn,nn00863724,2023-07-31T02:03:36.552Z,"17 km ENE of Herlong, California",earthquake,,2.4,0.27,8,reviewed,nn,nn
