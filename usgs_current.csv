@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T12:39:49.153Z,61.5888,-147.9062,30.3,1.7,ml,,,,0.85,ak,ak0239sgul5v,2023-08-01T12:41:27.701Z,"27 km SSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-08-01T12:36:03.790Z,18.228,-67.0048333333333,26.38,2.6,md,10,85,0.04836,0.19,pr,pr71420038,2023-08-01T13:00:03.580Z,"2 km SSW of Las Marías, Puerto Rico",earthquake,0.61,1.1,0.103394853761434,6,reviewed,pr,pr
 2023-08-01T12:34:43.300Z,19.3174991607666,-155.223831176758,5.30999994277954,1.91,ml,42,126,,0.150000006,hv,hv73505812,2023-08-01T12:47:01.628Z,"13 km S of Volcano, Hawaii",earthquake,0.44,0.579999983,0.22,11,automatic,hv,hv
-2023-08-01T12:34:35.580Z,37.6446648,-119.0201645,-1.97,1.4,md,9,100,0.00733,0.04,nc,nc73919001,2023-08-01T13:08:10.569Z,"4 km WNW of Mammoth Lakes, CA",earthquake,0.25,0.36,0.18,9,automatic,nc,nc
+2023-08-01T12:34:35.460Z,37.6458333,-119.023,-1.41,0.77,md,17,62,0.005669,0.05,nc,nc73919001,2023-08-01T16:51:30.386Z,"4 km WNW of Mammoth Lakes, CA",earthquake,0.16,0.18,0.476,17,reviewed,nc,nc
 2023-08-01T12:13:38.221Z,-7.5169,128.2078,147.533,4.9,mb,58,55,3.42,0.78,us,us6000kx17,2023-08-01T12:33:23.040Z,"173 km NE of Lospalos, Timor Leste",earthquake,8.33,7.541,0.056,99,reviewed,us,us
 2023-08-01T12:08:18.291Z,58.2329,-155.0331,5.4,1.8,ml,,,,1.03,ak,ak0239sgnvl1,2023-08-01T12:09:21.950Z,"81 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-01T12:07:41.438Z,58.1815,-155.2596,0,0.9,ml,,,,0.79,ak,ak0239sgnpnj,2023-08-01T12:09:26.660Z,"83 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -78,11 +78,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T08:50:18.660Z,46.9046666666667,-112.592166666667,9.83,0.66,ml,8,112,0.04893,0.09,mb,mb90023068,2023-08-01T15:09:15.290Z,"8 km SE of Lincoln, Montana",earthquake,0.53,0.68,0.110166452085702,7,reviewed,mb,mb
 2023-08-01T08:40:41.683Z,62.1031,-148.8459,22.6,0.6,ml,,,,0.48,ak,ak0239seh1vs,2023-08-01T08:42:40.340Z,"36 km N of Sutton-Alpine, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-01T08:40:08.898Z,31.56591324,-104.0145852,6.851391602,2.6,ml,26,57,0.04582522131,0.2,tx,tx2023oxzw,2023-08-01T13:48:38.155Z,"34 km NW of Toyah, Texas",earthquake,1.009726198,1.003449655,0.1,6,reviewed,tx,tx
-2023-08-01T08:39:49.810Z,35.9161667,-117.6806667,7.93,0.67,ml,9,175,0.116,0.19,ci,ci39626666,2023-08-01T08:43:24.503Z,"20 km E of Little Lake, CA",earthquake,0.79,1.94,0.112,3,automatic,ci,ci
+2023-08-01T08:39:49.900Z,35.911,-117.6966667,8.89,0.87,ml,18,89,0.1054,0.16,ci,ci39626666,2023-08-01T16:43:11.425Z,"19 km E of Little Lake, CA",earthquake,0.3,0.7,0.153,4,reviewed,ci,ci
 2023-08-01T08:33:43.690Z,32.78,-115.4356667,15.67,1.24,ml,19,96,0.02693,0.2,ci,ci39626658,2023-08-01T16:40:04.133Z,"6 km SW of Holtville, CA",earthquake,0.42,0.61,0.134,6,reviewed,ci,ci
 2023-08-01T08:26:28.690Z,39.5298333,-123.5346667,2.22,1.77,md,19,148,0.03558,0.09,nc,nc73918961,2023-08-01T16:23:13.657Z,"16 km NW of Brooktrails, CA",earthquake,0.28,0.65,0.174,23,reviewed,nc,nc
 2023-08-01T08:21:04.260Z,33.7158333,-116.7553333,16.27,0.38,ml,25,76,0.03624,0.11,ci,ci39626650,2023-08-01T16:34:45.945Z,"4 km SW of Idyllwild, CA",earthquake,0.2,0.34,0.094,8,reviewed,ci,ci
-2023-08-01T08:14:21.600Z,37.5261667,-121.7993333,11.65,1.08,md,18,65,0.01031,0.08,nc,nc73918951,2023-08-01T16:02:25.982Z,"12 km SE of Sunol, CA",earthquake,0.5,0.54,0.111,15,reviewed,nc,nc
+2023-08-01T08:14:21.600Z,37.5261667,-121.7993333,11.65,1.08,md,18,65,0.01031,0.08,nc,nc73918951,2023-08-01T16:44:11.769Z,"12 km SE of Sunol, CA",earthquake,0.5,0.54,0.111,15,reviewed,nc,nc
 2023-08-01T08:09:36.862Z,19.2229,121.2046,41.972,4.9,mb,82,102,3.579,0.89,us,us6000kx07,2023-08-01T08:47:13.040Z,"67 km N of Namuac, Philippines",earthquake,9.05,7.03,0.046,150,reviewed,us,us
 2023-08-01T08:03:21.156Z,19.3035,121.2047,40.155,5.4,mww,61,56,3.499,1.1,us,us6000kx06,2023-08-01T10:08:21.061Z,"76 km N of Namuac, Philippines",earthquake,8.5,7.662,0.073,18,reviewed,us,us
 2023-08-01T08:03:11.720Z,17.921,-66.9883333333333,4.48,2.75,md,8,236,0.07177,0.11,pr,pr71419978,2023-08-01T08:15:56.060Z,"8 km SE of La Parguera, Puerto Rico",earthquake,0.71,0.57,0.0442661625865863,5,reviewed,pr,pr
