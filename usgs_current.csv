@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-04T04:27:31.590Z,38.8284988,-122.814003,1.21,0.76,md,8,83,0.005949,0.02,nc,nc73920006,2023-08-04T04:29:07.876Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.86,0.3,10,automatic,nc,nc
 2023-08-04T03:53:57.088Z,40.1913,-119.8121,5.9,2,ml,9,233.41,0.065,0.1655,nn,nn00863939,2023-08-04T03:56:14.633Z,"27 km E of Herlong, California",earthquake,,0.8,0.27,6,automatic,nn,nn
 2023-08-04T03:45:41.420Z,38.8371658,-122.7996674,1.91,0.38,md,7,119,0.007386,0.02,nc,nc73919996,2023-08-04T04:02:13.429Z,"7 km WNW of Cobb, CA",earthquake,0.44,1.61,0.3,8,automatic,nc,nc
 2023-08-04T03:32:21.655Z,61.7737,-150.7061,41.9,1.1,ml,,,,0.94,ak,ak0239xa261w,2023-08-04T03:34:49.571Z,"27 km NNW of Susitna, Alaska",earthquake,,3,,,automatic,ak,ak
@@ -221,6 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T04:43:04.473Z,62.8471,-149.5736,77.6,0.9,ml,,,,0.55,ak,ak0239vn6kq7,2023-08-03T04:44:51.545Z,"51 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-03T04:40:35.866Z,58.8852,-153.9687,11,1.4,ml,,,,0.38,ak,ak0239vn6002,2023-08-03T04:42:27.122Z,"77 km SE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-03T04:31:29.920Z,37.5641667,-118.8575,5.13,0.55,md,15,232,0.03428,0.03,nc,nc73919621,2023-08-03T17:41:17.914Z,"13 km SE of Mammoth Lakes, CA",earthquake,0.5,0.55,0.17,13,reviewed,nc,nc
-2023-08-03T04:30:44.976Z,61.2859,-152.503,3.1,1.4,ml,,,,0.53,ak,ak0239vn3vjl,2023-08-03T04:32:37.300Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-03T04:30:09.620Z,46.87416666666667,-121.93283333333333,7.68,0.04,ml,11,140,0.01577,0.08,uw,uw61937532,2023-08-03T04:54:54.910Z,"14 km NNE of Ashford, Washington",earthquake,0.9,0.54,0.051531820107368655,6,reviewed,uw,uw
-2023-08-03T04:21:47.660Z,41.1016667,-121.6056667,6.13,2.27,md,37,41,0.0741,0.09,nc,nc73919616,2023-08-03T19:46:13.690Z,"18 km NW of Fall River Mills, CA",earthquake,0.19,0.74,0.151,41,reviewed,nc,nc
