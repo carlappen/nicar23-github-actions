@@ -231,6 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T11:51:32.826Z,43.9422,-129.1479,10,4.1,mb,62,191,2.082,0.87,us,us6000kyuw,2023-08-10T01:41:25.665Z,"off the coast of Oregon",earthquake,9.62,1.991,0.092,32,reviewed,us,us
 2023-08-09T11:50:44.560Z,36.3986664,-120.5141678,10.09,0.52,md,8,217,0.2029,0.37,nc,nc73922171,2023-08-09T13:24:13.257Z,"14 km E of New Idria, CA",earthquake,10.94,12.53,,1,automatic,nc,nc
 2023-08-09T11:49:40.970Z,61.3236666666667,-152.496166666667,3.23,-0.08,ml,11,126,,0.17,av,av91996021,2023-08-09T23:14:40.020Z,"78 km WNW of Tyonek, Alaska",earthquake,0.72,0.79,0.316987370199927,11,reviewed,av,av
-2023-08-09T11:31:10.030Z,63.4834,-151.1874,5,1.6,ml,,,,0.56,ak,ak023a5oi4rf,2023-08-09T11:32:57.874Z,"27 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-09T11:30:26.436Z,39.6118,-119.9692,6.6,0.4,ml,5,158.34,0.008,0.1512,nn,nn00864215,2023-08-09T15:44:32.770Z,"7 km S of Cold Springs, Nevada",earthquake,,1.4,0.14,2,reviewed,nn,nn
-2023-08-09T11:30:20.680Z,37.6166667,-122.3755,10.84,1.17,md,31,33,0.04933,0.09,nc,nc73922166,2023-08-09T23:03:14.680Z,"2 km NNE of Millbrae, CA",earthquake,0.22,0.32,0.317,21,reviewed,nc,nc
