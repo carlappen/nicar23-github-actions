@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-12T14:50:50.414Z,61.5481,-149.98,33.1,2,ml,,,,0.47,ak,ak023aap0ms1,2023-08-12T14:52:26.099Z,"3 km NNW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-08-12T14:47:57.280Z,19.1721668243408,-155.488494873047,30.1900005340576,1.98000002,md,42,149,,0.119999997,hv,hv73521167,2023-08-12T14:51:05.900Z,"Hawaii region, Hawaii",earthquake,0.48,0.699999988,0.150000006,13,automatic,hv,hv
+2023-08-12T14:41:13.232Z,61.1791,-147.0636,26.7,1.3,ml,,,,0.43,ak,ak023aaoymgr,2023-08-12T14:49:18.202Z,"38 km W of Valdez, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-08-12T14:24:09.680Z,19.1275005340576,-155.414001464844,31.9599990844727,1.74000001,md,39,181,,0.109999999,hv,hv73521147,2023-08-12T14:27:26.270Z,"Island of Hawaii, Hawaii",earthquake,0.71,1.03999996,0.460000008,5,automatic,hv,hv
 2023-08-12T14:17:06.100Z,38.7973328,-122.734169,0.56,0.4,md,7,106,0.02023,0.02,nc,nc73923336,2023-08-12T14:41:18.597Z,"3 km SSW of Cobb, CA",earthquake,0.28,1.24,0.18,6,automatic,nc,nc
 2023-08-12T14:14:03.260Z,34.8775,-118.7896667,6.17,1.78,ml,36,74,0.09479,0.17,ci,ci40535192,2023-08-12T14:18:19.772Z,"8 km ENE of Lebec, CA",earthquake,0.22,0.67,0.24,26,automatic,ci,ci
@@ -30,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T10:55:33.637Z,-17.3955,-175.3878,263.844,4.5,mb,54,49,2.609,0.72,us,us6000kzji,2023-08-12T11:12:38.040Z,"203 km NW of Neiafu, Tonga",earthquake,11.49,8.077,0.047,132,reviewed,us,us
 2023-08-12T10:44:39.580Z,38.7890015,-122.7668304,2.18,0.79,md,11,92,0.01287,0.03,nc,nc73923286,2023-08-12T11:18:15.430Z,"2 km NW of The Geysers, CA",earthquake,0.4,0.78,0.14,10,automatic,nc,nc
 2023-08-12T10:30:13.117Z,39.352,-119.9865,7.6,0.8,ml,12,117.83,0.071,0.1741,nn,nn00864376,2023-08-12T14:12:20.616Z,"5 km SSE of Floriston, California",earthquake,,1.4,0.27,5,reviewed,nn,nn
-2023-08-12T10:30:10.523Z,62.0873,-152.0123,103,1.8,ml,,,,0.51,ak,ak023aamiiyk,2023-08-12T10:32:31.568Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-08-12T10:30:10.523Z,62.0873,-152.0123,103,1.8,ml,,,,0.51,ak,ak023aamiiyk,2023-08-12T14:47:33.068Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-12T10:28:41.618Z,61.2711,-152.0054,96.6,1.9,ml,,,,0.5,ak,ak023aami5xd,2023-08-12T10:30:59.321Z,"51 km WNW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-12T10:18:30.435Z,61.8874,-150.1345,28.5,1.7,ml,,,,0.49,ak,ak023aamfzwj,2023-08-12T10:20:52.469Z,"16 km NNW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-12T10:14:46.260Z,19.4233341217041,-155.817169189453,-1.49000000953674,2.36,ml,42,107,,0.310000002,hv,hv73520972,2023-08-12T10:27:44.040Z,"Island of Hawaii, Hawaii",earthquake,0.7,0.349999994,0.38,16,automatic,hv,hv
