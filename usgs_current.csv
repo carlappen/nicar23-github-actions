@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-12T05:02:36.689Z,63.2106,-149.148,76.2,3.3,ml,,,,0.53,ak,ak023aajdevl,2023-08-12T05:11:06.040Z,"22 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-08-12T05:00:51.725Z,61.7671,-150.8096,53.6,1.1,ml,,,,0.64,ak,ak023aajd0ms,2023-08-12T05:02:58.827Z,"29 km NNW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-08-12T04:56:53.344Z,63.8543,-146.2852,14.7,1,ml,,,,0.82,ak,ak023aaj3l92,2023-08-12T04:59:11.884Z,"33 km SW of Delta Junction, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-12T04:29:17.007Z,36.7673,-116.2515,9.6,-0.1,ml,12,96.69,0.046,0.053,nn,nn00864363,2023-08-12T04:31:05.089Z,"47 km ESE of Beatty, Nevada",earthquake,,1,0.14,7,automatic,nn,nn
 2023-08-12T04:24:26.035Z,29.3595,130.4678,41.552,4.6,mb,43,120,2.143,0.67,us,us6000kzi6,2023-08-12T04:45:21.040Z,"97 km S of Yudomari, Japan",earthquake,7.42,7.69,0.08,47,reviewed,us,us
@@ -241,6 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T05:29:33.850Z,56.8871666666667,-158.135833333333,4.07,0.06,ml,5,159,,0.14,av,av91113153,2023-08-12T00:07:14.270Z,"Alaska Peninsula",earthquake,0.69,0.59,0.347397340717143,5,reviewed,av,av
 2023-08-11T05:29:05.159Z,60.9281,-150.9177,21.4,1.1,ml,,,,0.19,ak,ak023a8vzsb7,2023-08-11T05:31:14.951Z,"Kenai Peninsula, Alaska",earthquake,,10.9,,,automatic,ak,ak
 2023-08-11T05:22:21.070Z,38.8315,-122.8175,1.64,0.32,md,22,48,0.009957,0.02,nc,nc73922821,2023-08-11T17:45:30.330Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.32,0.171,20,reviewed,nc,nc
-2023-08-11T05:16:27.325Z,61.5354,-149.8739,34.2,1.7,ml,,,,0.45,ak,ak023a8vx1po,2023-08-11T05:18:42.738Z,"4 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-11T05:08:05.915Z,62.7129,-150.1253,3.9,1.1,ml,,,,0.43,ak,ak023a8vvabz,2023-08-11T05:10:00.674Z,"29 km N of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-11T05:03:39.510Z,53.8501666666667,-166.799333333333,5.1,0.87,ml,7,87,,0.1,av,av91113133,2023-08-11T23:35:05.910Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.29,0.88,0.294362047237929,7,reviewed,av,av
