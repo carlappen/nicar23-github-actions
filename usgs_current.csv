@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-17T20:46:40.460Z,33.0503333,-116.0765,7.11,1.13,ml,17,64,0.1482,0.25,ci,ci39643234,2023-08-17T20:50:11.025Z,"12 km SSE of Ocotillo Wells, CA",earthquake,0.45,2.42,0.12,18,automatic,ci,ci
+2023-08-17T21:08:00.930Z,40.3311653,-124.2383347,31.1,4.06,mw,26,91,,0.09,nc,nc73925281,2023-08-17T21:15:11.234Z,"4 km E of Petrolia, CA",earthquake,0.7,1.08,,4,reviewed,nc,nc
+2023-08-17T20:53:14.630Z,19.2563333333333,-66.6055,18.38,3.32,md,13,274,0.7784,0.13,pr,pr71421688,2023-08-17T21:16:45.000Z,"87 km N of Arecibo, Puerto Rico",earthquake,1.75,3.72,0.0414976421508024,9,reviewed,pr,pr
+2023-08-17T20:46:40.100Z,33.0568333,-116.079,10.7,1.11,ml,24,79,0.1236,0.15,ci,ci39643234,2023-08-17T21:09:46.380Z,"11 km SSE of Ocotillo Wells, CA",earthquake,0.26,0.74,0.132,18,reviewed,ci,ci
 2023-08-17T20:38:19.090Z,34.878,-119.0365,13.35,1.22,ml,15,95,0.09136,0.14,ci,ci39643218,2023-08-17T20:58:55.316Z,"10 km NW of Frazier Park, CA",earthquake,0.31,0.57,0.273,10,reviewed,ci,ci
 2023-08-17T20:37:27.932Z,36.5235,-115.8771,3.6,0.6,ml,11,280.76,0.223,0.3255,nn,nn00864610,2023-08-17T20:39:26.372Z,"19 km WSW of Indian Springs, Nevada",earthquake,,17.9,0.93,10,automatic,nn,nn
 2023-08-17T20:27:26.200Z,34.8891667,-119.0406667,12.12,1.53,ml,28,81,0.08971,0.18,ci,ci39643202,2023-08-17T20:43:03.864Z,"11 km ENE of Pine Mountain Club, CA",earthquake,0.3,0.64,0.169,20,reviewed,ci,ci
@@ -32,9 +34,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T17:21:46.905Z,61.4162,-151.5046,67.8,1.8,ml,,,,0.19,ak,ak023aj0bg0y,2023-08-17T17:23:17.528Z,"38 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-17T17:20:31.640Z,37.2021,-104.7282,5.096,3,ml,28,58,0.091,1.48,us,us7000kp2k,2023-08-17T19:24:32.308Z,"8 km NNE of Segundo, Colorado",earthquake,4,5.891,0.091,16,reviewed,us,us
 2023-08-17T17:17:18.031Z,4.2142,-73.6065,7.942,5.7,mww,79,77,0.949,0.98,us,us7000kp2j,2023-08-17T20:26:45.605Z,"6 km SW of Restrepo, Colombia",earthquake,5.61,4.311,0.089,12,reviewed,us,us
-2023-08-17T17:07:25.560Z,40.0985,-123.7536667,21.67,1.62,md,24,83,0.02894,0.11,nc,nc73925176,2023-08-17T20:50:11.073Z,"6 km ESE of Redway, CA",earthquake,0.28,0.32,0.215,17,reviewed,nc,nc
+2023-08-17T17:07:25.560Z,40.0985,-123.7536667,21.67,1.62,md,24,83,0.02894,0.11,nc,nc73925176,2023-08-17T21:08:14.190Z,"6 km ESE of Redway, CA",earthquake,0.28,0.32,0.215,17,reviewed,nc,nc
 2023-08-17T17:05:44.870Z,38.8043333,-122.7821667,2.89,0.47,md,22,81,0.008988,0.02,nc,nc73925171,2023-08-17T20:57:16.124Z,"4 km NW of The Geysers, CA",earthquake,0.24,0.38,0.121,19,reviewed,nc,nc
-2023-08-17T17:04:49.641Z,4.4177,-73.5111,10,6.3,mww,131,39,0.912,1.35,us,us7000kp2i,2023-08-17T20:38:25.122Z,"16 km N of Cumaral, Colombia",earthquake,7.68,1.839,0.049,40,reviewed,us,us
+2023-08-17T17:04:49.641Z,4.4177,-73.5111,10,6.3,mww,131,39,0.912,1.35,us,us7000kp2i,2023-08-17T21:06:50.869Z,"16 km N of Cumaral, Colombia",earthquake,7.68,1.839,0.049,40,reviewed,us,us
 2023-08-17T16:51:26.509Z,37.2041,-104.7543,2.869,3.2,ml,30,58,0.085,0.74,us,us7000kp2h,2023-08-17T19:01:04.555Z,"Colorado",earthquake,3.24,6.064,0.069,36,reviewed,us,us
 2023-08-17T16:47:48.470Z,35.494,-118.3916667,10.86,1.28,ml,27,66,0.1813,0.17,ci,ci39642890,2023-08-17T18:20:09.610Z,"14 km SE of Bodfish, CA",earthquake,0.27,0.55,0.191,11,reviewed,ci,ci
 2023-08-17T16:46:33.240Z,19.4221668243408,-155.350662231445,4.6100001335144,2.01,ml,26,73,,0.0900000036,hv,hv73531432,2023-08-17T16:52:04.510Z,"12 km W of Volcano, Hawaii",earthquake,0.37,1.15999997,0.29,5,automatic,hv,hv
@@ -103,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T10:46:50.660Z,52.81,-169.953166666667,14.95,0.64,ml,4,297,,0.08,av,av91113568,2023-08-17T20:55:30.780Z,"74 km WSW of Nikolski, Alaska",earthquake,2.36,0.69,0.355916507444273,4,reviewed,av,av
 2023-08-17T10:43:34.900Z,38.8346672,-122.8011703,1.59,0.49,md,13,58,0.009244,0.01,nc,nc73925066,2023-08-17T11:50:13.941Z,"7 km WNW of Cobb, CA",earthquake,0.32,0.63,0.29,15,automatic,nc,nc
 2023-08-17T10:43:26.550Z,34.931,-96.05483333,5.31,1.61,ml,78,131,0.3509311353,0.41,ok,ok2023qbjy,2023-08-17T13:26:50.685Z,"5 km NE of Stuart, Oklahoma",earthquake,,1.4,0.26,21,reviewed,ok,ok
-2023-08-17T10:40:18.973Z,37.1137,-117.7806,4,1.4,ml,18,219.65,0.297,0.386,nn,nn00864582,2023-08-17T10:42:52.537Z,"45 km E of Big Pine, California",earthquake,,4.5,0.88,12,automatic,nn,nn
+2023-08-17T10:40:19.074Z,37.1258,-117.7731,8.2,1.3,ml,11,195.03,0.148,0.2032,nn,nn00864582,2023-08-17T21:05:54.743Z,"46 km E of Big Pine, California",earthquake,,2.6,0.42,5,reviewed,nn,nn
 2023-08-17T10:38:02.750Z,46.23416666666667,-122.12333333333333,7.98,0.17,ml,10,184,0.01399,0.08,uw,uw61941832,2023-08-17T12:26:30.620Z,"37 km SSE of Morton, Washington",earthquake,0.57,1,0.08523718164610819,9,reviewed,uw,uw
 2023-08-17T10:34:00.620Z,33.9951667,-116.575,9.98,0.89,ml,42,58,0.0591,0.14,ci,ci40538712,2023-08-17T15:55:07.475Z,"6 km S of Morongo Valley, CA",earthquake,0.15,0.38,0.13,20,reviewed,ci,ci
 2023-08-17T10:28:10.320Z,33.224,-116.0915,10.16,1.09,ml,47,50,0.1047,0.19,ci,ci40538704,2023-08-17T15:48:19.442Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.18,0.54,0.117,19,reviewed,ci,ci
@@ -221,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T22:11:45.061Z,61.3881,-150.6754,59.9,1.8,ml,,,,0.43,ak,ak023ahfp496,2023-08-16T22:13:29.026Z,"19 km SSW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-08-16T22:00:42.600Z,32.6226667,-116.9898333,-0.35,0.92,ml,12,234,0.0525,0.27,ci,ci40538488,2023-08-16T23:27:19.216Z,"5 km SE of Bonita, CA",quarry blast,2.3,31.61,0.091,6,reviewed,ci,ci
 2023-08-16T21:44:26.339Z,35.79033333,-98.57383333,7,2.2,ml,78,52,0.1871632722,0.24,ok,ok2023qakf,2023-08-17T13:02:29.534Z,"15 km WSW of Watonga, Oklahoma",earthquake,,0.7,0.19,19,reviewed,ok,ok
-2023-08-16T21:08:54.660Z,20.1692,-64.2043,18.224,4.5,mwr,55,44,1.942,0.79,us,us7000knv6,2023-08-17T06:52:35.078Z,"212 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,7.38,4.497,0.054,33,reviewed,us,us
