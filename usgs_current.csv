@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-17T03:39:42.790Z,32.9705009,-116.3978348,9.92,1.54,ml,14,203,0.2973,0.18,ci,ci40538592,2023-08-17T03:41:49.435Z,"21 km NE of Pine Valley, CA",earthquake,1.63,19.63,0.34,12,automatic,ci,ci
+2023-08-17T03:31:36.271Z,61.5145,-141.2725,0,1.5,ml,,,,0.51,ak,ak023ais1hwb,2023-08-17T03:33:26.240Z,"88 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-17T03:29:06.220Z,38.7836685,-122.7616653,2.84,0.78,md,17,64,0.01332,0.06,nc,nc73924966,2023-08-17T03:30:38.141Z,"1 km NNW of The Geysers, CA",earthquake,0.34,0.67,0.15,15,automatic,nc,nc
 2023-08-17T03:29:00.560Z,19.4361667633057,-155.484161376953,8.94999980926514,1.71000004,md,16,71,,0.0799999982,hv,hv73530957,2023-08-17T03:31:55.540Z,"Island of Hawaii, Hawaii",earthquake,0.37,0.99000001,0.649999976,7,automatic,hv,hv
 2023-08-17T03:01:55.300Z,33.8523333,-116.8346667,16.21,1.1,ml,37,48,0.03624,0.2,ci,ci40538584,2023-08-17T03:05:23.060Z,"8 km SSW of Cabazon, CA",earthquake,0.25,0.6,0.135,26,automatic,ci,ci
@@ -72,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T16:40:56.360Z,19.4023342132568,-155.276840209961,1.07000005245209,1.79999995,md,13,76,,0.159999996,hv,hv73529952,2023-08-16T16:46:28.810Z,"6 km SW of Volcano, Hawaii",earthquake,0.36,0.25,0.779999971,12,automatic,hv,hv
 2023-08-16T16:40:33.649Z,63.107,-151.3602,0,1.1,ml,,,,1,ak,ak023ahcapic,2023-08-16T16:42:21.344Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-16T16:39:59.675Z,-24.3781,-176.0386,26.179,4.9,mb,30,111,3.285,1.06,us,us7000knt7,2023-08-16T18:53:25.040Z,"south of the Fiji Islands",earthquake,10.76,4.558,0.068,69,reviewed,us,us
-2023-08-16T16:38:48.909Z,62.8769,-150.1017,79.7,1.1,ml,,,,0.74,ak,ak023ahcab96,2023-08-16T16:40:56.646Z,"47 km N of Chase, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-08-16T16:38:48.909Z,62.8769,-150.1017,79.7,1.1,ml,,,,0.74,ak,ak023ahcab96,2023-08-16T16:40:56.646Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-08-16T16:23:22.550Z,19.2343330383301,-155.393173217773,30.9699993133545,1.83000004,md,30,168,,0.0900000036,hv,hv73529912,2023-08-16T16:26:31.510Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.62,0.689999998,1.36000001,8,automatic,hv,hv
 2023-08-16T16:16:17.940Z,36.0828333,-117.8925,3.8,0.37,ml,7,185,0.04617,0.04,ci,ci40538136,2023-08-16T17:51:12.166Z,"6 km NE of Coso Junction, CA",earthquake,0.24,0.3,0.071,1,reviewed,ci,ci
 2023-08-16T16:13:06.590Z,19.4018325805664,-155.274505615234,0.300000011920929,2.11,ml,17,37,,0.109999999,hv,hv73529882,2023-08-16T16:18:36.920Z,"6 km SW of Volcano, Hawaii",earthquake,0.14,0.239999995,0.22,8,automatic,hv,hv
@@ -182,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T03:54:58.410Z,19.475,-66.3695,35,3.59,md,10,281,1.2005,0.35,pr,pr2023228000,2023-08-16T04:22:35.406Z,"Puerto Rico region",earthquake,3.22,22.61,0.07,4,reviewed,pr,pr
 2023-08-16T03:51:52.700Z,36.5568333333333,-89.6468333333333,7.69,1.81,md,36,47,0.03219,0.11,nm,nm60545451,2023-08-16T23:55:32.590Z,"southeastern Missouri",earthquake,0.14,0.37,0.0959001424709374,29,reviewed,nm,nm
 2023-08-16T03:51:36.023Z,38.4758,-119.4999,11.1,1.2,ml,10,78.24,0.056,0.1699,nn,nn00864555,2023-08-16T19:28:54.898Z,"4 km SSW of Walker, California",earthquake,,1.7,0.22,2,reviewed,nn,nn
-2023-08-16T03:34:47.730Z,19.3943333333333,-155.278833333333,1.35,0.78,md,23,49,,0.1,hv,hv73528787,2023-08-16T04:41:57.040Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.19,0.0465595920711133,5,reviewed,hv,hv
