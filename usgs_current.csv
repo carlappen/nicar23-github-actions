@@ -25,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T23:47:09.246Z,58.2004,-155.296,0,1.6,ml,,,,0.34,ak,ak023akrkvv0,2023-08-18T23:48:53.637Z,"86 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-18T23:44:45.911Z,61.6967,-149.8105,34.1,1.6,ml,,,,0.38,ak,ak023akrkbjj,2023-08-18T23:47:08.594Z,"7 km N of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-18T23:05:59.684Z,37.255,-115.8028,0,1.1,ml,15,288.01,0.381,0.3606,nn,nn00864650,2023-08-18T23:08:13.724Z,"43 km S of Rachel, Nevada",earthquake,,42.5,1.05,11,automatic,nn,nn
+2023-08-18T22:54:24.590Z,60.4853333333333,-152.768666666667,1.05,-0.83,ml,4,171,,0.04,av,av92008206,2023-08-19T03:37:22.790Z,"77 km NW of Ninilchik, Alaska",earthquake,0.54,1.23,0.166993084031993,3,reviewed,av,av
 2023-08-18T22:52:30.032Z,58.241,-155.1952,0,0.6,ml,,,,0.33,ak,ak023akr0kfv,2023-08-18T22:53:35.884Z,"86 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-18T22:45:01.022Z,57.2186,-155.3601,60.5,1.8,ml,,,,0.12,ak,ak023akqz06u,2023-08-18T22:46:49.375Z,"66 km SW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-08-18T22:34:52.780Z,33.9686667,-117.1411667,16.64,1.48,ml,48,84,0.03378,0.17,ci,ci39644266,2023-08-19T00:33:19.722Z,"8 km WSW of Calimesa, CA",earthquake,0.2,0.47,0.19,27,reviewed,ci,ci
@@ -39,6 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T21:28:55.563Z,60.4695,-151.9673,70.6,1.1,ml,,,,0.61,ak,ak023akqa1mc,2023-08-18T21:30:51.187Z,"37 km W of Kalifornsky, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-18T21:27:16.470Z,19.49049949646,-155.488494873047,3.5,1.76999998,md,20,73,,0.129999995,hv,hv73532887,2023-08-18T21:30:28.260Z,"27 km W of Volcano, Hawaii",earthquake,0.37,1.65999997,0.879999995,8,automatic,hv,hv
 2023-08-18T21:27:05.838Z,36.2553,-115.3408,1.9,1.6,ml,14,102.15,0.077,0.1332,nn,nn00864642,2023-08-18T21:49:48.292Z,"15 km N of Summerlin South, Nevada",earthquake,,23.1,1.13,4,reviewed,nn,nn
+2023-08-18T21:25:01.180Z,58.2445,-155.164166666667,4.89,0.2,ml,13,69,,0.08,av,av92008121,2023-08-19T03:32:50.400Z,"86 km NNW of Karluk, Alaska",earthquake,0.23,0.49,0.262607010670027,13,reviewed,av,av
 2023-08-18T21:21:12.317Z,54.3896,-161.027,2.9,2.1,ml,,,,0.79,ak,ak023akq8hb5,2023-08-19T00:08:00.123Z,"110 km SSW of Sand Point, Alaska",earthquake,,2.2,,,reviewed,ak,ak
 2023-08-18T21:00:13.206Z,59.775,-152.8455,87.4,1.7,ml,,,,0.31,ak,ak023akq3yaw,2023-08-18T21:02:20.396Z,"56 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-18T20:51:42.815Z,67.2914,-144.9849,0,2.4,ml,,,,1.37,ak,ak023akptih5,2023-08-18T20:54:17.484Z,"69 km ENE of Venetie, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -115,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T16:13:56.081Z,61.4979,-151.9693,7,1.4,ml,,,,0.48,ak,ak023akn7nw8,2023-08-19T02:23:44.760Z,"61 km NW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-18T16:13:48.800Z,35.6685,-117.5321667,11.74,0.88,ml,16,103,0.08838,0.15,ci,ci39643938,2023-08-18T23:08:06.217Z,"14 km ENE of Ridgecrest, CA",earthquake,0.42,0.97,0.135,8,reviewed,ci,ci
 2023-08-18T16:10:03.542Z,27.8841,53.9515,10,4.8,mb,57,63,3.556,0.8,us,us7000kp9x,2023-08-18T16:44:49.040Z,"29 km NW of Gerāsh, Iran",earthquake,9.43,1.879,0.052,116,reviewed,us,us
-2023-08-18T16:09:11.598Z,61.3596,-150.9277,61,1.7,ml,,,,0.45,ak,ak023akn6plj,2023-08-18T16:11:17.998Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-08-18T16:09:11.598Z,61.3596,-150.9277,61,1.7,ml,,,,0.45,ak,ak023akn6plj,2023-08-18T16:11:17.998Z,"25 km NNE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-18T15:56:03.780Z,33.5968333,-116.6975,16.3,0.47,ml,15,84,0.04568,0.08,ci,ci39643922,2023-08-18T23:04:59.279Z,"5 km NNW of Anza, CA",earthquake,0.3,0.42,0.07,8,reviewed,ci,ci
 2023-08-18T15:35:14.483Z,52.5978,-170.9124,10,3.7,ml,20,185,0.611,0.82,us,us7000kp9v,2023-08-18T16:48:04.040Z,"143 km WSW of Nikolski, Alaska",earthquake,6.3,1.975,0.097,20,reviewed,us,us
 2023-08-18T15:30:27.810Z,44.8771666666667,-111.448166666667,5.38,0.83,ml,7,147,0.04826,0.16,mb,mb90024673,2023-08-18T16:53:47.790Z,"23 km WNW of Hebgen Lake Estates, Montana",earthquake,1.56,2.31,0.171832664992697,5,reviewed,mb,mb
@@ -251,5 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T03:51:44.968Z,63.0455,-150.8916,127.4,1.6,ml,,,,0.22,ak,ak023akfp5ds,2023-08-18T03:53:51.117Z,"61 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-18T03:44:17.369Z,51.6268,-178.4514,13.4,1.4,ml,,,,0.4,ak,ak023akfnkgm,2023-08-18T14:26:39.307Z,"128 km WSW of Adak, Alaska",earthquake,,25.4,,,reviewed,ak,ak
 2023-08-18T03:41:50.470Z,36.8641667,-121.5926667,5.69,1.15,md,22,96,0.02026,0.09,nc,nc73925476,2023-08-18T22:53:14.870Z,"5 km ESE of Aromas, CA",earthquake,0.29,0.41,0.186,23,reviewed,nc,nc
-2023-08-18T03:37:40.760Z,34.1415,-117.4103333,6.47,0.79,ml,22,143,0.04802,0.14,ci,ci39643386,2023-08-18T17:46:57.802Z,"5 km NW of Rialto, CA",earthquake,0.31,0.5,0.191,10,reviewed,ci,ci
-2023-08-18T03:36:12.610Z,36.4711667,-121.0483333,7.42,1.23,md,35,114,0.01766,0.1,nc,nc73925471,2023-08-18T21:12:14.333Z,"11 km SE of Pinnacles, CA",earthquake,0.25,0.38,0.228,19,reviewed,nc,nc
