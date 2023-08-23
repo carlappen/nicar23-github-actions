@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-23T06:55:04.470Z,62.1452,-148.6646,19.6,1,ml,,,,0.13,ak,ak023asr6yen,2023-08-23T06:56:13.308Z,"40 km NNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-23T06:52:24.250Z,35.8893333,-117.7105,6.89,0.74,ml,7,173,0.09192,0.12,ci,ci39648114,2023-08-23T06:55:53.695Z,"18 km ESE of Little Lake, CA",earthquake,0.57,1.21,0.178,3,automatic,ci,ci
 2023-08-23T06:43:17.448Z,62.1491,-148.3642,29.4,1.1,ml,,,,0.97,ak,ak023asr4esv,2023-08-23T06:45:43.946Z,"39 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-23T06:39:37.584Z,60.6869,-151.5979,61.9,1.2,ml,,,,0.43,ak,ak023asr3li6,2023-08-23T06:40:59.898Z,"16 km W of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-23T06:38:02.560Z,19.4053325653076,-155.290328979492,0.600000023841858,1.87,ml,17,51,,0.180000007,hv,hv73538827,2023-08-23T06:43:33.530Z,"Island of Hawaii, Hawaii",earthquake,0.2,0.209999993,0.23,9,automatic,hv,hv
@@ -134,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T17:43:37.229Z,36.02766667,-96.5265,0,1.93,ml,96,83,0,0.37,ok,ok2023qlbh,2023-08-22T18:35:38.920Z,"8 km ENE of Drumright, Oklahoma",quarry blast,,0.3,0.16,19,reviewed,ok,ok
 2023-08-22T17:28:47.280Z,38.8296661,-122.8148346,1.99,1.34,md,26,62,0.007283,0.02,nc,nc73927141,2023-08-22T19:35:18.030Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.36,0.16,27,automatic,nc,nc
 2023-08-22T17:26:01.120Z,34.25533333,-96.38483333,0,1.39,ml,46,88,0.2267555028,0.53,ok,ok2023qlas,2023-08-22T17:37:21.365Z,"12 km N of Kenefic, Oklahoma",quarry blast,,0.7,0.24,12,reviewed,ok,ok
-2023-08-22T17:18:31.890Z,37.6201667,-118.4333333,5.42,1.49,md,23,78,0.07243,0.04,nc,nc73927136,2023-08-23T06:31:10.722Z,"23 km ENE of Toms Place, CA",earthquake,0.36,0.67,0.236,22,reviewed,nc,nc
+2023-08-22T17:18:31.890Z,37.6201667,-118.4333333,5.42,1.49,md,23,78,0.07243,0.04,nc,nc73927136,2023-08-23T06:52:12.876Z,"23 km ENE of Toms Place, CA",earthquake,0.36,0.67,0.236,22,reviewed,nc,nc
 2023-08-22T17:16:29.620Z,36.0106659,-120.5861664,0.2,0.99,md,8,126,0.0402,0.04,nc,nc73927131,2023-08-22T17:41:17.378Z,"19 km NW of Parkfield, CA",earthquake,0.46,1.72,0.29,3,automatic,nc,nc
 2023-08-22T17:10:23.640Z,19.3843333333333,-155.281166666667,1.43,1.34,ml,16,75,,0.07,hv,hv73537937,2023-08-22T22:26:26.410Z,"8 km SW of Volcano, Hawaii",earthquake,0.23,0.19,0.199446754180175,6,reviewed,hv,hv
 2023-08-22T17:06:25.215Z,65.7831,-155.3724,0,1.6,ml,,,,0.79,ak,ak023ar9wx2x,2023-08-22T17:08:42.662Z,"48 km E of Huslia, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -152,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T15:58:32.220Z,37.0353333,-119.6743333,23.07,1.95,md,11,153,0.04753,0.15,nc,nc73927116,2023-08-22T20:44:14.442Z,"7 km NNE of Friant, CA",earthquake,1.32,0.66,0.159,9,reviewed,nc,nc
 2023-08-22T15:57:53.255Z,58.2069,-155.035,16.4,0.2,ml,,,,1.29,ak,ak023ar911jx,2023-08-22T15:59:55.292Z,"78 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-22T15:51:38.530Z,19.2171669006348,-155.368667602539,31.0900001525879,2.2,ml,26,204,,0.129999995,hv,hv73537867,2023-08-22T15:57:12.540Z,"11 km E of Pāhala, Hawaii",earthquake,0.79,0.970000029,0.08,3,automatic,hv,hv
-2023-08-22T15:36:29.700Z,17.9003333333333,-66.9565,10.85,2.5,md,6,240,0.1045,0.03,pr,pr71421943,2023-08-22T16:12:51.470Z,"9 km SSW of Guánica, Puerto Rico",earthquake,1.09,0.67,0.162868650236589,5,reviewed,pr,pr
+2023-08-22T15:36:29.700Z,17.9003333333333,-66.9565,10.85,2.5,md,6,240,0.1045,0.03,pr,pr71421943,2023-08-22T16:12:51.470Z,"Puerto Rico region",earthquake,1.09,0.67,0.162868650236589,5,reviewed,pr,pr
 2023-08-22T15:32:11.496Z,60.4216,-147.757,16,1.3,ml,,,,0.84,ak,ak023ar8vlfh,2023-08-22T15:34:55.650Z,"42 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-22T15:30:41.540Z,19.378,-155.283666666667,1.4,1.78,md,17,94,,0.07,hv,hv73537842,2023-08-23T04:33:56.750Z,"8 km SW of Volcano, Hawaii",earthquake,0.17,0.17,0.0282047101677299,2,reviewed,hv,hv
 2023-08-22T15:29:29.440Z,37.4951667,-118.8018333,9,0.86,md,13,305,0.09714,0.03,nc,nc73927111,2023-08-22T17:31:13.310Z,"13 km SW of Toms Place, CA",earthquake,1.17,1.21,0.128,13,reviewed,nc,nc
@@ -279,6 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T07:08:14.794Z,63.1817,-152.7827,9,0.5,ml,,,,0.31,ak,ak023ar3z02i,2023-08-22T14:28:19.048Z,"66 km SW of Denali National Park, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-08-22T07:04:20.380Z,31.61319555,-103.997466,8.895178223,3.2,ml,45,56,0.01853198574,0.1,tx,tx2023qkgj,2023-08-22T20:34:02.894Z,"38 km NNW of Toyah, Texas",earthquake,0.4984914377,0.4691772138,0.1,27,reviewed,tx,tx
 2023-08-22T07:03:13.879Z,31.61103917,-103.9895211,7.828295898,2.5,ml,13,58,0.01764547106,0.1,tx,tx2023qkgg,2023-08-22T14:39:08.666Z,"37 km NNW of Toyah, Texas",earthquake,0.5460336326,0.5629794604,0.1,30,reviewed,tx,tx
-2023-08-22T07:00:13.301Z,31.61457704,-103.9966655,8.895178223,3.7,ml,40,57,0.01873879714,0.1,tx,tx2023qkgd,2023-08-22T20:31:41.376Z,"38 km NNW of Toyah, Texas",earthquake,0.5222862519,0.4599644025,0.2,25,reviewed,tx,tx
-2023-08-22T06:55:55.598Z,31.60965503,-103.9911285,8.548120117,2.8,ml,21,40,0.019042412,0.1,tx,tx2023qkfy,2023-08-22T10:50:46.845Z,"37 km NNW of Toyah, Texas",earthquake,0.6238239642,0.6934300392,0.1,37,reviewed,tx,tx
-2023-08-22T06:51:40.790Z,63.6723,-151.5601,0,1.6,ml,,,,0.81,ak,ak023ar3mtun,2023-08-22T06:53:48.230Z,"16 km NNE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
