@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T16:26:39.815Z,60.5743,-151.2503,53.9,1.2,ml,,,,0.39,ak,ak023aukihwt,2023-08-24T16:28:22.479Z,"2 km NNE of Kenai, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-24T16:24:03.690Z,19.1704998016357,-155.346328735352,28.0100002288818,1.79999995,md,32,211,,0.109999999,hv,hv73542307,2023-08-24T16:27:19.810Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.63,0.99000001,0.889999986,3,automatic,hv,hv
 2023-08-24T16:19:30.640Z,58.183,-155.4065,0,2.3,ml,,,,0.75,ak,ak023aukgz6w,2023-08-24T19:45:34.040Z,"88 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-24T16:10:14.550Z,33.7038333,-116.7181667,18.07,0.86,ml,26,54,0.0115,0.18,ci,ci39649626,2023-08-24T16:13:49.135Z,"4 km S of Idyllwild, CA",earthquake,0.28,0.51,0.224,23,automatic,ci,ci
+2023-08-24T16:10:14.550Z,33.7033333,-116.7181667,17.81,0.85,ml,30,62,0.01194,0.11,ci,ci39649626,2023-08-24T22:58:37.005Z,"4 km S of Idyllwild, CA",earthquake,0.17,0.33,0.211,21,reviewed,ci,ci
 2023-08-24T16:04:51.170Z,34.4023333,-119.2058333,2.23,1.36,ml,16,97,0.06619,0.23,ci,ci39649618,2023-08-24T19:17:05.022Z,"6 km SE of Ojai, CA",earthquake,0.36,0.45,0.256,11,reviewed,ci,ci
 2023-08-24T16:04:40.025Z,62.9653,-149.3015,65.3,1.4,ml,,,,1.04,ak,ak023aukds6a,2023-08-24T16:07:02.718Z,"50 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-24T15:42:34.310Z,19.3938333333333,-155.252,1.31,0.62,md,10,90,,0.05,hv,hv73542252,2023-08-24T15:59:47.430Z,"Island of Hawaii, Hawaii",earthquake,0.23,0.41,0.147374260492797,2,reviewed,hv,hv
