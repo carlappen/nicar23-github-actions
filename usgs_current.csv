@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-24T05:23:49.010Z,19.3713340759277,-155.289169311523,2.35999989509583,2.03999996,md,18,105,,0.150000006,hv,hv73541257,2023-08-24T05:26:43.220Z,"Island of Hawaii, Hawaii",earthquake,0.27,0.409999996,0.389999986,15,automatic,hv,hv
+2023-08-24T05:23:20.191Z,65.2869,-148.9255,0,1.1,ml,,,,0.66,ak,ak023audy1lf,2023-08-24T05:25:36.299Z,"25 km NE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-08-24T05:21:36.811Z,65.4787,-148.3369,12.9,1,ml,,,,0.24,ak,ak023audxng1,2023-08-24T05:23:34.775Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-08-24T05:12:41.256Z,61.7753,-149.6428,34.5,1,ml,,,,0.7,ak,ak023audvqcq,2023-08-24T05:15:17.383Z,"16 km N of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-24T05:01:12.300Z,19.3276672363281,-155.20100402832,2.01999998092651,1.97,ml,38,115,,0.159999996,hv,hv73541217,2023-08-24T05:06:44.100Z,"13 km SSE of Volcano, Hawaii",earthquake,0.38,0.879999995,0.27,9,automatic,hv,hv
 2023-08-24T04:56:34.704Z,60.898,-145.9507,20.2,0.9,ml,,,,0.72,ak,ak023audjpqm,2023-08-24T04:58:36.279Z,"33 km SE of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-24T04:46:18.880Z,34.0381667,-117.7981667,5.96,1.06,ml,21,86,0.05402,0.22,ci,ci39649194,2023-08-24T04:49:50.892Z,"2 km NE of Diamond Bar, CA",earthquake,0.44,1.14,0.279,25,automatic,ci,ci
@@ -27,6 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T01:46:00.551Z,31.7032,-104.228,10,2.7,ml,29,55,0.235,0.7,us,us7000kqjy,2023-08-24T01:57:52.040Z,"western Texas",earthquake,2.26,1.862,0.065,46,reviewed,us,us
 2023-08-24T01:45:23.980Z,38.8204994,-122.7991638,3.66,0.78,md,16,49,0.009,0.01,nc,nc73927771,2023-08-24T02:17:15.517Z,"6 km NW of The Geysers, CA",earthquake,0.37,0.77,0.26,16,automatic,nc,nc
 2023-08-24T01:27:44.028Z,58.1663,-155.3823,6.5,1.2,ml,,,,0.38,ak,ak023aubl7vm,2023-08-24T01:29:34.028Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
+2023-08-24T01:27:16.712Z,52.5069,-166.8429,25.6,2.2,ml,,,,0.38,ak,ak023aubl5bz,2023-08-24T05:25:42.649Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,40.8,,,reviewed,ak,ak
 2023-08-24T01:22:28.780Z,38.7786674,-122.7558365,0.66,0.71,md,7,103,0.01109,0.02,nc,nc73927756,2023-08-24T01:24:05.129Z,"0 km NNE of The Geysers, CA",earthquake,0.37,0.8,0.19,9,automatic,nc,nc
 2023-08-24T01:18:11.910Z,32.7956667,-115.4468333,7.59,1.08,ml,9,134,0.009626,0.27,ci,ci39649082,2023-08-24T01:21:46.881Z,"6 km WSW of Holtville, CA",earthquake,1.11,1.23,0.182,9,automatic,ci,ci
 2023-08-24T01:16:02.529Z,61.2938,-152.4956,5.4,1.4,ml,,,,0.8,ak,ak023aubirss,2023-08-24T01:18:37.028Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
