@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-25T02:26:45.870Z,36.9404984,-121.677002,26.42,2.08,md,5,198,0.4019,0.21,nc,nc73928236,2023-08-25T02:28:21.687Z,"5 km ESE of Interlaken, CA",earthquake,2.81,19.57,0.7,2,automatic,nc,nc
+2023-08-25T02:21:12.590Z,38.8023338,-122.7811661,2.75,0.78,md,18,64,0.01055,0.02,nc,nc73928231,2023-08-25T02:22:46.430Z,"4 km NW of The Geysers, CA",earthquake,0.27,0.5,0.12,16,automatic,nc,nc
+2023-08-25T02:19:25.350Z,38.8293343,-122.8153305,2.34,0.74,md,10,98,0.007213,0.02,nc,nc73928226,2023-08-25T02:21:01.326Z,"8 km NW of The Geysers, CA",earthquake,0.44,1.46,0.13,10,automatic,nc,nc
 2023-08-25T02:01:41.380Z,60.0035,-139.5571,2.4,2,ml,,,,0.87,ak,ak023avzkf5m,2023-08-25T02:03:59.825Z,"Southern Yukon Territory, Canada",earthquake,,0.3,,,automatic,ak,ak
 2023-08-25T01:53:01.380Z,19.3943328857422,-155.274993896484,1.78999996185303,2.56,ml,31,44,,0.189999998,hv,hv73543012,2023-08-25T01:58:32.710Z,"6 km SW of Volcano, Hawaii",earthquake,0.24,0.25,0.37,17,automatic,hv,hv
 2023-08-25T01:24:54.810Z,35.3598333,-117.8896667,10.01,1.13,ml,18,94,0.08292,0.16,ci,ci39650202,2023-08-25T01:28:31.080Z,"23 km W of Johannesburg, CA",earthquake,0.3,0.74,0.169,18,automatic,ci,ci
@@ -48,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T20:33:32.960Z,41.6121667,-112.8878333,4.85,1.08,md,13,197,0.1875,0.14,uu,uu60548257,2023-08-24T20:44:57.480Z,"41 km SSW of Snowville, Utah",earthquake,0.8,4.31,0.194,4,reviewed,uu,uu
 2023-08-24T20:33:16.330Z,18.7728333333333,-65.2263333333333,57.17,3.19,md,10,251,0.4903,0.12,pr,pr71422063,2023-08-24T20:55:45.480Z,"52 km N of Culebra, Puerto Rico",earthquake,1.34,2.01,0.0405107525366037,6,reviewed,pr,pr
 2023-08-24T20:20:47.820Z,38.8003349,-122.7436676,0.46,0.75,md,11,104,0.01254,0.12,nc,nc73928121,2023-08-24T20:22:22.626Z,"3 km NNE of The Geysers, CA",earthquake,0.43,0.78,0.06,10,automatic,nc,nc
-2023-08-24T20:14:37.680Z,38.0821667,-122.4043333,10.89,1.84,md,58,41,0.07101,0.12,nc,nc73928116,2023-08-25T01:15:12.704Z,"10 km ESE of Black Point-Green Point, CA",earthquake,0.16,0.34,0.197,43,reviewed,nc,nc
+2023-08-24T20:14:37.680Z,38.0821667,-122.4043333,10.89,1.84,md,58,41,0.07101,0.12,nc,nc73928116,2023-08-25T02:22:16.057Z,"10 km ESE of Black Point-Green Point, CA",earthquake,0.16,0.34,0.197,43,reviewed,nc,nc
 2023-08-24T20:08:16.518Z,-17.961,167.9888,35,5,mb,41,65,4.344,0.66,us,us7000kqs7,2023-08-25T00:52:12.515Z,"Vanuatu",earthquake,10.12,1.92,0.082,47,reviewed,us,us
 2023-08-24T20:02:19.790Z,33.2135,-116.0221667,8.98,1.18,ml,27,55,0.05459,0.22,ci,ci39649930,2023-08-24T20:06:01.852Z,"11 km SSW of Salton City, CA",earthquake,0.3,0.73,0.199,26,automatic,ci,ci
 2023-08-24T20:01:43.180Z,36.4705,-117.9743333,7.91,1.86,ml,14,138,0.09063,0.19,ci,ci39649914,2023-08-24T20:29:21.913Z,"16 km SE of Lone Pine, CA",earthquake,0.73,0.9,0.229,15,reviewed,ci,ci
@@ -239,7 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T02:44:01.314Z,56.5855,-148.5893,10,2.6,ml,28,252,2.484,0.41,us,us7000kqk7,2023-08-25T01:19:30.040Z,"Gulf of Alaska",earthquake,4.59,2.019,0.062,34,reviewed,us,us
 2023-08-24T02:42:43.040Z,17.6455,-67.8246666666667,38.05,3.17,md,13,307,0.7699,0.22,pr,pr71422028,2023-08-24T02:54:35.490Z,"76 km WSW of Pole Ojea, Puerto Rico",earthquake,1.22,4.52,0.193922751434255,6,reviewed,pr,pr
 2023-08-24T02:34:43.330Z,33.1873333,-115.6055,3.13,1.32,ml,28,86,0.013,0.18,ci,ci39649138,2023-08-24T14:21:14.883Z,"10 km SW of Niland, CA",earthquake,0.22,0.25,0.104,13,reviewed,ci,ci
-2023-08-24T02:29:01.740Z,34.369,-119.2331667,4.54,1.49,ml,12,134,0.0762,0.22,ci,ci39649130,2023-08-24T02:32:32.998Z,"9 km S of Ojai, CA",earthquake,0.6,1.01,0.225,12,automatic,ci,ci
-2023-08-24T02:28:07.920Z,34.4361667,-119.1648333,1.57,1.62,ml,21,122,0.0226,0.28,ci,ci39649122,2023-08-24T02:31:44.556Z,"7 km E of Ojai, CA",earthquake,0.59,0.69,0.186,25,automatic,ci,ci
-2023-08-24T02:26:25.594Z,60.5217,-149.3529,7,1.4,ml,,,,1.06,ak,ak023auc6ecf,2023-08-24T02:28:32.221Z,"3 km NNE of Moose Pass, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-24T02:24:51.540Z,61.7924,-146.4697,20,1.4,ml,,,,0.76,ak,ak023auc60wy,2023-08-24T02:26:42.041Z,"27 km SE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
