@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-28T02:55:05.650Z,38.7854996,-122.7088318,0.08,1.84,md,8,84,0.03532,0.05,nc,nc73930051,2023-08-28T02:56:41.261Z,"2 km NW of Anderson Springs, CA",earthquake,0.29,1.04,0.14,10,automatic,nc,nc
+2023-08-28T02:43:26.350Z,41.7428,-81.0135,7.176,4,mb_lg,22,82,0.851,0.99,us,us7000krer,2023-08-28T02:57:15.045Z,"4 km SE of Madison, Ohio",earthquake,1.33,7.161,0.039,172,reviewed,us,us
 2023-08-28T02:43:18.880Z,35.68,-117.5425,2.49,1.49,ml,20,74,0.09785,0.19,ci,ci39652834,2023-08-28T02:46:55.454Z,"14 km ENE of Ridgecrest, CA",earthquake,0.3,0.7,0.125,15,automatic,ci,ci
+2023-08-28T02:42:55.780Z,19.3646659851074,-155.298004150391,2.13000011444092,1.8,ml,14,103,,0.200000003,hv,hv73548772,2023-08-28T02:48:27.220Z,"10 km SW of Volcano, Hawaii",earthquake,0.39,0.569999993,0.19,3,automatic,hv,hv
 2023-08-28T02:33:50.700Z,33.0708333,-116.4248333,14.8,0.99,ml,24,66,0.09947,0.18,ci,ci39652826,2023-08-28T02:37:19.735Z,"16 km E of Julian, CA",earthquake,0.29,0.62,0.185,15,automatic,ci,ci
 2023-08-28T02:31:17.240Z,37.0958328,-121.5133362,5.32,1.11,md,9,87,0.05204,0.07,nc,nc73930041,2023-08-28T02:47:20.648Z,"9 km E of San Martin, CA",earthquake,0.46,1.39,0.16,7,automatic,nc,nc
 2023-08-28T02:31:12.070Z,34.7535,-118.9746667,12.67,1.08,ml,17,56,0.02207,0.22,ci,ci39652818,2023-08-28T02:34:46.575Z,"8 km SSW of Frazier Park, CA",earthquake,0.59,0.94,0.085,11,automatic,ci,ci
