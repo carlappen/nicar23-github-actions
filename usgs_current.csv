@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-03T23:28:34.660Z,39.3313332,-122.9531631,2.4,2.65,md,7,191,0.664,0.25,nc,nc73932756,2023-09-03T23:30:21.349Z,"9 km S of Lake Pillsbury, CA",earthquake,4.01,13.24,0.21,4,automatic,nc,nc
 2023-09-03T22:59:47.770Z,33.4885,-116.5891667,8.9,1.08,ml,41,44,0.01252,0.18,ci,ci39657978,2023-09-03T23:03:21.094Z,"11 km SE of Anza, CA",earthquake,0.21,0.38,0.197,27,automatic,ci,ci
 2023-09-03T22:51:07.220Z,38.8325005,-122.8188324,1.66,0.73,md,13,66,0.01138,0.02,nc,nc73932751,2023-09-03T23:09:15.160Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.75,0.17,13,automatic,nc,nc
 2023-09-03T22:38:03.820Z,33.4883333,-116.5928333,8.45,1.77,ml,63,21,0.01008,0.22,ci,ci39657962,2023-09-03T22:48:57.260Z,"10 km SE of Anza, CA",earthquake,0.2,0.42,0.264,27,automatic,ci,ci
@@ -187,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T23:52:05.450Z,59.7916,-152.9027,105,1.8,ml,,,,0.22,ak,ak023b9ko5k1,2023-09-02T23:53:47.539Z,"60 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-02T23:44:04.128Z,38.1787,-117.9657,5.1,1.7,ml,10,103.01,0.025,0.2019,nn,nn00865380,2023-09-02T23:46:44.274Z,"26 km SSE of Mina, Nevada",earthquake,,0.4,0.42,8,automatic,nn,nn
 2023-09-02T23:35:19.603Z,59.9277,-141.5704,17.1,1.8,ml,,,,0.68,ak,ak023b9kkjh4,2023-09-02T23:37:14.224Z,"112 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-02T23:25:15.657Z,40.496,-75.6136,6.482,1.7,ml,14,93,0.305,0.29,us,us7000ksxf,2023-09-03T06:23:23.040Z,"1 km N of Red Lion, Pennsylvania",earthquake,1.5,4.957,0.105,12,reviewed,us,us
-2023-09-02T23:23:29.370Z,37.2858315,-121.6600037,5.14,1.38,md,15,65,0.02877,0.05,nc,nc73932396,2023-09-03T00:10:14.236Z,"16 km E of Seven Trees, CA",earthquake,0.24,0.49,0.08,9,automatic,nc,nc
