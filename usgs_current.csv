@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-06T07:38:38.510Z,38.7709999,-122.7354965,1.31,0.86,md,8,94,0.01226,0.02,nc,nc73933631,2023-09-06T07:40:12.807Z,"2 km ESE of The Geysers, CA",earthquake,0.45,0.82,0.26,8,automatic,nc,nc
 2023-09-06T07:12:32.890Z,33.2415,-116.0103333,2.85,0.67,ml,14,96,0.04362,0.14,ci,ci39659306,2023-09-06T07:15:59.572Z,"8 km SW of Salton City, CA",earthquake,0.5,0.59,0.132,7,automatic,ci,ci
 2023-09-06T07:11:21.456Z,61.9683,-150.0954,15,0.9,ml,,,,0.15,ak,ak023bfx1uq9,2023-09-06T07:13:28.422Z,"24 km N of Willow, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-06T07:05:52.440Z,17.925,-66.8613333333333,9.96,2.95,md,18,211,0.05262,0.11,pr,pr71423923,2023-09-06T07:22:09.300Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.57,0.47,0.198267569448684,12,reviewed,pr,pr
@@ -219,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T07:52:59.099Z,36.7077,141.6861,36.739,4.5,mb,31,134,2.802,0.84,us,us7000ktcn,2023-09-05T08:26:45.040Z,"81 km ESE of Iwaki, Japan",earthquake,8.68,8.03,0.115,22,reviewed,us,us
 2023-09-05T07:50:50.753Z,60.6852,-146.8855,31.5,3.7,ml,,,,0.52,ak,ak023be9qxdf,2023-09-05T18:47:12.040Z,"22 km SSW of Tatitlek, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2023-09-05T07:45:16.640Z,38.8001671,-122.7536697,3.64,0.75,md,13,97,0.02766,0.02,nc,nc73933306,2023-09-05T08:02:11.408Z,"3 km N of The Geysers, CA",earthquake,0.36,1.2,0.05,12,automatic,nc,nc
-2023-09-05T07:33:13.220Z,33.524,-116.5068333,14.28,0.22,ml,13,160,0.06778,0.11,ci,ci39658498,2023-09-06T00:17:29.519Z,"16 km ESE of Anza, CA",earthquake,0.48,0.79,0.07,8,reviewed,ci,ci
-2023-09-05T07:33:08.890Z,33.5271667,-116.51,13.56,0.07,ml,12,147,0.07052,0.13,ci,ci37528853,2023-09-06T00:21:32.306Z,"16 km ESE of Anza, CA",earthquake,0.57,0.76,0.182,5,reviewed,ci,ci
