@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-10T11:04:26.189Z,58.163,-155.3842,1.1,0.6,ml,,,,0.52,ak,ak023bmljhh6,2023-09-10T11:06:06.211Z,"86 km NW of Karluk, Alaska",earthquake,,3,,,automatic,ak,ak
+2023-09-10T10:58:03.290Z,34.5768333,-116.2591667,2.37,1.44,ml,14,95,0.1382,0.13,ci,ci39662242,2023-09-10T11:01:32.685Z,"18 km SSW of Ludlow, CA",earthquake,0.36,1.67,0.14,21,automatic,ci,ci
 2023-09-10T10:32:20.882Z,60.6067,-150.4464,44.8,1.6,ml,,,,0.35,ak,ak023bml41ig,2023-09-10T10:33:49.123Z,"19 km ENE of Sterling, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-10T10:28:30.110Z,44.7550011,-110.9420013,11.25,2.55,ml,21,68,0.04591,0.23,uu,uu60549792,2023-09-10T10:37:48.750Z,"16 km NE of West Yellowstone, Montana",earthquake,0.48,0.72,0.42,13,reviewed,uu,uu
 2023-09-10T10:21:01.760Z,1.618,127.0058,117.248,4.9,mb,71,97,0.915,0.58,us,us7000kusu,2023-09-10T10:37:58.040Z,"Halmahera, Indonesia",earthquake,4.73,5.756,0.049,130,reviewed,us,us
@@ -190,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T11:27:53.000Z,18.9861666666667,-65.0753333333333,19.26,3.41,md,10,280,0.6404,0.28,pr,pr71424268,2023-09-09T12:32:17.650Z,"Puerto Rico region",earthquake,4.1,7.36,0.189020425122349,9,reviewed,pr,pr
 2023-09-09T11:18:53.390Z,38.8321648,-122.8161697,1.29,0.59,md,10,73,0.009968,0.01,nc,nc73935021,2023-09-09T11:20:27.294Z,"8 km NW of The Geysers, CA",earthquake,0.31,0.86,0.36,10,automatic,nc,nc
 2023-09-09T11:16:23.100Z,35.9318352,-120.4843369,3.65,0.5,md,9,100,0.02637,0.07,nc,nc73935011,2023-09-09T11:17:57.269Z,"6 km NW of Parkfield, CA",earthquake,0.47,1.22,0.41,3,automatic,nc,nc
-2023-09-09T11:04:15.433Z,61.632,-151.1989,0,1.5,ml,,,,0.92,ak,ak023bky045j,2023-09-09T11:06:12.761Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
