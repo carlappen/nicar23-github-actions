@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-12T07:17:02.600Z,19.3621673583984,-155.153335571289,1.05999994277954,1.75999999,md,35,98,,0.280000001,hv,hv73576097,2023-09-12T07:20:19.400Z,"11 km S of Fern Forest, Hawaii",earthquake,0.73,0.479999989,0.430000007,13,automatic,hv,hv
+2023-09-12T07:16:59.010Z,19.3421669006348,-155.154830932617,5.19999980926514,1.98000002,md,16,98,,0.239999995,hv,hv73576092,2023-09-12T07:20:13.370Z,"13 km S of Fern Forest, Hawaii",earthquake,0.83,1.80999994,0.100000001,5,automatic,hv,hv
+2023-09-12T07:13:55.940Z,38.8294983,-122.815834,1.93,0.82,md,12,77,0.007575,0.01,nc,nc73935966,2023-09-12T07:15:31.268Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.83,0.32,13,automatic,nc,nc
 2023-09-12T07:06:58.060Z,38.7900009,-122.6481705,21.05,1.08,md,7,220,0.06954,0.03,nc,nc73935961,2023-09-12T07:08:31.083Z,"4 km ENE of Anderson Springs, CA",earthquake,3.65,4.31,0.11,4,automatic,nc,nc
 2023-09-12T07:05:47.203Z,39.5683,-118.1084,7.6,1.7,ml,10,94.04,0.235,0.1777,nn,nn00865713,2023-09-12T07:08:24.633Z,"54 km ENE of Fallon Station, Nevada",earthquake,,0.9,0.21,7,automatic,nn,nn
 2023-09-12T06:55:12.970Z,38.8358345,-122.8088303,2.23,0.8,md,16,53,0.01246,0.01,nc,nc73935956,2023-09-12T06:56:46.043Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.68,0.19,18,automatic,nc,nc
@@ -82,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T20:21:29.290Z,38.7976685,-122.7303314,0.95,0.75,md,8,129,0.01525,0.04,nc,nc73935811,2023-09-11T20:23:03.219Z,"3 km SSW of Cobb, CA",earthquake,0.33,0.88,0.13,9,automatic,nc,nc
 2023-09-11T20:20:33.310Z,37.5003333,-118.7666667,6.63,0.82,md,11,237,0.1024,0.01,nc,nc73935816,2023-09-11T22:17:10.454Z,"10 km SW of Toms Place, CA",earthquake,3.24,1.51,0.225,10,reviewed,nc,nc
 2023-09-11T20:17:18.370Z,33.7225,-116.77,16.17,0.77,ml,22,58,0.04915,0.15,ci,ci39663002,2023-09-11T20:33:35.095Z,"5 km WSW of Idyllwild, CA",earthquake,0.32,0.49,0.166,16,reviewed,ci,ci
-2023-09-11T20:13:48.989Z,62.6257,-149.2815,56.1,1.6,ml,,,,1.04,ak,ak023boehpma,2023-09-11T20:16:25.420Z,"46 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-11T20:13:48.989Z,62.6257,-149.2815,56.1,1.6,ml,,,,1.04,ak,ak023boehpma,2023-09-11T20:16:25.420Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-11T20:09:21.070Z,35.1205,-116.6343333,0.3,0.7,ml,5,148,0.05689,0.04,ci,ci39662986,2023-09-11T21:14:43.469Z,"16 km SSE of Fort Irwin, CA",earthquake,0.42,0.36,0.156,4,reviewed,ci,ci
 2023-09-11T20:07:55.290Z,38.7835007,-122.7334976,1.58,1.06,md,12,81,0.002536,0.05,nc,nc73935806,2023-09-11T20:09:32.717Z,"2 km ENE of The Geysers, CA",earthquake,0.32,0.75,0.21,11,automatic,nc,nc
 2023-09-11T20:07:23.617Z,29.09088135,-97.86982996,2.518839518,3.2,ml,18,85,0.06749534479,0.5,tx,tx2023rvuc,2023-09-11T20:49:56.040Z,"18 km SSE of Stockdale, Texas",earthquake,2.592961808,2.170116844,0.2,10,reviewed,tx,tx
@@ -202,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T07:39:33.800Z,35.2043333,-120.8718333,11.48,0.95,md,15,225,0.016,0.12,nc,nc73935656,2023-09-11T21:23:34.467Z,"13 km SSW of Baywood-Los Osos, CA",earthquake,0.68,0.36,0.224,14,reviewed,nc,nc
 2023-09-11T07:34:29.730Z,36.53516667,-98.95933333,6.63,1.44,ml,33,108,0.04319152435,0.14,ok,ok2023ruvg,2023-09-11T11:15:56.270Z,"8 km SW of Waynoka, Oklahoma",earthquake,,0.3,0.31,5,reviewed,ok,ok
 2023-09-11T07:23:49.450Z,58.19,-155.2675,1.69,-0.29,ml,7,140,,0.09,av,av92039426,2023-09-11T23:51:55.210Z,"84 km NW of Karluk, Alaska",earthquake,0.27,0.53,0.215371393008014,7,reviewed,av,av
-2023-09-11T07:21:42.710Z,33.4895,-116.5816667,10,0.5,ml,17,75,0.01793,0.18,ci,ci39662498,2023-09-11T13:19:35.004Z,"11 km SE of Anza, CA",earthquake,0.35,0.64,0.155,10,reviewed,ci,ci
-2023-09-11T07:17:49.890Z,39.8678333,-121.0091667,1.53,2.54,md,70,43,0.3573,0.25,nc,nc73935651,2023-09-11T22:44:13.701Z,"9 km SSE of Meadow Valley, CA",earthquake,0.24,1.63,0.135,67,reviewed,nc,nc
