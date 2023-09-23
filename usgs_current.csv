@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-23T09:56:48.210Z,34.2721667,-117.0756667,2.12,1.2,ml,34,60,0.06015,0.18,ci,ci40570832,2023-09-23T10:00:21.536Z,"8 km NNE of Running Springs, CA",earthquake,0.23,0.73,0.15,27,automatic,ci,ci
 2023-09-23T09:45:25.250Z,19.6003341674805,-155.250335693359,21.5,2.17,ml,43,117,,0.129999995,hv,hv73583782,2023-09-23T09:50:56.220Z,"15 km WNW of Mountain View, Hawaii",earthquake,0.41,1.00999999,0.35,3,automatic,hv,hv
 2023-09-23T09:39:40.666Z,60.9341,-149.6068,33.4,0.8,ml,,,,0.53,ak,ak023c82jnv6,2023-09-23T09:42:31.292Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-23T09:37:21.890Z,38.8393326,-122.8368301,1.91,0.7,md,12,84,0.001285,0.01,nc,nc73940631,2023-09-23T09:38:56.987Z,"10 km NW of The Geysers, CA",earthquake,0.33,0.58,0.13,12,automatic,nc,nc
