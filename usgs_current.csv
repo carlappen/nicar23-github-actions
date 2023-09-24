@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-24T09:40:40.368Z,58.2638,-155.0016,0,0.5,ml,,,,0.64,ak,ak023c9q381w,2023-09-24T09:42:11.367Z,"83 km NNW of Karluk, Alaska",earthquake,,23.2,,,automatic,ak,ak
+2023-09-24T09:36:08.061Z,-4.4186,153.4785,114.435,4.7,mb,57,118,12.178,0.45,us,us7000kxt2,2023-09-24T09:52:23.040Z,"134 km E of Kokopo, Papua New Guinea",earthquake,10.41,7.006,0.061,80,reviewed,us,us
 2023-09-24T09:26:33.297Z,60.6095,-151.3841,54.2,1.2,ml,,,,0.71,ak,ak023c9q07hd,2023-09-24T09:28:24.201Z,"Kenai Peninsula, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-24T09:22:11.017Z,62.8768,-149.4937,62,2.4,ml,,,,0.65,ak,ak023c9pzav1,2023-09-24T09:38:13.040Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-24T09:21:47.090Z,38.8175011,-122.7634964,1.68,1.13,md,20,112,0.01389,0.05,nc,nc73941196,2023-09-24T09:23:21.910Z,"4 km W of Cobb, CA",earthquake,0.27,0.4,0.14,20,automatic,nc,nc
