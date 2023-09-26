@@ -189,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T10:53:04.510Z,35.6786667,-117.5495,8.17,1.04,ml,20,74,0.09615,0.15,ci,ci40572096,2023-09-25T19:45:58.331Z,"13 km ENE of Ridgecrest, CA",earthquake,0.36,1.42,0.048,8,reviewed,ci,ci
 2023-09-25T10:51:36.075Z,62.1102,-148.8341,13.3,0.7,ml,,,,0.67,ak,ak023cbeabwv,2023-09-25T16:09:36.218Z,"37 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-09-25T10:47:07.473Z,60.0472,-153.1056,127.3,1.2,ml,,,,0.44,ak,ak023cbe9fmj,2023-09-25T15:52:50.364Z,"63 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2023-09-25T10:40:06.640Z,60.4908,-152.0709,76.2,1.4,ml,,,,0.36,ak,ak023cbe7xjs,2023-09-25T10:42:09.670Z,"43 km WSW of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
