@@ -185,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T22:00:08.475Z,58.9517,-152.3696,48.8,1.7,ml,,,,0.54,ak,ak023ci79ya7,2023-09-29T22:02:08.980Z,"51 km SSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-29T21:57:20.320Z,38.838665,-122.8363342,1.54,1.12,md,22,83,0.000666,0.01,nc,nc73943496,2023-09-29T21:58:56.268Z,"10 km NW of The Geysers, CA",earthquake,0.19,0.37,0.16,23,automatic,nc,nc
 2023-09-29T21:48:12.921Z,38.5601,-119.5031,7.5,1.6,ml,14,66.31,0.029,0.1496,nn,nn00866560,2023-09-30T02:04:35.734Z,"California-Nevada border region",earthquake,,1.2,0.24,6,reviewed,nn,nn
-2023-09-29T21:37:23.420Z,33.723,-116.8453333,5.57,0.61,ml,10,123,0.07459,0.07,ci,ci40574616,2023-09-29T21:50:46.022Z,"5 km ESE of Valle Vista, CA",earthquake,0.26,0.65,0.066,8,reviewed,ci,ci
