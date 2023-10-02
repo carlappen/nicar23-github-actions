@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-02T19:24:29.350Z,39.7243347,-120.5018311,25.33,2.64,md,14,84,0.1794,0.29,nc,nc73944676,2023-10-02T19:26:42.477Z,"4 km E of Whitehawk, CA",earthquake,1.04,1.98,0.19,6,automatic,nc,nc
 2023-10-02T19:17:08.246Z,62.1366,-149.4674,53.1,1.4,ml,,,,0.55,ak,ak023cn47c3s,2023-10-02T19:18:49.874Z,"20 km E of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-02T19:05:40.816Z,61.7899,-150.6219,46.9,1.6,ml,,,,0.56,ak,ak023cn44u0x,2023-10-02T19:07:37.326Z,"28 km NNW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-10-02T18:57:30.750Z,34.9911667,-118.2191667,0.65,1.27,ml,12,62,0.1005,0.34,ci,ci40575632,2023-10-02T19:01:19.240Z,"8 km SSW of Mojave, CA",earthquake,0.72,1.41,0.11,12,automatic,ci,ci
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-01T19:47:41.259Z,32.691,-100.7,5.2578,2.9,ml(texnet),13,64,0,0.2,tx,tx2023tghn,2023-10-01T20:24:31.409Z,"8 km NE of Hermleigh, Texas",earthquake,1.178129435,1.548084388,0.1,11,reviewed,tx,tx
 2023-10-01T19:44:44.580Z,40.3081665,-124.2921677,8.94,1.37,md,7,123,0.04331,0.02,nc,nc73944276,2023-10-01T19:46:18.865Z,"2 km SSW of Petrolia, CA",earthquake,0.63,1.39,0.11,4,automatic,nc,nc
 2023-10-01T19:29:36.760Z,40.2915,-124.2905,9.59,3.29,ml,40,115,0.0308,0.17,nc,nc73944271,2023-10-01T23:10:49.150Z,"4 km S of Petrolia, CA",earthquake,0.36,0.21,0.24,68,reviewed,nc,nc
-2023-10-01T19:25:33.060Z,17.882,-66.849,11.71,2.45,md,5,243,0.09693,0.09,pr,pr71427173,2023-10-01T20:01:01.960Z,"11 km SSE of Maria Antonia, Puerto Rico",earthquake,0.78,0.91,0.0475885076904539,5,reviewed,pr,pr
