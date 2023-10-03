@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-03T08:55:52.451Z,29.5526,81.2337,19.109,4.9,mb,53,97,3.96,0.73,us,us6000lcfg,2023-10-03T09:16:46.040Z,"Nepal",earthquake,9.33,4.447,0.064,78,reviewed,us,us
 2023-10-03T08:42:21.070Z,33.4236667,-116.3606667,12.79,0.73,ml,20,128,0.1621,0.19,ci,ci40575856,2023-10-03T08:45:47.706Z,"19 km N of Borrego Springs, CA",earthquake,0.41,1.18,0.104,15,automatic,ci,ci
 2023-10-03T08:29:28.385Z,29.9142,139.8787,78.237,4.9,mb,42,132,3.192,0.64,us,us6000lcfe,2023-10-03T08:47:47.040Z,"Izu Islands, Japan region",earthquake,12.2,7.531,0.052,117,reviewed,us,us
 2023-10-03T08:25:43.910Z,33.2221667,-116.0335,9.86,2.34,ml,57,54,0.0674,0.21,ci,ci40575848,2023-10-03T08:36:32.740Z,"11 km SW of Salton City, CA",earthquake,0.24,0.67,0.169,26,automatic,ci,ci
@@ -132,7 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T14:03:40.142Z,38.8167,71.6851,13.617,5.3,mww,112,41,0.666,1.14,us,us6000lc91,2023-10-02T14:23:19.040Z,"48 km SSE of Karakenja, Tajikistan",earthquake,4.92,3.372,0.061,26,reviewed,us,us
 2023-10-02T13:59:40.526Z,63.5778,-147.7729,3.6,3,ml,,,,0.65,ak,ak023cn0vt1d,2023-10-02T16:16:24.040Z,"59 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-02T13:51:22.450Z,38.8236656,-122.8063354,2.64,0.76,md,11,73,0.002933,0.01,nc,nc73944591,2023-10-02T13:52:59.900Z,"7 km NW of The Geysers, CA",earthquake,0.38,0.99,0.15,13,automatic,nc,nc
-2023-10-02T13:33:12.300Z,42.95633333333333,-122.12583333333333,4.01,-0.65,md,3,195,0.02801,0.05,uw,uw61963501,2023-10-02T16:18:05.720Z,"37 km NE of Prospect, Oregon",earthquake,1.45,0.9,0.019332795558746285,2,reviewed,uw,uw
+2023-10-02T13:33:12.300Z,42.95633333333333,-122.12583333333333,4.01,-0.65,md,3,195,0.02801,0.05,uw,uw61963501,2023-10-02T16:18:05.720Z,"Crater Lake area, Oregon",earthquake,1.45,0.9,0.019332795558746285,2,reviewed,uw,uw
 2023-10-02T13:26:24.560Z,36.7554,139.7939,125.458,4.4,mb,64,126,1.292,0.8,us,us6000lc8v,2023-10-02T15:54:06.040Z,"eastern Honshu, Japan",earthquake,7.94,7.539,0.082,43,reviewed,us,us
 2023-10-02T13:15:21.426Z,29.888,139.842,120.161,4.4,mb,45,135,3.218,0.69,us,us6000lc8y,2023-10-02T16:05:39.040Z,"Izu Islands, Japan region",earthquake,12.37,8.118,0.092,34,reviewed,us,us
 2023-10-02T12:52:48.030Z,33.3215,-116.3525,12.31,1.35,ml,50,33,0.01332,0.18,ci,ci40575464,2023-10-02T23:41:03.000Z,"8 km NNE of Borrego Springs, CA",earthquake,0.18,0.45,0.177,26,reviewed,ci,ci
@@ -180,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T09:34:42.720Z,34.1158333,-116.7096667,2.28,1.39,ml,47,47,0.09258,0.19,ci,ci40575400,2023-10-03T00:48:34.350Z,"14 km WNW of Morongo Valley, CA",earthquake,0.21,0.52,0.164,27,reviewed,ci,ci
 2023-10-02T09:29:09.568Z,59.189,-153.3628,82.6,2.1,ml,,,,0.41,ak,ak023cmybkr0,2023-10-02T09:31:00.675Z,"76 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-02T09:26:47.250Z,18.1206666666667,-66.9273333333333,18.05,2.41,md,14,113,0.08205,0.15,pr,pr71427263,2023-10-02T10:16:09.070Z,"Puerto Rico region",earthquake,0.43,0.6,0.116682417349449,8,reviewed,pr,pr
-2023-10-02T09:21:04.960Z,39.7865,-123.5933333,-0.68,1.6,md,20,71,0.08908,0.13,nc,nc73944466,2023-10-03T07:04:16.465Z,"14 km NW of Laytonville, CA",earthquake,0.24,0.98,0.105,16,reviewed,nc,nc
