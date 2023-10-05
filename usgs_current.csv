@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-05T22:22:50.520Z,19.3623332977295,-155.296340942383,1.21000003814697,1.78999996,md,16,109,,0.170000002,hv,hv73594392,2023-10-05T22:25:43.170Z,"11 km SW of Volcano, Hawaii",earthquake,0.29,0.49000001,0.310000002,15,automatic,hv,hv
 2023-10-05T22:12:32.631Z,61.6127,-146.3981,30.4,1.8,ml,,,,0.75,ak,ak023cs4knpb,2023-10-05T22:14:56.226Z,"46 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-05T22:11:37.020Z,32.7743333,-116.565,25.47,1.36,ml,12,260,0.307,0.34,ci,ci40577888,2023-10-05T22:15:21.451Z,"6 km SSW of Pine Valley, CA",earthquake,4.5,1.85,0.091,12,automatic,ci,ci
 2023-10-05T22:00:39.620Z,44.6806667,-110.4676667,5.23,1.18,ml,7,109,0.04479,0.17,uu,uu60551827,2023-10-05T22:15:59.810Z,"37 km SSE of Mammoth, Wyoming",earthquake,0.49,1.12,0.401,3,reviewed,uu,uu
@@ -26,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T19:15:40.790Z,38.8069992,-122.754837,0.43,1.06,md,12,107,0.02114,0.02,nc,nc73945921,2023-10-05T19:54:14.006Z,"3 km WSW of Cobb, CA",earthquake,0.26,0.72,0.21,13,automatic,nc,nc
 2023-10-05T19:09:33.870Z,33.2241667,-117.178,-0.33,1.05,ml,29,102,0.06588,0.19,ci,ci40577760,2023-10-05T20:02:27.848Z,"7 km ENE of Vista, CA",quarry blast,0.44,31.61,0.163,11,reviewed,ci,ci
 2023-10-05T18:53:16.510Z,38.8375015,-122.8073349,2.09,0.72,md,12,63,0.0133,0.01,nc,nc73945911,2023-10-05T19:32:14.889Z,"8 km WNW of Cobb, CA",earthquake,0.34,0.8,0.25,13,automatic,nc,nc
-2023-10-05T18:44:55.060Z,37.8323326,-121.9595032,7,1.42,md,10,89,0.03726,0.05,nc,nc73945891,2023-10-05T19:01:13.718Z,"0 km SSW of Diablo, CA",earthquake,0.3,0.82,0.19,10,automatic,nc,nc
+2023-10-05T18:44:55.060Z,37.8323326,-121.9595032,7,1.42,md,10,89,0.03726,0.05,nc,nc73945891,2023-10-05T22:21:12.824Z,"0 km SSW of Diablo, CA",earthquake,0.3,0.82,0.19,10,automatic,nc,nc
 2023-10-05T18:34:50.720Z,45.32716666666666,-121.693,5.57,0.56,ml,9,143,0.01494,0.15,uw,uw61964271,2023-10-05T19:39:25.530Z,"5 km ENE of Government Camp, Oregon",earthquake,0.44,0.57,0.08457531970220422,6,reviewed,uw,uw
 2023-10-05T18:32:39.160Z,45.3295,-121.69533333333334,5.21,1,ml,10,138,0.01229,0.12,uw,uw61964266,2023-10-05T19:35:07.360Z,"Mount Hood area, Oregon",earthquake,0.37,0.53,0.13798630066843187,7,reviewed,uw,uw
 2023-10-05T18:31:08.010Z,45.32966666666667,-121.68966666666667,5.52,0.72,ml,9,138,0.0158,0.14,uw,uw61964261,2023-10-05T19:30:25.990Z,"5 km ENE of Government Camp, Oregon",earthquake,0.42,0.61,0.05733411908002406,5,reviewed,uw,uw
@@ -264,8 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T23:02:56.970Z,36.0101667,-117.723,2.34,1.51,ml,17,152,0.03741,0.07,ci,ci40577304,2023-10-05T17:13:21.041Z,"18 km ENE of Little Lake, CA",earthquake,0.17,0.18,0.122,9,reviewed,ci,ci
 2023-10-04T22:55:05.698Z,63.0181,-151.548,0,1.4,ml,,,,1,ak,ak023cqhagx5,2023-10-04T22:57:24.631Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-04T22:50:08.530Z,36.5618324,-121.1546631,7.48,1.85,md,19,125,0.02663,0.05,nc,nc73945506,2023-10-05T02:14:11.056Z,"4 km NNW of Pinnacles, CA",earthquake,0.28,0.72,0.12,22,automatic,nc,nc
-2023-10-04T22:25:28.076Z,62.1326,-148.0155,36.4,1.2,ml,,,,0.85,ak,ak023cqh4344,2023-10-04T22:27:56.300Z,"40 km NNW of Glacier View, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-10-04T22:24:54.105Z,50.2026,19.0026,5,3,ml,15,99,1.726,0.84,us,us6000ld46,2023-10-05T14:12:02.357Z,"2 km W of Murcki, Poland",earthquake,5.86,1.994,0.097,14,reviewed,us,us
-2023-10-04T22:22:38.670Z,33.1541667,-116.4596667,11.47,1.3,ml,33,69,0.07875,0.18,ci,ci40577288,2023-10-05T17:09:47.023Z,"14 km SW of Borrego Springs, CA",earthquake,0.28,0.73,0.251,26,reviewed,ci,ci
-2023-10-04T22:22:02.442Z,-18.2017,-178.2685,534.649,5.3,mb,82,31,3.531,0.75,us,us6000lcxs,2023-10-04T22:40:30.040Z,"255 km E of Levuka, Fiji",earthquake,10.2,7.896,0.023,622,reviewed,us,us
-2023-10-04T22:17:33.820Z,61.4931666666667,-152.004166666667,2.11,0.45,ml,8,196,,0.08,av,av92073946,2023-10-05T03:27:06.180Z,"63 km NW of Beluga, Alaska",earthquake,0.4,0.72,0.428488230566555,9,reviewed,av,av
