@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-08T02:39:51.660Z,34.0021667,-118.8221667,6.67,1.49,ml,10,150,0.01291,0.22,ci,ci40578840,2023-10-08T02:43:41.892Z,"1 km WSW of Malibu, CA",earthquake,0.72,0.66,0.326,22,automatic,ci,ci
 2023-10-08T02:27:47.670Z,38.7916679,-122.7220001,1.88,0.72,md,6,185,0.01426,0.01,nc,nc73946896,2023-10-08T02:29:24.412Z,"3 km NW of Anderson Springs, CA",earthquake,0.83,1.57,0.4,7,automatic,nc,nc
 2023-10-08T02:25:55.430Z,19.1633338928223,-155.498840332031,31.4200000762939,1.89999998,md,30,162,,0.140000001,hv,hv73599292,2023-10-08T02:28:59.560Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.84,1.04999995,1.08000004,3,automatic,hv,hv
 2023-10-08T02:23:55.806Z,58.1641,-155.3625,1.3,0.3,ml,,,,0.54,ak,ak023cwrcfr0,2023-10-08T02:26:18.599Z,"85 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
@@ -218,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T02:56:55.750Z,38.8356667,-122.809166,1.85,0.78,md,15,51,0.01227,0.02,nc,nc73946536,2023-10-07T03:15:13.843Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.73,0.15,16,automatic,nc,nc
 2023-10-07T02:51:10.910Z,35.8763333,-117.6498333,11.31,0.86,ml,10,168,0.1154,0.24,ci,ci40578424,2023-10-07T02:54:44.163Z,"24 km ESE of Little Lake, CA",earthquake,0.75,2.11,0.119,6,automatic,ci,ci
 2023-10-07T02:49:20.946Z,54.3919,-161.4587,43.694,4,ml,25,158,1.115,0.81,us,us6000ldng,2023-10-07T03:16:07.688Z,"92 km SE of King Cove, Alaska",earthquake,7.28,19.126,0.085,18,reviewed,us,us
-2023-10-07T02:38:11.769Z,52.0666,-168.6174,30.495,2.8,ml,12,242,0.919,0.74,us,us6000ldni,2023-10-07T03:12:26.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,6,15.771,0.128,8,reviewed,us,us
-2023-10-07T02:35:59.780Z,38.6889992,-122.4993362,2.01,1.42,md,10,109,0.09574,0.11,nc,nc73946521,2023-10-07T05:39:13.627Z,"12 km SE of Middletown, CA",earthquake,0.42,10.33,0.11,10,automatic,nc,nc
