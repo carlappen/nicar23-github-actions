@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-12T06:58:05.545Z,61.2773,-147.1054,32.8,1.7,ml,,,,0.07,ak,ak023d3g2ybu,2023-10-12T06:59:11.772Z,"43 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-12T06:42:26.480Z,61.3164,-148.1866,28.2,1.4,ml,,,,0.83,ak,ak023d3fzkhk,2023-10-12T06:44:21.299Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-12T06:39:51.670Z,33.9178352,-116.7913361,18.45,1.9,ml,62,45,0.007274,0.17,ci,ci40581512,2023-10-12T06:50:54.140Z,"0 km W of Cabazon, CA",earthquake,0.21,0.47,0.242,26,automatic,ci,ci
 2023-10-12T06:18:41.103Z,-4.5769,133.9424,7.334,5.2,mww,62,62,2.36,0.85,us,us6000lf0q,2023-10-12T06:42:51.040Z,"175 km NE of Tual, Indonesia",earthquake,7.52,3.908,0.093,11,reviewed,us,us
@@ -190,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T07:30:02.022Z,62.0947,-151.3231,79.5,2.2,ml,,,,0.38,ak,ak023d1sz14a,2023-10-12T05:44:01.040Z,"12 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-11T07:25:38.910Z,47.6775,-113.742666666667,1.13,0.48,ml,5,234,0.2416,0.01,mb,mb90029453,2023-10-11T18:05:14.010Z,"16 km N of Condon, Montana",earthquake,1.09,1.73,0.0340573077611703,2,reviewed,mb,mb
 2023-10-11T07:22:40.990Z,34.1586667,-117.5691667,9.94,0.63,ml,31,67,0.0432,0.14,ci,ci40581016,2023-10-11T16:09:11.932Z,"4 km NNE of Rancho Cucamonga, CA",earthquake,0.25,0.34,0.137,6,reviewed,ci,ci
-2023-10-11T07:15:15.130Z,19.337,-155.320666666667,2.86,2.27,ml,47,69,,0.12,hv,hv73604507,2023-10-11T22:43:29.940Z,"14 km SW of Volcano, Hawaii",earthquake,0.2,0.4,0.201084956260509,22,reviewed,hv,hv
