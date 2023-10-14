@@ -176,6 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T11:13:14.820Z,47.818333333333335,-122.84916666666666,24.04,1.06,ml,11,87,0.01716,0.17,uw,uw61965746,2023-10-13T17:49:05.520Z,"Puget Sound region, Washington",earthquake,0.61,0.65,0.16536231106603644,8,reviewed,uw,uw
 2023-10-13T10:49:22.668Z,59.5527,-151.3555,34.5,2,ml,,,,0.56,ak,ak023d55y54a,2023-10-13T10:51:48.290Z,"8 km WSW of Halibut Cove, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-13T10:48:29.710Z,60.0673333333333,-153.062166666667,4.91,-0.31,ml,5,257,,0.2,av,av92082621,2023-10-13T21:07:27.640Z,"66 km ENE of Pedro Bay, Alaska",earthquake,1.07,0.89,0.0715377565987824,5,reviewed,av,av
-2023-10-13T10:47:39.480Z,33.3426667,-116.3191667,13.85,0.94,ml,48,51,0.04319,0.21,ci,ci40582016,2023-10-13T22:26:32.952Z,"11 km NNE of Borrego Springs, CA",earthquake,0.25,0.56,0.144,19,reviewed,ci,ci
-2023-10-13T10:45:37.126Z,39.4665,-118.4743,8,1,ml,5,112.34,0.316,0.0714,nn,nn00867268,2023-10-14T02:04:49.264Z,"21 km ENE of Fallon Station, Nevada",earthquake,,13,0.23,3,reviewed,nn,nn
-2023-10-13T10:44:35.533Z,63.077,-151.5182,0.9,1.6,ml,,,,0.85,ak,ak023d55x3j5,2023-10-13T10:46:18.951Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
