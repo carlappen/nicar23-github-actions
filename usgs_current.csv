@@ -1,10 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-14T12:24:21.300Z,38.8095016,-122.7376633,2.03,0.88,md,7,133,0.02624,0.03,nc,nc73947090,2023-10-14T12:33:11.554Z,"2 km SW of Cobb, CA",earthquake,0.45,0.91,0.15,8,automatic,nc,nc
-2023-10-14T12:24:13.740Z,38.8263321,-122.7973328,2.56,1.09,md,19,37,0.01038,0.02,nc,nc73947085,2023-10-14T12:25:54.087Z,"6 km W of Cobb, CA",earthquake,0.26,0.5,0.16,20,automatic,nc,nc
+2023-10-14T12:50:08.024Z,59.9021,-150.9638,44.4,1.9,ml,,,,0.61,ak,ak023d6uojeq,2023-10-14T12:51:56.806Z,"4 km N of Fox River, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-10-14T12:41:31.340Z,40.291832,-122.2139969,24.22,2.31,md,10,127,0.1072,0.08,nc,nc73947095,2023-10-14T12:50:13.747Z,"13 km N of Red Bluff, CA",earthquake,0.48,1.39,0.15,9,automatic,nc,nc
+2023-10-14T12:24:21.300Z,38.8095016,-122.7376633,2.03,0.88,md,7,133,0.02624,0.03,nc,nc73947090,2023-10-14T12:50:13.646Z,"2 km SW of Cobb, CA",earthquake,0.45,0.91,0.15,8,automatic,nc,nc
+2023-10-14T12:24:13.740Z,38.8263321,-122.7973328,2.56,1.09,md,19,37,0.01038,0.02,nc,nc73947085,2023-10-14T12:38:14.716Z,"6 km W of Cobb, CA",earthquake,0.26,0.5,0.16,20,automatic,nc,nc
 2023-10-14T12:23:54.170Z,18.0211666666667,-66.7825,17.41,1.98,md,7,162,0.1029,0.2,pr,pr71428528,2023-10-14T12:36:12.890Z,"1 km ENE of Guayanilla, Puerto Rico",earthquake,0.76,1.55,0.292758080163367,4,reviewed,pr,pr
-2023-10-14T12:16:27.397Z,63.3241,-150.8058,29.3,1.5,ml,,,,1.57,ak,ak023d6uhak3,2023-10-14T12:19:24.707Z,"Central Alaska",earthquake,,2.1,,,automatic,ak,ak
+2023-10-14T12:16:27.397Z,63.3241,-150.8058,29.3,1.5,ml,,,,1.57,ak,ak023d6uhak3,2023-10-14T12:19:24.707Z,"51 km ESE of Denali National Park, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-10-14T12:14:45.990Z,17.9371666666667,-66.9568333333333,6.52,2.99,md,14,220,0.05761,0.16,pr,pr71428523,2023-10-14T12:29:25.550Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.56,0.3,0.13415804615117,7,reviewed,pr,pr
-2023-10-14T12:07:25.259Z,61.5542,-150.6567,74.9,1.4,ml,,,,0.74,ak,ak023d6ufcy5,2023-10-14T12:09:25.628Z,"Southern Alaska",earthquake,,2.1,,,automatic,ak,ak
+2023-10-14T12:12:27.670Z,17.902,-66.8483333333333,15.38,3.07,md,18,213,0.07839,0.14,pr,pr71428513,2023-10-14T12:37:58.480Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.53,0.55,0.114220549189737,6,reviewed,pr,pr
+2023-10-14T12:07:25.259Z,61.5542,-150.6567,74.9,1.4,ml,,,,0.74,ak,ak023d6ufcy5,2023-10-14T12:09:25.628Z,"7 km W of Susitna, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-10-14T11:39:45.000Z,38.8256683,-122.8128357,1.79,0.36,md,11,76,0.003132,0.02,nc,nc73947080,2023-10-14T11:57:15.359Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.92,0.31,12,automatic,nc,nc
 2023-10-14T11:35:43.688Z,61.9541,-148.775,13.5,1.5,ml,,,,0.83,ak,ak023d6tzytc,2023-10-14T11:38:34.846Z,"19 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-14T11:30:26.160Z,38.8346672,-122.7911682,1.83,1.02,md,18,48,0.003791,0.02,nc,nc73947070,2023-10-14T11:47:19.302Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.38,0.23,19,automatic,nc,nc
@@ -28,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T08:15:41.420Z,33.6383333,-116.7158333,17.58,0.83,ml,24,62,0.07492,0.16,ci,ci40582448,2023-10-14T08:19:16.366Z,"10 km NNW of Anza, CA",earthquake,0.35,0.5,0.228,25,automatic,ci,ci
 2023-10-14T08:05:12.808Z,23.9729,122.3284,21.476,4.8,mb,66,81,0.7,0.51,us,us6000lfi8,2023-10-14T08:22:25.040Z,"73 km E of Hualien City, Taiwan",earthquake,2.18,5.624,0.083,45,reviewed,us,us
 2023-10-14T07:59:58.858Z,34.3249,24.2845,10,4.4,mb,45,206,1.082,0.94,us,us6000lfi7,2023-10-14T12:02:02.040Z,"59 km SSE of Kastrí, Greece",earthquake,7.43,1.95,0.107,25,reviewed,us,us
-2023-10-14T07:53:30.141Z,23.9691,122.267,19.372,4.9,mww,54,71,0.647,0.89,us,us6000lfi5,2023-10-14T08:07:54.040Z,"67 km E of Hualien City, Taiwan",earthquake,4.53,4.468,0.083,14,reviewed,us,us
+2023-10-14T07:53:30.141Z,23.9691,122.267,19.372,4.9,mww,54,71,0.647,0.89,us,us6000lfi5,2023-10-14T08:07:54.040Z,"Taiwan region",earthquake,4.53,4.468,0.083,14,reviewed,us,us
 2023-10-14T07:46:19.730Z,33.4906667,-116.4276667,15.11,0.4,ml,10,137,0.03269,0.13,ci,ci40582440,2023-10-14T07:49:59.787Z,"22 km SSW of La Quinta, CA",earthquake,0.6,1.4,0.024,4,automatic,ci,ci
 2023-10-14T07:30:24.485Z,37.2807,-114.8972,3.6,1.2,ml,11,239.23,0.176,0.3161,nn,nn00867289,2023-10-14T07:32:56.119Z,"Nevada",earthquake,,60,0.3,8,automatic,nn,nn
 2023-10-14T07:22:59.522Z,34.3404,136.6634,355.217,4.1,mb,29,68,1.051,0.73,us,us6000lfi0,2023-10-14T12:05:06.040Z,"western Honshu, Japan",earthquake,9.15,8.245,0.197,7,reviewed,us,us
@@ -170,6 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T13:11:55.379Z,31.723,-104.549,5.6431,2.3,ml(texnet),21,84,0,0.1,tx,tx2023ubsm,2023-10-13T17:51:50.094Z,"western Texas",earthquake,1.738970728,1.012368129,0.1,7,reviewed,tx,tx
 2023-10-13T13:11:45.490Z,58.1696666666667,-155.378,1.91,-0.09,ml,11,75,,0.06,av,av91118253,2023-10-13T23:05:07.400Z,"86 km NW of Karluk, Alaska",earthquake,0.17,0.47,0.197624291456313,11,reviewed,av,av
 2023-10-13T13:06:53.852Z,39.3898,-119.7283,4.6,0.5,ml,6,122.25,0.028,0.0847,nn,nn00867238,2023-10-14T02:04:35.622Z,"11 km NW of Virginia City, Nevada",earthquake,,1.6,0.16,2,reviewed,nn,nn
-2023-10-13T12:54:20.370Z,39.3863,-119.7319,6.6,1.3,ml,17,36.63,0.026,0.17,nn,nn00867235,2023-10-14T02:04:34.751Z,"11 km NW of Virginia City, Nevada",earthquake,,0.9,0.22,8,reviewed,nn,nn
-2023-10-13T12:53:52.700Z,19.1786670684814,-155.48567199707,33.6500015258789,2.00999999,md,38,78,,0.109999999,hv,hv73607472,2023-10-13T12:57:00.190Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.67,0.829999983,0.150000006,13,automatic,hv,hv
-2023-10-13T12:52:46.570Z,60.056,-153.047,1.83,-0.46,ml,5,240,,0.07,av,av92082716,2023-10-13T22:09:53.030Z,"Southern Alaska",earthquake,0.86,0.54,0.518480182375344,5,reviewed,av,av
