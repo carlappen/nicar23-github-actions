@@ -1,13 +1,17 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-15T00:26:40.342Z,58.1546,-155.5915,25.4,0.4,ml,,,,0.94,ak,ak023d8axlya,2023-10-15T00:27:55.934Z,"86 km SE of King Salmon, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-10-15T00:24:52.450Z,39.6328,-119.6514,12.8,2.1,ml,12,94.27,0.189,0.216,nn,nn00867304,2023-10-15T00:26:49.091Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1,0.36,8,automatic,nn,nn
+2023-10-15T00:07:36.970Z,38.8003349,-122.7994995,1.34,0.83,md,7,147,0.008297,0.01,nc,nc73947315,2023-10-15T00:25:13.874Z,"4 km NW of The Geysers, CA",earthquake,0.53,0.77,0.1,8,automatic,nc,nc
 2023-10-14T23:50:23.226Z,61.3181,-150.5314,32.5,1.6,ml,,,,0.43,ak,ak023d718c8i,2023-10-14T23:53:00.673Z,"25 km S of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-14T23:44:59.159Z,30.8487,142.0063,10,4.7,mb,45,128,6.131,0.58,us,us6000lfmj,2023-10-14T23:58:53.040Z,"Izu Islands, Japan region",earthquake,10.85,1.877,0.089,38,reviewed,us,us
 2023-10-14T23:31:07.937Z,63.2171,-150.6404,8.2,2.2,ml,,,,1.31,ak,ak023d714asv,2023-10-14T23:40:30.411Z,"65 km SE of Denali National Park, Alaska",earthquake,,16.1,,,automatic,ak,ak
 2023-10-14T23:30:53.458Z,63.5304,-149.0238,9.9,2.4,ml,,,,0.4,ak,ak023d71448x,2023-10-14T23:32:29.713Z,"15 km NNW of Cantwell, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-10-14T23:29:51.702Z,63.1457,-150.8297,124.9,2,ml,,,,0.26,ak,ak023d713wbv,2023-10-14T23:31:26.885Z,"62 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-14T23:25:36.819Z,62.4523,-152.36,8.2,1.4,ml,,,,0.74,ak,ak023d7130dt,2023-10-14T23:27:58.526Z,"71 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-14T23:16:04.680Z,38.8443336,-122.879837,2.33,0.79,md,9,102,0.006723,0.02,nc,nc73947310,2023-10-14T23:26:10.536Z,"13 km ENE of Cloverdale, CA",earthquake,0.36,0.58,0.21,10,automatic,nc,nc
+2023-10-14T23:16:04.680Z,38.8443336,-122.879837,2.33,0.79,md,9,102,0.006723,0.02,nc,nc73947310,2023-10-15T00:11:15.832Z,"13 km ENE of Cloverdale, CA",earthquake,0.36,0.58,0.21,10,automatic,nc,nc
 2023-10-14T23:15:53.377Z,58.8474,-136.4034,5.1,3.7,ml,,,,0.91,ak,ak023d710wha,2023-10-14T23:25:56.040Z,"61 km NW of Gustavus, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-14T23:02:18.174Z,66.9012,-154.329,2.1,1.6,ml,,,,0.75,ak,ak023d70y1na,2023-10-14T23:05:14.195Z,"81 km WNW of Alatna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-14T22:52:05.730Z,38.8193321,-122.8065033,2.74,0.84,md,5,176,0.004923,0,nc,nc73947305,2023-10-14T23:02:11.421Z,"6 km NW of The Geysers, CA",earthquake,1.01,1.8,0.13,6,automatic,nc,nc
+2023-10-14T22:52:05.730Z,38.8193321,-122.8065033,2.74,0.84,md,5,176,0.004923,0,nc,nc73947305,2023-10-15T00:01:12.746Z,"6 km NW of The Geysers, CA",earthquake,1.01,1.8,0.13,6,automatic,nc,nc
 2023-10-14T22:32:25.990Z,-19.5927,-68.7844,127.594,4.4,mb,29,80,0.394,0.77,us,us6000lfm7,2023-10-14T22:47:38.040Z,"38 km SSW of Colchane, Chile",earthquake,6.18,2.169,0.106,26,reviewed,us,us
 2023-10-14T22:14:04.180Z,37.5705,-119.5563333,12.66,1.63,md,21,122,0.2119,0.09,nc,nc73947285,2023-10-14T23:39:12.627Z,"19 km S of Yosemite Valley, CA",earthquake,0.37,1.12,0.25,21,reviewed,nc,nc
 2023-10-14T22:11:05.472Z,14.8581,-87.5784,10,4.8,mb,39,60,0.85,0.95,us,us6000lflx,2023-10-14T22:23:41.040Z,"11 km NNE of La Libertad, Honduras",earthquake,2.9,1.927,0.039,199,reviewed,us,us
@@ -29,8 +33,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T20:11:04.440Z,38.8240013,-122.8509979,2.25,1.03,md,18,82,0.005795,0.03,nc,nc73947240,2023-10-14T21:02:11.557Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.47,0.27,21,automatic,nc,nc
 2023-10-14T20:05:13.550Z,33.4705,-116.3963333,14.6,0.66,ml,15,151,0.05819,0.18,ci,ci40582624,2023-10-14T20:08:48.994Z,"23 km SSW of La Quinta, CA",earthquake,0.58,0.89,0.166,12,automatic,ci,ci
 2023-10-14T20:04:33.000Z,38.831665,-122.8166656,1.43,0.72,md,13,57,0.009732,0.01,nc,nc73947235,2023-10-14T20:52:12.494Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.82,0.26,14,automatic,nc,nc
-2023-10-14T19:55:38.360Z,38.7636681,-122.7105026,1.19,1.29,md,14,82,0.009861,0.04,nc,nc73947230,2023-10-14T20:41:16.438Z,"2 km SW of Anderson Springs, CA",earthquake,0.27,0.29,0.12,15,automatic,nc,nc
-2023-10-14T19:33:34.460Z,38.8226662,-122.8516693,2.49,1.23,md,26,61,0.006345,0.02,nc,nc73947225,2023-10-14T20:30:14.255Z,"10 km WNW of The Geysers, CA",earthquake,0.22,0.41,0.18,28,automatic,nc,nc
+2023-10-14T19:55:38.360Z,38.7636681,-122.7105026,1.19,1.29,md,14,82,0.009861,0.04,nc,nc73947230,2023-10-15T00:23:11.863Z,"2 km SW of Anderson Springs, CA",earthquake,0.27,0.29,0.12,15,automatic,nc,nc
+2023-10-14T19:33:34.460Z,38.8226662,-122.8516693,2.49,1.23,md,26,61,0.006345,0.02,nc,nc73947225,2023-10-15T00:22:15.858Z,"10 km WNW of The Geysers, CA",earthquake,0.22,0.41,0.18,28,automatic,nc,nc
 2023-10-14T19:31:21.370Z,38.7983322,-122.7505035,1.85,0.74,md,9,97,0.007551,0.02,nc,nc73947215,2023-10-14T20:10:12.144Z,"2 km NNE of The Geysers, CA",earthquake,0.31,0.79,0.04,9,automatic,nc,nc
 2023-10-14T19:11:42.046Z,61.5668,-151.6704,64.7,1.3,ml,,,,0.56,ak,ak023d6ymacc,2023-10-14T19:13:24.622Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-14T19:01:54.750Z,34.9188333,-118.1891667,8.73,1.67,ml,54,44,0.05143,0.21,ci,ci40582600,2023-10-14T19:12:49.530Z,"6 km NNW of Rosamond, CA",earthquake,0.22,0.68,0.126,26,automatic,ci,ci
@@ -49,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T17:15:12.760Z,35.6466667,-117.4358333,8.34,1.11,ml,15,87,0.02088,0.21,ci,ci40582552,2023-10-14T17:18:50.011Z,"14 km SSW of Searles Valley, CA",earthquake,0.56,0.93,0.215,9,automatic,ci,ci
 2023-10-14T17:12:03.920Z,17.9635,-66.9553333333333,7.48,2.01,md,11,195,0.04527,0.27,pr,pr71428588,2023-10-14T17:25:38.430Z,"Puerto Rico",earthquake,0.91,0.43,0.152227413095152,3,reviewed,pr,pr
 2023-10-14T17:09:15.440Z,38.8055,-122.7806702,1.52,1.08,md,13,65,0.007748,0.02,nc,nc73947175,2023-10-14T20:00:14.077Z,"4 km NW of The Geysers, CA",earthquake,0.29,0.48,0.14,14,automatic,nc,nc
-2023-10-14T17:06:57.950Z,17.9526666666667,-66.9523333333333,6.77,1.69,md,11,207,0.0459,0.08,pr,pr71428578,2023-10-14T17:17:01.740Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.44,0.27,0.0474401834210045,3,reviewed,pr,pr
+2023-10-14T17:06:57.950Z,17.9526666666667,-66.9523333333333,6.77,1.69,md,11,207,0.0459,0.08,pr,pr71428578,2023-10-14T17:17:01.740Z,"Puerto Rico region",earthquake,0.44,0.27,0.0474401834210045,3,reviewed,pr,pr
 2023-10-14T16:58:29.114Z,63.222,-150.6232,128,2.5,ml,,,,0.47,ak,ak023d6x413q,2023-10-14T19:43:54.040Z,"65 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-14T16:50:38.050Z,33.9298333,-116.8575,16.88,0.83,ml,20,72,0.1082,0.19,ci,ci40582544,2023-10-14T16:54:13.995Z,"2 km ENE of Banning, CA",earthquake,0.41,0.95,0.151,22,automatic,ci,ci
 2023-10-14T16:49:47.249Z,61.8764,-150.593,13,1.6,ml,,,,0.14,ak,ak023d6x2550,2023-10-14T16:51:12.871Z,"32 km WNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -163,6 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T01:02:33.040Z,61.5084,-150.4203,47.8,0.9,ml,,,,0.62,ak,ak023d6nugxz,2023-10-14T18:47:56.997Z,"Southern Alaska",earthquake,,2,,,reviewed,ak,ak
 2023-10-14T00:48:34.547Z,39.9495,-119.9609,9,0.6,ml,4,143.41,0.105,0.0499,nn,nn00867294,2023-10-14T15:46:33.461Z,"14 km SE of Doyle, California",earthquake,,2.7,0.15,3,reviewed,nn,nn
 2023-10-14T00:40:16.200Z,19.3406658172607,-155.11833190918,-0.639999985694885,1.91,ml,39,132,,0.25,hv,hv73607862,2023-10-14T01:30:21.470Z,"13 km S of Fern Forest, Hawaii",earthquake,0.46,0.180000007,0.42,6,automatic,hv,hv
-2023-10-14T00:29:02.360Z,37.5699997,-119.555336,14.76,2.18,md,12,131,0.2121,0.04,nc,nc73946975,2023-10-14T03:45:15.500Z,"19 km S of Yosemite Valley, CA",earthquake,0.39,0.97,0.2,4,automatic,nc,nc
-2023-10-14T00:13:31.008Z,64.2057,-150.0319,15.6,1.5,ml,,,,0.77,ak,ak023d6nbgfg,2023-10-14T00:15:19.771Z,"41 km W of Clear, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-13T23:56:32.410Z,17.9893333333333,-66.9466666666667,13.4,2.24,md,8,157,0.06571,0.13,pr,pr71428448,2023-10-14T00:16:37.480Z,"3 km W of Fuig, Puerto Rico",earthquake,1.01,0.57,0.10838123704997,8,reviewed,pr,pr
