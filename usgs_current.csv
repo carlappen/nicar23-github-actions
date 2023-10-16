@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-16T05:27:54.408Z,63.544,-150.7143,3.1,1.5,ml,,,,0.5,ak,ak023da1gdal,2023-10-16T05:31:09.518Z,"50 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-16T05:12:11.780Z,40.3336678,-124.3636703,16.4,1.62,md,11,277,0.04797,0.04,nc,nc73947745,2023-10-16T05:18:11.533Z,"7 km W of Petrolia, CA",earthquake,1.33,0.98,0.05,5,automatic,nc,nc
 2023-10-16T05:05:37.860Z,19.2463340759277,-155.385162353516,30.7299995422363,1.83000004,md,33,146,,0.109999999,hv,hv73610112,2023-10-16T05:08:49.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.64,0.980000019,0.850000024,7,automatic,hv,hv
 2023-10-16T04:57:15.160Z,34.0111667,-117.1786667,15.81,0.68,ml,16,110,0.1162,0.17,ci,ci40582960,2023-10-16T05:01:04.114Z,"5 km S of Redlands, CA",earthquake,0.39,1.17,0.077,13,automatic,ci,ci
@@ -14,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T03:41:40.420Z,30.1264,80.7672,10,4.1,mb,20,170,4.582,0.73,us,us6000lfu1,2023-10-16T03:58:55.040Z,"38 km NNE of Dārchulā, Nepal",earthquake,12.19,1.985,0.184,8,reviewed,us,us
 2023-10-16T03:34:15.190Z,17.9195,-66.8418333333333,11.39,2.38,md,8,224,0.06574,0.13,pr,pr71428758,2023-10-16T03:45:12.190Z,"Puerto Rico region",earthquake,0.66,0.56,0.0839299309884662,4,reviewed,pr,pr
 2023-10-16T03:33:34.169Z,57.6309,-155.3276,10.7,1.8,ml,,,,0.32,ak,ak023da0aqso,2023-10-16T03:35:14.984Z,"52 km W of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
-2023-10-16T03:13:55.413Z,50.7767,-129.8499,10,4.9,mb,51,158,1.1,0.91,us,us6000lftw,2023-10-16T04:41:05.978Z,"196 km W of Port McNeill, Canada",earthquake,7.16,1.748,0.031,315,reviewed,us,us
+2023-10-16T03:13:55.413Z,50.7767,-129.8499,10,4.9,mb,51,158,1.1,0.91,us,us6000lftw,2023-10-16T05:22:54.191Z,"196 km W of Port McNeill, Canada",earthquake,7.16,1.748,0.031,315,reviewed,us,us
 2023-10-16T02:50:21.150Z,35.6825,-117.5368333,1.93,1.14,ml,15,74,0.09373,0.17,ci,ci40582928,2023-10-16T02:53:50.798Z,"14 km ENE of Ridgecrest, CA",earthquake,0.4,0.89,0.145,10,automatic,ci,ci
 2023-10-16T02:30:19.910Z,32.5781667,-116.6446667,0.47,1.68,ml,6,270,0.1042,0.26,ci,ci40582920,2023-10-16T02:33:59.311Z,"2 km NW of Tecate, B.C., MX",earthquake,3.53,31.61,0.085,18,automatic,ci,ci
 2023-10-16T02:24:40.836Z,57.6306,-156.01,6.9,2.8,ml,,,,0.28,ak,ak023d9zne9f,2023-10-16T02:26:16.777Z,"84 km E of Ugashik, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -155,4 +156,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-15T06:02:56.953Z,62.9079,-150.1665,71.7,1.7,ml,,,,0.68,ak,ak023d8ed3of,2023-10-15T06:06:07.856Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-15T05:48:21.627Z,63.5823,-150.9874,5.5,2.4,ml,,,,0.59,ak,ak023d8e1gaa,2023-10-15T05:50:08.700Z,"36 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-15T05:41:41.422Z,34.7892,62.0626,8.246,4.2,mb,41,129,5.758,0.96,us,us6000lfny,2023-10-15T06:03:44.040Z,"western Afghanistan",earthquake,9.23,6.304,0.137,15,reviewed,us,us
-2023-10-15T05:21:31.088Z,63.5033,-148.8345,2.8,0.8,ml,,,,0.84,ak,ak023d8dvook,2023-10-15T05:23:36.213Z,"13 km NNE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
