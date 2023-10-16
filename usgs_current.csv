@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-16T05:50:18.070Z,32.3938333,-115.236,6.92,1.7,ml,17,60,0.06373,0.27,ci,ci40582968,2023-10-16T05:53:56.682Z,"6 km NW of Delta, B.C., MX",earthquake,0.55,1.41,0.326,17,automatic,ci,ci
 2023-10-16T05:36:15.772Z,61.7955,-149.9398,35.7,1.4,ml,,,,0.64,ak,ak023da1i7qh,2023-10-16T05:38:13.013Z,"7 km NE of Willow, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-10-16T05:27:54.408Z,63.544,-150.7143,3.1,1.5,ml,,,,0.5,ak,ak023da1gdal,2023-10-16T05:31:09.518Z,"50 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-16T05:12:11.780Z,40.3336678,-124.3636703,16.4,1.62,md,11,277,0.04797,0.04,nc,nc73947745,2023-10-16T05:35:15.781Z,"7 km W of Petrolia, CA",earthquake,1.33,0.98,0.05,5,automatic,nc,nc
