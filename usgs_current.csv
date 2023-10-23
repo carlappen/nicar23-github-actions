@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-23T10:55:37.730Z,32.7501678,-115.4188309,12.13,1.93,ml,24,69,0.05983,0.26,ci,ci40585160,2023-10-23T10:57:43.658Z,"8 km SSW of Holtville, CA",earthquake,0.43,0.91,0.265,19,automatic,ci,ci
 2023-10-23T10:39:28.884Z,61.6496,-151.6397,77.8,0.8,ml,,,,0.76,ak,ak023dlp9he2,2023-10-23T10:41:54.790Z,"40 km SSW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-10-23T10:31:33.622Z,-15.0307,-176.1431,322.211,5.2,mb,76,42,5.456,0.82,us,us6000lhgj,2023-10-23T10:50:48.040Z,"193 km S of Mata-Utu, Wallis and Futuna",earthquake,9.69,7.566,0.024,594,reviewed,us,us
 2023-10-23T10:29:04.506Z,61.0144,-148.213,16.4,1.6,ml,,,,0.99,ak,ak023dlp7ac2,2023-10-23T10:39:32.662Z,"37 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-23T10:14:15.310Z,19.3766670227051,-155.27783203125,0.870000004768372,2.07,ml,33,90,,0.289999992,hv,hv73619932,2023-10-23T10:19:47.070Z,"8 km SSW of Volcano, Hawaii",earthquake,0.29,0.349999994,0.35,10,automatic,hv,hv
 2023-10-23T10:10:15.384Z,-29.9476,-177.5191,23.092,6,mww,64,68,0.767,1.18,us,us6000lhgd,2023-10-23T10:33:29.755Z,"Kermadec Islands, New Zealand",earthquake,8.17,4.349,0.056,31,reviewed,us,us
@@ -12,9 +14,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T09:09:03.588Z,-42.7148,171.729,10,4.4,mb,33,54,0.21,0.83,us,us6000lhg6,2023-10-23T09:50:35.985Z,"51 km ESE of Greymouth, New Zealand",earthquake,4.37,1.919,0.17,10,reviewed,us,us
 2023-10-23T09:07:21.740Z,38.8305016,-122.8166656,1.78,0.55,md,9,74,0.008767,0.02,nc,nc73950285,2023-10-23T09:17:11.867Z,"8 km NW of The Geysers, CA",earthquake,0.44,1.2,0.39,10,automatic,nc,nc
 2023-10-23T09:01:52.600Z,64.5736,-149.211,19.9,0.9,ml,,,,1.09,ak,ak023dlofye4,2023-10-23T09:04:05.224Z,"5 km SW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-23T09:00:03.750Z,38.7851677,-122.7366638,1.48,1.15,md,12,84,0.001928,0.02,nc,nc73950280,2023-10-23T09:10:09.827Z,"2 km ENE of The Geysers, CA",earthquake,0.28,0.82,0.2,12,automatic,nc,nc
+2023-10-23T09:00:03.750Z,38.7851677,-122.7366638,1.48,1.15,md,12,84,0.001928,0.02,nc,nc73950280,2023-10-23T10:56:11.452Z,"2 km ENE of The Geysers, CA",earthquake,0.28,0.82,0.2,12,automatic,nc,nc
 2023-10-23T08:51:51.740Z,38.8498344,-122.8151703,-0.71,1.4,md,24,59,0.008,0.14,nc,nc73950275,2023-10-23T10:25:10.251Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.82,0.08,25,automatic,nc,nc
-2023-10-23T08:48:17.020Z,17.9488,-66.293,3,3.55,md,13,188,0.1869,0.17,pr,pr2023296000,2023-10-23T10:38:30.018Z,"Puerto Rico region",earthquake,0.56,0.48,0.22,13,reviewed,pr,pr
+2023-10-23T08:48:17.020Z,17.9488,-66.293,3,3.55,md,13,188,0.1869,0.17,pr,pr2023296000,2023-10-23T10:50:51.352Z,"Puerto Rico region",earthquake,0.56,0.48,0.22,13,reviewed,pr,pr
 2023-10-23T08:20:12.860Z,18.0041666666667,-66.8091666666667,11.14,1.91,md,10,184,0.1969,0.08,pr,pr71429493,2023-10-23T08:31:14.120Z,"1 km NE of Indios, Puerto Rico",earthquake,0.42,1.9,0.132926993270502,4,reviewed,pr,pr
 2023-10-23T08:15:14.570Z,18.0056666666667,-66.8098333333333,13.2,2.7,md,10,182,0.1972,0.08,pr,pr71429483,2023-10-23T08:29:08.760Z,"1 km NE of Indios, Puerto Rico",earthquake,0.34,0.4,0.078438115108959,7,reviewed,pr,pr
 2023-10-23T08:06:42.971Z,57.9346,-155.7551,2.8,1.6,ml,,,,0.48,ak,ak023dlnvkmh,2023-10-23T08:08:28.382Z,"87 km WNW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
@@ -177,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T11:45:03.770Z,38.5315,-122.563,11.66,1,md,27,86,0.09565,0.08,nc,nc73950000,2023-10-23T08:22:11.544Z,"6 km SSE of Calistoga, CA",earthquake,0.25,0.76,0.122,19,reviewed,nc,nc
 2023-10-22T11:24:40.570Z,35.9451675,-120.465332,6.32,0.43,md,11,107,0.005389,0.16,nc,nc73949995,2023-10-22T11:36:10.383Z,"6 km NNW of Parkfield, CA",earthquake,1.21,2.69,0.22,2,automatic,nc,nc
 2023-10-22T11:05:01.270Z,35.6838333,-117.5376667,2.42,1.32,ml,15,131,0.09465,0.15,ci,ci40584896,2023-10-22T13:40:38.822Z,"14 km ENE of Ridgecrest, CA",earthquake,0.45,0.71,0.147,14,reviewed,ci,ci
-2023-10-22T10:50:12.389Z,38.1147,-118.0206,2,1.8,ml,15,105.26,0.089,0.342,nn,nn00867736,2023-10-22T10:52:48.018Z,"31 km SSE of Mina, Nevada",earthquake,,1.6,1.29,6,automatic,nn,nn
