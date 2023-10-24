@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-24T22:10:41.960Z,38.8231659,-122.8539963,2.61,1.04,md,8,115,0.004916,0.01,nc,nc73950945,2023-10-24T22:12:18.219Z,"10 km WNW of The Geysers, CA",earthquake,0.56,0.93,0.24,9,automatic,nc,nc
+2023-10-24T22:21:11.119Z,65.1378,-150.0822,10.5,1.2,ml,,,,0.44,ak,ak023dnju4vb,2023-10-24T22:24:05.568Z,"30 km ENE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-24T22:10:41.960Z,38.8231659,-122.8539963,2.61,1.04,md,8,115,0.004916,0.01,nc,nc73950945,2023-10-24T22:23:11.581Z,"10 km WNW of The Geysers, CA",earthquake,0.56,0.93,0.24,9,automatic,nc,nc
+2023-10-24T22:02:51.280Z,49.2311,154.9157,72.453,4.8,mb,67,79,4.259,0.75,us,us7000l63a,2023-10-24T22:21:24.040Z,"182 km SSW of Severo-Kuril’sk, Russia",earthquake,9.45,6.453,0.038,215,reviewed,us,us
 2023-10-24T21:56:03.275Z,60.0507,-151.8265,71.5,2.3,ml,,,,0.46,ak,ak023dnjg6pz,2023-10-24T22:09:53.040Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-24T21:40:57.500Z,17.9628333333333,-66.9348333333333,14.26,2.64,md,18,190,0.02661,0.15,pr,pr71429758,2023-10-24T21:53:01.170Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.49,0.41,0.186767260902191,9,reviewed,pr,pr
 2023-10-24T21:31:34.860Z,19.3861675262451,-155.273498535156,2.0699999332428,1.75999999,md,21,97,,0.280000001,hv,hv73622767,2023-10-24T21:37:06.290Z,"7 km SSW of Volcano, Hawaii",earthquake,0.39,0.360000014,0.829999983,10,automatic,hv,hv
@@ -229,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T22:41:00.589Z,63.978,-148.7968,2.2,2.1,ml,,,,0.67,ak,ak023dlwf1vu,2023-10-23T22:42:37.463Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-23T22:34:45.070Z,18.0118333333333,-66.8126666666667,11.94,1.98,md,9,179,0.1988,0.08,pr,pr71429658,2023-10-23T22:45:41.090Z,"Puerto Rico region",earthquake,0.38,0.7,0.155360128457,6,reviewed,pr,pr
 2023-10-23T22:31:55.310Z,33.6055,-116.7315,12.08,0.64,ml,21,71,0.04029,0.1,ci,ci40585784,2023-10-24T14:55:08.244Z,"8 km NW of Anza, CA",earthquake,0.22,0.35,0.131,9,reviewed,ci,ci
-2023-10-23T22:18:36.964Z,58.5992,-153.9437,99.5,1.2,ml,,,,0.15,ak,ak023dlwa780,2023-10-23T22:20:24.661Z,"85 km NW of Aleneva, Alaska",earthquake,,1.4,,,automatic,ak,ak
