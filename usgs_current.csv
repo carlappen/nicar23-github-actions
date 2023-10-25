@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-25T13:05:57.382Z,60.1292,-153.0335,119.5,1.4,ml,,,,0.24,ak,ak023dp1x916,2023-10-25T13:07:53.734Z,"71 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-10-25T13:05:02.826Z,62.3297,-150.0182,0,2.2,ml,,,,1.66,ak,ak023dp1x536,2023-10-25T13:17:07.494Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-25T12:56:39.398Z,59.2472,-153.6037,121,1.5,ml,,,,0.58,ak,ak023dp1mpk3,2023-10-25T12:59:27.258Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-10-25T12:50:19.120Z,35.8030014,-121.3948364,8.97,2,md,20,195,,0.1,nc,nc73951165,2023-10-25T12:56:10.338Z,"26 km NW of San Simeon, CA",earthquake,0.61,0.83,0.06,20,automatic,nc,nc
 2023-10-25T12:44:02.160Z,38.8333321,-122.8160019,1.21,0.85,md,9,72,0.01095,0.01,nc,nc73951160,2023-10-25T12:53:11.190Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.8,0.34,10,automatic,nc,nc
@@ -18,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T10:31:26.731Z,62.9986,-149.412,66.9,1.3,ml,,,,0.84,ak,ak023dp0aggx,2023-10-25T10:33:37.185Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-25T10:28:39.750Z,38.8424988,-122.8366699,1.67,1.05,md,18,90,0.004012,0.02,nc,nc73951145,2023-10-25T10:30:14.082Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.45,0.22,19,automatic,nc,nc
 2023-10-25T10:25:58.030Z,38.8446655,-122.8361664,1.84,0.95,md,10,95,0.006091,0.01,nc,nc73951135,2023-10-25T10:39:11.334Z,"10 km WNW of Cobb, CA",earthquake,0.37,0.75,0.47,11,automatic,nc,nc
-2023-10-25T10:25:42.870Z,38.8438339,-122.8376694,1.82,1.29,md,21,93,0.005508,0.02,nc,nc73951130,2023-10-25T10:43:10.354Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.46,0.14,21,automatic,nc,nc
+2023-10-25T10:25:42.870Z,38.8438339,-122.8376694,1.82,1.29,md,21,93,0.005508,0.02,nc,nc73951130,2023-10-25T13:22:11.368Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.46,0.14,21,automatic,nc,nc
 2023-10-25T10:24:25.220Z,38.8455009,-122.8373337,2.01,1.48,md,8,133,0.007051,0.02,nc,nc73951125,2023-10-25T12:56:10.213Z,"10 km WNW of Cobb, CA",earthquake,0.42,1.08,0.25,8,automatic,nc,nc
 2023-10-25T10:22:43.910Z,35.4961667,-118.3955,7.41,1.19,ml,18,66,0.1781,0.11,ci,ci40587040,2023-10-25T10:33:38.090Z,"13 km SE of Bodfish, CA",earthquake,0.2,1.67,0.063,13,automatic,ci,ci
 2023-10-25T10:09:39.530Z,36.0195,-117.8388333,-0.23,1.1,ml,10,98,0.04422,0.12,ci,ci40587032,2023-10-25T10:13:12.904Z,"10 km ESE of Coso Junction, CA",earthquake,0.28,31.61,0.138,10,automatic,ci,ci
@@ -94,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T03:12:54.730Z,39.3845,-120.1988333,8.7,2.22,md,15,49,0.09708,0.06,nc,nc73951015,2023-10-25T06:30:10.935Z,"6 km NNW of Truckee, CA",earthquake,0.2,0.6,0.177,18,reviewed,nc,nc
 2023-10-25T02:56:02.830Z,33.9963333,-118.3503333,9.76,2.06,ml,62,48,0.01108,0.28,ci,ci40586824,2023-10-25T04:20:50.298Z,"0 km WNW of View Park-Windsor Hills, CA",earthquake,0.3,0.58,0.195,27,automatic,ci,ci
 2023-10-25T02:41:45.890Z,33.2721667,-116.776,12.11,1.04,ml,30,48,0.03887,0.21,ci,ci40586808,2023-10-25T02:45:22.876Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.27,0.67,0.115,24,automatic,ci,ci
-2023-10-25T02:36:07.744Z,35.25688171,-97.98551178,3.364129305,1.81,ml,14,81.55709839,0.08325950801,1.203204266,ok,ok2023uwvo,2023-10-25T02:40:21.177Z,"7 km SSW of Minco, Oklahoma",earthquake,3.105268214,2.52283628,0.3,9,automatic,ok,ok
+2023-10-25T02:36:06.660Z,35.26283333,-98.019,7.36,1.47,ml,74,56,0.06478728652,0.34,ok,ok2023uwvo,2023-10-25T13:07:24.023Z,"8 km SW of Minco, Oklahoma",earthquake,,0.5,0.27,29,reviewed,ok,ok
 2023-10-25T02:35:07.310Z,37.2871667,-121.6541667,6.89,0.89,md,22,45,0.03194,0.06,nc,nc73951010,2023-10-25T04:36:11.276Z,"16 km E of Seven Trees, CA",earthquake,0.18,0.35,0.121,18,reviewed,nc,nc
 2023-10-25T02:14:28.740Z,33.7228333,-116.8168333,15.49,0.44,ml,14,88,0.08777,0.14,ci,ci40586792,2023-10-25T02:18:07.188Z,"8 km ESE of Valle Vista, CA",earthquake,0.45,0.79,0.092,9,automatic,ci,ci
 2023-10-25T02:10:34.000Z,19.3073329925537,-155.251495361328,29.1499996185303,1.79999995,md,36,154,,0.100000001,hv,hv73623047,2023-10-25T02:13:37.240Z,"15 km S of Volcano, Hawaii",earthquake,0.68,0.469999999,1.19000006,3,automatic,hv,hv
@@ -217,6 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T13:35:48.350Z,36.1385,-117.9218333,8.14,1.01,ml,19,86,0.04029,0.1,ci,ci40586048,2023-10-24T17:28:25.891Z,"11 km NNE of Coso Junction, CA",earthquake,0.19,0.34,0.071,5,reviewed,ci,ci
 2023-10-24T13:35:35.930Z,19.1634998321533,-155.481826782227,29.3899993896484,1.82000005,md,39,108,,0.109999999,hv,hv73622217,2023-10-24T13:38:43.710Z,"4 km S of Pāhala, Hawaii",earthquake,0.65,0.779999971,1.59000003,12,automatic,hv,hv
 2023-10-24T13:34:33.010Z,35.7788333,-117.5785,8.68,1.4,ml,26,65,0.1462,0.17,ci,ci40586040,2023-10-24T17:25:43.750Z,"16 km W of Searles Valley, CA",earthquake,0.25,0.71,0.177,11,reviewed,ci,ci
-2023-10-24T13:15:35.630Z,46.176,-122.19233333333334,9.79,0.39,ml,9,198,0.008356,0.05,uw,uw61959012,2023-10-24T17:46:42.050Z,"35 km NNE of Amboy, Washington",earthquake,1.99,0.87,0.19098089796561174,8,reviewed,uw,uw
-2023-10-24T13:11:40.740Z,38.7876663,-122.7336655,1.47,1.33,md,18,87,0.005028,0.03,nc,nc73950725,2023-10-24T14:23:11.897Z,"2 km ENE of The Geysers, CA",earthquake,0.28,0.44,0.07,19,automatic,nc,nc
-2023-10-24T13:06:40.460Z,38.831665,-122.8154984,1.63,0.25,md,8,140,0.009281,0.01,nc,nc73950720,2023-10-24T13:56:10.741Z,"8 km NW of The Geysers, CA",earthquake,0.46,1.14,0.11,8,automatic,nc,nc
