@@ -88,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T18:22:35.230Z,65.0809,-151.1488,12.9,1.2,ml,,,,0.52,ak,ak023dnhgo0z,2023-10-24T18:24:13.035Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-24T18:21:31.834Z,-23.9917,-67.3778,219.645,4,mb,16,105,1.27,0.56,us,us7000l61i,2023-10-24T22:01:24.040Z,"Chile-Argentina border region",earthquake,8.7,10.414,0.231,5,reviewed,us,us
 2023-10-24T18:20:05.750Z,36.8928333,-121.6203333,-0.12,1.49,md,23,75,0.02423,0.1,nc,nc73950830,2023-10-24T22:38:56.551Z,"2 km ENE of Aromas, CA",quarry blast,0.21,31.61,0.236,18,reviewed,nc,nc
-2023-10-24T18:09:53.890Z,37.8756667,-122.2541667,8.82,2.51,md,110,31,0.001485,0.07,nc,nc73950825,2023-10-25T02:18:29.421Z,"2 km ENE of Berkeley, CA",earthquake,0.09,0.14,0.126,101,reviewed,nc,nc
+2023-10-24T18:09:53.890Z,37.8756667,-122.2541667,8.82,2.51,md,110,31,0.001485,0.07,nc,nc73950825,2023-10-25T03:57:35.594Z,"2 km ENE of Berkeley, CA",earthquake,0.09,0.14,0.126,101,reviewed,nc,nc
 2023-10-24T18:02:45.917Z,33.5556,87.4205,10.018,4.6,mb,136,69,4.974,0.65,us,us7000l61c,2023-10-24T19:33:55.040Z,"western Xizang",earthquake,8.2,4.157,0.053,111,reviewed,us,us
 2023-10-24T18:00:36.580Z,38.7891667,-122.7678333,2.27,0.39,md,19,78,0.01308,0.02,nc,nc73950820,2023-10-24T23:32:11.134Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.35,0.27,13,reviewed,nc,nc
 2023-10-24T17:59:05.520Z,33.8446667,-117.4916667,-0.51,0.96,ml,28,57,0.0474,0.2,ci,ci40586360,2023-10-24T18:45:19.440Z,"5 km SE of Home Gardens, CA",quarry blast,0.39,31.61,0.023,8,reviewed,ci,ci
@@ -204,6 +204,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T06:19:17.430Z,31.519,-104.014,7.5841,2.3,ml(texnet),34,61,0,0.3,tx,tx2023uvhk,2023-10-24T10:48:48.184Z,"30 km NW of Toyah, Texas",earthquake,0.6188894268,0.5499824408,0.3,27,reviewed,tx,tx
 2023-10-24T06:13:12.160Z,38.6878333,-122.496,7.56,1.18,md,40,67,0.09403,0.06,nc,nc73950590,2023-10-24T23:25:10.933Z,"13 km SE of Middletown, CA",earthquake,0.12,0.42,0.213,33,reviewed,nc,nc
 2023-10-24T06:04:57.820Z,35.4788333333333,-91.6231666666667,6.51,2.24,md,7,169,0.2356,0.12,nm,nm60501223,2023-10-24T13:30:29.120Z,"7 km S of Pleasant Plains, Arkansas",earthquake,0.65,2.25,0.0758748545333456,6,reviewed,nm,nm
+2023-10-24T06:04:27.550Z,51.521,-178.86,9.55,1.41,ml,5,319,,0.13,av,av92093851,2023-10-25T04:00:49.540Z,"158 km WSW of Adak, Alaska",earthquake,4.94,1.01,0.424635646336608,5,reviewed,av,av
 2023-10-24T05:58:20.696Z,50.5879,-130.1581,10,4.5,mwr,48,146,1.291,0.64,us,us7000l5x9,2023-10-24T09:26:51.291Z,"Vancouver Island, Canada region",earthquake,6.31,1.943,0.045,47,reviewed,us,us
 2023-10-24T05:43:53.563Z,38.3527,-118.907,8.5,1.4,ml,15,64.43,0.332,0.197,nn,nn00867816,2023-10-24T16:40:41.360Z,"30 km ENE of Bridgeport, California",earthquake,,1.9,0.22,8,reviewed,nn,nn
 2023-10-24T05:37:05.650Z,19.1998329162598,-155.483993530273,32.5699996948242,2.93,ml,54,80,,0.109999999,hv,hv73621697,2023-10-24T06:05:15.242Z,"Island of Hawaii, Hawaii",earthquake,0.44,0.680000007,3.46,33,automatic,hv,hv
@@ -219,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T04:18:49.587Z,61.3076,-150.2323,54,1.1,ml,,,,0.32,ak,ak023dn93rsu,2023-10-24T04:21:42.081Z,"14 km WSW of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-24T04:14:46.545Z,61.0488,-148.3794,1.4,0.6,ml,,,,0.84,ak,ak023dn92wot,2023-10-24T04:17:22.376Z,"34 km NNE of Whittier, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-24T04:09:57.044Z,63.3797,-151.3405,0,1.6,ml,,,,0.57,ak,ak023dn91uxk,2023-10-24T04:12:03.901Z,"26 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-24T03:58:24.891Z,63.1742,-151.4419,0,1.1,ml,,,,0.92,ak,ak023dn8quxx,2023-10-24T04:01:09.127Z,"43 km SSE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-10-24T03:55:50.480Z,49.1625,-112.816333333333,23.17,2,ml,7,160,0.582,0.13,mb,mb90030728,2023-10-24T13:53:10.570Z,"Alberta, Canada",earthquake,2.44,3.2,0.33562739463366,5,reviewed,mb,mb
