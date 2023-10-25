@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T06:13:12.160Z,38.6878333,-122.496,7.56,1.18,md,40,67,0.09403,0.06,nc,nc73950590,2023-10-24T23:25:10.933Z,"13 km SE of Middletown, CA",earthquake,0.12,0.42,0.213,33,reviewed,nc,nc
 2023-10-24T06:04:57.820Z,35.4788333333333,-91.6231666666667,6.51,2.24,md,7,169,0.2356,0.12,nm,nm60501223,2023-10-24T13:30:29.120Z,"7 km S of Pleasant Plains, Arkansas",earthquake,0.65,2.25,0.0758748545333456,6,reviewed,nm,nm
 2023-10-24T06:04:27.550Z,51.521,-178.86,9.55,1.41,ml,5,319,,0.13,av,av92093851,2023-10-25T04:00:49.540Z,"158 km WSW of Adak, Alaska",earthquake,4.94,1.01,0.424635646336608,5,reviewed,av,av
-2023-10-24T05:58:20.696Z,50.5879,-130.1581,10,4.5,mwr,48,146,1.291,0.64,us,us7000l5x9,2023-10-25T04:31:40.550Z,"Vancouver Island, Canada region",earthquake,6.31,1.943,0.045,47,reviewed,us,us
