@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-01T04:30:50.560Z,36.0208321,-120.5803299,4.25,2.45,md,42,43,,0.06,nc,nc73954455,2023-11-01T04:37:13.839Z,"19 km NW of Parkfield, CA",earthquake,0.18,0.28,0.13,47,automatic,nc,nc
+2023-11-01T04:26:27.280Z,33.7708333,-116.9385,15.09,0.57,ml,10,90,0.08168,0.21,ci,ci40593432,2023-11-01T04:29:57.100Z,"2 km SE of San Jacinto, CA",earthquake,0.75,1.19,0.117,10,automatic,ci,ci
 2023-11-01T03:55:23.720Z,33.7656667,-116.9385,14.31,1.11,ml,37,41,0.04881,0.2,ci,ci40593424,2023-11-01T03:58:58.406Z,"3 km SE of San Jacinto, CA",earthquake,0.25,0.51,0.147,26,automatic,ci,ci
 2023-11-01T03:53:15.135Z,38.1538,-116.5016,3.3,1.6,ml,22,176.56,0.573,0.2951,nn,nn00868244,2023-11-01T03:55:55.153Z,"Nevada",earthquake,,2.1,0.25,20,automatic,nn,nn
 2023-11-01T03:52:15.100Z,33.0365,-116.4461667,7.55,0.64,ml,18,139,0.07108,0.19,ci,ci40593416,2023-11-01T03:55:52.455Z,"15 km ESE of Julian, CA",earthquake,0.39,1.07,0.149,6,automatic,ci,ci
@@ -20,7 +22,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T02:06:54.270Z,31.64,-104.176,4.2768,1.8,ml(texnet),20,63,0.1,0.2,tx,tx2023vjpd,2023-11-01T02:30:36.026Z,"51 km NW of Toyah, Texas",earthquake,0,1.329432708,0.2,16,automatic,tx,tx
 2023-11-01T02:06:24.663Z,31.559,-104.159,2.1107,1.7,ml(texnet),7,188,0,0.5,tx,tx2023vjpc,2023-11-01T02:30:25.035Z,"44 km NW of Toyah, Texas",earthquake,0,2.115631883,0.5,7,automatic,tx,tx
 2023-11-01T02:00:32.862Z,39.182,-120.4967,0,1.4,ml,8,193.07,0.373,0.2192,nn,nn00868241,2023-11-01T02:02:53.435Z,"16 km SSW of Kingvale, California",earthquake,,47.8,0.5,5,automatic,nn,nn
-2023-11-01T01:53:40.159Z,58.7797,-153.6019,31.1,1.8,ml,,,,0.4,ak,ak023e0ftq9r,2023-11-01T01:55:54.028Z,"Kodiak Island region, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-01T01:41:05.963Z,59.8086,-153.4803,119.4,2,ml,,,,0.4,ak,ak023e0fr31g,2023-11-01T01:43:48.486Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-01T01:38:00.031Z,61.6011,-149.8586,27.2,2.3,ml,,,,0.68,ak,ak023e0fqcc6,2023-11-01T01:39:23.798Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-01T01:32:02.007Z,60.9119,-150.305,45.7,1.6,ml,,,,0.49,ak,ak023e0fp5ag,2023-11-01T01:34:06.463Z,"20 km E of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -88,6 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T19:56:12.032Z,37.4135,74.6922,10.149,4.4,mb,80,32,3.067,1.1,us,us7000l7ws,2023-10-31T21:42:23.040Z,"105 km SE of Murghob, Tajikistan",earthquake,5.82,3.576,0.067,69,reviewed,us,us
 2023-10-31T19:54:26.794Z,37.4506,74.7123,12.37,4.2,mb,21,85,3.053,0.96,us,us7000l7wr,2023-10-31T20:48:27.040Z,"103 km SE of Murghob, Tajikistan",earthquake,4.38,5.869,0.176,9,reviewed,us,us
 2023-10-31T19:50:58.854Z,59.5775,-152.7401,27,1.6,ml,,,,1.6,ak,ak023dz2zkyl,2023-10-31T19:52:58.146Z,"52 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-10-31T19:35:51.889Z,39.5389,-119.456,14.9,1.3,ml,5,213.13,0.18,0.0306,nn,nn00868252,2023-11-01T04:32:30.749Z,"18 km SW of Wadsworth, Nevada",earthquake,,3.3,0.24,4,reviewed,nn,nn
 2023-10-31T19:32:42.940Z,45.30716666666667,-121.65783333333333,6.68,0.3,ml,6,236,0.01586,0.11,uw,uw61960707,2023-10-31T23:44:14.920Z,"7 km NE of Wapanitia, Oregon",earthquake,1.14,0.7,0.027517786396566102,3,reviewed,uw,uw
 2023-10-31T19:27:54.122Z,31.654,-104.375,3.7015,1.6,mlv,19,71,0,0.5,tx,tx2023vjbz,2023-10-31T20:24:50.929Z,"57 km S of Whites City, New Mexico",earthquake,0,1.264552851,0.2,15,automatic,tx,tx
 2023-10-31T19:16:55.112Z,39.3593,-119.7272,0.5,1.4,ml,15,61.79,0.042,0.1316,nn,nn00868217,2023-10-31T23:07:30.286Z,"8 km NW of Virginia City, Nevada",earthquake,,2.4,0.13,7,reviewed,nn,nn
@@ -159,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T11:09:03.388Z,51.8962,176.8999,89,3.1,ml,,,,0.59,ak,ak023dyxz8ce,2023-10-31T16:52:54.477Z,"274 km ESE of Attu Station, Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-10-31T10:57:34.730Z,19.1544990539551,-155.374160766602,30.8700008392334,1.80999994,md,39,189,,0.100000001,hv,hv73634077,2023-10-31T11:00:47.860Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.61,0.860000014,1.80999994,4,automatic,hv,hv
 2023-10-31T10:48:48.610Z,47.835,-115.284833333333,4.99,1,ml,8,188,0.3031,0.08,mb,mb90031423,2023-10-31T15:48:26.910Z,"Idaho-Montana border region",earthquake,0.55,7.41,0.274594704829924,3,reviewed,mb,mb
-2023-10-31T10:16:56.020Z,39.4316673,-123.2884979,2.12,1.86,md,16,83,0.05315,0.04,nc,nc73954090,2023-10-31T12:44:10.796Z,"6 km ENE of Willits, CA",earthquake,0.24,1.05,0.11,12,automatic,nc,nc
+2023-10-31T10:16:56.020Z,39.4316673,-123.2884979,2.12,1.86,md,16,83,0.05315,0.04,nc,nc73954090,2023-11-01T04:29:24.949Z,"6 km ENE of Willits, CA",earthquake,0.24,1.05,0.11,12,automatic,nc,nc
 2023-10-31T10:15:04.956Z,56.4815,-168.3183,5.5,3.6,ml,,,,0.59,ak,ak023dyxf2nl,2023-10-31T16:53:06.519Z,"76 km E of Saint George, Alaska",earthquake,,2.5,,,reviewed,ak,ak
 2023-10-31T09:59:46.290Z,38.7900009,-122.760498,1.64,1.32,md,21,65,0.01063,0.03,nc,nc73954080,2023-10-31T11:51:12.489Z,"2 km NNW of The Geysers, CA",earthquake,0.23,0.35,0.08,22,automatic,nc,nc
 2023-10-31T09:58:36.592Z,58.213,-155.5503,18.5,0.7,ml,,,,0.69,ak,ak023dyx2wx7,2023-10-31T10:00:03.111Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
@@ -208,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T04:47:16.970Z,39.4324989,-123.2891693,2.51,2.03,md,17,84,0.0522,0.05,nc,nc73954000,2023-10-31T05:12:13.100Z,"6 km ENE of Willits, CA",earthquake,0.25,1.17,0.1,15,automatic,nc,nc
 2023-10-31T04:45:28.470Z,45.29816666666667,-121.65866666666666,6.4,0.22,ml,6,243,0.02471,0.08,uw,uw61960542,2023-10-31T18:50:59.630Z,"6 km NE of Wapanitia, Oregon",earthquake,1.14,0.53,0.1898983644331152,2,reviewed,uw,uw
 2023-10-31T04:38:45.180Z,33.358,-116.3808333,10.72,1.11,ml,55,54,0.03323,0.21,ci,ci40592376,2023-10-31T17:24:28.472Z,"11 km N of Borrego Springs, CA",earthquake,0.21,0.45,0.11,19,reviewed,ci,ci
-2023-10-31T04:35:04.800Z,45.300666666666665,-121.653,6.67,0.51,ml,8,182,0.02165,0.05,uw,uw61960537,2023-10-31T18:40:31.250Z,"7 km NE of Wapanitia, Oregon",earthquake,0.62,0.52,0.13140299490537544,4,reviewed,uw,uw
