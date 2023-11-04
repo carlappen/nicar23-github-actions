@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T23:40:43.376Z,31.669,-104.19,4.3412,1.7,ml(texnet),19,105,0.1,0.2,tx,tx2023vowu,2023-11-04T00:04:23.085Z,"54 km NW of Toyah, Texas",earthquake,0,1.404898948,0.2,14,automatic,tx,tx
 2023-11-03T23:34:20.270Z,38.7808342,-122.7453308,-0.16,0.96,md,8,110,0.007141,0.02,nc,nc73955720,2023-11-03T23:51:10.652Z,"1 km ENE of The Geysers, CA",earthquake,0.34,0.48,0.14,7,automatic,nc,nc
 2023-11-03T23:32:08.540Z,38.8183327,-122.8136673,2.71,1.1,md,25,52,0.005782,0.02,nc,nc73955715,2023-11-04T02:54:10.685Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.4,0.15,28,automatic,nc,nc
-2023-11-03T23:31:52.210Z,19.8828333333333,-156.69,41.22,3.9,ml,59,212,,0.18,hv,hv73638622,2023-11-04T01:57:48.332Z,"76 km WNW of Kalaoa, Hawaii",earthquake,0.59,1.45,0.166357229729158,48,reviewed,hv,hv
+2023-11-03T23:31:52.210Z,19.8828333333333,-156.69,41.22,3.9,ml,59,212,,0.18,hv,hv73638622,2023-11-04T05:36:48.865Z,"76 km WNW of Kalaoa, Hawaii",earthquake,0.59,1.45,0.166357229729158,48,reviewed,hv,hv
 2023-11-03T23:31:16.890Z,33.1493333,-116.6725,17.47,1.03,ml,42,58,0.054,0.15,ci,ci39706834,2023-11-04T00:59:14.609Z,"10 km NW of Julian, CA",earthquake,0.2,0.46,0.183,25,reviewed,ci,ci
 2023-11-03T23:22:02.453Z,64.8286,-149.8039,32.2,1,ml,,,,0.2,ak,ak023e43t8gl,2023-11-03T23:23:25.134Z,"41 km NW of Four Mile Road, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-11-03T23:21:56.580Z,46.196333333333335,-122.19033333333333,5.33,0.1,ml,10,91,0.02318,0.17,uw,uw61961342,2023-11-04T02:42:08.480Z,"Mount St. Helens area, Washington",earthquake,0.48,0.77,0.1418139716998911,5,reviewed,uw,uw
@@ -265,5 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T05:48:30.370Z,44.399,-110.6081667,4.55,1.69,ml,17,57,0.02324,0.18,uu,uu60553492,2023-11-03T14:24:50.420Z,"49 km SE of West Yellowstone, Montana",earthquake,0.38,0.46,0.23,5,reviewed,uu,uu
 2023-11-03T05:47:37.180Z,19.4648333333333,-155.602333333333,11.77,0.81,md,17,84,,0.11,hv,hv73637672,2023-11-03T21:14:27.780Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.46,0.5,0.0979909726932622,11,reviewed,hv,hv
 2023-11-03T05:45:18.240Z,58.1735,-155.377666666667,2.12,0.2,ml,11,71,,0.07,av,av92105251,2023-11-04T00:43:06.300Z,"86 km NW of Karluk, Alaska",earthquake,0.19,0.39,0.205564187249103,12,reviewed,av,av
-2023-11-03T05:40:15.830Z,19.463,-155.604,10.12,1.08,md,22,86,,0.2,hv,hv73637667,2023-11-03T21:08:57.060Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.45,0.62,0.290622743279491,12,reviewed,hv,hv
-2023-11-03T05:33:49.020Z,19.4548333333333,-155.604666666667,4.26,0.59,md,18,89,,0.14,hv,hv73637662,2023-11-03T07:11:31.660Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.3,0.56,0.204165654307333,10,reviewed,hv,hv
