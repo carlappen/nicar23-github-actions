@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-04T06:58:36.290Z,35.6489983,-117.4648361,7.33,1.27,ml,17,103,0.03715,0.12,ci,ci39707106,2023-11-04T07:02:14.081Z,"14 km SSW of Searles Valley, CA",earthquake,0.41,0.65,0.173,3,automatic,ci,ci
 2023-11-04T06:47:53.213Z,61.3648,-146.0996,27,1.6,ml,,,,0.69,ak,ak023e5hdohl,2023-11-04T06:49:34.324Z,"29 km NNE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-04T06:40:58.769Z,59.7778,-153.0698,101.2,2.3,ml,,,,0.26,ak,ak023e5hc6u0,2023-11-04T06:47:52.040Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-04T06:29:24.507Z,64.6205,-146.5083,18.2,1.1,ml,,,,0.53,ak,ak023e5h9rec,2023-11-04T06:32:24.848Z,"21 km ENE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T04:58:46.951Z,62.278,-149.65,59.2,1.1,ml,,,,0.49,ak,ak023e5g95kj,2023-11-04T05:01:03.091Z,"16 km NE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-04T04:48:54.550Z,38.8098335,-122.821167,1.93,0.79,md,14,60,0.006333,0.02,nc,nc73955815,2023-11-04T06:41:16.964Z,"7 km WNW of The Geysers, CA",earthquake,0.26,0.58,0.19,14,automatic,nc,nc
 2023-11-04T04:25:21.670Z,38.8313332,-122.8168335,1.64,0.94,md,14,51,0.009524,0.01,nc,nc73955810,2023-11-04T06:11:18.783Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.57,0.23,15,automatic,nc,nc
-2023-11-04T04:13:15.280Z,38.8160019,-122.8191681,2.55,1.53,md,28,50,0.01025,0.02,nc,nc73955805,2023-11-04T05:46:13.649Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.15,28,automatic,nc,nc
+2023-11-04T04:13:15.280Z,38.8160019,-122.8191681,2.55,1.53,md,28,50,0.01025,0.02,nc,nc73955805,2023-11-04T07:01:10.102Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.15,28,automatic,nc,nc
 2023-11-04T04:08:39.950Z,31.659,-104.397,4.5476,1.5,ml(texnet),19,71,0,0.3,tx,tx2023vpfq,2023-11-04T04:38:50.452Z,"western Texas",earthquake,0,1.336476714,0.1,15,automatic,tx,tx
 2023-11-04T04:04:33.540Z,58.9952,-136.3334,0,1.7,ml,,,,0.36,ak,ak023e5fxjyy,2023-11-04T04:06:31.880Z,"Southeastern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-11-04T03:59:18.360Z,32.8718333,-115.4936667,7.67,1.29,ml,10,163,0.04953,0.26,ci,ci39706954,2023-11-04T04:02:52.112Z,"8 km ENE of Imperial, CA",earthquake,1.23,1,0.14,12,automatic,ci,ci
@@ -257,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T07:09:07.430Z,19.459,-155.592833333333,5.1,0.85,md,13,74,,0.14,hv,hv73637752,2023-11-03T07:40:33.680Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.36,0.62,0.0508190579869138,5,reviewed,hv,hv
 2023-11-03T07:07:06.570Z,38.7856674,-122.7353363,1.62,0.91,md,9,106,0.002658,0.02,nc,nc73955405,2023-11-03T09:43:12.593Z,"2 km ENE of The Geysers, CA",earthquake,0.3,1.08,0.29,10,automatic,nc,nc
 2023-11-03T07:05:31.490Z,33.764,-116.9353333,14.18,0.46,ml,21,92,0.07732,0.12,ci,ci39706122,2023-11-03T16:25:35.589Z,"3 km SE of San Jacinto, CA",earthquake,0.22,0.52,0.053,6,reviewed,ci,ci
-2023-11-03T06:58:28.260Z,19.4641666666667,-155.612666666667,8.16,0.72,md,9,134,,0.14,hv,hv73637742,2023-11-03T07:16:44.180Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.53,0.81,0.247984533190353,3,reviewed,hv,hv
