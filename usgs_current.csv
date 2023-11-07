@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-07T11:02:22.200Z,38.8364983,-122.8176651,2.23,0.48,md,8,92,0.01407,0.01,nc,nc73957250,2023-11-07T11:03:58.827Z,"8 km W of Cobb, CA",earthquake,0.35,1.21,0.21,7,automatic,nc,nc
+2023-11-07T10:59:27.530Z,19.1496658325195,-155.481506347656,32.5499992370605,2.3599999,md,38,169,,0.100000001,hv,hv73640852,2023-11-07T11:02:47.160Z,"5 km S of Pāhala, Hawaii",earthquake,0.56,0.699999988,0.550000012,17,automatic,hv,hv
 2023-11-07T10:43:55.297Z,61.1248,-147.3309,24.5,1.5,ml,,,,0.29,ak,ak023eaiclop,2023-11-07T10:45:04.960Z,"45 km NW of Tatitlek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-11-07T10:14:03.399Z,60.5404,-150.2967,42,1.4,ml,,,,0.51,ak,ak023eai69wz,2023-11-07T10:16:51.815Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-07T10:02:52.640Z,17.9946666666667,-66.8113333333333,15.73,2.64,md,22,162,0.03146,0.21,pr,pr71431018,2023-11-07T10:40:45.140Z,"0 km E of Indios, Puerto Rico",earthquake,0.42,0.71,0.146219341118123,9,reviewed,pr,pr
@@ -93,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T00:28:34.150Z,38.8301659,-122.7904968,1.92,1.3,md,23,47,0.008232,0.02,nc,nc73957060,2023-11-07T03:07:10.516Z,"6 km W of Cobb, CA",earthquake,0.19,0.37,0.15,23,automatic,nc,nc
 2023-11-07T00:14:04.790Z,18.0335,-68.2913,69,3.77,md,11,234,0.8847,0.34,pr,pr2023311000,2023-11-07T00:47:59.040Z,"Mona Passage",earthquake,3.06,4.58,0.06,7,reviewed,pr,pr
 2023-11-07T00:02:12.604Z,7.2862,91.6556,10,4.5,mb,46,101,5.643,0.67,us,us7000l995,2023-11-07T00:20:11.040Z,"Nicobar Islands, India region",earthquake,8.89,1.887,0.096,32,reviewed,us,us
-2023-11-06T23:53:13.605Z,31.656,-104.311,4.0946,1.5,ml(texnet),18,68,0,0.2,tx,tx2023vujr,2023-11-07T00:36:05.087Z,"57 km S of Whites City, New Mexico",earthquake,0,1.253284526,0.2,14,automatic,tx,tx
+2023-11-06T23:53:13.493Z,31.662,-104.311,6.183,1.5,ml(texnet),23,68,0,0.2,tx,tx2023vujr,2023-11-07T11:08:34.528Z,"57 km S of Whites City, New Mexico",earthquake,0.7250868601,0.7635820304,0.2,18,reviewed,tx,tx
 2023-11-06T23:44:13.262Z,31.662,-104.306,6.3886,2.8,ml(texnet),22,58,0,0.2,tx,tx2023vujk,2023-11-07T00:09:40.411Z,"western Texas",earthquake,0.7050250391,1.001934184,0.1,12,reviewed,tx,tx
 2023-11-06T23:42:28.110Z,38.8149986,-122.8235016,1.96,1.49,md,25,56,0.007559,0.05,nc,nc73957040,2023-11-07T02:16:11.098Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.36,0.2,25,automatic,nc,nc
 2023-11-06T23:30:01.350Z,46.92166666666667,-120.5445,-0.89,1.48,ml,8,99,0.01992,0.9,uw,uw61970851,2023-11-07T06:10:24.920Z,"8 km S of Ellensburg, Washington",earthquake,1.77,5.54,0.033988838392889686,6,reviewed,uw,uw
@@ -209,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T11:32:28.550Z,33.9431667,-117.9243333,7.01,1.12,ml,24,108,0.002275,0.23,ci,ci39709138,2023-11-06T18:58:19.160Z,"2 km ENE of La Habra, CA",earthquake,0.31,0.49,0.125,16,reviewed,ci,ci
 2023-11-06T11:30:52.740Z,18.0745,-66.9528333333333,10.83,2.38,md,4,203,0.1212,0.23,pr,pr71430893,2023-11-06T11:47:29.480Z,"0 km ESE of Sabana Grande, Puerto Rico",earthquake,4.95,9.43,0.075688949255571,3,reviewed,pr,pr
 2023-11-06T11:27:57.586Z,58.6802,-153.8479,1.6,1.7,ml,,,,0.31,ak,ak023e8vbcwz,2023-11-06T11:30:31.376Z,"Kodiak Island region, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-11-06T11:06:46.220Z,38.828167,-122.8001633,1.89,0.71,md,10,61,0.00909,0.01,nc,nc73956800,2023-11-06T13:58:14.602Z,"7 km W of Cobb, CA",earthquake,0.3,1.24,0.23,12,automatic,nc,nc
