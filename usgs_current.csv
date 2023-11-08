@@ -148,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T10:31:04.244Z,31.636,-103.977,18.5695,3.4,ml(texnet),9,88,0,0.8,tx,tx2023vxak,2023-11-08T18:16:41.262Z,"36 km WSW of Mentone, Texas",earthquake,0,4.868939668,0.1,7,automatic,tx,tx
 2023-11-08T10:30:06.871Z,31.613,-103.994,7.5841,3.2,ml(texnet),15,58,0,0.1,tx,tx2023vxai,2023-11-08T16:38:13.430Z,"38 km NNW of Toyah, Texas",earthquake,0.4682446831,0.6219120053,0.2,13,reviewed,tx,tx
 2023-11-08T10:29:41.440Z,33.8011667,-116.2021667,8.73,1.22,ml,43,74,0.0167,0.14,ci,ci39710298,2023-11-08T17:59:34.950Z,"9 km N of Indio, CA",earthquake,0.19,0.35,0.143,23,reviewed,ci,ci
-2023-11-08T10:27:49.034Z,31.622,-103.982,7.417,5.2,ml(texnet),31,52,0,0.2,tx,tx2023vxae,2023-11-08T20:15:29.373Z,"Coalson Draw, Texas",earthquake,0.6306655439,0.8419580201,0.2,41,reviewed,tx,tx
+2023-11-08T10:27:49.034Z,31.622,-103.982,7.417,5.2,ml(texnet),31,52,0,0.2,tx,tx2023vxae,2023-11-08T20:20:37.557Z,"Coalson Draw, Texas",earthquake,0.6306655439,0.8419580201,0.2,41,reviewed,tx,tx
 2023-11-08T10:27:24.722Z,31.626,-104.517,7.1856,0.4,ml(texnet),6,276,0,0.1,tx,tx2023vxad,2023-11-08T16:53:53.560Z,"62 km SSW of Whites City, New Mexico",earthquake,2.020156741,1.552113787,0.1,6,reviewed,tx,tx
 2023-11-08T10:23:52.340Z,19.2544994354248,-155.404663085938,30.3500003814697,2.2,ml,45,126,,0.119999997,hv,hv73641452,2023-11-08T10:29:22.780Z,"9 km NE of Pāhala, Hawaii",earthquake,0.46,0.610000014,0.17,3,automatic,hv,hv
 2023-11-08T10:02:02.233Z,63.0999,-150.885,131.1,2.4,ml,,,,0.3,ak,ak023ec5n1ql,2023-11-08T10:17:31.040Z,"64 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -225,7 +225,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T01:07:02.860Z,19.1878337860107,-155.365829467773,29.0499992370605,1.78999996,md,21,230,,0.129999995,hv,hv73641232,2023-11-08T01:10:03.240Z,"11 km E of Pāhala, Hawaii",earthquake,1.47,0.800000012,0.889999986,3,automatic,hv,hv
 2023-11-08T01:03:22.487Z,61.2133,-149.6259,28.1,2.1,ml,,,,0.78,ak,ak023ec0aek8,2023-11-08T01:06:35.172Z,"4 km S of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-08T00:54:05.050Z,36.5685005,-121.1320038,7.9,1.25,md,7,133,0.07508,0.03,nc,nc73957535,2023-11-08T04:10:13.337Z,"4 km NNE of Pinnacles, CA",earthquake,1.02,2.85,0.22,7,automatic,nc,nc
-2023-11-08T00:50:53.710Z,44.9601666666667,-112.799166666667,3.2,1.8,ml,12,131,0.1371,0.17,mb,mb90032338,2023-11-08T17:02:29.790Z,"Idaho-Montana border region",earthquake,0.6,1.28,0.194734259800188,15,reviewed,mb,mb
+2023-11-08T00:50:53.710Z,44.9601666666667,-112.799166666667,3.2,1.8,ml,12,131,0.1371,0.17,mb,mb90032338,2023-11-08T17:02:29.790Z,"31 km SSW of Dillon, Montana",earthquake,0.6,1.28,0.194734259800188,15,reviewed,mb,mb
 2023-11-08T00:38:29.930Z,37.314167,-121.6784973,7.32,1.91,md,36,39,0.03965,0.06,nc,nc73957530,2023-11-08T03:43:12.709Z,"14 km ESE of Alum Rock, CA",earthquake,0.15,0.37,0.18,28,automatic,nc,nc
 2023-11-08T00:37:04.950Z,38.8436661,-122.8276672,2.07,0.76,md,12,146,0.007937,0.01,nc,nc73957525,2023-11-08T03:16:13.540Z,"9 km WNW of Cobb, CA",earthquake,0.45,1.01,0.18,14,automatic,nc,nc
 2023-11-08T00:35:03.124Z,63.1916,-151.3458,0,1.9,ml,,,,0.84,ak,ak023ebzvsdk,2023-11-08T00:37:36.169Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -257,6 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T20:36:52.940Z,38.8134995,-122.829834,2.5,0.75,md,12,73,0.004653,0.03,nc,nc73957390,2023-11-07T22:56:11.219Z,"8 km WNW of The Geysers, CA",earthquake,0.34,0.74,0.21,13,automatic,nc,nc
 2023-11-07T20:35:07.213Z,64.9952,-147.4082,1.5,1.6,ml,,,,0.48,ak,ak023eao94ap,2023-11-07T20:37:44.294Z,"10 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-07T20:30:57.980Z,38.7944984,-122.80867,3.66,1.14,md,25,76,0.007559,0.04,nc,nc73957385,2023-11-07T22:33:09.963Z,"5 km WNW of The Geysers, CA",earthquake,0.29,0.46,0.27,25,automatic,nc,nc
-2023-11-07T20:26:06.840Z,38.7871666,-122.7490005,2.67,0.84,md,12,82,0.01037,0.02,nc,nc73957380,2023-11-07T21:53:11.720Z,"1 km NNE of The Geysers, CA",earthquake,0.32,1.08,0.21,11,automatic,nc,nc
-2023-11-07T20:25:47.660Z,46.006,-112.461833333333,-2,0.79,ml,3,197,0.06627,0.03,mb,mb90032333,2023-11-08T16:54:05.800Z,"5 km E of Butte, Montana",quarry blast,0.74,31.61,0.208635285790203,3,reviewed,mb,mb
-2023-11-07T20:22:55.455Z,61.8205,-150.603,39,1.6,ml,,,,0.17,ak,ak023eao6fpl,2023-11-07T20:24:21.403Z,"Southern Alaska",earthquake,,2.5,,,automatic,ak,ak
