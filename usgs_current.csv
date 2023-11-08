@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-08T08:58:38.661Z,60.8964,-149.0124,21.3,2.3,ml,,,,0.47,ak,ak023ec4s9fe,2023-11-08T09:00:39.785Z,"9 km ESE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-11-08T09:13:46.081Z,62.2065,-150.1481,12,1.7,ml,,,,0.56,ak,ak023ec542ds,2023-11-08T09:15:18.043Z,"13 km SSE of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-11-08T08:58:38.661Z,60.8964,-149.0124,21.3,2.3,ml,,,,0.47,ak,ak023ec4s9fe,2023-11-08T09:07:58.688Z,"9 km ESE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-08T08:44:34.350Z,35.9281654,-117.770668,7.97,1.04,ml,21,113,0.04364,0.22,ci,ci39710274,2023-11-08T08:50:33.027Z,"12 km E of Little Lake, CA",earthquake,0.41,0.81,0.379,3,automatic,ci,ci
 2023-11-08T08:30:48.400Z,38.5569992,-119.5111694,6.54,2.68,md,20,122,0.345,0.21,nc,nc73957675,2023-11-08T08:37:14.156Z,"5 km NNW of Walker, CA",earthquake,0.57,1.66,0.12,6,automatic,nc,nc
 2023-11-08T08:16:29.815Z,44.9541,149.7553,68.336,5.6,mb,104,124,5.188,1.02,us,us7000l9ip,2023-11-08T08:40:31.920Z,"150 km ESE of Kuril’sk, Russia",earthquake,9.11,6.757,0.021,822,reviewed,us,us
@@ -193,6 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T09:24:46.760Z,38.7873344,-122.7346649,1.73,0.85,md,9,137,0.02365,0.02,nc,nc73957210,2023-11-07T12:06:10.415Z,"2 km ENE of The Geysers, CA",earthquake,0.32,0.79,0.15,8,automatic,nc,nc
 2023-11-07T09:23:34.300Z,19.261999130249,-155.415161132812,29.9300003051758,1.91999996,md,35,180,,0.119999997,hv,hv73640777,2023-11-07T09:26:46.890Z,"9 km NE of Pāhala, Hawaii",earthquake,0.6,0.680000007,0.569999993,15,automatic,hv,hv
 2023-11-07T09:21:06.850Z,17.934,-66.868,10.04,2.46,md,17,216,0.04221,0.13,pr,pr71431003,2023-11-07T09:31:52.400Z,"Puerto Rico region",earthquake,0.5,0.42,0.181977155176196,5,reviewed,pr,pr
-2023-11-07T09:16:17.568Z,63.0241,-148.7182,56.9,1.4,ml,,,,0.85,ak,ak023eahlau4,2023-11-07T09:18:05.062Z,"42 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-07T09:07:03.854Z,6.8122,95.2344,197.883,4.7,mb,67,44,5.354,0.91,us,us7000l9ba,2023-11-07T09:23:53.040Z,"102 km N of Sabang, Indonesia",earthquake,9.07,7.25,0.059,87,reviewed,us,us
-2023-11-07T09:04:40.711Z,-21.1327,-68.9756,115.511,4.8,mb,48,39,0.486,1.4,us,us7000l9b9,2023-11-07T09:51:53.050Z,"75 km W of Ollagüe, Chile",earthquake,5.48,5.945,0.052,117,reviewed,us,us
