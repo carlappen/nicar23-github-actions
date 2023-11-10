@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-10T07:08:26.290Z,38.5456657,-119.5656662,4.68,2.56,md,8,100,0.05391,0.18,nc,nc73960796,2023-11-10T07:10:46.328Z,"8 km WNW of Walker, CA",earthquake,0.9,6.83,0.13,6,automatic,nc,nc
+2023-11-10T07:09:41.427Z,62.2108,-151.0427,70.3,1.2,ml,,,,0.7,ak,ak023efez0yk,2023-11-10T07:19:13.089Z,"30 km NE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-11-10T07:08:26.290Z,38.5456657,-119.5656662,4.68,2.56,md,8,100,0.05391,0.18,nc,nc73960796,2023-11-10T07:16:10.904Z,"8 km WNW of Walker, CA",earthquake,0.9,6.83,0.13,6,automatic,nc,nc
 2023-11-10T07:07:20.757Z,62.0317,-145.2018,15.4,2.1,ml,,,,0.54,ak,ak023efeyjwr,2023-11-10T07:09:05.390Z,"7 km ENE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-10T06:57:08.545Z,62.2318,-151.1227,65.4,2.4,ml,,,,0.56,ak,ak023efent56,2023-11-10T06:59:05.755Z,"30 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-10T06:50:17.260Z,19.3803329467773,-155.276840209961,0.610000014305115,1.88,md,8,160,,0.109999999,hv,hv73642657,2023-11-10T06:53:12.890Z,"8 km SSW of Volcano, Hawaii",earthquake,0.32,0.349999994,1.47000003,6,automatic,hv,hv
@@ -225,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T07:40:40.399Z,31.642,-104,8.2456,1.6,ml(texnet),14,88,0,0.8,tx,tx2023vyqe,2023-11-09T08:26:10.548Z,"38 km W of Mentone, Texas",earthquake,0,2.198850991,0.2,12,automatic,tx,tx
 2023-11-09T07:36:08.452Z,-6.4253,129.5507,10,4.3,mb,18,86,1.923,0.71,us,us7000l9sz,2023-11-09T09:19:15.040Z,"Banda Sea",earthquake,9.78,1.93,0.147,15,reviewed,us,us
 2023-11-09T07:27:52.100Z,31.593,-103.98,4.7695,1.5,ml(texnet),11,67,0.1,0.2,tx,tx2023vypu,2023-11-09T08:16:41.250Z,"western Texas",earthquake,0,1.446292359,0.2,9,automatic,tx,tx
-2023-11-09T07:12:25.500Z,47.9383333333333,-114.021666666667,5.06,1.26,ml,12,198,0.2601,0.07,mb,mb90032413,2023-11-09T14:24:18.990Z,"2 km NNE of Bear Dance, Montana",earthquake,0.79,5.89,0.341456121393285,6,reviewed,mb,mb
-2023-11-09T07:12:07.790Z,33.8933333,-116.2318333,6.9,1.81,ml,65,48,0.0582,0.13,ci,ci39710666,2023-11-09T14:16:48.190Z,"17 km ENE of Thousand Palms, CA",earthquake,0.1,0.28,0.22,26,reviewed,ci,ci
