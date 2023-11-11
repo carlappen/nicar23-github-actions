@@ -1,7 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-11T16:21:51.700Z,19.3958339691162,-155.271667480469,0.379999995231628,2.56999993,md,13,84,,0.209999993,hv,hv73644212,2023-11-11T16:25:02.650Z,"6 km SW of Volcano, Hawaii",earthquake,0.34,0.600000024,0.430000007,5,automatic,hv,hv
-2023-11-11T16:12:43.680Z,38.828167,-122.8198318,0.38,1.1,md,13,63,0.008989,0.05,nc,nc73961626,2023-11-11T16:14:19.062Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.54,0.22,13,automatic,nc,nc
+2023-11-11T16:24:06.750Z,33.4858333,-116.7575,6.48,0.55,ml,24,76,0.04453,0.11,ci,ci39711714,2023-11-11T16:30:22.690Z,"11 km SW of Anza, CA",earthquake,0.2,0.32,0.086,13,automatic,ci,ci
+2023-11-11T16:21:51.700Z,19.3958339691162,-155.271667480469,0.379999995231628,2.55,ml,13,84,,0.209999993,hv,hv73644212,2023-11-11T16:27:21.100Z,"6 km SW of Volcano, Hawaii",earthquake,0.34,0.600000024,0.25,4,automatic,hv,hv
+2023-11-11T16:18:44.029Z,31.64,-104.009,5.5971,1.6,ml(texnet),14,43,0,0.2,tx,tx2023wcyi,2023-11-11T16:33:04.138Z,"39 km W of Mentone, Texas",earthquake,0,2.90369311,0.2,12,automatic,tx,tx
+2023-11-11T16:17:31.862Z,31.64,-104.008,4.6855,2.2,ml(texnet),15,43,0,0.2,tx,tx2023wcyh,2023-11-11T16:32:56.903Z,"39 km W of Mentone, Texas",earthquake,0,1.294830411,0.2,13,automatic,tx,tx
+2023-11-11T16:16:56.302Z,31.646,-104.051,7.0966,1.7,ml(texnet),6,148,0.1,0.7,tx,tx2023wcyg,2023-11-11T16:32:49.812Z,"43 km W of Mentone, Texas",earthquake,0,5.154128499,0.3,6,automatic,tx,tx
+2023-11-11T16:12:43.680Z,38.828167,-122.8198318,0.38,1.1,md,13,63,0.008989,0.05,nc,nc73961626,2023-11-11T16:27:11.528Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.54,0.22,13,automatic,nc,nc
 2023-11-11T16:12:38.900Z,38.8284988,-122.819664,1.63,1.46,md,16,62,0.00906,0.01,nc,nc73961621,2023-11-11T16:23:10.510Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.47,0.11,16,automatic,nc,nc
+2023-11-11T16:11:22.739Z,31.566,-103.999,4.931,1.8,ml(texnet),9,192,0.1,0.8,tx,tx2023wcya,2023-11-11T16:32:44.871Z,"34 km NW of Toyah, Texas",earthquake,0,2.606996011,0.3,7,automatic,tx,tx
 2023-11-11T16:00:47.608Z,31.652,-104.008,3.0656,1.6,ml(texnet),18,40,0,0.5,tx,tx2023wcxs,2023-11-11T16:23:13.745Z,"39 km W of Mentone, Texas",earthquake,0,1.249613225,0.2,13,automatic,tx,tx
 2023-11-11T15:59:47.481Z,31.658,-104.01,5.9478,1.7,ml(texnet),16,53,0,0.4,tx,tx2023wcxr,2023-11-11T16:23:08.578Z,"western Texas",earthquake,0,2.5267839,0.2,12,automatic,tx,tx
 2023-11-11T15:58:10.794Z,63.5611,-147.7119,0,1.8,ml,,,,0.51,ak,ak023eh7k9zr,2023-11-11T15:59:56.109Z,"62 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -20,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T14:05:58.300Z,44.5636666666667,-112.174333333333,3.53,0.77,ml,10,137,0.16,0.13,mb,mb90032523,2023-11-11T14:37:55.620Z,"22 km N of Spencer, Idaho",earthquake,0.51,1.32,0.168666020523875,6,reviewed,mb,mb
 2023-11-11T14:01:54.700Z,32.9258333,-116.3003333,10.58,0.88,ml,31,43,0.0288,0.14,ci,ci39711634,2023-11-11T14:08:07.740Z,"24 km ENE of Pine Valley, CA",earthquake,0.17,0.31,0.219,7,automatic,ci,ci
 2023-11-11T13:56:34.980Z,38.7944984,-122.7490005,2.63,0.71,md,12,92,0.01037,0.02,nc,nc73961586,2023-11-11T14:07:10.677Z,"2 km NNE of The Geysers, CA",earthquake,0.35,0.82,0.12,11,automatic,nc,nc
-2023-11-11T13:36:12.030Z,38.7873344,-122.746666,0.97,1.47,md,18,83,0.008781,0.03,nc,nc73961581,2023-11-11T13:48:51.807Z,"1 km NE of The Geysers, CA",earthquake,0.22,0.63,0.16,20,automatic,nc,nc
+2023-11-11T13:36:12.030Z,38.7873344,-122.746666,0.97,1.47,md,18,83,0.008781,0.03,nc,nc73961581,2023-11-11T16:27:10.528Z,"1 km NE of The Geysers, CA",earthquake,0.22,0.63,0.16,20,automatic,nc,nc
 2023-11-11T13:26:52.520Z,34.0531667,-117.535,9.35,0.87,ml,35,61,0.06967,0.12,ci,ci39711626,2023-11-11T13:33:35.123Z,"6 km NW of Glen Avon, CA",earthquake,0.19,0.32,0.241,13,automatic,ci,ci
 2023-11-11T13:19:15.470Z,38.8330002,-122.8184967,2,0.23,md,10,66,0.01163,0.02,nc,nc73961571,2023-11-11T15:59:11.358Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.99,0.12,10,automatic,nc,nc
 2023-11-11T13:18:17.243Z,-17.9437,-178.1799,591.825,4.5,mb,42,100,24.936,0.87,us,us7000lace,2023-11-11T13:40:34.040Z,"Fiji region",earthquake,11.43,7.288,0.099,33,reviewed,us,us
@@ -274,8 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T16:49:16.470Z,19.3943333333333,-155.279666666667,1.24,1.56,ml,18,48,,0.09,hv,hv73643047,2023-11-10T17:07:53.820Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.22,0.160211135171006,6,reviewed,hv,hv
 2023-11-10T16:48:23.560Z,38.8151667,-122.7963333,2.53,0.41,md,21,39,0.007233,0.03,nc,nc73960996,2023-11-10T20:09:10.587Z,"6 km NW of The Geysers, CA",earthquake,0.23,0.33,0.312,20,reviewed,nc,nc
 2023-11-10T16:41:59.730Z,38.8458328,-122.81633,1.3,0.81,md,17,67,0.01038,0.04,nc,nc73960991,2023-11-10T16:51:10.445Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.45,0.22,17,automatic,nc,nc
-2023-11-10T16:36:12.170Z,19.3916666666667,-155.278,1.18,0.4,md,12,69,,0.04,hv,hv73643042,2023-11-10T17:25:39.490Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.23,0.157858823697368,2,reviewed,hv,hv
-2023-11-10T16:34:37.458Z,31.634,-103.988,4.7174,1.6,ml(texnet),14,87,0,0.2,tx,tx2023wbdh,2023-11-10T17:03:16.333Z,"37 km WSW of Mentone, Texas",earthquake,0,1.252381726,0.2,11,automatic,tx,tx
-2023-11-10T16:33:05.190Z,19.3946666666667,-155.278833333333,1.2,0.76,md,14,54,,0.08,hv,hv73643037,2023-11-10T17:44:34.430Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.25,0.214126513954694,2,reviewed,hv,hv
-2023-11-10T16:30:13.728Z,31.633,-104.003,5.9921,1.6,ml(texnet),14,82,0,0.2,tx,tx2023wbdd,2023-11-10T17:03:09.178Z,"39 km WSW of Mentone, Texas",earthquake,0,2.108291687,0.2,12,automatic,tx,tx
-2023-11-10T16:27:38.816Z,39.3836,-120.1468,8.5,0.5,ml,8,160.23,0.125,0.1583,nn,nn00868766,2023-11-11T02:22:40.657Z,"6 km NNE of Truckee, California",earthquake,,2.5,0.69,5,reviewed,nn,nn
