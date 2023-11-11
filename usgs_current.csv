@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-11T13:19:15.470Z,38.8330002,-122.8184967,2,0.23,md,10,66,0.01163,0.02,nc,nc73961571,2023-11-11T13:20:53.818Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.99,0.12,10,automatic,nc,nc
-2023-11-11T13:16:15.030Z,38.822834,-122.8443298,1.72,0.72,md,12,85,0.00727,0.03,nc,nc73961566,2023-11-11T13:17:49.696Z,"9 km WNW of The Geysers, CA",earthquake,0.35,0.65,0.42,12,automatic,nc,nc
+2023-11-11T13:26:52.520Z,34.0531667,-117.535,9.35,0.87,ml,35,61,0.06967,0.12,ci,ci39711626,2023-11-11T13:33:35.123Z,"6 km NW of Glen Avon, CA",earthquake,0.19,0.32,0.241,13,automatic,ci,ci
+2023-11-11T13:19:15.470Z,38.8330002,-122.8184967,2,0.23,md,10,66,0.01163,0.02,nc,nc73961571,2023-11-11T13:31:10.450Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.99,0.12,10,automatic,nc,nc
+2023-11-11T13:16:15.030Z,38.822834,-122.8443298,1.72,0.72,md,12,85,0.00727,0.03,nc,nc73961566,2023-11-11T13:26:10.421Z,"9 km WNW of The Geysers, CA",earthquake,0.35,0.65,0.42,12,automatic,nc,nc
 2023-11-11T12:53:46.130Z,33.9895,-116.4638333,8.3,1.83,ml,74,36,0.06683,0.13,ci,ci39711610,2023-11-11T13:04:42.520Z,"5 km NE of Desert Hot Springs, CA",earthquake,0.09,0.31,0.142,26,automatic,ci,ci
 2023-11-11T12:46:47.244Z,32.308,-101.83,5.649,2.7,ml(texnet),22,43,0,0.1,tx,tx2023wcrj,2023-11-11T13:10:30.509Z,"20 km N of Stanton, Texas",earthquake,0.3984335469,0.5929752836,0.1,12,reviewed,tx,tx
 2023-11-11T12:45:26.550Z,38.8325005,-122.8150024,1.89,1.27,md,24,52,0.009874,0.02,nc,nc73961556,2023-11-11T12:56:11.025Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.35,0.19,24,automatic,nc,nc
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T12:27:27.024Z,31.639,-104.015,5.3378,1.6,ml(texnet),18,42,0,0.3,tx,tx2023wcqq,2023-11-11T13:02:25.508Z,"40 km W of Mentone, Texas",earthquake,0,2.089106863,0.1,14,automatic,tx,tx
 2023-11-11T12:25:12.540Z,35.9686667,-117.683,2.44,1.51,ml,31,56,0.103,0.14,ci,ci39711602,2023-11-11T12:35:32.240Z,"20 km E of Little Lake, CA",earthquake,0.19,0.31,0.175,16,automatic,ci,ci
 2023-11-11T12:12:11.790Z,33.485,-116.4931667,12.75,1.3,ml,75,29,0.06815,0.17,ci,ci39711594,2023-11-11T12:23:26.960Z,"18 km ESE of Anza, CA",earthquake,0.13,0.26,0.15,26,automatic,ci,ci
-2023-11-11T12:04:02.290Z,19.204833984375,-155.501159667969,31.0900001525879,1.94000006,md,18,198,,0.129999995,hv,hv73644152,2023-11-11T12:07:21.810Z,"Island of Hawaii, Hawaii",earthquake,0.87,1.28999996,0.519999981,5,automatic,hv,hv
+2023-11-11T12:04:02.290Z,19.204833984375,-155.501159667969,31.0900001525879,1.94000006,md,18,198,,0.129999995,hv,hv73644152,2023-11-11T12:07:21.810Z,"2 km W of Pāhala, Hawaii",earthquake,0.87,1.28999996,0.519999981,5,automatic,hv,hv
 2023-11-11T11:57:41.800Z,63.2305,-151.0036,2.4,1.9,ml,,,,0.51,ak,ak023eh56e90,2023-11-11T12:01:14.446Z,"49 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-11T11:41:14.989Z,31.638,-104.009,6.0098,2.4,ml(texnet),22,38,0,0.3,tx,tx2023wcpe,2023-11-11T11:53:24.804Z,"39 km W of Mentone, Texas",earthquake,0,2.000450084,0.2,18,automatic,tx,tx
 2023-11-11T11:36:24.960Z,19.3931674957275,-155.279159545898,0.430000007152557,2.23,ml,7,118,,0.100000001,hv,hv73644142,2023-11-11T11:41:57.090Z,"7 km SW of Volcano, Hawaii",earthquake,0.34,0.529999971,0.28,3,automatic,hv,hv
@@ -137,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T00:53:04.840Z,61.9709,-149.8131,33.9,1.9,ml,,,,0.57,ak,ak023egylovg,2023-11-11T00:56:08.990Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-11T00:51:42.630Z,38.8306656,-122.8176651,1.79,0.71,md,10,129,0.009374,0.01,nc,nc73961176,2023-11-11T02:04:10.498Z,"8 km NW of The Geysers, CA",earthquake,0.39,0.69,0.25,10,automatic,nc,nc
 2023-11-11T00:22:38.410Z,33.2653333,-116.4366667,4.39,1.49,ml,65,37,0.0845,0.17,ci,ci39711434,2023-11-11T00:33:50.310Z,"6 km W of Borrego Springs, CA",earthquake,0.14,0.49,0.172,26,automatic,ci,ci
-2023-11-11T00:18:42.258Z,39.0471,-97.6158,5,4,mwr,33,37,0.785,0.4,us,us7000la9a,2023-11-11T13:22:50.529Z,"2 km NW of Bennington, Kansas",earthquake,1.9,1.994,0.032,93,reviewed,us,us
+2023-11-11T00:18:42.258Z,39.0471,-97.6158,5,4,mwr,33,37,0.785,0.4,us,us7000la9a,2023-11-11T13:28:09.423Z,"2 km NW of Bennington, Kansas",earthquake,1.9,1.994,0.032,93,reviewed,us,us
 2023-11-11T00:17:39.270Z,59.6102,-151.8835,49.3,2.1,ml,,,,0.47,ak,ak023egye1rb,2023-11-11T00:19:57.929Z,"18 km S of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-11-11T00:16:36.040Z,46.193333333333335,-122.195,0.56,0.45,ml,8,108,0.007061,0.14,uw,uw61971646,2023-11-11T05:30:31.810Z,"37 km NNE of Amboy, Washington",earthquake,0.82,0.74,0.4973317441950629,4,reviewed,uw,uw
 2023-11-11T00:13:28.230Z,33.7501667,-116.0786667,4.9,1.09,ml,39,48,0.1201,0.13,ci,ci39711426,2023-11-11T01:32:51.394Z,"12 km NE of Coachella, CA",earthquake,0.14,0.44,0.127,20,reviewed,ci,ci
@@ -284,5 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T13:39:26.840Z,17.9858333333333,-67.0138333333333,17.46,2.19,md,6,147,0.03321,0.07,pr,pr71431168,2023-11-10T19:12:30.680Z,"3 km ENE of La Parguera, Puerto Rico",earthquake,0.67,0.64,0.0286036577935493,3,reviewed,pr,pr
 2023-11-10T13:39:26.630Z,19.2533340454102,-155.369659423828,31.6200008392334,2.62,ml,51,152,,0.109999999,hv,hv73642847,2023-11-11T09:44:17.276Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.47,0.560000002,3.26,31,automatic,hv,hv
 2023-11-10T13:38:36.510Z,36.574501,-121.1606674,6.1,1.3,md,9,135,0.02011,0.08,nc,nc73960926,2023-11-10T16:42:10.400Z,"5 km NNW of Pinnacles, CA",earthquake,0.49,0.88,0.27,7,automatic,nc,nc
-2023-11-10T13:26:31.760Z,38.788166,-122.768837,1.66,1.62,md,30,80,0.01434,0.03,nc,nc73960911,2023-11-10T16:13:10.221Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.33,0.18,32,automatic,nc,nc
-2023-11-10T13:26:09.756Z,60.3474,-152.2134,83,2.5,ml,,,,0.53,ak,ak023efin79p,2023-11-10T13:28:22.668Z,"44 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
