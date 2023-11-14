@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-14T23:33:03.669Z,31.636,-103.992,4.8088,1.8,ml(texnet),14,59,0,0.1,tx,tx2023wizc,2023-11-14T23:51:05.433Z,"38 km WSW of Mentone, Texas",earthquake,0,1.352380538,0.1,12,automatic,tx,tx
+2023-11-14T23:32:39.281Z,31.605,-103.966,1.7629,1.7,ml(texnet),13,111,0,0.8,tx,tx2023wizb,2023-11-14T23:51:01.427Z,"36 km NNW of Toyah, Texas",earthquake,0,1.585227319,0.1,10,automatic,tx,tx
+2023-11-14T23:30:32.375Z,31.641,-103.994,4.0113,1.9,ml(texnet),20,56,0,0.5,tx,tx2023wiza,2023-11-14T23:49:28.908Z,"38 km W of Mentone, Texas",earthquake,0,1.213200577,0.1,15,automatic,tx,tx
 2023-11-14T23:28:50.460Z,38.8213348,-122.7613297,1.88,0.61,md,8,124,0.01132,0.01,nc,nc73962981,2023-11-14T23:39:10.361Z,"3 km W of Cobb, CA",earthquake,0.49,0.89,0.34,10,automatic,nc,nc
 2023-11-14T23:26:11.950Z,34.0286667,-116.7295,15.11,1.07,ml,44,61,0.06533,0.15,ci,ci39713274,2023-11-14T23:32:38.848Z,"14 km NNE of Cabazon, CA",earthquake,0.15,0.35,0.151,27,automatic,ci,ci
 2023-11-14T23:18:15.980Z,17.9256666666667,-66.9531666666667,12.95,2.51,md,15,227,0.06276,0.08,pr,pr71431403,2023-11-14T23:35:11.130Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.42,0.28,0.123628403384775,7,reviewed,pr,pr
@@ -247,4 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T00:03:03.840Z,37.6233333,-122.3721667,10.79,1.51,md,29,40,0.05226,0.1,nc,nc73962606,2023-11-14T23:15:11.210Z,"3 km NNE of Millbrae, CA",earthquake,0.19,0.4,0.393,19,reviewed,nc,nc
 2023-11-14T00:01:34.263Z,63.3305,-151.32,2.7,1.6,ml,,,,0.88,ak,ak023elwwnea,2023-11-14T00:03:51.061Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-13T23:59:58.453Z,-4.1022,150.9563,10,4.9,mb,27,113,1.208,0.6,us,us7000latj,2023-11-14T00:20:04.040Z,"New Britain region, Papua New Guinea",earthquake,12.59,1.896,0.12,22,reviewed,us,us
-2023-11-13T23:53:55.267Z,61.7456,-149.7738,29.8,1.5,ml,,,,0.36,ak,ak023ekndgo6,2023-11-13T23:56:19.458Z,"13 km N of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
