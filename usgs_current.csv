@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-15T03:33:56.472Z,60.8074,-148.7286,6.9,1.9,ml,,,,1.23,ak,ak023enmf7bz,2023-11-15T03:36:05.257Z,"4 km NNW of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-15T03:32:35.251Z,61.567,-147.7928,11.7,1.3,ml,,,,1.13,ak,ak023enmexz9,2023-11-15T03:34:37.700Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-15T03:00:42.826Z,62.3534,-149.0147,0,1.5,ml,,,,1.12,ak,ak023enm83ne,2023-11-15T03:02:56.436Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-15T02:59:28.820Z,38.8241653,-122.8078308,2.5,0.76,md,16,62,0.001914,0.01,nc,nc73963036,2023-11-15T03:12:11.737Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.73,0.32,17,automatic,nc,nc
 2023-11-15T02:54:06.870Z,38.8118324,-122.8290024,1.22,1.07,md,24,57,0.002963,0.05,nc,nc73963031,2023-11-15T03:04:10.536Z,"7 km WNW of The Geysers, CA",earthquake,0.17,0.37,0.13,25,automatic,nc,nc
@@ -239,7 +241,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T04:51:53.360Z,19.3295,-155.063166666667,1.18,2.12,ml,44,177,,0.17,hv,hv73647322,2023-11-15T00:32:40.720Z,"16 km SSE of Fern Forest, Hawaii",earthquake,0.34,0.27,0.0983486114777428,15,reviewed,hv,hv
 2023-11-14T04:48:29.974Z,-5.7497,-76.6511,9.788,4.6,mb,41,120,4.047,0.71,us,us7000laua,2023-11-15T01:36:00.040Z,"47 km NE of Moyobamba, Peru",earthquake,9.17,4.317,0.07,61,reviewed,us,us
 2023-11-14T04:43:21.467Z,36.7987,-116.2878,7.4,-0.2,ml,8,101.31,0.051,0.0385,nn,nn00868875,2023-11-14T15:51:19.198Z,"43 km ESE of Beatty, Nevada",earthquake,,2.3,1.43,4,reviewed,nn,nn
-2023-11-14T04:37:32.263Z,31.658,-104.374,8.388,1.6,ml(texnet),15,70,0,0.1,tx,tx2023whnq,2023-11-14T16:18:23.622Z,"western Texas",earthquake,0.8467341698,0.8926235542,0.2,13,reviewed,tx,tx
+2023-11-14T04:37:32.263Z,31.658,-104.374,8.388,1.6,ml(texnet),15,70,0,0.1,tx,tx2023whnq,2023-11-14T16:18:23.622Z,"57 km S of Whites City, New Mexico",earthquake,0.8467341698,0.8926235542,0.2,13,reviewed,tx,tx
 2023-11-14T04:37:31.575Z,31.657,-104.373,5.8058,1.5,ml(texnet),18,70,0.1,0.4,tx,tx2023whnp,2023-11-14T04:59:29.337Z,"57 km S of Whites City, New Mexico",earthquake,0,2.671545711,0.2,13,automatic,tx,tx
 2023-11-14T04:34:21.906Z,31.595,-104.215,4.0577,1.6,ml(texnet),15,70,0.1,0.3,tx,tx2023whno,2023-11-14T04:59:21.455Z,"50 km NW of Toyah, Texas",earthquake,0,1.792954854,0.2,13,automatic,tx,tx
 2023-11-14T04:33:25.346Z,32.082,-101.608,13.4501,1.6,ml(texnet),17,110,0.2,0.2,tx,tx2023whnn,2023-11-14T21:21:25.152Z,"17 km ESE of Stanton, Texas",earthquake,1.274902565,1.589998079,0.1,12,reviewed,tx,tx
@@ -250,7 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T03:51:09.794Z,32.44,-102.076,9.7085,1.9,ml(texnet),17,94,0.1,0.1,tx,tx2023whmc,2023-11-14T17:17:23.402Z,"34 km SSW of Los Ybanez, Texas",earthquake,0.8951826075,1.089412231,0.1,10,reviewed,tx,tx
 2023-11-14T03:40:39.194Z,60.0149,-152.7084,106.1,1.8,ml,,,,0.49,ak,ak023elyxbin,2023-11-14T03:42:33.432Z,"55 km W of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-14T03:38:03.860Z,37.5096667,-118.7781667,5.13,0.89,md,11,323,0.08986,0.03,nc,nc73962696,2023-11-14T04:34:09.938Z,"10 km WSW of Toms Place, CA",earthquake,5.49,1.26,0.125,10,reviewed,nc,nc
-2023-11-14T03:36:13.590Z,58.2463333333333,-155.175333333333,5.21,0.86,ml,13,69,,0.19,av,av92118081,2023-11-14T19:09:38.250Z,"Alaska Peninsula",earthquake,0.32,0.66,0.209389422990782,13,reviewed,av,av
-2023-11-14T03:35:43.744Z,-26.5977,-178.4824,336.926,4.3,mb,21,121,2.7,0.89,us,us7000lau5,2023-11-15T01:19:14.040Z,"south of the Fiji Islands",earthquake,14.33,9.16,0.142,14,reviewed,us,us
-2023-11-14T03:35:19.240Z,47.186,-121.94433333333333,16.69,0.96,ml,12,121,0.0304,0.18,uw,uw61972171,2023-11-14T17:09:37.860Z,"4 km ESE of Enumclaw, Washington",earthquake,0.54,0.88,0.17400490779592925,8,reviewed,uw,uw
-2023-11-14T03:32:50.970Z,35.7436667,-117.576,12.08,0.85,ml,22,123,0.1467,0.15,ci,ci39712850,2023-11-14T15:07:46.824Z,"16 km W of Searles Valley, CA",earthquake,0.3,0.73,0.148,5,reviewed,ci,ci
