@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T20:26:26.175Z,31.737,-104.616,1.4668,2.2,ml(texnet),8,221,0.1,0.2,tx,tx2023wkon,2023-11-15T20:46:24.933Z,"western Texas",earthquake,0,4.628110716,0.3,6,automatic,tx,tx
 2023-11-15T20:21:44.170Z,35.666,-117.5673333,4.49,0.81,ml,19,117,0.1167,0.11,ci,ci39713530,2023-11-15T21:38:27.597Z,"11 km ENE of Ridgecrest, CA",earthquake,0.21,0.53,0.035,6,reviewed,ci,ci
 2023-11-15T20:13:17.478Z,31.667,-104.394,9.9338,1.5,ml(texnet),12,99,0,1,tx,tx2023wkob,2023-11-15T20:49:57.886Z,"56 km S of Whites City, New Mexico",earthquake,0,2.990120674,0.1,10,automatic,tx,tx
-2023-11-15T20:13:16.500Z,55.055,-162.2495,1.33,2.37,ml,10,142,,0.09,av,av92119991,2023-11-15T21:30:35.290Z,"Alaska Peninsula",earthquake,0.29,0.82,0.151008210810284,9,reviewed,av,av
+2023-11-15T20:13:16.500Z,55.055,-162.2495,1.33,2.37,ml,10,142,,0.09,av,av92119991,2023-11-16T05:43:09.018Z,"Alaska Peninsula",earthquake,0.29,0.82,0.151008210810284,9,reviewed,av,av
 2023-11-15T20:07:27.970Z,64.4708,-146.9382,3.3,1.5,ml,,,,0.5,ak,ak023enwdxst,2023-11-15T20:16:15.071Z,"6 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-15T20:04:33.892Z,61.6836,-149.8404,54.2,1.6,ml,,,,0.27,ak,ak023enwdb3x,2023-11-15T20:06:27.137Z,"6 km NNW of Houston, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-15T20:02:53.140Z,46.009,-112.475333333333,-2,1.67,ml,14,80,0.0551,0.08,mb,mb90032918,2023-11-15T22:07:37.250Z,"western Montana",quarry blast,0.45,31.61,0.150708736903483,8,reviewed,mb,mb
@@ -165,4 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T06:29:08.787Z,60.635,-143.0226,22.6,0.9,ml,,,,1.29,ak,ak023eno6jlq,2023-11-15T06:31:13.399Z,"89 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-15T05:53:33.570Z,19.3348331451416,-155.290832519531,2.02999997138977,1.83000004,md,23,73,,0.230000004,hv,hv73648457,2023-11-15T05:56:49.240Z,"Island of Hawaii, Hawaii",earthquake,0.33,0.439999998,0.810000002,13,automatic,hv,hv
 2023-11-15T05:51:03.530Z,61.7912,-150.3004,15.8,1.5,ml,,,,0.69,ak,ak023ennptch,2023-11-15T05:53:23.655Z,"14 km WNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-15T05:40:41.218Z,-40.8937,174.7136,10,4.1,mb,26,99,0.415,0.76,us,us6000lnhh,2023-11-15T06:51:27.187Z,"Cook Strait, New Zealand",earthquake,3.02,1.929,0.369,4,reviewed,us,us
