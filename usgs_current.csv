@@ -21,6 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-16T10:55:17.850Z,38.8448334,-122.815834,1.23,1.15,md,11,125,0.01143,0.02,nc,nc73963441,2023-11-16T12:04:09.671Z,"8 km WNW of Cobb, CA",earthquake,0.42,0.93,0.32,11,automatic,nc,nc
 2023-11-16T10:49:26.970Z,38.8264999,-122.7981644,2.69,0.73,md,13,75,0.009806,0.01,nc,nc73963436,2023-11-16T11:33:10.505Z,"6 km W of Cobb, CA",earthquake,0.3,0.67,0.16,12,automatic,nc,nc
 2023-11-16T10:37:12.680Z,31.705,-104.114,6.3372,2.4,ml(texnet),16,39,0,0.1,tx,tx2023wlqm,2023-11-16T11:40:38.273Z,"western Texas",earthquake,0.5776296279,0.8835271493,0.1,25,reviewed,tx,tx
+2023-11-16T10:36:05.599Z,31.668,-104.373,6.4915,1.6,ml(texnet),17,69,0,0.2,tx,tx2023wlql,2023-11-16T13:48:40.939Z,"56 km S of Whites City, New Mexico",earthquake,0.9576710175,0.9490874913,0.1,7,reviewed,tx,tx
 2023-11-16T10:32:53.150Z,38.8373337,-122.7928314,2.22,0.83,md,15,114,0.00222,0.02,nc,nc73963431,2023-11-16T11:07:10.362Z,"6 km WNW of Cobb, CA",earthquake,0.3,0.54,0.22,17,automatic,nc,nc
 2023-11-16T10:19:54.811Z,63.1635,-149.6441,82.4,2.3,ml,,,,0.23,ak,ak023epe1kn0,2023-11-16T10:21:15.400Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-16T10:16:49.894Z,60.2692,-152.2202,104.5,1.8,ml,,,,0.08,ak,ak023epe0xdp,2023-11-16T10:18:07.411Z,"Southern Alaska",earthquake,,3,,,automatic,ak,ak
@@ -167,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T14:13:59.230Z,19.3728332519531,-155.28466796875,1.8400000333786,1.86,ml,18,103,,0.159999996,hv,hv73648927,2023-11-15T14:19:30.190Z,"9 km SW of Volcano, Hawaii",earthquake,0.26,0.340000004,0.28,6,automatic,hv,hv
 2023-11-15T13:57:52.070Z,19.3673333333333,-155.289,2.01,1.9,md,23,60,,0.09,hv,hv73648902,2023-11-15T18:42:12.610Z,"10 km SW of Volcano, Hawaii",earthquake,0.21,0.27,0.0349701707338259,4,reviewed,hv,hv
 2023-11-15T13:54:36.280Z,38.8330002,-122.8150024,1.54,0.87,md,17,54,0.01033,0.01,nc,nc73963156,2023-11-15T14:02:11.222Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.55,0.23,19,automatic,nc,nc
-2023-11-15T13:43:57.460Z,46.196666666666665,-122.18833333333333,5.65,0.41000000000000003,ml,17,92,0.01757,0.13,uw,uw61972286,2023-11-15T21:58:39.360Z,"Washington",earthquake,0.42,0.68,0.11896222637661075,11,reviewed,uw,uw
