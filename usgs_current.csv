@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-16T11:24:09.229Z,-10.0093,123.8004,25.442,4.6,mb,29,116,6.059,1.23,us,us6000lnsh,2023-11-16T12:15:30.040Z,"27 km NE of Kupang, Indonesia",earthquake,6.94,5.863,0.129,18,reviewed,us,us
 2023-11-16T11:07:25.230Z,35.7055,-117.5448333,7.97,0.86,ml,22,143,0.1065,0.16,ci,ci39713642,2023-11-16T15:14:12.286Z,"14 km WSW of Searles Valley, CA",earthquake,0.26,0.88,0.118,8,reviewed,ci,ci
 2023-11-16T10:55:17.850Z,38.8448334,-122.815834,1.23,1.15,md,11,125,0.01143,0.02,nc,nc73963441,2023-11-16T12:04:09.671Z,"8 km WNW of Cobb, CA",earthquake,0.42,0.93,0.32,11,automatic,nc,nc
-2023-11-16T10:49:26.970Z,38.8264999,-122.7981644,2.69,0.73,md,13,75,0.009806,0.01,nc,nc73963436,2023-11-16T11:33:10.505Z,"6 km W of Cobb, CA",earthquake,0.3,0.67,0.16,12,automatic,nc,nc
