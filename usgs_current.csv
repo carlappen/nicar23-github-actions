@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T07:30:44.910Z,38.828167,-122.814003,2.03,1.56,md,29,43,0.01718,0.02,nc,nc73966671,2023-11-24T07:40:10.557Z,"8 km NW of The Geysers, CA",earthquake,0.17,0.34,0.13,26,automatic,nc,nc
 2023-11-24T07:27:16.180Z,61.3395,-151.1193,60.5,1.9,ml,,,,0.31,ak,ak023f2klosi,2023-11-24T07:30:16.684Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-24T07:22:53.580Z,18.3235,-67.9411666666667,5.87,3.38,md,16,183,0.443,0.29,pr,pr71431993,2023-11-24T07:40:13.020Z,"Mona Passage",earthquake,1.84,1.23,0.0532392399904622,6,reviewed,pr,pr
-2023-11-24T07:19:59.250Z,38.8264999,-122.8544998,2.27,0.71,md,9,93,0.002127,0.01,nc,nc73966656,2023-11-24T07:51:10.760Z,"10 km WNW of The Geysers, CA",earthquake,0.35,0.67,0.26,11,automatic,nc,nc
+2023-11-24T07:19:59.250Z,38.8264999,-122.8544998,2.27,0.71,md,9,93,0.002127,0.01,nc,nc73966656,2023-11-24T07:53:16.774Z,"10 km WNW of The Geysers, CA",earthquake,0.35,0.67,0.26,11,automatic,nc,nc
 2023-11-24T07:06:59.471Z,25.5154,125.826,69.786,4.5,mb,42,95,1.835,0.54,us,us6000lqew,2023-11-24T07:33:08.040Z,"southwestern Ryukyu Islands, Japan",earthquake,8.68,9.142,0.108,25,reviewed,us,us
 2023-11-24T07:05:22.560Z,33.3898333,-116.3913333,11.24,0.82,ml,44,93,0.06611,0.21,ci,ci39717282,2023-11-24T07:12:38.822Z,"15 km N of Borrego Springs, CA",earthquake,0.29,0.7,0.099,13,automatic,ci,ci
 2023-11-24T07:05:22.530Z,33.3903333,-116.387,11.01,0.82,ml,43,93,0.06558,0.2,ci,ci39717274,2023-11-24T07:11:34.820Z,"15 km N of Borrego Springs, CA",earthquake,0.28,0.4,0.101,12,automatic,ci,ci
