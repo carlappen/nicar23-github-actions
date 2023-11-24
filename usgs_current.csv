@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-24T22:36:54.720Z,19.4805,-65.8866666666667,28.56,3.07,md,10,287,1.169,0.27,pr,pr71432058,2023-11-24T22:48:05.990Z,"114 km NNE of San Juan, Puerto Rico",earthquake,1.56,20.47,0.0279580163694748,4,reviewed,pr,pr
+2023-11-24T22:36:54.720Z,19.4805,-65.8866666666667,28.56,3.07,md,10,287,1.169,0.27,pr,pr71432058,2023-11-24T23:01:02.040Z,"114 km NNE of San Juan, Puerto Rico",earthquake,1.56,20.47,0.0279580163694748,4,reviewed,pr,pr
 2023-11-24T22:31:37.880Z,34.0553333,-117.0568333,7.92,1.02,ml,43,58,0.0615,0.16,ci,ci39717602,2023-11-24T22:38:19.431Z,"3 km NNW of Yucaipa, CA",earthquake,0.16,0.43,0.214,22,automatic,ci,ci
 2023-11-24T22:17:50.680Z,38.8305016,-122.9256668,3.38,0.83,md,6,178,0.02169,0.04,nc,nc73966986,2023-11-24T22:34:12.268Z,"8 km ENE of Cloverdale, CA",earthquake,0.91,2.39,0.37,7,automatic,nc,nc
 2023-11-24T22:16:26.730Z,34.8266678,-118.2923355,-0.64,1.92,ml,8,213,0.2984,0.23,ci,ci39717578,2023-11-24T22:22:57.364Z,"12 km WSW of Rosamond, CA",earthquake,1.45,5.9,0.329,8,automatic,ci,ci
@@ -119,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T12:09:17.410Z,19.2866668701172,-155.389663696289,2.28999996185303,1.80999994,md,20,169,,0.189999998,hv,hv73659787,2023-11-24T12:12:25.630Z,"13 km NE of Pāhala, Hawaii",earthquake,0.52,0.939999998,0.899999976,3,automatic,hv,hv
 2023-11-24T12:07:41.592Z,42.0838,-125.4036,10,2.8,ml,32,259,1.167,0.6,us,us6000lqgk,2023-11-24T17:55:02.361Z,"off the coast of Oregon",earthquake,6.39,2.018,0.04,84,reviewed,us,us
 2023-11-24T12:05:36.540Z,33.7496667,-115.9368333,1.82,1.27,ml,50,68,0.09011,0.18,ci,ci39717338,2023-11-24T12:31:29.774Z,"22 km ENE of Thermal, CA",earthquake,0.17,0.35,0.168,25,automatic,ci,ci
-2023-11-24T12:05:23.790Z,36.5491676,-121.1431656,5.79,2.3,md,40,107,0.04077,0.14,nc,nc73966761,2023-11-24T14:42:13.199Z,"2 km N of Pinnacles, CA",earthquake,0.28,0.73,0.19,42,automatic,nc,nc
+2023-11-24T12:05:23.780Z,36.5478333,-121.1448333,5.84,2.23,md,63,93,0.01653,0.11,nc,nc73966761,2023-11-24T22:57:10.416Z,"2 km N of Pinnacles, CA",earthquake,0.14,0.28,0.162,72,reviewed,nc,nc
 2023-11-24T11:58:47.906Z,6.1771,-82.4351,10,4.8,mb,63,144,2.612,0.6,us,us6000lqgf,2023-11-24T12:38:10.040Z,"south of Panama",earthquake,8.44,1.904,0.048,133,reviewed,us,us
 2023-11-24T11:53:06.061Z,6.1211,-82.5383,10,4.9,mb,80,148,2.66,0.86,us,us6000lqge,2023-11-24T12:11:20.040Z,"south of Panama",earthquake,7.81,1.902,0.04,195,reviewed,us,us
 2023-11-24T11:40:56.360Z,19.2865009307861,-155.388336181641,1.89999997615814,1.94,ml,31,118,,0.140000001,hv,hv73659757,2023-11-24T11:46:29.080Z,"13 km NE of Pāhala, Hawaii",earthquake,0.38,0.660000026,0.29,4,automatic,hv,hv
@@ -145,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T10:11:22.950Z,38.8348351,-122.8181686,1.7,0.47,md,10,102,0.01306,0.01,nc,nc73966726,2023-11-24T12:55:10.595Z,"8 km NW of The Geysers, CA",earthquake,0.3,1.03,0.33,11,automatic,nc,nc
 2023-11-24T09:53:08.970Z,38.8354988,-122.8016663,1.67,1.11,md,22,60,0.009308,0.03,nc,nc73966721,2023-11-24T12:26:10.439Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.4,0.17,23,automatic,nc,nc
 2023-11-24T09:51:32.385Z,61.4715,-146.5162,26.2,2.1,ml,,,,0.75,ak,ak023f2lxqfq,2023-11-24T09:53:26.029Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-24T09:46:52.020Z,37.3627,-116.0458,8,1.3,ml,9,312.72,0.17,0.168,nn,nn00869256,2023-11-24T16:09:49.530Z,"Nevada",earthquake,,4.3,0.2,6,reviewed,nn,nn
+2023-11-24T09:46:52.020Z,37.3627,-116.0458,8,1.3,ml,9,312.72,0.17,0.168,nn,nn00869256,2023-11-24T16:09:49.530Z,"41 km SW of Rachel, Nevada",earthquake,,4.3,0.2,6,reviewed,nn,nn
 2023-11-24T09:36:37.130Z,34.8841666666667,-85.221,5.33,1.86,md,10,76,0.2975,0.14,se,se60501333,2023-11-24T14:26:17.040Z,"6 km ENE of Chickamauga, Georgia",earthquake,0.31,1.52,0.106156963645945,9,reviewed,se,se
 2023-11-24T09:30:13.814Z,63.024,-152.2409,1,2.2,ml,,,,0.84,ak,ak023f2lt6w2,2023-11-24T09:32:22.396Z,"63 km SSW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-24T09:30:10.687Z,20.0694,145.2783,10,5.2,mb,52,118,4.827,1.16,us,us6000lqfm,2023-11-24T09:47:51.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,13.98,1.89,0.048,141,reviewed,us,us
