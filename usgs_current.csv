@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-03T08:50:00.200Z,38.8151665,-122.819664,2.47,1.03,md,7,76,0.009737,0.01,nc,nc73971111,2023-12-03T08:51:36.978Z,"7 km NW of The Geysers, CA",earthquake,0.51,1.5,0.14,8,automatic,nc,nc
+2023-12-03T09:02:40.290Z,19.1553325653076,-155.429672241211,32.8300018310547,1.77999997,md,35,177,,0.100000001,hv,hv73671767,2023-12-03T09:05:42.930Z,"7 km SE of Pāhala, Hawaii",earthquake,0.71,0.829999983,0.939999998,7,automatic,hv,hv
+2023-12-03T08:56:53.280Z,35.647,-117.4528333,5.71,0.82,ml,19,83,0.02982,0.11,ci,ci39722002,2023-12-03T09:02:50.783Z,"14 km SSW of Searles Valley, CA",earthquake,0.2,0.36,0.079,4,automatic,ci,ci
+2023-12-03T08:50:00.200Z,38.8151665,-122.819664,2.47,1.03,md,7,76,0.009737,0.01,nc,nc73971111,2023-12-03T09:09:14.352Z,"7 km NW of The Geysers, CA",earthquake,0.51,1.5,0.14,8,automatic,nc,nc
 2023-12-03T08:23:27.070Z,38.7886658,-122.7411652,5.39,0.76,md,8,175,0.006436,0.07,nc,nc73971096,2023-12-03T08:44:12.200Z,"2 km NE of The Geysers, CA",earthquake,1.12,2.56,0.2,8,automatic,nc,nc
 2023-12-03T08:02:56.700Z,19.4138336181641,-155.274169921875,8.6899995803833,1.98000002,md,16,69,,0.200000003,hv,hv73671687,2023-12-03T08:06:00.940Z,"5 km SW of Volcano, Hawaii",earthquake,0.99,0.649999976,0.239999995,6,automatic,hv,hv
 2023-12-03T07:58:30.110Z,36.9944992,-121.4641647,5.49,1.72,md,32,101,0.03486,0.13,nc,nc73971091,2023-12-03T08:32:13.129Z,"9 km E of Gilroy, CA",earthquake,0.32,0.76,0.2,24,automatic,nc,nc
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T07:46:09.540Z,38.8136673,-122.8193359,2.43,1.09,md,19,53,0.00906,0.03,nc,nc73971086,2023-12-03T08:21:12.063Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.57,0.13,19,automatic,nc,nc
 2023-12-03T07:45:39.320Z,38.8149986,-122.8199997,2.8,0.83,md,11,97,0.009428,0.01,nc,nc73971081,2023-12-03T08:11:14.008Z,"7 km NW of The Geysers, CA",earthquake,0.49,1.15,0.17,14,automatic,nc,nc
 2023-12-03T07:31:43.900Z,38.822834,-122.8113327,1.3,0.78,md,7,119,0.001132,0.03,nc,nc73971076,2023-12-03T07:58:10.939Z,"7 km NW of The Geysers, CA",earthquake,0.52,0.83,0.13,7,automatic,nc,nc
-2023-12-03T07:30:15.733Z,59.4763,-151.5842,47.6,3.5,ml,,,,0.4,ak,ak023fhgggc6,2023-12-03T08:14:06.020Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-12-03T07:30:15.733Z,59.4763,-151.5842,47.6,3.5,ml,,,,0.4,ak,ak023fhgggc6,2023-12-03T09:07:01.346Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-03T07:29:29.070Z,38.7873344,-122.7678299,1.46,1.5,md,26,80,0.01471,0.03,nc,nc73971071,2023-12-03T07:46:11.868Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.36,0.19,29,automatic,nc,nc
 2023-12-03T07:27:59.190Z,19.4080009460449,-155.270660400391,6.53000020980835,1.76,ml,17,104,,0.289999992,hv,hv73671627,2023-12-03T07:33:29.540Z,"Island of Hawaii, Hawaii",earthquake,0.8,0.660000026,0.32,5,automatic,hv,hv
 2023-12-03T07:11:00.002Z,8.7185,126.8649,49.962,4.8,mb,72,81,2.075,0.46,us,us7000lfsa,2023-12-03T08:00:00.040Z,"Mindanao, Philippines",earthquake,9.32,7.196,0.063,79,reviewed,us,us
@@ -286,4 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T09:36:35.900Z,17.6403333333333,-66.8343333333333,17.59,2.13,md,5,296,0.3356,0.12,pr,pr71432943,2023-12-02T10:37:02.530Z,"37 km SSE of Guánica, Puerto Rico",earthquake,1.29,0.81,0.0911730661764165,2,reviewed,pr,pr
 2023-12-02T09:31:32.722Z,-24.5208,-70.4145,40.231,5.1,mwr,78,91,0.984,1.12,us,us7000lfbl,2023-12-02T13:26:17.233Z,"Antofagasta, Chile",earthquake,5.19,5.673,0.048,42,reviewed,us,us
 2023-12-02T09:27:46.735Z,62.142,-151.2104,83.6,1.8,ml,,,,0.16,ak,ak023ffu3eb5,2023-12-02T09:29:23.267Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-12-02T09:09:22.360Z,33.3521667,-116.3611667,11.88,0.9,ml,50,58,0.02586,0.17,ci,ci39721466,2023-12-02T09:15:26.601Z,"11 km N of Borrego Springs, CA",earthquake,0.25,0.44,0.234,17,automatic,ci,ci
