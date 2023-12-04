@@ -85,6 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T20:01:22.340Z,19.3606662750244,-155.613830566406,49.3199996948242,2.9000001,md,33,81,,0.349999994,hv,hv73672202,2023-12-03T20:04:34.920Z,"Island of Hawaii, Hawaii",earthquake,4.02,3.0999999,0.74000001,5,automatic,hv,hv
 2023-12-03T19:59:50.062Z,31.635,-104.278,5.0674,1.6,ml,16,69,0,0.4,tx,tx2023xrkq,2023-12-03T20:16:42.272Z,"58 km NW of Toyah, Texas",earthquake,0,2.845373173,0.2,13,automatic,tx,tx
 2023-12-03T19:53:34.650Z,32.7873333,-115.824,5.26,0.7,ml,13,98,0.1022,0.2,ci,ci39722194,2023-12-03T19:59:19.208Z,"17 km ENE of Ocotillo, CA",earthquake,0.41,1.03,0.371,5,automatic,ci,ci
+2023-12-03T19:50:43.000Z,8.9,127.1,10,7,Mb,41,61.199995104000394,2.062532,1.46,at,at00s53wgj,2023-12-03T20:21:37.550Z,"86 km E of Aras-asan, Philippines",earthquake,0,0,,26,reviewed,at,at
 2023-12-03T19:50:12.910Z,32.7398333,-115.8723333,4.59,1.38,ml,20,54,0.1012,0.17,ci,ci39722186,2023-12-03T19:56:29.376Z,"11 km E of Ocotillo, CA",earthquake,0.21,0.76,0.336,13,automatic,ci,ci
 2023-12-03T19:49:37.281Z,8.9571,126.6277,30.512,6.9,mww,119,43,2.144,1.12,us,us7000lfxx,2023-12-04T03:33:55.914Z,"35 km ENE of Aras-asan, Philippines",earthquake,8.03,4.383,0.05,39,reviewed,us,us
 2023-12-03T19:43:03.550Z,38.8413315,-122.7756653,3.23,0.39,md,7,155,0.001392,0.02,nc,nc73971296,2023-12-03T20:09:19.073Z,"5 km WNW of Cobb, CA",earthquake,0.99,0.72,0.26,7,automatic,nc,nc
@@ -257,8 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T04:19:27.800Z,47.07533333333333,-122.00583333333333,14.33,0.5700000000000001,ml,26,241,0.08705,0.1,uw,uw61965982,2023-12-03T05:39:07.480Z,"3 km E of Carbonado, Washington",earthquake,0.46,0.4,0.11854626657110562,8,reviewed,uw,uw
 2023-12-03T04:04:29.008Z,37.0119,-12.9326,10,4.3,mb,24,89,3.286,0.73,us,us7000lfr7,2023-12-03T04:49:01.040Z,"Azores-Cape St. Vincent Ridge",earthquake,8.12,1.831,0.178,9,reviewed,us,us
 2023-12-03T03:55:42.189Z,8.35,126.9224,54.246,4.9,mb,48,110,1.841,0.69,us,us7000lfr6,2023-12-03T04:19:09.040Z,"57 km ENE of Barcelona, Philippines",earthquake,7.41,7.335,0.063,78,reviewed,us,us
-2023-12-03T03:47:50.243Z,17.134,-94.5714,132.63,4.3,mb,54,136,2.482,0.95,us,us7000lfr5,2023-12-03T04:33:12.040Z,"13 km SSE of Hermanos Cedillo, Mexico",earthquake,9.86,4.561,0.057,87,reviewed,us,us
-2023-12-03T03:47:03.280Z,37.2951,-117.602,5.7,1,ml,8,164.78,0.071,0.1633,nn,nn00869613,2023-12-03T03:49:44.141Z,"51 km S of Silver Peak, Nevada",earthquake,,1.3,0.42,4,automatic,nn,nn
-2023-12-03T03:45:47.450Z,38.8233337,-122.7641678,1.78,1.09,md,15,124,0.008422,0.02,nc,nc73971016,2023-12-03T05:53:11.184Z,"4 km W of Cobb, CA",earthquake,0.27,0.45,0.16,15,automatic,nc,nc
-2023-12-03T03:42:44.592Z,61.0493,-148.3661,0.4,1.3,ml,,,,0.71,ak,ak023fhe5cqz,2023-12-03T03:44:32.291Z,"35 km NNE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-12-03T03:41:07.900Z,33.0621667,-116.1908333,5.09,0.69,ml,53,51,0.09523,0.19,ci,ci39721930,2023-12-03T03:47:47.482Z,"11 km SSW of Ocotillo Wells, CA",earthquake,0.17,0.62,0.038,5,automatic,ci,ci
