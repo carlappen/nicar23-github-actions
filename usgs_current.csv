@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-08T05:01:32.828Z,60.9076,-150.6501,32.9,1.6,ml,,,,0.35,ak,ak023fpos55u,2023-12-08T05:03:31.527Z,"2 km SE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-08T04:45:58.000Z,62.5215,-152.858,10.7,1.8,ml,,,,0.68,ak,ak0234d4shxd8,2023-12-08T04:49:04.382Z,"94 km SE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-08T04:33:29.550Z,33.1868333,-115.5978333,2.03,1.55,ml,40,87,0.01761,0.2,ci,ci40617448,2023-12-08T04:40:19.743Z,"9 km SW of Niland, CA",earthquake,0.2,0.23,0.169,27,automatic,ci,ci
 2023-12-08T04:24:23.059Z,52.8666,-167.7997,49.3,2.1,ml,,,,0.41,ak,ak023fpobktp,2023-12-08T04:41:47.488Z,"71 km E of Nikolski, Alaska",earthquake,,6.1,,,reviewed,ak,ak
@@ -8,8 +9,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T03:49:48.840Z,19.2150001525879,-155.492340087891,43.2999992370605,2.04999995,md,20,248,,0.349999994,hv,hv73677242,2023-12-08T03:52:56.900Z,"1 km NW of Pāhala, Hawaii",earthquake,3.84,1.92999995,1.01999998,3,automatic,hv,hv
 2023-12-08T03:42:21.182Z,52.1686,-168.325,46.7,2.7,ml,,,,0.27,ak,ak023fpnu2dw,2023-12-08T04:37:28.969Z,"93 km SSE of Nikolski, Alaska",earthquake,,3,,,reviewed,ak,ak
 2023-12-08T03:40:01.400Z,19.3794994354248,-155.279327392578,1.28999996185303,1.86,ml,23,80,,0.180000007,hv,hv73677232,2023-12-08T03:45:31.360Z,"8 km SW of Volcano, Hawaii",earthquake,0.23,0.239999995,0.2,5,automatic,hv,hv
+2023-12-08T03:38:13.420Z,37.761,-122.5575,8.15,1.22,md,30,174,0.07381,0.07,nc,nc73973066,2023-12-08T05:08:18.533Z,"6 km NW of San Francisco Zoo, CA",earthquake,0.37,0.42,0.183,23,reviewed,nc,nc
 2023-12-08T03:35:15.934Z,36.7463,-115.9434,14.1,0,ml,13,190.02,0.038,0.2262,nn,nn00869866,2023-12-08T03:36:51.736Z,"31 km NW of Indian Springs, Nevada",earthquake,,1.3,0.31,7,automatic,nn,nn
 2023-12-08T03:25:53.680Z,9.496,126.5097,46.513,5,mb,70,111,2.581,1,us,us7000lh80,2023-12-08T04:20:52.957Z,"42 km NE of Cortes, Philippines",earthquake,10.45,6.761,0.053,116,reviewed,us,us
+2023-12-08T03:16:58.111Z,25.2822,91.712,46.137,4.2,mb,23,151,4.434,0.58,us,us7000lh84,2023-12-08T05:04:41.848Z,"2 km SE of Cherrapunji, India",earthquake,8.83,8.131,0.137,15,reviewed,us,us
 2023-12-08T03:04:56.990Z,19.3675003051758,-155.293334960938,1.25,1.84,ml,18,106,,0.180000007,hv,hv73677162,2023-12-08T03:10:27.710Z,"10 km SW of Volcano, Hawaii",earthquake,0.34,0.430000007,0.03,3,automatic,hv,hv
 2023-12-08T03:02:01.140Z,19.1931667327881,-155.483840942383,32.6300010681152,2.1500001,md,39,113,,0.129999995,hv,hv73677157,2023-12-08T03:05:18.390Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.71,1.00999999,1.20000005,23,automatic,hv,hv
 2023-12-08T03:01:41.161Z,60.2724,-140.983,17.2,1.2,ml,,,,0.23,ak,ak023fpnlame,2023-12-08T03:04:29.481Z,"107 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -86,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T20:12:44.320Z,33.921,-116.8766667,10.54,1.34,ml,40,41,0.08641,0.11,ci,ci40617360,2023-12-08T01:01:15.475Z,"0 km S of Banning, CA",earthquake,0.14,0.45,0.102,7,reviewed,ci,ci
 2023-12-07T20:11:53.050Z,33.9186667,-116.878,9.97,2.56,ml,100,22,0.07825,0.16,ci,ci40617352,2023-12-07T22:43:13.408Z,"1 km S of Banning, CA",earthquake,0.1,0.26,0.15,131,reviewed,ci,ci
 2023-12-07T20:05:06.320Z,19.25,-155.399002075195,31.6800003051758,2.05999994,md,36,149,,0.129999995,hv,hv73676372,2023-12-07T20:35:26.703Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.72,0.589999974,1.67999995,10,automatic,hv,hv
-2023-12-07T20:03:38.206Z,18.3866,-98.5503,44.388,5.8,mww,175,99,0.82,0.64,us,us7000lh50,2023-12-08T04:54:44.179Z,"10 km NNE of Chiautla de Tapia, Mexico",earthquake,6.88,4.683,0.036,75,reviewed,us,us
+2023-12-07T20:03:38.206Z,18.3866,-98.5503,44.388,5.8,mww,175,99,0.82,0.64,us,us7000lh50,2023-12-08T04:59:49.235Z,"10 km NNE of Chiautla de Tapia, Mexico",earthquake,6.88,4.683,0.036,75,reviewed,us,us
 2023-12-07T20:03:02.060Z,57.7908333333333,-155.941333333333,1.22,1.39,ml,15,188,,0.33,av,av92147666,2023-12-08T03:22:58.360Z,"92 km WNW of Karluk, Alaska",earthquake,1.23,1.33,0.266331395134387,15,reviewed,av,av
 2023-12-07T20:02:21.270Z,62.3354,-148.6725,30.3,1.6,ml,,,,0.69,ak,ak023foa6hkf,2023-12-08T01:16:49.130Z,"61 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-07T20:01:58.130Z,19.1555004119873,-155.46516418457,32.5499992370605,2.23000002,md,40,136,,0.100000001,hv,hv73676367,2023-12-07T20:05:16.050Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.59,0.689999998,1.91999996,22,automatic,hv,hv
@@ -260,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T05:39:10.250Z,38.8408318,-122.8359985,1.78,2.37,md,42,50,0.002275,0.04,nc,nc73972686,2023-12-07T08:22:12.059Z,"10 km NW of The Geysers, CA",earthquake,0.15,0.22,0.16,48,automatic,nc,nc
 2023-12-07T05:35:47.227Z,40.2152,-119.8071,3.8,0.7,ml,3,257.52,0.073,0.0335,nn,nn00869808,2023-12-08T02:04:21.116Z,"29 km ENE of Herlong, California",earthquake,,17.7,0.05,2,reviewed,nn,nn
 2023-12-07T05:18:52.410Z,19.1426666666667,-67.0521666666667,21.62,3.44,md,19,246,0.6518,0.35,pr,pr71433438,2023-12-07T05:36:37.580Z,"71 km N of Isabela, Puerto Rico",earthquake,1.24,24.66,0.0867124008153115,9,reviewed,pr,pr
-2023-12-07T05:01:45.600Z,19.3886666666667,-155.277333333333,1.67,2.21,ml,27,56,,0.09,hv,hv73675192,2023-12-07T23:16:02.640Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.15,0.173974082657224,11,reviewed,hv,hv
-2023-12-07T04:56:52.080Z,38.8180008,-122.8113327,3.18,1.05,md,27,43,0.005475,0.03,nc,nc73972676,2023-12-07T05:30:12.097Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.47,0.27,27,automatic,nc,nc
