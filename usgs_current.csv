@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-25T06:26:56.540Z,38.8218346,-122.7843323,1.74,1.61,md,32,36,0.009025,0.03,nc,nc73980721,2023-12-25T06:28:34.280Z,"5 km W of Cobb, CA",earthquake,0.17,0.27,0.14,33,automatic,nc,nc
-2023-12-25T06:25:04.150Z,38.8180008,-122.8205032,2.27,0.76,md,18,48,0.009767,0.02,nc,nc73980716,2023-12-25T06:26:38.883Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.53,0.32,18,automatic,nc,nc
+2023-12-25T06:26:56.540Z,38.8218346,-122.7843323,1.74,1.61,md,32,36,0.009025,0.03,nc,nc73980721,2023-12-25T06:29:53.684Z,"5 km W of Cobb, CA",earthquake,0.17,0.27,0.14,33,automatic,nc,nc
+2023-12-25T06:25:04.150Z,38.8180008,-122.8205032,2.27,0.76,md,18,48,0.009767,0.02,nc,nc73980716,2023-12-25T06:37:10.323Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.53,0.32,18,automatic,nc,nc
 2023-12-25T06:08:02.320Z,35.3383333,-117.4941667,4.82,1.17,ml,32,57,0.2036,0.15,ci,ci40450751,2023-12-25T06:24:15.552Z,"13 km ESE of Johannesburg, CA",earthquake,0.17,1.4,0.103,13,automatic,ci,ci
 2023-12-25T05:54:30.653Z,64.386,-150.6006,16.2,2.5,ml,,,,0.58,ak,ak023ght8ec9,2023-12-25T06:14:52.040Z,"68 km W of Anderson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-25T05:37:07.260Z,33.3843333,-116.2938333,4.84,0.8,ml,55,24,0.02557,0.23,ci,ci40450743,2023-12-25T05:43:19.154Z,"16 km NNE of Borrego Springs, CA",earthquake,0.2,0.81,0.099,18,automatic,ci,ci
@@ -175,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-24T07:07:42.690Z,33.9351667,-116.9363333,6,0.61,ml,36,74,0.03927,0.15,ci,ci40450287,2023-12-24T07:14:07.197Z,"4 km E of Beaumont, CA",earthquake,0.17,0.41,0.15,9,automatic,ci,ci
 2023-12-24T06:54:39.350Z,33.645,-116.693,-1.33,0.27,ml,20,81,0.02872,0.35,ci,ci40450279,2023-12-24T07:00:45.583Z,"10 km N of Anza, CA",earthquake,0.43,3.28,0.228,7,automatic,ci,ci
 2023-12-24T06:49:12.000Z,34.1113333,-116.6361667,9.26,0.75,ml,35,106,0.07329,0.11,ci,ci40450271,2023-12-24T17:43:03.720Z,"9 km NW of Morongo Valley, CA",earthquake,0.19,0.37,0.155,11,reviewed,ci,ci
-2023-12-24T06:40:10.280Z,32.7491667,-115.8605,5.01,0.89,ml,24,52,0.114,0.23,ci,ci40450263,2023-12-24T06:46:08.522Z,"12 km E of Ocotillo, CA",earthquake,0.27,0.71,0.141,6,automatic,ci,ci
