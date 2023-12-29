@@ -1,5 +1,21 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-29T06:53:20.750Z,32.9266667,-116.28,10.6,1.19,ml,60,43,0.0341,0.21,ci,ci40452351,2023-12-29T06:59:40.871Z,"26 km ENE of Pine Valley, CA",earthquake,0.17,0.39,0.149,24,automatic,ci,ci
+2023-12-29T07:15:11.810Z,38.8203316,-122.7973328,2.72,0.94,md,15,66,0.01041,0.02,nc,nc73982391,2023-12-29T07:16:47.056Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.74,0.2,16,automatic,nc,nc
+2023-12-29T07:15:04.850Z,38.8111649,-122.7965012,9.21,0.89,md,10,112,0.003327,0.03,nc,nc73982386,2023-12-29T07:16:42.167Z,"5 km NW of The Geysers, CA",earthquake,1.87,1.19,0.29,11,automatic,nc,nc
+2023-12-29T07:14:09.800Z,38.8235016,-122.7608337,0.33,1.74,md,23,130,0.009936,0.05,nc,nc73982381,2023-12-29T07:17:01.580Z,"3 km W of Cobb, CA",earthquake,0.24,0.42,0.15,25,automatic,nc,nc
+2023-12-29T07:13:58.460Z,38.8246651,-122.7624969,0.54,0.77,md,14,130,0.008195,0.03,nc,nc73982376,2023-12-29T07:15:32.150Z,"3 km W of Cobb, CA",earthquake,0.26,0.42,0.3,14,automatic,nc,nc
+2023-12-29T07:13:45.080Z,38.8196678,-122.7981644,3.12,1.26,md,30,30,0.01002,0.02,nc,nc73982371,2023-12-29T07:15:22.334Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.42,0.16,29,automatic,nc,nc
+2023-12-29T07:13:36.100Z,38.8151665,-122.8440018,0.74,0.9,md,7,99,0.01059,0.01,nc,nc73982366,2023-12-29T07:15:12.102Z,"9 km WNW of The Geysers, CA",earthquake,0.34,1.07,0.26,8,automatic,nc,nc
+2023-12-29T07:12:37.860Z,38.8160019,-122.7878342,0.74,0.73,md,9,62,0.006221,0.03,nc,nc73982361,2023-12-29T07:14:12.161Z,"5 km NNW of The Geysers, CA",earthquake,0.24,0.66,0.36,10,automatic,nc,nc
+2023-12-29T07:12:24.150Z,38.8191681,-122.7988358,3.25,0.31,md,17,54,0.009741,0.02,nc,nc73982356,2023-12-29T07:13:57.198Z,"6 km NW of The Geysers, CA",earthquake,0.27,0.58,0.18,19,automatic,nc,nc
+2023-12-29T07:12:17.310Z,38.8214989,-122.7959976,2.58,0.75,md,9,126,0.01116,0.01,nc,nc73982351,2023-12-29T07:13:52.147Z,"6 km NW of The Geysers, CA",earthquake,0.41,1.45,0.05,12,automatic,nc,nc
+2023-12-29T07:12:12.310Z,35.6394997,-117.5055008,9.29,1.02,ml,9,104,0.06357,0.24,ci,ci40452359,2023-12-29T07:14:30.597Z,"16 km E of Ridgecrest, CA",earthquake,1.4,1.95,0.071,3,automatic,ci,ci
+2023-12-29T07:11:38.290Z,38.8166656,-122.8011703,3.45,1.35,md,7,147,0.009671,0.01,nc,nc73982341,2023-12-29T07:15:53.465Z,"6 km NW of The Geysers, CA",earthquake,2.08,5.69,0.07,9,automatic,nc,nc
+2023-12-29T07:11:20.370Z,38.8226662,-122.7978363,3.26,0.64,md,8,104,0.01481,0.01,nc,nc73982336,2023-12-29T07:12:57.738Z,"6 km NW of The Geysers, CA",earthquake,0.61,2.94,0.17,6,automatic,nc,nc
+2023-12-29T07:11:03.390Z,38.8196678,-122.793335,3.32,2.39,md,29,34,0.01177,0.02,nc,nc73982326,2023-12-29T07:14:06.757Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.42,0.17,29,automatic,nc,nc
+2023-12-29T07:10:11.900Z,38.8146667,-122.7976685,1.72,3.53,ml,70,27,0.00694,0.07,nc,nc73982331,2023-12-29T07:16:08.137Z,"6 km NW of The Geysers, CA",earthquake,0.12,0.18,0.206,25,reviewed,nc,nc
+2023-12-29T07:09:29.790Z,38.8255005,-122.8105011,1.34,0.93,md,11,69,0.002129,0.01,nc,nc73982316,2023-12-29T07:11:06.838Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.64,0.26,12,automatic,nc,nc
+2023-12-29T06:58:59.203Z,65.1167,-148.6611,7.7,1.4,ml,,,,0.64,ak,ak023gog04zk,2023-12-29T07:00:34.985Z,"32 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-12-29T06:53:20.750Z,32.9266667,-116.28,10.6,1.19,ml,60,43,0.0341,0.21,ci,ci40452351,2023-12-29T07:04:20.160Z,"26 km ENE of Pine Valley, CA",earthquake,0.17,0.39,0.149,24,automatic,ci,ci
 2023-12-29T06:28:18.820Z,19.3705005645752,-155.27766418457,1.98000001907349,1.81,ml,20,64,,0.189999998,hv,hv73700232,2023-12-29T06:33:49.490Z,"9 km SSW of Volcano, Hawaii",earthquake,0.35,0.479999989,0.2,5,automatic,hv,hv
 2023-12-29T06:06:27.900Z,38.8256683,-122.8048325,2.51,1.18,md,26,35,0.004681,0.01,nc,nc73982306,2023-12-29T06:39:14.854Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.41,0.15,26,automatic,nc,nc
 2023-12-29T05:59:39.152Z,31.606,-104.103,4.8273,2.1,ml,17,71,0,0.2,tx,tx2023zlvz,2023-12-29T06:39:14.802Z,"43 km NW of Toyah, Texas",earthquake,0,1.3924495,0.2,13,automatic,tx,tx
@@ -276,5 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T07:44:53.596Z,61.5473,-151.5872,76.3,2.3,ml,,,,0.56,ak,ak023gmsz7n3,2023-12-28T07:47:07.169Z,"50 km SSW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-28T07:41:11.140Z,19.1604995727539,-155.481002807617,32.3300018310547,2.43,ml,52,116,,0.109999999,hv,hv73699027,2023-12-28T08:44:34.040Z,"4 km S of Pāhala, Hawaii",earthquake,0.45,0.560000002,3.79,10,automatic,hv,hv
 2023-12-28T07:40:27.271Z,62.2326,-148.2066,5,1.9,ml,,,,1.02,ak,ak023gmsyaqv,2023-12-28T07:42:19.606Z,"50 km NNE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-12-28T07:03:51.156Z,-6.8929,125.761,514.425,4.4,mb,21,80,6.262,0.42,us,us6000m04y,2023-12-28T07:25:52.040Z,"181 km N of Metinaro, Timor Leste",earthquake,13.69,11.869,0.149,15,reviewed,us,us
-2023-12-28T07:00:41.890Z,40.415,-125.2471667,10,3.75,ml,179,236,0.6969,0.27,nc,nc73981981,2023-12-28T10:41:11.510Z,"82 km W of Petrolia, CA",earthquake,0.92,31.61,0.18,90,reviewed,nc,nc
