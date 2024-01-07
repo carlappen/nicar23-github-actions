@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-07T22:19:02.670Z,38.8346672,-122.8081665,2.16,0.58,md,13,62,0.01135,0.01,nc,nc73986216,2024-01-07T22:20:36.607Z,"8 km W of Cobb, CA",earthquake,0.31,0.84,0.38,13,automatic,nc,nc
+2024-01-07T22:19:02.670Z,38.8346672,-122.8081665,2.16,0.58,md,13,62,0.01135,0.01,nc,nc73986216,2024-01-07T22:32:09.722Z,"8 km W of Cobb, CA",earthquake,0.31,0.84,0.38,13,automatic,nc,nc
 2024-01-07T21:54:25.700Z,35.3971667,-118.6541667,7.8,1.15,ml,17,81,0.1195,0.13,ci,ci40456647,2024-01-07T22:00:35.537Z,"26 km SW of Bodfish, CA",earthquake,0.21,1.06,0.135,8,automatic,ci,ci
 2024-01-07T21:50:10.674Z,56.9191,-155.691,22.2,2.8,ml,,,,0.58,ak,ak024bxk9sb,2024-01-07T21:56:49.040Z,"92 km W of Akhiok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-07T21:48:24.729Z,64.8667,-147.5997,2.1,1.7,ml,,,,0.83,ak,ak024bxjvfs,2024-01-07T22:04:37.351Z,"6 km ENE of Fairbanks, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -149,4 +149,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-06T22:36:36.525Z,38.1858,-117.8302,13,2.2,ml,10,116.57,0.122,0.2081,nn,nn00871396,2024-01-06T22:39:12.981Z,"33 km SE of Mina, Nevada",earthquake,,0.8,0.19,8,automatic,nn,nn
 2024-01-06T22:35:04.260Z,37.414,-118.4585,3.11,1.32,md,6,118,0.02808,0.05,nc,nc73985881,2024-01-07T02:01:10.135Z,"5 km NW of Dixon Lane-Meadow Creek, CA",earthquake,0.31,0.65,0.249,5,reviewed,nc,nc
 2024-01-06T22:35:00.346Z,31.666,-104.377,3.4692,1.6,ml,16,69,0,0.4,tx,tx2024akwf,2024-01-06T23:20:52.590Z,"56 km S of Whites City, New Mexico",earthquake,0,1.405210238,0.2,12,automatic,tx,tx
-2024-01-06T22:32:25.480Z,33.6266667,-116.8166667,0.19,0.79,ml,10,108,0.05483,0.28,ci,ci40456407,2024-01-06T22:38:54.792Z,"15 km SSE of Valle Vista, CA",earthquake,0.87,1.22,0.326,11,automatic,ci,ci
