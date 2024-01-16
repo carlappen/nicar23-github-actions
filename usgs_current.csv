@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-16T13:54:18.756Z,63.1912,-151.3379,0.1,1.5,ml,,,,0.49,ak,ak024qonsvn,2024-01-16T13:56:15.819Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-16T13:47:33.020Z,61.8015,-150.1372,2.3,1.6,ml,,,,0.55,ak,ak024qombyu,2024-01-16T13:50:04.558Z,"8 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-16T13:41:23.380Z,19.3024997711182,-155.410171508789,29.0200004577637,1.73,ml,37,106,,0.140000001,hv,hv73719527,2024-01-16T13:46:54.730Z,"13 km NNE of Pāhala, Hawaii",earthquake,0.51,0.75,3.33,4,automatic,hv,hv
 2024-01-16T13:38:06.902Z,63.2891,-150.2077,113.5,1.9,ml,,,,0.45,ak,ak024qokckj,2024-01-16T13:40:10.414Z,"63 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -189,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-15T14:26:32.960Z,18.9258333333333,-66.4213333333333,20.27,2.99,md,11,263,0.692,0.16,pr,pr71436938,2024-01-15T14:56:40.110Z,"51 km N of Brenas, Puerto Rico",earthquake,0.85,15.74,0.00865360634630208,4,reviewed,pr,pr
 2024-01-15T14:05:14.337Z,-23.0193,-66.5152,215.615,4.5,mb,51,43,1.535,1.28,us,us6000m3se,2024-01-15T14:21:25.040Z,"88 km WNW of El Aguilar, Argentina",earthquake,8.09,7.682,0.057,90,reviewed,us,us
 2024-01-15T14:04:35.327Z,4.3323,125.755,88.924,4.9,mb,35,79,2.725,1.04,us,us6000m3sf,2024-01-15T14:19:22.040Z,"122 km SSE of Sarangani, Philippines",earthquake,8.45,7.6,0.123,21,reviewed,us,us
-2024-01-15T14:02:18.030Z,33.1918333,-116.0618333,6.21,1.33,ml,62,45,0.07285,0.21,ci,ci40460095,2024-01-15T17:55:46.210Z,"8 km NE of Ocotillo Wells, CA",earthquake,0.15,0.64,0.117,26,reviewed,ci,ci
