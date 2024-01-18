@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-18T11:58:04.300Z,38.8243332,-122.7621689,1.18,0.72,md,11,130,0.01821,0.04,nc,nc73991061,2024-01-18T11:59:39.388Z,"3 km W of Cobb, CA",earthquake,0.33,0.73,0.41,11,automatic,nc,nc
 2024-01-18T11:49:17.697Z,62.1457,-148.4847,29.7,1.8,ml,,,,0.62,ak,ak024tyijzt,2024-01-18T11:51:20.311Z,"38 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-18T11:35:54.220Z,19.162166595459,-155.502838134766,37.689998626709,2.05999994,md,41,112,,0.109999999,hv,hv73720587,2024-01-18T11:39:05.500Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.59,0.850000024,0.460000008,9,automatic,hv,hv
 2024-01-18T11:30:17.680Z,19.1450004577637,-155.363494873047,26.7099990844727,1.75,md,27,225,,0.140000001,hv,hv73720577,2024-01-18T11:33:24.690Z,"13 km ESE of Pāhala, Hawaii",earthquake,1.09,0.970000029,1.90999997,4,automatic,hv,hv
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-17T12:17:48.830Z,38.8359985,-122.8188324,1.64,0.48,md,8,108,0.01326,0.01,nc,nc73990581,2024-01-17T14:55:12.927Z,"8 km W of Cobb, CA",earthquake,0.35,0.67,0.29,9,automatic,nc,nc
 2024-01-17T12:07:20.060Z,36.0953333333333,-84.2318333333333,4.15,2.24,md,11,96,0.2688,0.15,se,se60565436,2024-01-17T14:09:58.210Z,"9 km W of Clinton, Tennessee",earthquake,0.88,1.6,0.0641459218438767,9,reviewed,se,se
 2024-01-17T12:05:34.579Z,60.6526,-150.984,15,1.7,ml,,,,0.57,ak,ak024sbb8wh,2024-01-17T12:07:35.812Z,"14 km NNE of Ridgeway, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-17T12:03:43.190Z,37.973999,-122.4501648,15.41,1.19,md,4,184,0.18,0,nc,nc73990576,2024-01-17T14:27:14.738Z,"7 km E of San Rafael, CA",earthquake,2.12,4.39,0.16,2,automatic,nc,nc
