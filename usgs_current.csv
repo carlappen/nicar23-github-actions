@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-04T17:34:32.886Z,63.329,-151.1811,2.2,1.9,ml,,,,0.63,ak,ak0241m64vg8,2024-02-04T17:36:52.506Z,"35 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-02-04T17:28:08.376Z,59.9559,-151.3541,49.5,2.1,ml,,,,0.37,ak,ak0241m63j9h,2024-02-04T17:30:03.108Z,"20 km ESE of Ninilchik, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-02-04T17:08:06.945Z,60.9269,-150.3353,41.9,2.1,ml,,,,0.77,ak,ak0241m5z8ts,2024-02-04T17:10:25.074Z,"19 km E of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-02-04T16:58:25.890Z,19.3488330841064,-155.312164306641,2.07999992370605,2.07,ml,26,66,0.01676,0.180000007,hv,hv74094781,2024-02-04T17:03:05.230Z,"13 km SW of Volcano, Hawaii",earthquake,0.26,0.600000024,1.05,6,automatic,hv,hv
 2024-02-04T16:55:21.699Z,62.139,-152.1388,105.3,2,ml,,,,0.48,ak,ak0241m5nx0p,2024-02-04T16:57:25.762Z,"42 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -138,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-04T04:04:54.070Z,38.8269997,-122.7845001,1.19,1.33,md,15,50,0.01191,0.02,nc,nc73998406,2024-02-04T06:52:11.629Z,"5 km W of Cobb, CA",earthquake,0.24,0.45,0.29,15,automatic,nc,nc
 2024-02-04T04:04:30.196Z,35.55921936,-96.74459839,3.7625916,1.72,ml,22,66.62463379,0.02372007445,0.2930585024,ok,ok2024ckle,2024-02-04T04:19:50.590Z,"8 km SE of Sparks, Oklahoma",earthquake,2.920982619,2.410408411,0.37,4,automatic,ok,ok
 2024-02-04T04:04:03.430Z,38.7561684,-122.857666,3.3,1.33,md,22,204,0.01531,0.04,nc,nc73998401,2024-02-04T06:27:14.460Z,"9 km WSW of The Geysers, CA",earthquake,0.5,0.61,0.2,21,automatic,nc,nc
-2024-02-04T04:02:44.895Z,-19.3634,-69.5835,115.666,4.8,mww,77,109,0.476,1.06,us,us7000lwv3,2024-02-04T06:20:42.757Z,"17 km WSW of Camiña, Chile",earthquake,5.45,4.353,0.098,10,reviewed,us,us
+2024-02-04T04:02:44.895Z,-19.3634,-69.5835,115.666,4.8,mww,77,109,0.476,1.06,us,us7000lwv3,2024-02-04T17:36:43.357Z,"17 km WSW of Camiña, Chile",earthquake,5.45,4.353,0.098,10,reviewed,us,us
 2024-02-04T03:55:04.760Z,38.8306656,-122.8164978,1.56,0.81,md,19,52,0.008825,0.02,nc,nc73998396,2024-02-04T05:59:14.292Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.43,0.19,18,automatic,nc,nc
 2024-02-04T03:42:36.630Z,37.0513344,-121.515831,6.52,0.88,md,6,195,0.03604,0.09,nc,nc73998391,2024-02-04T03:59:12.573Z,"7 km NE of Gilroy, CA",earthquake,1.09,2.39,0.18,5,automatic,nc,nc
 2024-02-04T03:41:40.923Z,-21.5427,-68.411,147.626,4.1,mb,16,71,0.813,0.87,us,us7000lwv2,2024-02-04T03:55:56.040Z,"38 km SSW of Ollagüe, Chile",earthquake,7.58,9.824,0.262,4,reviewed,us,us
@@ -254,4 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-03T17:49:44.770Z,19.3776664733887,-155.293334960938,2.63000011444092,2.15,ml,6,194,0.01229,0.0799999982,hv,hv74092626,2024-02-03T17:54:22.560Z,"9 km SW of Volcano, Hawaii",earthquake,0.78,0.589999974,0.99,14,automatic,hv,hv
 2024-02-03T17:38:40.240Z,35.5235,-96.77983333,6.82,1.49,ml,72,35,0.03689276038,0.3,ok,ok2024cjqn,2024-02-04T07:35:10.379Z,"9 km WNW of Prague, Oklahoma",earthquake,,0.5,0.21,30,reviewed,ok,ok
 2024-02-03T17:37:07.430Z,57.058,-135.665333333333,6.8,-0.2,ml,4,150,,0.13,av,av91130293,2024-02-04T03:06:44.300Z,"20 km W of Sitka, Alaska",earthquake,1.31,0.82,0.181766621362864,4,reviewed,av,av
-2024-02-03T17:31:35.640Z,38.6896667,-122.48983,4.48,1.38,md,6,122,0.07247,0.03,nc,nc73998181,2024-02-03T19:05:11.398Z,"13 km ESE of Middletown, CA",earthquake,0.43,2.77,0.12,8,automatic,nc,nc
