@@ -181,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-04T13:53:14.580Z,33.914,-116.7371667,11.25,1.52,ml,83,30,0.03902,0.16,ci,ci40662432,2024-02-04T14:45:06.500Z,"5 km E of Cabazon, CA",earthquake,0.11,0.34,0.129,27,reviewed,ci,ci
 2024-02-04T13:51:45.040Z,19.3438339233398,-155.31233215332,2.71000003814697,2.31,ml,44,50,0.01336,0.159999996,hv,hv74094596,2024-02-04T13:56:25.530Z,"13 km SW of Volcano, Hawaii",earthquake,0.23,0.589999974,0.22,11,automatic,hv,hv
 2024-02-04T13:47:18.753Z,63.2701,-151.3676,7.8,1.8,ml,,,,0.3,ak,ak0241m3tw8z,2024-02-04T13:48:37.450Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-04T13:46:40.870Z,38.8139992,-122.8085022,1.06,0.79,md,10,100,0.009462,0.02,nc,nc73998526,2024-02-04T14:21:10.332Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.73,0.2,10,automatic,nc,nc
