@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-07T18:59:47.340Z,33.4944992,-116.4823303,14.97,1.02,ml,16,103,0.07484,0.14,ci,ci40663800,2024-02-07T19:01:59.725Z,"19 km ESE of Anza, CA",earthquake,0.41,0.96,0.123,6,automatic,ci,ci
 2024-02-07T18:20:56.740Z,19.3941669464111,-155.258834838867,1.55999994277954,1.75999999,md,12,74,0.01116,0.129999995,hv,hv74100406,2024-02-07T18:22:33.550Z,"5 km SSW of Volcano, Hawaii",earthquake,0.24,0.449999988,0.379999995,12,automatic,hv,hv
 2024-02-07T18:20:37.908Z,62.9463,-151.2217,106.7,1.2,ml,,,,0.31,ak,ak0241r59cwe,2024-02-07T18:23:20.462Z,"55 km NNW of Petersville, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-02-07T18:18:34.989Z,31.594,-104.513,3.3513,1.8,ml,14,147,0.1,0.2,tx,tx2024cqzw,2024-02-07T18:37:21.533Z,"65 km SSW of Whites City, New Mexico",earthquake,0,2.114524151,0.1,12,automatic,tx,tx
@@ -191,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-06T19:17:33.710Z,58.2696666666667,-154.990666666667,2.76,0.4,ml,8,135,,0.11,av,av92199321,2024-02-07T00:10:27.700Z,"84 km NNW of Karluk, Alaska",earthquake,0.26,0.38,0.236882538811721,8,reviewed,av,av
 2024-02-06T19:16:56.290Z,58.272,-154.998333333333,3.47,0.13,ml,8,133,,0.1,av,av91130783,2024-02-07T00:18:25.690Z,"84 km NNW of Karluk, Alaska",earthquake,0.25,0.66,0.239953323604279,8,reviewed,av,av
 2024-02-06T19:06:36.810Z,51.8631666666667,-177.863333333333,9.39,0.69,ml,4,212,,0.05,av,av91130793,2024-02-07T02:12:30.760Z,"84 km W of Adak, Alaska",earthquake,0.76,0.6,0.203111506937023,4,reviewed,av,av
-2024-02-06T18:59:05.610Z,19.3573341369629,-155.29866027832,-0.419999986886978,1.90999997,md,11,176,0.03279,0.109999999,hv,hv74098616,2024-02-06T19:00:39.500Z,"11 km SW of Volcano, Hawaii",earthquake,0.26,0.310000002,0.360000014,3,automatic,hv,hv
-2024-02-06T18:54:08.472Z,-26.2694,27.7156,5,3.2,mb_lg,9,132,2.284,0.63,us,us7000lxds,2024-02-07T10:44:29.303Z,"8 km NE of Westonaria, South Africa",earthquake,6.84,2.004,0.208,6,reviewed,us,us
