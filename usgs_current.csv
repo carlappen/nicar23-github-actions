@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-12T04:52:33.130Z,36.2244987,-120.2681656,11.22,1.64,md,15,193,0.0659,0.06,nc,nc74001496,2024-02-12T04:54:07.647Z,"12 km NE of Coalinga, CA",earthquake,0.63,0.46,0.17,8,automatic,nc,nc
+2024-02-12T04:52:33.130Z,36.2244987,-120.2681656,11.22,1.64,md,15,193,0.0659,0.06,nc,nc74001496,2024-02-12T05:03:10.763Z,"12 km NE of Coalinga, CA",earthquake,0.63,0.46,0.17,8,automatic,nc,nc
 2024-02-12T04:41:20.120Z,19.2733325958252,-155.379669189453,31.0699996948242,1.97000003,md,39,128,0.06001,0.129999995,hv,hv74107806,2024-02-12T04:43:02.170Z,"12 km NE of Pāhala, Hawaii",earthquake,0.49,0.720000029,0.469999999,10,automatic,hv,hv
 2024-02-12T04:33:41.070Z,19.1784992218018,-155.491668701172,32.6500015258789,1.70000005,md,31,138,0.03617,0.119999997,hv,hv74107791,2024-02-12T04:35:15.180Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.66,0.620000005,0.50999999,5,automatic,hv,hv
 2024-02-12T04:31:07.200Z,56.0521,-155.9842,58,2.8,ml,,,,0.33,ak,ak0241z6obeo,2024-02-12T04:33:28.098Z,"149 km SW of Akhiok, Alaska",earthquake,,5.3,,,automatic,ak,ak
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-11T05:20:21.260Z,19.1923332214355,-155.483001708984,31.7399997711182,2.37,ml,46,143,0.0417,0.150000006,hv,hv74106221,2024-02-11T05:25:01.990Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.56,0.74000001,0.19,3,automatic,hv,hv
 2024-02-11T05:20:09.240Z,19.2119998931885,-155.442337036133,35.310001373291,2.28,ml,39,185,0.05931,0.140000001,hv,hv74106211,2024-02-11T05:24:49.530Z,"3 km ENE of Pāhala, Hawaii",earthquake,0.83,0.75,0.72,4,automatic,hv,hv
 2024-02-11T05:14:55.066Z,31.611,-104.012,3.3762,1.9,ml,16,51,0,1.4,tx,tx2024cxib,2024-02-11T05:52:59.061Z,"38 km NNW of Toyah, Texas",earthquake,0,1.220788327,0.2,12,automatic,tx,tx
-2024-02-11T04:57:13.118Z,41.2877,78.7329,10,4.9,mb,49,71,1.237,0.75,us,us7000lyeh,2024-02-11T05:24:42.833Z,"123 km WNW of Aykol, China",earthquake,6.81,1.888,0.06,87,reviewed,us,us
