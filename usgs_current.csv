@@ -198,6 +198,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T04:08:42.970Z,44.7478333333333,-111.193,11.61,-0.35,md,8,118,0.003742,0.15,uu,uu80059696,2024-03-04T14:24:57.810Z,"2 km S of Hebgen Lake Estates, Montana",earthquake,0.65,0.9,0.0658126808085848,3,reviewed,uu,uu
 2024-03-04T04:06:51.872Z,59.9463,-139.6541,0,1.8,ml,,,,0.86,ak,ak0242xwtcbn,2024-03-04T04:10:21.371Z,"44 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-04T04:05:15.298Z,61.7037,-150.0292,2.9,1.7,ml,,,,0.35,ak,ak0242xwt1s9,2024-03-04T04:07:17.923Z,"4 km S of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-03-04T03:50:36.768Z,41.6168,81.1152,39.052,4.3,mb,48,84,1.488,0.63,us,us6000mgkx,2024-03-04T23:50:48.040Z,"84 km NE of Aksu, China",earthquake,7.5,9.11,0.096,31,reviewed,us,us
 2024-03-04T03:45:54.057Z,31.663,-104.508,4.9732,1.8,ml,16,138,0,0.4,tx,tx2024elkd,2024-03-04T04:06:49.363Z,"58 km SSW of Whites City, New Mexico",earthquake,0,1.59172902342927,0.2,13,automatic,tx,tx
 2024-03-04T03:44:55.330Z,17.9588333333333,-67.077,7.75,2.37,md,10,242,0.03293,0.11,pr,pr71441878,2024-03-04T04:01:57.610Z,"3 km WSW of La Parguera, Puerto Rico",earthquake,0.55,0.22,0.066545312979458,5,reviewed,pr,pr
 2024-03-04T03:44:53.010Z,38.8128319,-122.8264999,1.93,1.01,md,11,94,0.004477,0.02,nc,nc74011511,2024-03-04T03:46:28.752Z,"7 km WNW of The Geysers, CA",earthquake,0.31,0.62,0.26,14,automatic,nc,nc
@@ -240,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T00:12:38.902Z,64.9784,-147.3896,1.1,1.5,ml,,,,0.93,ak,ak0242xugv76,2024-03-04T00:14:36.296Z,"11 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-04T00:06:50.155Z,64.984,-147.366,1.2,1.2,ml,,,,0.84,ak,ak0242xuflsg,2024-03-04T00:09:13.117Z,"12 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-04T00:03:54.460Z,38.8366661,-122.7721634,-0.27,0.9,md,7,180,0.006431,0.02,nc,nc74011371,2024-03-04T00:05:30.777Z,"4 km WNW of Cobb, CA",earthquake,0.64,1,0.13,8,automatic,nc,nc
-2024-03-03T23:59:54.440Z,38.8370018,-122.7860031,4.41,1.04,md,12,110,0.00367,0.04,nc,nc74011366,2024-03-04T00:01:26.613Z,"6 km WNW of Cobb, CA",earthquake,0.56,1.54,0.25,16,automatic,nc,nc
-2024-03-03T23:52:52.824Z,-20.4637,-69.0606,97.754,4,mb,15,70,0.701,1.09,us,us6000mgjy,2024-03-04T00:06:50.040Z,"63 km ESE of La Tirana, Chile",earthquake,4.41,6.376,0.231,5,reviewed,us,us
