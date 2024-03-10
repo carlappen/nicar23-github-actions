@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-10T02:34:11.479Z,64.4862,-146.9014,4,1.5,ml,,,,0.48,ak,ak02437t0h0b,2024-03-10T02:35:56.132Z,"4 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-10T02:16:36.030Z,33.8251667,-116.1051667,2.77,0.89,ml,30,41,0.1009,0.15,ci,ci40684824,2024-03-10T02:22:54.977Z,"16 km NE of Indio, CA",earthquake,0.18,0.3,0.123,20,automatic,ci,ci
 2024-03-10T02:14:06.200Z,17.9838333333333,-66.7626666666667,12.72,2.49,md,15,153,0.04526,0.12,pr,pr71442638,2024-03-10T02:26:14.360Z,"3 km S of Magas Arriba, Puerto Rico",earthquake,0.48,0.3,0.206791001269437,8,reviewed,pr,pr
 2024-03-10T02:09:49.030Z,35.619,-117.9055,3.44,0.68,ml,24,58,0.1459,0.14,ci,ci40684816,2024-03-10T02:16:02.264Z,"9 km WSW of Inyokern, CA",earthquake,0.19,0.63,0.17,10,automatic,ci,ci
@@ -234,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-09T02:58:16.641Z,61.1037,-151.2305,28.9,1.9,ml,,,,0.29,ak,ak024365ma3k,2024-03-09T02:59:52.667Z,"6 km NW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-09T02:57:58.170Z,19.421667098999,-155.776168823242,43.7999992370605,2.09,ml,8,271,0.1075,0.159999996,hv,hv74132051,2024-03-09T03:00:38.020Z,"10 km ESE of Honaunau-Napoopoo, Hawaii",earthquake,5.01,3.91000009,0.53,3,automatic,hv,hv
 2024-03-09T02:57:56.750Z,19.3173332214355,-155.324340820312,2.35999989509583,2.35,ml,38,77,0.02633,0.239999995,hv,hv74132056,2024-03-09T03:00:42.100Z,"16 km SW of Volcano, Hawaii",earthquake,0.42,0.670000017,0.41,21,automatic,hv,hv
-2024-03-09T02:38:50.830Z,33.5226667,-116.7435,3.45,0.45,ml,29,52,0.04293,0.14,ci,ci40684128,2024-03-09T02:45:44.992Z,"7 km WSW of Anza, CA",earthquake,0.15,0.37,0.099,11,automatic,ci,ci
