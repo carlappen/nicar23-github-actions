@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-24T03:39:25.530Z,38.8448334,-122.8164978,1.39,0.99,md,14,61,0.01118,0.02,nc,nc74022981,2024-03-24T03:41:00.551Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.63,0.27,13,automatic,nc,nc
 2024-03-24T03:27:32.908Z,64.4831,-146.9329,6.3,1.5,ml,,,,0.28,ak,ak0243uz3b62,2024-03-24T03:29:17.567Z,"4 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-24T03:24:02.020Z,34.3763333,-118.6426667,10.31,1.43,ml,28,143,0.04014,0.23,ci,ci40523495,2024-03-24T03:30:48.820Z,"11 km SW of Valencia, CA",earthquake,0.32,0.62,0.212,29,automatic,ci,ci
 2024-03-24T03:20:57.640Z,38.7758331,-122.746666,1.83,1.07,md,16,64,0.01073,0.04,nc,nc74022966,2024-03-24T03:22:30.369Z,"1 km E of The Geysers, CA",earthquake,0.32,0.49,0.28,16,automatic,nc,nc
@@ -206,7 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-23T03:56:07.740Z,36.7416667,-121.3995,9.61,0.66,md,13,92,0.04435,0.12,nc,nc74022456,2024-03-23T10:26:13.754Z,"8 km SSW of Ridgemark, CA",earthquake,0.43,0.63,0.239,10,reviewed,nc,nc
 2024-03-23T03:50:17.152Z,61.8321,-148.3259,29.4,1.3,ml,,,,0.91,ak,ak0243tbouxf,2024-03-23T04:45:18.353Z,"8 km ENE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-03-23T03:45:31.363Z,41.1798,78.4663,10,4.4,mb,25,122,0.567,0.94,us,us6000mknb,2024-03-23T04:42:37.040Z,"134 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,4.5,1.947,0.156,12,reviewed,us,us
-2024-03-23T03:41:09.040Z,19.275333404541,-155.385498046875,30.6900005340576,1.90999997,md,32,125,0.05776,0.140000001,hv,hv74146672,2024-03-23T03:43:56.850Z,"12 km NE of Pāhala, Hawaii",earthquake,0.52,0.810000002,0.129999995,8,automatic,hv,hv
-2024-03-23T03:41:04.728Z,60.3812,-152.613,95.7,1,ml,,,,0.41,ak,ak0243tbmwiw,2024-03-23T03:43:12.270Z,"64 km NW of Ninilchik, Alaska",earthquake,,2,,,automatic,ak,ak
-2024-03-23T03:34:30.900Z,33.0465,-116.4153333,5.9,0.82,ml,32,43,0.03622,0.25,ci,ci40522743,2024-03-23T03:40:34.295Z,"18 km ESE of Julian, CA",earthquake,0.27,1.04,0.228,15,automatic,ci,ci
-2024-03-23T03:32:21.610Z,-27.5033,-112.9579,10,4.9,mb,34,264,3.153,1.06,us,us6000mkp7,2024-03-23T22:19:46.040Z,"Easter Island region",earthquake,15.83,2.013,0.104,29,reviewed,us,us
