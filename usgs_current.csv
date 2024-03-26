@@ -95,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-26T07:10:11.850Z,40.3916664,-122.1876678,15.76,2.44,md,7,173,0.1239,0.03,nc,nc74024201,2024-03-26T07:11:46.973Z,"11 km SE of Anderson, CA",earthquake,0.54,0.99,0.12,10,automatic,nc,nc
 2024-03-26T07:00:53.020Z,34.032,-117.1768333,12.48,0.92,ml,38,35,0.138,0.16,ci,ci40524607,2024-03-26T07:14:18.457Z,"3 km SSE of Redlands, CA",earthquake,0.2,0.65,0.194,24,automatic,ci,ci
 2024-03-26T06:57:48.764Z,-10.1308,161.0287,67.519,4.9,mb,48,81,1.268,0.87,us,us7000m818,2024-03-26T08:08:22.040Z,"104 km WNW of Kirakira, Solomon Islands",earthquake,10.44,7.538,0.056,102,reviewed,us,us
-2024-03-26T06:50:44.330Z,46.71049880981445,-122.42500305175781,14.9099998474121,2.564624786376953,ml,83,20,,0.100000001,uw,uw61992411,2024-03-26T08:54:12.040Z,"14 km SW of Alder, Washington",earthquake,0.14,0.819999993,0.2878605127334595,97,automatic,uw,uw
+2024-03-26T06:50:44.360Z,46.712666666666664,-122.422,13.99,2.38,ml,70,29,0.1458,0.13,uw,uw61992411,2024-03-26T16:02:36.822Z,"14 km SW of Alder, Washington",earthquake,0.19,0.79,0.16055052997612185,50,reviewed,uw,uw
 2024-03-26T06:48:28.520Z,33.6881667,-116.7943333,16.09,0.81,ml,34,64,0.07066,0.15,ci,ci40524591,2024-03-26T06:54:41.350Z,"9 km SW of Idyllwild, CA",earthquake,0.22,0.43,0.108,18,automatic,ci,ci
 2024-03-26T06:47:12.280Z,38.8375015,-122.7985001,2.27,0.91,md,14,70,0.006434,0.01,nc,nc74024196,2024-03-26T06:48:46.679Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.9,0.22,16,automatic,nc,nc
 2024-03-26T06:46:34.004Z,59.6785,-153.0938,116.2,2,ml,,,,0.27,ak,ak0243yc2dns,2024-03-26T06:48:25.204Z,"58 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -169,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-26T00:44:01.394Z,36.7719,-116.2498,9.2,-0.3,ml,6,223.95,0.038,0.0504,nn,nn00875358,2024-03-26T04:03:05.387Z,"47 km ESE of Beatty, Nevada",earthquake,,2.9,0.1,4,reviewed,nn,nn
 2024-03-26T00:43:14.699Z,36.7716,-116.2514,9.5,-0.1,ml,18,62.46,0.037,0.0802,nn,nn00875357,2024-03-26T03:59:58.355Z,"47 km ESE of Beatty, Nevada",earthquake,,1,0.31,8,reviewed,nn,nn
 2024-03-26T00:42:06.847Z,36.7749,-116.2505,8.9,-0.4,ml,9,97.74,0.04,0.0588,nn,nn00875356,2024-03-26T03:53:43.431Z,"47 km ESE of Beatty, Nevada",earthquake,,2.5,0.06,2,reviewed,nn,nn
-2024-03-26T00:40:59.433Z,36.7716,-116.2527,12.6,1.4,ml,28,41.34,0.048,0.1575,nn,nn00875341,2024-03-26T00:42:41.199Z,"47 km ESE of Beatty, Nevada",earthquake,,0.4,0.24,21,automatic,nn,nn
+2024-03-26T00:41:00.106Z,36.7695,-116.2537,10,1.4,ml,35,40.8,0.034,0.0955,nn,nn00875341,2024-03-26T15:59:26.131Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.27,17,reviewed,nn,nn
 2024-03-26T00:40:00.196Z,36.7739,-116.2521,9.4,-0.1,ml,13,74.32,0.039,0.0654,nn,nn00875355,2024-03-26T03:41:19.490Z,"47 km ESE of Beatty, Nevada",earthquake,,1.6,1.21,6,reviewed,nn,nn
 2024-03-26T00:38:38.896Z,64.6632,-150.8409,4.5,1.4,ml,,,,0.73,ak,ak0243y8g2oh,2024-03-26T00:40:30.973Z,"38 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-26T00:37:15.000Z,19.3253333333333,-155.502333333333,0.75,1.68,md,45,57,0.06305,0.14,hv,hv74149777,2024-03-26T02:09:03.820Z,"13 km N of Pāhala, Hawaii",earthquake,0.22,0.33,0.161422019833753,20,reviewed,hv,hv
