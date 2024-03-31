@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-31T03:33:06.340Z,38.8269997,-122.7968369,2.64,0.28,md,10,76,0.01095,0.01,nc,nc74026691,2024-03-31T03:34:39.633Z,"6 km W of Cobb, CA",earthquake,0.44,1.06,0.16,11,automatic,nc,nc
 2024-03-31T03:18:02.681Z,62.3599,-149.1287,2.3,1.9,ml,,,,0.5,ak,ak02446jsquk,2024-03-31T03:19:57.178Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-31T03:13:38.652Z,62.3681,-149.0837,16.9,1.6,ml,,,,0.45,ak,ak02446jrr1l,2024-03-31T03:16:03.397Z,"46 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-31T03:01:44.536Z,-19.9153,-175.9723,10,5.5,mww,39,93,1.441,1.02,us,us7000m90u,2024-03-31T03:24:31.681Z,"155 km NNW of Houma, Tonga",earthquake,10.41,1.885,0.089,12,reviewed,us,us
@@ -18,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-31T00:51:21.850Z,19.3863334655762,-155.279998779297,1.33000004291534,1.75999999,md,13,110,0.001632,0.119999997,hv,hv74155782,2024-03-31T00:52:46.730Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.230000004,0.319999993,10,automatic,hv,hv
 2024-03-31T00:49:50.960Z,38.8196678,-122.8251648,2.07,0.98,md,8,94,0.00844,0.01,nc,nc74026646,2024-03-31T00:51:27.929Z,"8 km NW of The Geysers, CA",earthquake,0.59,1.01,0.32,7,automatic,nc,nc
 2024-03-31T00:37:51.001Z,61.5112,-146.522,28.6,2.3,ml,,,,0.43,ak,ak02446i4md8,2024-03-31T00:53:19.040Z,"43 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-03-31T00:31:02.900Z,48.215333333333334,-121.84166666666667,11.78,1.3900000000000001,ml,20,67,0.06078,0.11,uw,uw61985352,2024-03-31T03:36:24.370Z,"8 km SE of Oso, Washington",earthquake,0.23,0.46,0.1023054842092509,10,reviewed,uw,uw
 2024-03-31T00:26:51.730Z,38.8328323,-122.8013306,2.3,1.04,md,15,60,0.01023,0.01,nc,nc74026636,2024-03-31T00:28:28.768Z,"7 km W of Cobb, CA",earthquake,0.27,0.55,0.2,15,automatic,nc,nc
 2024-03-31T00:25:36.089Z,63.2323,-150.932,0,2.2,ml,,,,1.28,ak,ak02446i20mg,2024-03-31T00:28:15.167Z,"52 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-31T00:25:15.252Z,39.043,70.8693,10,5,mb,102,83,0.842,0.8,us,us7000m90b,2024-03-31T00:43:22.040Z,"42 km E of Rasht, Tajikistan",earthquake,5.08,1.84,0.045,159,reviewed,us,us
