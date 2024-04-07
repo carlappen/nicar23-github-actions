@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-07T17:46:48.377Z,61.6413,-149.8679,33.6,1.8,ml,,,,0.35,ak,ak0244id2ccl,2024-04-07T17:48:39.842Z,"2 km WNW of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-04-07T17:46:18.833Z,-6.5508,103.9454,42.054,5.2,mb,88,34,2.388,0.86,us,us7000man4,2024-04-07T18:03:25.040Z,"191 km SW of Bandar Lampung, Indonesia",earthquake,3.31,6.341,0.047,146,reviewed,us,us
 2024-04-07T17:43:26.720Z,35.775,-117.5866667,1.37,0.74,ml,17,143,0.1398,0.15,ci,ci40706960,2024-04-07T17:49:10.943Z,"16 km W of Searles Valley, CA",earthquake,0.27,0.36,0.055,6,automatic,ci,ci
 2024-04-07T17:06:05.000Z,38.8338318,-122.8171692,1.79,0.25,md,8,87,0.0118,0.02,nc,nc74030846,2024-04-07T17:07:37.823Z,"8 km NW of The Geysers, CA",earthquake,0.4,1.27,0.16,9,automatic,nc,nc
 2024-04-07T16:56:12.450Z,38.8498344,-122.7805023,0.94,0.71,md,9,183,0.007901,0.02,nc,nc74030836,2024-04-07T16:57:47.725Z,"6 km WNW of Cobb, CA",earthquake,0.43,0.52,0.14,9,automatic,nc,nc
@@ -19,6 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-07T14:44:01.200Z,35.7683333,-117.5973333,4.63,1.17,ml,30,125,0.1301,0.15,ci,ci40706880,2024-04-07T14:53:56.929Z,"18 km W of Searles Valley, CA",earthquake,0.2,0.51,0.156,15,automatic,ci,ci
 2024-04-07T14:38:52.653Z,64.466,-146.8906,9.1,1.2,ml,,,,0.48,ak,ak0244ib8c4x,2024-04-07T14:40:41.348Z,"6 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-07T14:26:10.710Z,37.8520012,-121.7845001,19.02,1.79,md,20,164,0.1142,0.06,nc,nc74030781,2024-04-07T14:27:48.180Z,"10 km SSW of Brentwood, CA",earthquake,0.37,0.72,0.09,10,automatic,nc,nc
+2024-04-07T14:20:56.519Z,41.7235,82.5169,10,4.3,mb,19,116,2.535,1.02,us,us7000mam8,2024-04-07T18:00:14.040Z,"34 km W of Kuqa, China",earthquake,6.15,1.908,0.238,6,reviewed,us,us
 2024-04-07T14:12:31.230Z,38.8195,-122.8225021,2.08,1.07,md,15,74,0.01046,0.02,nc,nc74030776,2024-04-07T14:30:02.770Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.44,0.14,16,automatic,nc,nc
 2024-04-07T14:09:50.422Z,38.1999,-117.8642,4.4,1.6,ml,13,109.69,0.095,0.3404,nn,nn00875909,2024-04-07T14:12:42.615Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.27,8,automatic,nn,nn
 2024-04-07T13:53:35.771Z,40.6731,-74.7535,5,1.7,ml,9,217,0.685,0.32,us,us7000mamw,2024-04-07T17:41:30.636Z,"6 km NNE of Whitehouse Station, New Jersey",earthquake,3.63,2.006,0.128,8,reviewed,us,us
