@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-08T15:04:58.281Z,60.326,-147.369,8.5,1.7,ml,,,,0.46,ak,ak0244jz5ubo,2024-04-08T15:06:24.753Z,"45 km NE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-08T14:48:59.450Z,38.8069992,-122.7806702,3.58,0.77,md,7,162,0.006251,0.01,nc,nc74031291,2024-04-08T14:50:33.170Z,"4 km NNW of The Geysers, CA",earthquake,1.28,2.42,0.04,9,automatic,nc,nc
 2024-04-08T14:42:07.960Z,38.8305016,-122.8184967,1.51,1.12,md,16,68,0.009677,0.02,nc,nc74031286,2024-04-08T14:43:43.119Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.59,0.2,17,automatic,nc,nc
 2024-04-08T14:24:46.498Z,-23.3957,-179.7716,529.808,4.9,mb,48,101,4.775,0.96,us,us7000mas0,2024-04-08T14:44:10.040Z,"south of the Fiji Islands",earthquake,13.75,10.067,0.075,55,reviewed,us,us
@@ -165,5 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-07T15:35:13.838Z,40.6568,-74.7305,5,2.2,mb_lg,24,109,0.673,0.45,us,us7000mamj,2024-04-08T13:36:03.283Z,"5 km NE of Whitehouse Station, New Jersey",earthquake,1.43,1.901,0.255,4,reviewed,us,us
 2024-04-07T15:26:10.879Z,56.1095,-157.6076,26.7,2.2,ml,,,,0.25,ak,ak0244ibr3xb,2024-04-07T15:28:54.042Z,"53 km ESE of Chignik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-07T15:23:04.306Z,62.3763,-149.1195,17.5,1.4,ml,,,,0.41,ak,ak0244ibqg9q,2024-04-07T15:25:28.540Z,"44 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-07T14:57:33.530Z,35.685,-117.5373333,3.23,0.91,ml,27,106,0.09462,0.14,ci,ci40706888,2024-04-07T15:03:22.848Z,"14 km ENE of Ridgecrest, CA",earthquake,0.21,0.81,0.153,9,automatic,ci,ci
-2024-04-07T14:57:18.321Z,-8.9552,118.6522,20.211,4.9,mb,38,62,4.475,1.12,us,us7000mamb,2024-04-07T15:14:57.040Z,"50 km SSE of Dompu, Indonesia",earthquake,8.36,4.218,0.102,30,reviewed,us,us
