@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-15T05:15:31.929Z,60.5637,-152.0493,250,0.7,ml,,,,0.73,ak,ak0244ve18ko,2024-04-15T05:18:25.800Z,"40 km W of Salamatof, Alaska",earthquake,,6.5,,,automatic,ak,ak
 2024-04-15T04:55:45.734Z,63.0785,-149.4735,80.4,1.3,ml,,,,0.53,ak,ak0244vdoeod,2024-04-15T04:57:42.223Z,"43 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-15T04:50:12.462Z,59.3813,-151.5049,16.2,2,ml,,,,0.77,ak,ak0244vdn9j2,2024-04-15T04:52:21.223Z,"13 km ESE of Seldovia, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-15T04:11:00.370Z,36.001667,-120.5601654,2.06,1.24,md,11,90,0.0206,0.06,nc,nc74034546,2024-04-15T04:12:33.584Z,"16 km NW of Parkfield, CA",earthquake,0.29,0.71,0.1,5,automatic,nc,nc
@@ -27,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-15T01:05:03.430Z,38.8251648,-122.8088303,2.75,1.26,md,25,36,0.002017,0.01,nc,nc74034471,2024-04-15T01:14:30.779Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.41,0.16,25,automatic,nc,nc
 2024-04-15T00:48:09.749Z,60.758,-151.3212,25.1,1.3,ml,,,,0.67,ak,ak0244vb93gu,2024-04-15T01:02:03.088Z,"7 km NNW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-15T00:44:19.230Z,33.917,-116.7988333,9.71,0.91,ml,28,56,0.08321,0.34,ci,ci40712944,2024-04-15T00:50:23.986Z,"1 km W of Cabazon, CA",earthquake,0.42,1.29,0.121,21,automatic,ci,ci
+2024-04-15T00:42:27.295Z,59.5532,-153.1468,100.8,1.5,ml,,,,0.25,ak,ak0244vb7uvl,2024-04-15T05:17:44.943Z,"60 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-04-15T00:31:29.270Z,38.8371658,-122.8223343,0.06,1.04,md,20,60,0.01037,0.03,nc,nc74034466,2024-04-15T00:33:04.841Z,"9 km W of Cobb, CA",earthquake,0.17,0.44,0.11,22,automatic,nc,nc
 2024-04-15T00:02:56.240Z,38.8626671,-122.5904999,1.63,0.89,md,5,206,0.1391,0.05,nc,nc74034456,2024-04-15T00:04:30.528Z,"6 km SSE of Lower Lake, CA",earthquake,3.48,9.15,0.08,5,automatic,nc,nc
 2024-04-14T23:55:46.070Z,38.8373337,-122.8231659,1.69,1.03,md,20,81,0.009704,0.02,nc,nc74034451,2024-04-14T23:57:19.553Z,"9 km W of Cobb, CA",earthquake,0.22,0.43,0.1,21,automatic,nc,nc
@@ -48,6 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-14T22:10:33.780Z,33.993,-118.6368333,11.16,1.63,ml,32,132,0.09584,0.2,ci,ci40712912,2024-04-14T22:17:20.923Z,"5 km S of Las Flores, CA",earthquake,0.37,0.43,0.21,29,automatic,ci,ci
 2024-04-14T21:41:14.500Z,62.4699,-149.9881,11.4,1.9,ml,,,,0.83,ak,ak0244u06d16,2024-04-14T21:43:17.129Z,"6 km ENE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-14T21:22:19.170Z,36.958168,-121.4300003,10.81,1.1,md,7,179,0.08901,0.07,nc,nc74034356,2024-04-14T21:23:54.990Z,"13 km NNW of Hollister, CA",earthquake,0.73,1.94,0.13,4,automatic,nc,nc
+2024-04-14T21:18:23.386Z,58.5572,-153.8503,88.8,1.7,ml,,,,0.25,ak,ak0244u01ev7,2024-04-15T05:09:11.391Z,"78 km NW of Aleneva, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2024-04-14T21:17:58.400Z,19.2121658325195,-155.368667602539,32.8800010681152,2.08999991,md,37,175,0.1017,0.100000001,hv,hv74171787,2024-04-14T21:19:30.770Z,"11 km E of Pāhala, Hawaii",earthquake,0.5,0.579999983,0.150000006,11,automatic,hv,hv
 2024-04-14T21:10:26.700Z,31.582,-104.541,3.7207,1.8,ml,16,159,0.1,0.2,tx,tx2024hjqf,2024-04-14T21:54:25.388Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.11605241478396,0.1,12,automatic,tx,tx
 2024-04-14T21:06:06.383Z,60.5041,-152.6632,113.8,1.1,ml,,,,0.65,ak,ak0244tzyueq,2024-04-14T21:08:47.373Z,"74 km NW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -193,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-14T05:31:49.869Z,19.8735,121.4726,42.997,4.8,mb,77,110,2.952,0.75,us,us7000mc02,2024-04-14T06:51:01.040Z,"82 km SW of Basco, Philippines",earthquake,10.22,7.346,0.05,124,reviewed,us,us
 2024-04-14T05:28:47.838Z,7.5704,-37.1644,10,5.3,mww,61,85,13.368,1.09,us,us7000mc01,2024-04-14T05:57:59.040Z,"central Mid-Atlantic Ridge",earthquake,10.91,1.893,0.089,12,reviewed,us,us
 2024-04-14T05:28:09.464Z,11.8407,-86.3356,108.99,4.2,mb,64,158,0.318,0.61,us,us7000mc00,2024-04-14T15:57:22.002Z,"8 km NNE of El Rosario, Nicaragua",earthquake,9.33,9.641,0.079,45,reviewed,us,us
-2024-04-14T05:07:01.625Z,31.632,-104.271,4.1169,1.7,ml,15,69,0,0.2,tx,tx2024hikl,2024-04-14T05:24:09.339Z,"57 km NW of Toyah, Texas",earthquake,0,1.3862345535202,0.2,13,automatic,tx,tx
