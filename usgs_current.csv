@@ -204,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-10T14:19:12.339Z,-20.5122,-173.7243,10,4.8,mb,25,126,1.531,1,us,us6000mxqn,2024-05-10T14:38:27.040Z,"101 km SE of Pangai, Tonga",earthquake,6.44,1.899,0.139,19,reviewed,us,us
 2024-05-10T14:13:52.739Z,62.4398,-151.1053,1,2.7,ml,,,,0.74,ak,ak02460vtfk8,2024-05-10T16:51:50.953Z,"18 km WSW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-10T14:10:28.810Z,19.33,-155.112333333333,6.29,2.7,ml,56,132,0.04667,0.13,hv,hv74226407,2024-05-10T20:06:20.760Z,"15 km S of Fern Forest, Hawaii",earthquake,0.3,0.35,0.221299285082458,34,reviewed,hv,hv
-2024-05-10T14:05:07.252Z,37.4781,-116.7012,0,1.4,ml,18,138.25,0.28,0.1589,nn,nn00877386,2024-05-10T16:04:28.081Z,"53 km ESE of Goldfield, Nevada",earthquake,,0,0.25,10,reviewed,nn,nn
-2024-05-10T14:00:01.080Z,35.7346667,-117.5328333,6.14,0.98,ml,26,130,0.1127,0.16,ci,ci40744416,2024-05-10T19:41:14.660Z,"12 km WSW of Searles Valley, CA",earthquake,0.27,0.98,0.087,10,reviewed,ci,ci
