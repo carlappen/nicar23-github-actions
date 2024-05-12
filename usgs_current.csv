@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-12T15:34:38.760Z,38.8018341064453,-122.819831848145,3.67000007629395,0.59,md,8,101,0.01013,0.02,nc,nc75005511,2024-05-12T15:36:15.903Z,"6 km NW of The Geysers, CA",earthquake,0.58,1.63999999,0.29,9,automatic,nc,nc
 2024-05-12T15:05:51.280Z,19.16233253479,-155.481338500977,27.5100002288818,2.07999992,md,30,162,0.1513,0.129999995,hv,hv74228952,2024-05-12T15:07:36.160Z,"4 km S of Pāhala, Hawaii",earthquake,0.83,1.32000005,0.0900000036,3,automatic,hv,hv
 2024-05-12T15:05:33.390Z,33.172,-116.0981667,10.09,1.53,ml,26,163,0.06071,0.17,ci,ci40746600,2024-05-12T15:14:40.908Z,"4 km NE of Ocotillo Wells, CA",earthquake,0.84,1.31,0.201,29,automatic,ci,ci
 2024-05-12T15:05:33.350Z,33.1648333,-116.0978333,10.21,1.55,ml,63,27,0.05948,0.19,ci,ci40746592,2024-05-12T15:16:47.530Z,"4 km NE of Ocotillo Wells, CA",earthquake,0.14,0.37,0.195,29,automatic,ci,ci
